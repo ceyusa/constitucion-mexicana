@@ -34,8 +34,8 @@ Microsoft Word, que no resulta amigable para llevar un registro de cambios en
 un servidor de versiones.
 
 Entonces escribí un simplísimo script en bash que descarga dicho documento y
-lo convierte en formato RST ((reStructured Text
-Markup)[http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html]),
+lo convierte en formato RST ( [reStructured Text
+Markup](http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html) ),
 que es mucho más propicio para esto fines.
 
 
@@ -43,7 +43,7 @@ que es mucho más propicio para esto fines.
 =======================
 
 
-   $ ./scripts/import.sh [url]
+    $ ./scripts/import.sh [url]
 
 
 El script tiene la siguiente dependencias:
