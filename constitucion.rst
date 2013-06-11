@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 26-02-2013
+Última reforma publicada DOF 05-06-2013
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
@@ -1272,13 +1272,16 @@ Los actos religiosos de culto público se celebrarán ordinariamente en
 los templos. Los que extraordinariamente se celebren fuera de éstos se
 sujetarán a la ley reglamentaria.
 
-**Artículo 25.** Corresponde al Estado la rectoría del desarrollo
+**Artículo 25**. Corresponde al Estado la rectoría del desarrollo
 nacional para garantizar que éste sea integral y sustentable, que
 fortalezca la Soberanía de la Nación y su régimen democrático y que,
-mediante el fomento del crecimiento económico y el empleo y una más
-justa distribución del ingreso y la riqueza, permita el pleno ejercicio
-de la libertad y la dignidad de los individuos, grupos y clases
-sociales, cuya seguridad protege esta Constitución.
+mediante la competitividad, el fomento del crecimiento económico y el
+empleo y una más justa distribución del ingreso y la riqueza, permita el
+pleno ejercicio de la libertad y la dignidad de los individuos, grupos y
+clases sociales, cuya seguridad protege esta Constitución. La
+competitividad se entenderá como el conjunto de condiciones necesarias
+para generar un mayor crecimiento económico, promoviendo la inversión y
+la generación de empleo.
 
 El Estado planeará, conducirá, coordinará y orientará la actividad
 económica nacional, y llevará al cabo la regulación y fomento de las
@@ -1314,15 +1317,18 @@ distribución y consumo de bienes y servicios socialmente necesarios.
 
 La ley alentará y protegerá la actividad económica que realicen los
 particulares y proveerá las condiciones para que el desenvolvimiento del
-sector privado contribuya al desarrollo económico nacional, en los
-términos que establece esta Constitución.
+sector privado contribuya al desarrollo económico nacional, promoviendo
+la competitividad e implementando una política nacional para el
+desarrollo industrial que incluya vertientes sectoriales y regionales,
+en los términos que establece esta Constitución.
 
 Artículo 26.
 
 **A.** El Estado organizará un sistema de planeación democrática del
-desarrollo nacional que imprima solidez, dinamismo, permanencia y
-equidad al crecimiento de la economía para la independencia y la
-democratización política, social y cultural de la Nación.
+desarrollo nacional que imprima solidez, dinamismo, competitividad,
+permanencia y equidad al crecimiento de la economía para la
+independencia y la democratización política, social y cultural de la
+nación.
 
 Los fines del proyecto nacional contenidos en esta Constitución
 determinarán los objetivos de la planeación. La planeación será
@@ -1339,7 +1345,10 @@ control y evaluación del plan y los programas de desarrollo. Asimismo,
 determinará los órganos responsables del proceso de planeación y las
 bases para que el Ejecutivo Federal coordine mediante convenios con los
 gobiernos de las entidades federativas e induzca y concierte con los
-particulares las acciones a realizar para su elaboración y ejecución.
+particulares las acciones a realizar para su elaboración y ejecución. El
+plan nacional de desarrollo considerará la continuidad y adaptaciones
+necesarias de la política nacional para el desarrollo industrial, con
+vertientes sectoriales y regionales.
 
 En el sistema de planeación democrática, el Congreso de la Unión tendrá
 la intervención que señale la ley.
@@ -7435,10 +7444,12 @@ Lo que hónrome en comunicar a usted para su publicación y demás efectos.
 Constitución y Reformas.- México, cinco de febrero de mil novecientos
 diez y siete.- AGUIRRE BERLANGA.
 
-Al Ciudadano ……
-
+Al Ciudadano ……\ **
 **
-** |image8|
+
+.. figure:: ../ima/h_line.gif
+   :align: center
+   :alt:
 
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
@@ -10633,6 +10644,39 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinticinco de febrero de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.\ **
+**
+
+DECRETO por el que se reforman los párrafos primero y último del
+artículo 25, así como el párrafo primero y tercero del apartado A del
+artículo 26 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 5 de junio de 2013
+
+**ARTÍCULO ÚNICO**.- Se reforman los párrafos primero y último del
+artículo 25, así como el párrafo primero y tercero del apartado A del
+artículo 26, ambos de la Constitución Política de los Estados Unidos
+Mexicanos, para quedar como sigue:
+
+………
+
+TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El Ejecutivo Federal tendrá un plazo de 16 meses para
+iniciar las leyes reglamentarias pertinentes a la presente reforma.
+
+México, D.F., a 15 de mayo de 2013.- Sen. **Ernesto Cordero Arroyo**,
+Presidente.- Dip. **Cristina González Cruz**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+treinta y uno de mayo de dos mil trece.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
 .. figure:: ../ima/h_line.gif
@@ -10643,11 +10687,7 @@ Rúbrica.
 
 **Secretaría de Servicios Parlamentarios**
 
-**Dirección General de Servicios de Documentación, Información y
-Análisis**
-
- Tel. 50 36 00 00 y del interior de la República Lada sin costo
-01-800-122 62 72, **Ext. 67004 y 67003**
+**Tel. 5628-1300, Ext. 2045 y 2148**
 
 **Correo electrónico:
 `armando.torres@congreso.gob.mx <mailto:armando.torres@congreso.gob.mx>`_**
@@ -10664,4 +10704,3 @@ Análisis**
 .. |image5| image:: ../ima/bt_mensaj_f1.gif
 .. |image6| image:: ../ima/aumentar.gif
 .. |image7| image:: ../ima/disminuir.gif
-.. |image8| image:: ../ima/h_line.gif
