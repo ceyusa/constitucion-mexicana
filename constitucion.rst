@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 05-06-2013
+Última reforma publicada DOF 11-06-2013
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
@@ -538,14 +538,28 @@ civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
 **Artículo 6o.** La manifestación de las ideas no será objeto de ninguna
 inquisición judicial o administrativa, sino en el caso de que ataque a
-la moral, los derechos de tercero, provoque algún delito, o perturbe el
-orden público; el derecho de réplica será ejercido en los términos
-dispuestos por la ley. El derecho a la información será garantizado por
-el Estado.
+la moral, la vida privada o los derechos de terceros, provoque algún
+delito, o perturbe el orden público; el derecho de réplica será ejercido
+en los términos dispuestos por la ley. El derecho a la información será
+garantizado por el Estado.
 
-Para el ejercicio del derecho de acceso a la información, la Federación,
-los Estados y el Distrito Federal, en el ámbito de sus respectivas
-competencias, se regirán por los siguientes principios y bases:
+Toda persona tiene derecho al libre acceso a información plural y
+oportuna, así como a buscar, recibir y difundir información e ideas de
+toda índole por cualquier medio de expresión.
+
+El Estado garantizará el derecho de acceso a las tecnologías de la
+información y comunicación, así como a los servicios de radiodifusión y
+telecomunicaciones, incluido el de banda ancha e internet. Para tales
+efectos, el Estado establecerá condiciones de competencia efectiva en la
+prestación de dichos servicios.
+
+Para efectos de lo dispuesto en el presente artículo se observará lo
+siguiente:
+
+**A.** Para el ejercicio del derecho de acceso a la información, la
+Federación, los Estados y el Distrito Federal, en el ámbito de sus
+respectivas competencias, se regirán por los siguientes principios y
+bases:
 
 **I.** Toda la información en posesión de cualquier autoridad, entidad,
 órgano y organismo federal, estatal y municipal, es pública y sólo podrá
@@ -580,18 +594,86 @@ que entreguen a personas físicas o morales.
 información pública será sancionada en los términos que dispongan las
 leyes.
 
-**Artículo 7o.** Es inviolable la libertad de escribir y publicar
-escritos sobre cualquiera materia. Ninguna ley ni autoridad puede
-establecer la previa censura, ni exigir fianza a los autores o
-impresores, ni coartar la libertad de imprenta, que no tiene más límites
-que el respeto a la vida privada, a la moral y a la paz pública. En
-ningún caso podrá secuestrarse la imprenta como instrumento del delito.
+**B.** En materia de radiodifusión y telecomunicaciones:
 
-Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para
-evitar que so pretexto de las denuncias por delito de prensa, sean
-encarcelados los expendedores, “papeleros”, operarios y demás empleados
-del establecimiento donde haya salido el escrito denunciado, a menos que
-se demuestre previamente la responsabilidad de aquéllos.
+**I.** El Estado garantizará a la población su integración a la sociedad
+de la información y el conocimiento, mediante una política de inclusión
+digital universal con metas anuales y sexenales.
+
+**II.** Las telecomunicaciones son servicios públicos de interés
+general, por lo que el Estado garantizará que sean prestados en
+condiciones de competencia, calidad, pluralidad, cobertura universal,
+interconexión, convergencia, continuidad, acceso libre y sin injerencias
+arbitrarias.
+
+**III.** La radiodifusión es un servicio público de interés general, por
+lo que el Estado garantizará que sea prestado en condiciones de
+competencia y calidad y brinde los beneficios de la cultura a toda la
+población, preservando la pluralidad y la veracidad de la información,
+así como el fomento de los valores de la identidad nacional,
+contribuyendo a los fines establecidos en el artículo 3o. de esta
+Constitución.
+
+**IV.** Se prohíbe la transmisión de publicidad o propaganda presentada
+como información periodística o noticiosa; se establecerán las
+condiciones que deben regir los contenidos y la contratación de los
+servicios para su transmisión al público, incluidas aquellas relativas a
+la responsabilidad de los concesionarios respecto de la información
+transmitida por cuenta de terceros, sin afectar la libertad de expresión
+y de difusión.
+
+**V.** La ley establecerá un organismo público descentralizado con
+autonomía técnica, operativa, de decisión y de gestión, que tendrá por
+objeto proveer el servicio de radiodifusión sin fines de lucro, a efecto
+de asegurar el acceso al mayor número de personas en cada una de las
+entidades de la Federación, a contenidos que promuevan la integración
+nacional, la formación educativa, cultural y cívica, la igualdad entre
+mujeres y hombres, la difusión de información imparcial, objetiva,
+oportuna y veraz del acontecer nacional e internacional, y dar espacio a
+las obras de producción independiente, así como a la expresión de la
+diversidad y pluralidad de ideas y opiniones que fortalezcan la vida
+democrática de la sociedad.
+
+El organismo público contará con un Consejo Ciudadano con el objeto de
+asegurar su independencia y una política editorial imparcial y objetiva.
+Será integrado por nueve consejeros honorarios que serán elegidos
+mediante una amplia consulta pública por el voto de dos terceras partes
+de los miembros presentes de la Cámara de Senadores o, en sus recesos,
+de la Comisión Permanente. Los consejeros desempeñarán su encargo en
+forma escalonada, por lo que anualmente serán sustituidos los dos de
+mayor antigüedad en el cargo, salvo que fuesen ratificados por el Senado
+para un segundo periodo.
+
+El Presidente del organismo público será designado, a propuesta del
+Ejecutivo Federal, con el voto de dos terceras partes de los miembros
+presentes de la Cámara de Senadores o, en sus recesos, de la Comisión
+Permanente; durará en su encargo cinco años, podrá ser designado para un
+nuevo periodo por una sola vez, y sólo podrá ser removido por el Senado
+mediante la misma mayoría.
+
+El Presidente del organismo presentará anualmente a los Poderes
+Ejecutivo y Legislativo de la Unión un informe de actividades; al efecto
+comparecerá ante las Cámaras del Congreso en los términos que dispongan
+las leyes.
+
+**VI.** La ley establecerá los derechos de los usuarios de
+telecomunicaciones, de las audiencias, así como los mecanismos para su
+protección.
+
+**Artículo 7o.** Es inviolable la libertad de difundir opiniones,
+información e ideas, a través de cualquier medio. No se puede restringir
+este derecho por vías o medios indirectos, tales como el abuso de
+controles oficiales o particulares, de papel para periódicos, de
+frecuencias radioeléctricas o de enseres y aparatos usados en la
+difusión de información o por cualesquiera otros medios y tecnologías de
+la información y comunicación encaminados a impedir la transmisión y
+circulación de ideas y opiniones.
+
+Ninguna ley ni autoridad puede establecer la previa censura, ni coartar
+la libertad de difusión, que no tiene más límites que los previstos en
+el primer párrafo del artículo 6o. de esta Constitución. En ningún caso
+podrán secuestrarse los bienes utilizados para la difusión de
+información, opiniones e ideas, como instrumento del delito.
 
 **Artículo 8o.** Los funcionarios y empleados públicos respetarán el
 ejercicio del derecho de petición, siempre que ésta se formule por
@@ -1467,24 +1549,25 @@ el aprovechamiento de los recursos de que se trata, por los particulares
 o por sociedades constituidas conforme a las leyes mexicanas, no podrá
 realizarse sino mediante concesiones, otorgadas por el Ejecutivo
 Federal, de acuerdo con las reglas y condiciones que establezcan las
-leyes. Las normas legales relativas a obras o trabajos de explotación de
-los minerales y substancias a que se refiere el párrafo cuarto,
-regularán la ejecución y comprobación de los que se efectúen o deban
-efectuarse a partir de su vigencia, independientemente de la fecha de
-otorgamiento de las concesiones, y su inobservancia dará lugar a la
-cancelación de éstas. El Gobierno Federal tiene la facultad de
-establecer reservas nacionales y suprimirlas. Las declaratorias
-correspondientes se harán por el Ejecutivo en los casos y condiciones
-que las leyes prevean. Tratándose del petróleo y de los carburos de
-hidrógeno sólidos, líquidos o gaseosos o de minerales radioactivos, no
-se otorgarán concesiones ni contratos, ni subsistirán los que en su caso
-se hayan otorgado y la Nación llevará a cabo la explotación de esos
-productos, en los términos que señale la Ley Reglamentaria respectiva.
-Corresponde exclusivamente a la Nación generar, conducir, transformar,
-distribuir y abastecer energía eléctrica que tenga por objeto la
-prestación de servicio público. En esta materia no se otorgarán
-concesiones a los particulares y la Nación aprovechará los bienes y
-recursos naturales que se requieran para dichos fines.
+leyes, salvo en radiodifusión y telecomunicaciones, que serán otorgadas
+por el Instituto Federal de Telecomunicaciones. Las normas legales
+relativas a obras o trabajos de explotación de los minerales y
+substancias a que se refiere el párrafo cuarto, regularán la ejecución y
+comprobación de los que se efectúen o deban efectuarse a partir de su
+vigencia, independientemente de la fecha de otorgamiento de las
+concesiones, y su inobservancia dará lugar a la cancelación de éstas. El
+Gobierno Federal tiene la facultad de establecer reservas nacionales y
+suprimirlas. Las declaratorias correspondientes se harán por el
+Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose
+del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos
+o de minerales radioactivos, no se otorgarán concesiones ni contratos,
+ni subsistirán los que en su caso se hayan otorgado y la Nación llevará
+a cabo la explotación de esos productos, en los términos que señale la
+Ley Reglamentaria respectiva. Corresponde exclusivamente a la Nación
+generar, conducir, transformar, distribuir y abastecer energía eléctrica
+que tenga por objeto la prestación de servicio público. En esta materia
+no se otorgarán concesiones a los particulares y la Nación aprovechará
+los bienes y recursos naturales que se requieran para dichos fines.
 
 Corresponde también a la Nación el aprovechamiento de los combustibles
 nucleares para la generación de energía nuclear y la regulación de sus
@@ -1787,8 +1870,8 @@ pocas manos de artículos de consumo necesario y que tenga por objeto
 obtener el alza de los precios; todo acuerdo, procedimiento o
 combinación de los productores, industriales, comerciantes o empresarios
 de servicios, que de cualquier manera hagan, para evitar la libre
-concurrencia o la competencia entre sí y obligar a los consumidores a
-pagar precios exagerados y, en general, todo lo que constituya una
+concurrencia o la competencia entre sí o para obligar a los consumidores
+a pagar precios exagerados y, en general, todo lo que constituya una
 ventaja exclusiva indebida a favor de una o varias personas determinadas
 y con perjuicio del público en general o de alguna clase social.
 
@@ -1880,6 +1963,257 @@ Se podrán otorgar subsidios a actividades prioritarias, cuando sean
 generales, de carácter temporal y no afecten sustancialmente las
 finanzas de la Nación. El Estado vigilará su aplicación y evaluará los
 resultados de ésta.
+
+El Estado contará con una Comisión Federal de Competencia Económica, que
+será un órgano autónomo, con personalidad jurídica y patrimonio propio,
+que tendrá por objeto garantizar la libre competencia y concurrencia,
+así como prevenir, investigar y combatir los monopolios, las prácticas
+monopólicas, las concentraciones y demás restricciones al funcionamiento
+eficiente de los mercados, en los términos que establecen esta
+Constitución y las leyes. La Comisión contará con las facultades
+necesarias para cumplir eficazmente con su objeto, entre ellas las de
+ordenar medidas para eliminar las barreras a la competencia y la libre
+concurrencia; regular el acceso a insumos esenciales, y ordenar la
+desincorporación de activos, derechos, partes sociales o acciones de los
+agentes económicos, en las proporciones necesarias para eliminar efectos
+anticompetitivos.
+
+El Instituto Federal de Telecomunicaciones es un órgano autónomo, con
+personalidad jurídica y patrimonio propio, que tiene por objeto el
+desarrollo eficiente de la radiodifusión y las telecomunicaciones,
+conforme a lo dispuesto en esta Constitución y en los términos que fijen
+las leyes. Para tal efecto, tendrá a su cargo la regulación, promoción y
+supervisión del uso, aprovechamiento y explotación del espectro
+radioeléctrico, las redes y la prestación de los servicios de
+radiodifusión y telecomunicaciones, así como del acceso a
+infraestructura activa, pasiva y otros insumos esenciales, garantizando
+lo establecido en los artículos 6o. y 7o. de esta Constitución.
+
+El Instituto Federal de Telecomunicaciones será también la autoridad en
+materia de competencia económica de los sectores de radiodifusión y
+telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las
+facultades que este artículo y las leyes establecen para la Comisión
+Federal de Competencia Económica y regulará de forma asimétrica a los
+participantes en estos mercados con el objeto de eliminar eficazmente
+las barreras a la competencia y la libre concurrencia; impondrá límites
+a la concentración nacional y regional de frecuencias, al
+concesionamiento y a la propiedad cruzada que controle varios medios de
+comunicación que sean concesionarios de radiodifusión y
+telecomunicaciones que sirvan a un mismo mercado o zona de cobertura
+geográfica, y ordenará la desincorporación de activos, derechos o partes
+necesarias para asegurar el cumplimiento de estos límites, garantizando
+lo dispuesto en los artículos 6o. y 7o. de esta Constitución.
+
+Corresponde al Instituto, el otorgamiento, la revocación, así como la
+autorización de cesiones o cambios de control accionario, titularidad u
+operación de sociedades relacionadas con concesiones en materia de
+radiodifusión y telecomunicaciones. El Instituto notificará al
+Secretario del ramo previo a su determinación, quien podrá emitir una
+opinión técnica. Las concesiones podrán ser para uso comercial, público,
+privado y social que incluyen las comunitarias y las indígenas, las que
+se sujetarán, de acuerdo con sus fines, a los principios establecidos en
+los artículos 2o., 3o., 6o. y 7o. de esta Constitución. El Instituto
+fijará el monto de las contraprestaciones por el otorgamiento de las
+concesiones, así como por la autorización de servicios vinculados a
+éstas, previa opinión de la autoridad hacendaria. Las opiniones a que se
+refiere este párrafo no serán vinculantes y deberán emitirse en un plazo
+no mayor de treinta días; transcurrido dicho plazo sin que se emitan las
+opiniones, el Instituto continuará los trámites correspondientes.
+
+Las concesiones del espectro radioeléctrico serán otorgadas mediante
+licitación pública, a fin de asegurar la máxima concurrencia,
+previniendo fenómenos de concentración que contraríen el interés público
+y asegurando el menor precio de los servicios al usuario final; en
+ningún caso el factor determinante para definir al ganador de la
+licitación será meramente económico. Las concesiones para uso público y
+social serán sin fines de lucro y se otorgarán bajo el mecanismo de
+asignación directa conforme a lo previsto por la ley y en condiciones
+que garanticen la transparencia del procedimiento. El Instituto Federal
+de Telecomunicaciones llevará un registro público de concesiones. La ley
+establecerá un esquema efectivo de sanciones que señale como causal de
+revocación del título de concesión, entre otras, el incumplimiento de
+las resoluciones que hayan quedado firmes en casos de conductas
+vinculadas con prácticas monopólicas. En la revocación de las
+concesiones, el Instituto dará aviso previo al Ejecutivo Federal a fin
+de que éste ejerza, en su caso, las atribuciones necesarias que
+garanticen la continuidad en la prestación del servicio.
+
+El Instituto Federal de Telecomunicaciones garantizará que el Gobierno
+Federal cuente con las concesiones necesarias para el ejercicio de sus
+funciones.
+
+La Comisión Federal de Competencia Económica y el Instituto Federal de
+Telecomunicaciones, serán independientes en sus decisiones y
+funcionamiento, profesionales en su desempeño e imparciales en sus
+actuaciones, y se regirán conforme a lo siguiente:
+
+**I.** Dictarán sus resoluciones con plena independencia;
+
+**II.** Ejercerán su presupuesto de forma autónoma. La Cámara de
+Diputados garantizará la suficiencia presupuestal a fin de permitirles
+el ejercicio eficaz y oportuno de sus competencias;
+
+**III.** Emitirán su propio estatuto orgánico, mediante un sistema de
+votación por mayoría calificada;
+
+**IV.** Podrán emitir disposiciones administrativas de carácter general
+exclusivamente para el cumplimiento de su función regulatoria en el
+sector de su competencia;
+
+**V.** Las leyes garantizarán, dentro de cada organismo, la separación
+entre la autoridad que conoce de la etapa de investigación y la que
+resuelve en los procedimientos que se sustancien en forma de juicio;
+
+**VI.** Los órganos de gobierno deberán cumplir con los principios de
+transparencia y acceso a la información. Deliberarán en forma colegiada
+y decidirán los asuntos por mayoría de votos; sus sesiones, acuerdos y
+resoluciones serán de carácter público con las excepciones que determine
+la ley;
+
+**VII.** Las normas generales, actos u omisiones de la Comisión Federal
+de Competencia Económica y del Instituto Federal de Telecomunicaciones
+podrán ser impugnados únicamente mediante el juicio de amparo indirecto
+y no serán objeto de suspensión. Solamente en los casos en que la
+Comisión Federal de Competencia Económica imponga multas o la
+desincorporación de activos, derechos, partes sociales o acciones, éstas
+se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso,
+se promueva. Cuando se trate de resoluciones de dichos organismos
+emanadas de un procedimiento seguido en forma de juicio sólo podrá
+impugnarse la que ponga fin al mismo por violaciones cometidas en la
+resolución o durante el procedimiento; las normas generales aplicadas
+durante el procedimiento sólo podrán reclamarse en el amparo promovido
+contra la resolución referida. Los juicios de amparo serán sustanciados
+por jueces y tribunales especializados en los términos del artículo 94
+de esta Constitución. En ningún caso se admitirán recursos ordinarios o
+constitucionales contra actos intraprocesales;
+
+**VIII.** Los titulares de los órganos presentarán anualmente un
+programa de trabajo y trimestralmente un informe de actividades a los
+Poderes Ejecutivo y Legislativo de la Unión; comparecerán ante la Cámara
+de Senadores anualmente y ante las Cámaras del Congreso en términos del
+artículo 93 de esta Constitución. El Ejecutivo Federal podrá solicitar a
+cualquiera de las Cámaras la comparecencia de los titulares ante éstas;
+
+**IX.** Las leyes promoverán para estos órganos la transparencia
+gubernamental bajo principios de gobierno digital y datos abiertos;
+
+**X.** La retribución que perciban los Comisionados deberá ajustarse a
+lo previsto en el artículo 127 de esta Constitución;
+
+**XI.** Los comisionados de los órganos podrán ser removidos de su cargo
+por las dos terceras partes de los miembros presentes del Senado de la
+República, por falta grave en el ejercicio de sus funciones, en los
+términos que disponga la ley, y
+
+**XII.** Cada órgano contará con una Contraloría Interna, cuyo titular
+será designado por las dos terceras partes de los miembros presentes de
+la Cámara de Diputados, en los términos que disponga la ley.
+
+Los órganos de gobierno, tanto de la Comisión Federal de Competencia
+Económica como del Instituto Federal de Telecomunicaciones se integrarán
+por siete Comisionados, incluyendo el Comisionado Presidente, designados
+en forma escalonada a propuesta del Ejecutivo Federal con la
+ratificación del Senado.
+
+El Presidente de cada uno de los órganos será nombrado por la Cámara de
+Senadores de entre los comisionados, por el voto de las dos terceras
+partes de los miembros presentes, por un periodo de cuatro años,
+renovable por una sola ocasión. Cuando la designación recaiga en un
+comisionado que concluya su encargo antes de dicho periodo, desempeñará
+la presidencia sólo por el tiempo que falte para concluir su encargo
+como comisionado.
+
+Los comisionados deberán cumplir los siguientes requisitos:
+
+**I.** Ser ciudadano mexicano por nacimiento y estar en pleno goce de
+sus derechos civiles y políticos;
+
+**II.** Ser mayor de treinta y cinco años;
+
+**III.** Gozar de buena reputación y no haber sido condenado por delito
+doloso que amerite pena de prisión por más de un año;
+
+**IV.** Poseer título profesional;
+
+**V.** Haberse desempeñado, cuando menos tres años, en forma destacada
+en actividades profesionales, de servicio público o académicas
+sustancialmente relacionadas con materias afines a las de competencia
+económica, radiodifusión o telecomunicaciones, según corresponda;
+
+**VI.** Acreditar, en los términos de este precepto, los conocimientos
+técnicos necesarios para el ejercicio del cargo;
+
+**VII.** No haber sido Secretario de Estado, Procurador General de la
+República, senador, diputado federal o local, Gobernador de algún Estado
+o Jefe de Gobierno del Distrito Federal, durante el año previo a su
+nombramiento, y
+
+**VIII.** En la Comisión Federal de Competencia Económica, no haber
+ocupado, en los últimos tres años, ningún empleo, cargo o función
+directiva en las empresas que hayan estado sujetas a alguno de los
+procedimientos sancionatorios que sustancia el citado órgano. En el
+Instituto Federal de Telecomunicaciones no haber ocupado, en los últimos
+tres años, ningún empleo, cargo o función directiva en las empresas de
+los concesionarios comerciales o privados o de las entidades a ellos
+relacionadas, sujetas a la regulación del Instituto.
+
+Los Comisionados se abstendrán de desempeñar cualquier otro empleo,
+trabajo o comisión públicos o privados, con excepción de los cargos
+docentes; estarán impedidos para conocer asuntos en que tengan interés
+directo o indirecto, en los términos que la ley determine, y serán
+sujetos del régimen de responsabilidades del Título Cuarto de esta
+Constitución y de juicio político. La ley regulará las modalidades
+conforme a las cuales los Comisionados podrán establecer contacto para
+tratar asuntos de su competencia con personas que representen los
+intereses de los agentes económicos regulados.
+
+Los Comisionados durarán en su encargo nueve años y por ningún motivo
+podrán desempeñar nuevamente ese cargo. En caso de falta absoluta de
+algún comisionado, se procederá a la designación correspondiente, a
+través del procedimiento previsto en este artículo y a fin de que el
+sustituto concluya el periodo respectivo.
+
+Los aspirantes a ser designados como Comisionados acreditarán el
+cumplimiento de los requisitos señalados en los numerales anteriores,
+ante un Comité de Evaluación integrado por los titulares del Banco de
+México, el Instituto Nacional para la Evaluación de la Educación y el
+Instituto Nacional de Estadística y Geografía. Para tales efectos, el
+Comité de Evaluación instalará sus sesiones cada que tenga lugar una
+vacante de comisionado, decidirá por mayoría de votos y será presidido
+por el titular de la entidad con mayor antigüedad en el cargo, quien
+tendrá voto de calidad.
+
+El Comité emitirá una convocatoria pública para cubrir la vacante.
+Verificará el cumplimiento, por parte de los aspirantes, de los
+requisitos contenidos en el presente artículo y, a quienes los hayan
+satisfecho, aplicará un examen de conocimientos en la materia; el
+procedimiento deberá observar los principios de transparencia,
+publicidad y máxima concurrencia.
+
+Para la formulación del examen de conocimientos, el Comité de Evaluación
+deberá considerar la opinión de cuando menos dos instituciones de
+educación superior y seguirá las mejores prácticas en la materia.
+
+El Comité de Evaluación, por cada vacante, enviará al Ejecutivo una
+lista con un mínimo de tres y un máximo de cinco aspirantes, que
+hubieran obtenido las calificaciones aprobatorias más altas. En el caso
+de no completarse el número mínimo de aspirantes se emitirá una nueva
+convocatoria. El Ejecutivo seleccionará de entre esos aspirantes, al
+candidato que propondrá para su ratificación al Senado.
+
+La ratificación se hará por el voto de las dos terceras partes de los
+miembros del Senado presentes, dentro del plazo improrrogable de treinta
+días naturales a partir de la presentación de la propuesta; en los
+recesos, la Comisión Permanente convocará desde luego al Senado. En caso
+de que la Cámara de Senadores rechace al candidato propuesto por el
+Ejecutivo, el Presidente de la República someterá una nueva propuesta,
+en los términos del párrafo anterior. Este procedimiento se repetirá las
+veces que sea necesario si se producen nuevos rechazos hasta que sólo
+quede un aspirante aprobado por el Comité de Evaluación, quien será
+designado comisionado directamente por el Ejecutivo.
+
+Todos los actos del proceso de selección y designación de los
+Comisionados son inatacables.
 
 **Artículo 29.** En los casos de invasión, perturbación grave de la paz
 pública, o de cualquier otro que ponga a la sociedad en grave peligro o
@@ -3234,9 +3568,11 @@ individuo o degeneran la especie humana, así como las adoptadas para
 prevenir y combatir la contaminación ambiental, serán después revisadas
 por el Congreso de la Unión en los casos que le competan.
 
-**XVII.** Para dictar leyes sobre vías generales de comunicación, y
-sobre postas y correos, para expedir leyes sobre el uso y
-aprovechamiento de las aguas de jurisdicción federal.
+**XVII.** Para dictar leyes sobre vías generales de comunicación,
+tecnologías de la información y la comunicación, radiodifusión,
+telecomunicaciones, incluida la banda ancha e Internet, postas y
+correos, y sobre el uso y aprovechamiento de las aguas de jurisdicción
+federal.
 
 **XVIII.** Para establecer casas de moneda, fijar las condiciones que
 ésta deba tener, dictar reglas para determinar el valor relativo de la
@@ -3700,10 +4036,9 @@ de la República;
 
 **VII.** Ratificar los nombramientos que el Presidente haga de
 embajadores, cónsules generales, empleados superiores de Hacienda,
-integrantes de los órganos colegiados encargados de la regulación en
-materia de telecomunicaciones, energía y competencia económica,
-coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea
-Nacionales, en los términos que la ley disponga, y
+integrantes del órgano colegiado encargado de la regulación en materia
+de energía, coroneles y demás jefes superiores del Ejército, Armada y
+Fuerza Aérea Nacionales, en los términos que la ley disponga, y
 
 **VIII.** Conocer y resolver sobre las solicitudes de licencia que le
 sean presentadas por los legisladores.
@@ -4179,9 +4514,10 @@ regirán por lo que dispongan las leyes, de conformidad con las bases que
 esta Constitución establece.
 
 El Consejo de la Judicatura Federal determinará el número, división en
-circuitos, competencia territorial y, en su caso, especialización por
-materia, de los Tribunales Colegiados y Unitarios de Circuito y de los
-Juzgados de Distrito.
+circuitos, competencia territorial y especialización por materias, entre
+las que se incluirá la de radiodifusión, telecomunicaciones y
+competencia económica, de los Tribunales Colegiados y Unitarios de
+Circuito y de los Juzgados de Distrito.
 
 Asimismo, mediante acuerdos generales establecerá Plenos de Circuito,
 atendiendo al número y especialización de los Tribunales Colegiados que
@@ -4763,10 +5099,14 @@ sus actos o disposiciones generales;
 **i)** Un Estado y uno de sus municipios, sobre la constitucionalidad de
 sus actos o disposiciones generales;
 
-**j)** Un Estado y un municipio de otro Estado, sobre la
-constitucionalidad de sus actos o disposiciones generales; y
+**j)** Un Estado y un Municipio de otro Estado, sobre la
+constitucionalidad de sus actos o disposiciones generales;
 
 **k)** Dos órganos de gobierno del Distrito Federal, sobre la
+constitucionalidad de sus actos o disposiciones generales, y
+
+**l)** Dos órganos constitucionales autónomos, y entre uno de éstos y el
+Poder Ejecutivo de la Unión o el Congreso de la Unión sobre la
 constitucionalidad de sus actos o disposiciones generales.
 
 Siempre que las controversias versen sobre disposiciones generales de
@@ -7444,12 +7784,10 @@ Lo que hónrome en comunicar a usted para su publicación y demás efectos.
 Constitución y Reformas.- México, cinco de febrero de mil novecientos
 diez y siete.- AGUIRRE BERLANGA.
 
-Al Ciudadano ……\ **
-**
+Al Ciudadano ……
 
-.. figure:: ../ima/h_line.gif
-   :align: center
-   :alt:
+**
+** |image8|
 
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
@@ -10677,7 +11015,551 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 treinta y uno de mayo de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.
+Rúbrica.\ **
+**
+
+DECRETO por el que se reforman y adicionan diversas disposiciones de los
+artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política
+de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+Publicado en el Diario Oficial de la Federación el 11 de junio de 2013
+
+**ARTÍCULO ÚNICO**. Se **REFORMAN** el párrafo primero del artículo 6o.;
+el artículo 7o.; el párrafo sexto del artículo 27; el párrafo segundo
+del artículo 28; la fracción XVII del artículo 73; la fracción VII del
+artículo 78 y el párrafo sexto del artículo 94; y se **ADICIONAN** los
+párrafos segundo, tercero y cuarto, pasando el actual párrafo segundo a
+ser apartado A del párrafo cuarto, y un apartado B al artículo 6o.; los
+párrafos decimotercero al trigésimo del artículo 28, y un inciso l) a la
+fracción I del artículo 105, todos de la Constitución Política de los
+Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Las medidas de fomento a la competencia en televisión,
+radio, telefonía y servicios de datos, deberán aplicarse en todos los
+segmentos de forma que se garantice en su conjunto la competencia
+efectiva en la radiodifusión y telecomunicaciones.
+
+**TERCERO.** El Congreso de la Unión realizará las adecuaciones
+necesarias al marco jurídico conforme al presente Decreto dentro de los
+ciento ochenta días naturales siguientes a su entrada en vigor, y
+deberá:
+
+**I.** Establecer tipos penales especiales que castiguen severamente
+prácticas monopólicas y fenómenos de concentración;
+
+**II.** Regular el organismo público a que se refiere el artículo 6o.
+que se adiciona en virtud del presente Decreto. Pasarán a este organismo
+público los recursos humanos, financieros y materiales del organismo
+descentralizado denominado Organismo Promotor de Medios Audiovisuales;
+
+**III.** Establecer los mecanismos para homologar el régimen de permisos
+y concesiones de radiodifusión, a efecto de que únicamente existan
+concesiones, asegurando una diversidad de medios que permita distinguir
+las concesiones de uso comercial, público, privado y social que incluyen
+las comunitarias e indígenas;
+
+**IV.** Regular el derecho de réplica;
+
+**V.** Establecer la prohibición de difundir publicidad engañosa o
+subrepticia;
+
+**VI.** Establecer los mecanismos que aseguren la promoción de la
+producción nacional independiente;
+
+**VII.** Establecer prohibiciones específicas en materia de subsidios
+cruzados o trato preferencial, consistentes con los principios de
+competencia, para el efecto de que los operadores de radiodifusión o
+telecomunicaciones no otorguen subsidios a los servicios que
+proporcionan, por sí o a través de sus empresas subsidiarias, filiales,
+afiliadas o que pertenezcan al mismo grupo de interés económico. Cada
+concesionario deberá fijar tarifas mínimas, consistentes con los
+principios de competencia, para la emisión de anuncios, las cuales serán
+presentadas ante la autoridad para su registro público;
+
+**VIII.** Determinar los criterios conforme a los cuales el Instituto
+Federal de Telecomunicaciones otorgará las autorizaciones para el acceso
+a la multiprogramación, bajo los principios de competencia y calidad,
+garantizado el derecho a la información y atendiendo de manera
+particular la concentración nacional y regional de frecuencias,
+incluyendo en su caso, el pago de las contraprestaciones debidas;
+
+**IX.** Crear un Consejo Consultivo del Instituto Federal de
+Telecomunicaciones, integrado por miembros honorarios y encargado de
+fungir como órgano asesor en la observancia de los principios
+establecidos en los artículos 6o. y 7o. constitucionales, y
+
+**X.** Aprobar las leyes, reformas y adiciones que deriven del presente
+Decreto.
+
+**CUARTO.** En el mismo plazo referido en el artículo anterior, el
+Congreso de la Unión deberá expedir un solo ordenamiento legal que
+regule de manera convergente, el uso, aprovechamiento y explotación del
+espectro radioeléctrico, las redes de telecomunicaciones, así como la
+prestación de servicios de radiodifusión y telecomunicaciones.
+
+La ley establecerá que las concesiones serán únicas, de forma que los
+concesionarios puedan prestar todo tipo de servicios a través de sus
+redes, siempre que cumplan con las obligaciones y contraprestaciones que
+les imponga el Instituto Federal de Telecomunicaciones y en su caso, las
+contraprestaciones correspondientes.
+
+El Instituto Federal de Telecomunicaciones, una vez que haya determinado
+los concesionarios que tienen el carácter de agente económico
+preponderante en términos de la fracción III del artículo Octavo
+Transitorio de este Decreto, establecerá, dentro de los sesenta días
+naturales siguientes, mediante lineamientos de carácter general, los
+requisitos, términos y condiciones que los actuales concesionarios de
+radiodifusión, telecomunicaciones y telefonía deberán cumplir para que
+se les autorice la prestación de servicios adicionales a los que son
+objeto de su concesión o para transitar al modelo de concesión única,
+siempre que se encuentren en cumplimiento de las obligaciones previstas
+en las leyes y en sus títulos de concesión. La autorización a que se
+refiere este párrafo podrá otorgarse a los agentes económicos
+preponderantes sólo cuando se encuentren en cumplimiento de las medidas
+que se les hayan impuesto conforme a lo previsto en las fracciones III y
+IV del artículo Octavo Transitorio de este Decreto. El Instituto deberá
+resolver sobre la procedencia o improcedencia de las autorizaciones a
+que se refiere este párrafo dentro de los sesenta días naturales
+siguientes a la presentación de las solicitudes respectivas y, en el
+primer caso, determinará las contraprestaciones correspondientes.
+
+**QUINTO.** A la entrada en vigor del presente Decreto se permitirá la
+inversión extranjera directa hasta el cien por ciento en
+telecomunicaciones y comunicación vía satélite.
+
+Se permitirá la inversión extranjera directa hasta un máximo del
+cuarenta y nueve por ciento en radiodifusión. Dentro de este máximo de
+inversión extranjera se estará a la reciprocidad que exista en el país
+en el que se encuentre constituido el inversionista o el agente
+económico que controle en última instancia a éste, directa o
+indirectamente.
+
+La transición digital terrestre culminará el 31 de diciembre de 2015.
+Los Poderes de la Unión estarán obligados a promover, en el ámbito de
+sus competencias, la implementación de equipos receptores y
+decodificadores necesarios para la adopción de esta política de gobierno
+garantizando, a su vez, los recursos presupuestales que resulten
+necesarios. Los concesionarios y permisionarios están obligados a
+devolver, en cuanto culmine el proceso de transición a la televisión
+digital terrestre, las frecuencias que originalmente les fueron
+concesionadas por el Estado, a fin de garantizar el uso eficiente del
+espectro radioeléctrico, la competencia y el uso óptimo de la banda de
+700 MHz.
+
+**SEXTO.** Con el objeto de asegurar el escalonamiento en el cargo de
+los Comisionados de la Comisión Federal de Competencia Económica y del
+Instituto Federal de Telecomunicaciones, los primeros Comisionados
+nombrados en cada uno de esos órganos concluirán su encargo el último
+día de febrero de los años 2016, 2017, 2018, 2019, 2020, 2021 y 2022.
+
+El Ejecutivo Federal, al someter los nombramientos a la ratificación del
+Senado de la República, señalará los periodos respectivos.
+
+Para los nombramientos de los primeros Comisionados, tanto de la
+Comisión Federal de Competencia Económica como del Instituto Federal de
+Telecomunicaciones, deberá observarse lo siguiente:
+
+**I.** El Comité de Evaluación a que se refiere el artículo 28 de la
+Constitución deberá enviar al Ejecutivo Federal las listas de aspirantes
+respectivas, dentro de los sesenta días naturales siguientes a la
+entrada en vigor del presente Decreto;
+
+**II.** Una vez recibidas las listas, el Ejecutivo Federal deberá
+remitir sus propuestas al Senado de la República dentro de los diez días
+naturales siguientes;
+
+**III.** El Senado de la República, una vez reunido, contará con un
+plazo de diez días naturales para resolver sobre la propuesta, y
+
+**IV.** En caso de que respecto de una misma vacante el Senado de la
+República no apruebe en dos ocasiones la designación del Ejecutivo
+Federal, corresponderá a éste la designación directa del comisionado
+respectivo, a partir de la lista de aspirantes presentada por el Comité
+de Evaluación a que se refiere el artículo 28 de la Constitución.
+
+**SÉPTIMO.** En tanto se integran los órganos constitucionales conforme
+a lo dispuesto en el artículo Sexto Transitorio, continuarán en sus
+funciones, conforme al marco jurídico vigente a la entrada en vigor del
+presente Decreto, los órganos desconcentrados Comisión Federal de
+Competencia y Comisión Federal de Telecomunicaciones. Los recursos
+humanos, financieros y materiales de los órganos desconcentrados
+referidos pasarán a los órganos constitucionales que se crean por virtud
+de este Decreto.
+
+Los procedimientos iniciados con anterioridad a la integración de la
+Comisión Federal de Competencia Económica y del Instituto Federal de
+Telecomunicaciones, continuarán su trámite ante estos órganos en
+términos de la legislación aplicable al momento de su inicio. Las
+resoluciones que recaigan en estos procedimientos, sólo podrán ser
+impugnadas en términos de lo dispuesto por el presente Decreto mediante
+juicio de amparo indirecto.
+
+Asimismo, los juicios y recursos en trámite, continuarán hasta su
+conclusión conforme a la legislación vigente a la entrada en vigor del
+presente Decreto.
+
+Si no se hubieren realizado las adecuaciones al marco jurídico previstas
+en el artículo Tercero Transitorio a la fecha de la integración de la
+Comisión Federal de Competencia Económica y del Instituto Federal de
+Telecomunicaciones, éstos ejercerán sus atribuciones conforme a lo
+dispuesto por el presente Decreto y, en lo que no se oponga a éste, en
+las leyes vigentes en materia de competencia económica, radiodifusión y
+telecomunicaciones.
+
+**OCTAVO.** Una vez constituido el Instituto Federal de
+Telecomunicaciones conforme a lo dispuesto en el artículo Sexto
+Transitorio, deberá observarse lo siguiente:
+
+**I.** Los concesionarios que presten servicios de televisión
+radiodifundida están obligados a permitir a los concesionarios de
+televisión restringida la retransmisión de su señal, de manera gratuita
+y no discriminatoria, dentro de la misma zona de cobertura geográfica,
+en forma íntegra, simultánea y sin modificaciones, incluyendo la
+publicidad y con la misma calidad de la señal que se radiodifunde.
+
+Los concesionarios que presten servicios de televisión restringida están
+obligados a retransmitir la señal de televisión radiodifundida, de
+manera gratuita y no discriminatoria, dentro de la misma zona de
+cobertura geográfica, en forma íntegra, simultánea y sin modificaciones,
+incluyendo la publicidad y con la misma calidad de la señal que se
+radiodifunde, e incluirla sin costo adicional en los servicios
+contratados por los suscriptores y usuarios. Los concesionarios de
+televisión restringida vía satélite, sólo deberán retransmitir
+obligatoriamente las señales radiodifundidas de cobertura del cincuenta
+por ciento o más del territorio nacional. Todos los concesionarios de
+televisión restringida deberán retransmitir las señales radiodifundidas
+por instituciones públicas federales.
+
+Los concesionarios de telecomunicaciones o de televisión radiodifundida
+que hayan sido declarados con poder sustancial en cualquiera de los
+mercados de telecomunicaciones o radiodifusión o como agentes económicos
+preponderantes en los términos de este Decreto, no tendrán derecho a la
+regla de gratuidad de los contenidos de radiodifusión o de la
+retransmisión gratuita; lo que en ningún caso se reflejará como costo
+adicional en los servicios contratados por los suscriptores y usuarios.
+Estos concesionarios deberán acordar las condiciones y precios de los
+contenidos radiodifundidos o de la retransmisión. En caso de diferendo,
+el Instituto Federal de Telecomunicaciones determinará la tarifa bajo
+los principios de libre competencia y concurrencia. El Instituto Federal
+de Telecomunicaciones sancionará con la revocación de la concesión a los
+agentes económicos preponderantes o con poder sustancial que se
+beneficien directa o indirectamente de la regla de gratuidad, a través
+de otros concesionarios, sin perjuicio del pago de las
+contraprestaciones que correspondan. También se revocará la concesión a
+estos últimos.
+
+Las obligaciones de ofrecer y retransmitir gratuitamente los contenidos
+radiodifundidos perderán su vigencia simultáneamente cuando existan
+condiciones de competencia en los mercados de radiodifusión y
+telecomunicaciones. Esta declaración será realizada por el Instituto
+Federal de Telecomunicaciones en los términos que establezca la ley. En
+este caso, los concesionarios estarán en libertad de acordar los precios
+y condiciones de la retransmisión de contenidos radiodifundidos. En caso
+de diferendo el Instituto Federal de Telecomunicaciones determinará la
+tarifa que deberá estar orientada a costos.
+
+**II.** Para dar cabal cumplimiento al Programa de Licitación y
+Adjudicación de Frecuencias de Televisión Radiodifundida Digital, el
+Instituto Federal de Telecomunicaciones publicará, en un plazo no mayor
+a ciento ochenta días naturales a partir de su integración, las bases y
+convocatorias para licitar nuevas concesiones de frecuencias de
+televisión radiodifundida que deberán ser agrupadas a efecto de formar
+por lo menos dos nuevas cadenas de televisión con cobertura nacional,
+bajo los principios de funcionamiento eficiente de los mercados, máxima
+cobertura nacional de servicios, derecho a la información y función
+social de los medios de comunicación, y atendiendo de manera particular
+las barreras de entrada y las características existentes en el mercado
+de televisión abierta. No podrán participar en las licitaciones aquellos
+concesionarios o grupos relacionados con vínculos de tipo comercial,
+organizativo, económico o jurídico, que actualmente acumulen concesiones
+para prestar servicios de radiodifusión de 12 MHz de espectro
+radioeléctrico o más en cualquier zona de cobertura geográfica.
+
+**III.** El Instituto Federal de Telecomunicaciones deberá determinar la
+existencia de agentes económicos preponderantes en los sectores de
+radiodifusión y de telecomunicaciones, e impondrá las medidas necesarias
+para evitar que se afecte la competencia y la libre concurrencia y, con
+ello, a los usuarios finales. Dichas medidas se emitirán en un plazo no
+mayor a ciento ochenta días naturales contados a partir de su
+integración, e incluirán en lo aplicable, las relacionadas con
+información, oferta y calidad de servicios, acuerdos en exclusiva,
+limitaciones al uso de equipos terminales entre redes, regulación
+asimétrica en tarifas e infraestructuras de red, incluyendo la
+desagregación de sus elementos esenciales y, en su caso, la separación
+contable, funcional o estructural de dichos agentes.
+
+Para efectos de lo dispuesto en este Decreto, se considerará como agente
+económico preponderante, en razón de su participación nacional en la
+prestación de los servicios de radiodifusión o telecomunicaciones, a
+cualquiera que cuente, directa o indirectamente, con una participación
+nacional mayor al cincuenta por ciento, medido este porcentaje ya sea
+por el número de usuarios, suscriptores, audiencia, por el tráfico en
+sus redes o por la capacidad utilizada de las mismas, de acuerdo con los
+datos con que disponga el Instituto Federal de Telecomunicaciones.
+
+Las obligaciones impuestas al agente económico preponderante se
+extinguirán en sus efectos por declaratoria del Instituto Federal de
+Telecomunicaciones una vez que conforme a la ley existan condiciones de
+competencia efectiva en el mercado de que se trate.
+
+**IV.** El Instituto Federal de Telecomunicaciones, en un plazo no mayor
+a ciento ochenta días naturales contados a partir de su integración,
+establecerá las medidas que permitan la desagregación efectiva de la red
+local del agente preponderante en telecomunicaciones de manera que otros
+concesionarios de telecomunicaciones puedan acceder, entre otros, a los
+medios físicos, técnicos y lógicos de conexión entre cualquier punto
+terminal de la red pública de telecomunicaciones y el punto de acceso a
+la red local pertenecientes a dicho agente. Estas medidas también serán
+aplicables al agente económico con poder sustancial en el mercado
+relevante de servicios al usuario final.
+
+Las medidas a que se refiere el párrafo anterior deberán considerar como
+insumo esencial todos los elementos necesarios para la desagregación
+efectiva de la red local. En particular, los concesionarios podrán
+elegir los elementos de la red local que requieran del agente
+preponderante y el punto de acceso a la misma. Las citadas medidas
+podrán incluir la regulación de precios y tarifas, condiciones técnicas
+y de calidad, así como su calendario de implantación con el objeto de
+procurar la cobertura universal y el aumento en la penetración de los
+servicios de telecomunicaciones.
+
+**V.** El Instituto Federal de Telecomunicaciones revisará, dentro de
+los ciento ochenta días naturales siguientes a su integración, los
+títulos de concesión vigentes, a efecto de verificar el cumplimiento de
+sus términos, condiciones y modalidades.
+
+**VI.** En un plazo de ciento ochenta días naturales siguientes a su
+integración, el Instituto Federal de Telecomunicaciones recabará la
+información necesaria a fin de constituir el Registro Público de
+Concesiones a que se refiere el artículo 28 de la Constitución.
+
+**NOVENO.** En relación con las resoluciones a que se refieren las
+fracciones III y IV del artículo anterior, se estará a lo siguiente:
+
+**I.** Se pronunciarán de conformidad con el procedimiento que
+establezca la legislación vigente en la fecha de su emisión y a falta de
+disposición expresa, conforme a la Ley Federal de Procedimiento
+Administrativo;
+
+**II.** Únicamente podrán ser impugnadas mediante el juicio de amparo
+indirecto y no serán objeto de suspensión, tal y como lo establece el
+artículo 28 de la Constitución, reformado en virtud del presente
+Decreto. Las normas generales aplicadas durante el procedimiento y los
+actos intraprocesales sólo podrán reclamarse en el amparo promovido
+contra la resolución referida, y
+
+**III.** No admitirán recurso administrativo alguno y solamente podrán
+ser impugnadas a través del juicio de amparo indirecto en los términos
+de la fracción anterior.
+
+El incumplimiento de las medidas contempladas en las citadas
+resoluciones será sancionado en términos de las disposiciones
+aplicables. El incumplimiento a la separación contable, funcional o
+estructural dará lugar a la revocación de los títulos de concesión.
+
+**DÉCIMO.** Los medios públicos que presten el servicio de radiodifusión
+deberán contar con independencia editorial; autonomía de gestión
+financiera; garantías de participación ciudadana; reglas claras para la
+transparencia y rendición de cuentas; defensa de sus contenidos;
+opciones de financiamiento; pleno acceso a tecnologías, y reglas para la
+expresión de diversidades ideológicas, étnicas y culturales.
+
+**DÉCIMO PRIMERO.** Para que la publicidad en radio y televisión sea
+equilibrada, la ley dotará al Instituto Federal de Telecomunicaciones de
+atribuciones para vigilar el cumplimiento de los tiempos máximos que la
+misma señale para la transmisión de mensajes comerciales.
+
+La ley deberá asegurar que la programación dirigida a la población
+infantil respete los valores y principios a que se refiere el artículo
+3o. de la Constitución, así como las normas en materia de salud y
+establecerá lineamientos específicos que regulen la publicidad pautada
+en la programación destinada al público infantil. El Instituto contará
+con facultades para supervisar su cumplimiento.
+
+Asimismo, corresponderá al Instituto resolver cualquier desacuerdo en
+materia de retransmisión de contenidos, con excepción de la materia
+electoral.
+
+**DÉCIMO SEGUNDO.** El Consejo de la Judicatura Federal deberá
+establecer Tribunales Colegiados de Circuito y Juzgados de Distrito
+especializados en materia de competencia económica, radiodifusión y
+telecomunicaciones, en un plazo no mayor a sesenta días naturales
+contados a partir de la entrada en vigor del presente Decreto.
+
+El Consejo de la Judicatura Federal emitirá acuerdos de carácter general
+en los que se preverán la forma de asignación de los asuntos y la
+rotación de jueces y magistrados especializados que conocerán de los
+mismos, así como las medidas pertinentes para garantizar la
+independencia, objetividad e imparcialidad de los juzgados y tribunales
+a que se refiere el párrafo anterior.
+
+**DÉCIMO TERCERO.** La Cámara de Diputados, en el Presupuesto de Egresos
+de la Federación, aprobará las disposiciones necesarias para dotar de
+suficiencia presupuestaria a los órganos reguladores a que se refiere
+este Decreto para el desempeño de sus funciones, así como las
+previsiones presupuestarias para el buen funcionamiento del organismo a
+que se refiere el artículo 6o., Apartado B, fracción V, de la
+Constitución.
+
+**DÉCIMO CUARTO.** El Ejecutivo Federal tendrá a su cargo la política de
+inclusión digital universal, en la que se incluirán los objetivos y
+metas en materia de infraestructura, accesibilidad y conectividad,
+tecnologías de la información y comunicación, y habilidades digitales,
+así como los programas de gobierno digital, gobierno y datos abiertos,
+fomento a la inversión pública y privada en aplicaciones de telesalud,
+telemedicina y Expediente Clínico Electrónico y desarrollo de
+aplicaciones, sistemas y contenidos digitales, entre otros aspectos.
+
+Dicha política tendrá, entre otras metas, que por lo menos 70 por ciento
+de todos los hogares y 85 por ciento de todas las micros, pequeñas y
+medianas empresas a nivel nacional, cuenten con accesos con una
+velocidad real para descarga de información de conformidad con el
+promedio registrado en los países miembros de la Organización para la
+Cooperación y el Desarrollo Económicos. Esta característica deberá ser
+ofrecida a precios competitivos internacionalmente.
+
+El Instituto Federal de Telecomunicaciones deberá realizar las acciones
+necesarias para contribuir con los objetivos de la política de inclusión
+digital universal.
+
+Asimismo, el Ejecutivo Federal elaborará las políticas de radiodifusión
+y telecomunicaciones del Gobierno Federal y realizará las acciones
+tendientes a garantizar el acceso a Internet de banda ancha en edificios
+e instalaciones de las dependencias y entidades de la Administración
+Pública Federal. Las entidades federativas harán lo propio en el ámbito
+de su competencia.
+
+**DÉCIMO QUINTO.** La Comisión Federal de Electricidad cederá totalmente
+a Telecomunicaciones de México su concesión para instalar, operar y
+explotar una red pública de telecomunicaciones y le transferirá todos
+los recursos y equipos necesarios para la operación y explotación de
+dicha concesión, con excepción de la fibra óptica, derechos de vía,
+torres, postería, edificios e instalaciones que quedarán a cargo de la
+Comisión Federal de Electricidad, garantizando a Telecomunicaciones de
+México el acceso efectivo y compartido a dicha infraestructura para su
+aprovechamiento eficiente, a fin de lograr el adecuado ejercicio de sus
+funciones y el cumplimiento de sus objetivos. Telecomunicaciones de
+México tendrá atribuciones y recursos para promover el acceso a
+servicios de banda ancha, planear, diseñar y ejecutar la construcción y
+el crecimiento de una robusta red troncal de telecomunicaciones de
+cobertura nacional, así como la comunicación vía satélite y la
+prestación del servicio de telégrafos. Lo anterior, de conformidad con
+los lineamientos y acuerdos emitidos por el Instituto Federal de
+Telecomunicaciones.
+
+**DÉCIMO SEXTO.** El Estado, a través del Ejecutivo Federal, en
+coordinación con el Instituto Federal de Telecomunicaciones, garantizará
+la instalación de una red pública compartida de telecomunicaciones que
+impulse el acceso efectivo de la población a la comunicación de banda
+ancha y a los servicios de telecomunicaciones, de conformidad con los
+principios contenidos en el artículo 6o., Apartado B, fracción II del
+presente Decreto y las características siguientes:
+
+**I.** Iniciará la instalación antes de que concluya el año 2014, y
+estará en operación antes de que concluya el año 2018;
+
+**II.** Contemplará el aprovechamiento de al menos 90 MHz del espectro
+liberado por la transición a la Televisión Digital Terrestre (banda 700
+MHz), de los recursos de la red troncal de fibra óptica de la Comisión
+Federal de Electricidad y de cualquier otro activo del Estado que pueda
+utilizarse en la instalación y la operación de la red compartida;
+
+**III.** Podrá contemplar inversión pública o privada, identificando las
+necesidades presupuestales y, en su caso, las previsiones que deba
+aprobar la Cámara de Diputados;
+
+**IV.** Asegurará que ningún prestador de servicios de
+telecomunicaciones tenga influencia en la operación de la red;
+
+**V.** Asegurará el acceso a los activos requeridos para la instalación
+y operación de la red, así como el cumplimiento de su objeto y
+obligaciones de cobertura, calidad y prestación no discriminatoria de
+servicios;
+
+**VI.** Operará bajo principios de compartición de toda su
+infraestructura y la venta desagregada de todos sus servicios y
+capacidades, y prestará exclusivamente servicios a las empresas
+comercializadoras y operadoras de redes de telecomunicaciones, bajo
+condiciones de no discriminación y a precios competitivos. Los
+operadores que hagan uso de dicha compartición y venta desagregada se
+obligarán a ofrecer a los demás operadores y comercializadores las
+mismas condiciones que reciban de la red compartida, y
+
+**VII.** Promoverá que la política tarifaria de la red compartida
+fomente la competencia y que asegure la reinversión de utilidades para
+la actualización, el crecimiento y la cobertura universal.
+
+El Ejecutivo Federal, en el marco del Sistema Nacional de Planeación
+Democrática, incluirá en los instrumentos programáticos respectivos, las
+acciones necesarias para el desarrollo de la red a que se refiere este
+artículo.
+
+**DÉCIMO SÉPTIMO.** En el marco del Sistema Nacional de Planeación
+Democrática, el Ejecutivo Federal incluirá en el Plan Nacional de
+Desarrollo y en los programas sectoriales, institucionales y especiales
+conducentes las siguientes acciones:
+
+**I.** El crecimiento de la red troncal prevista en el artículo Décimo
+Sexto Transitorio de este Decreto, ya sea mediante inversión pública,
+privada o mixta, para asegurar la máxima cobertura de servicios a la
+población;
+
+**II.** Un programa de banda ancha en sitios públicos que identifique el
+número de sitios a conectar cada año, hasta alcanzar la cobertura
+universal;
+
+**III.** Un estudio pormenorizado que identifique el mayor número
+posible de sitios públicos federales, ductos, postería y derechos de vía
+que deberán ser puestos a disposición de los operadores de
+telecomunicaciones y radiodifusión para agilizar el despliegue de sus
+redes. El programa deberá incluir la contraprestación que los
+concesionarios deberán pagar por el aprovechamiento correspondiente,
+bajo principios de acceso no discriminatorio y precios que promuevan el
+cumplimiento del derecho a que se refiere el artículo 6o., párrafo
+tercero, de la Constitución, siempre y cuando el concesionario ofrezca
+las mismas condiciones en el acceso a su propia infraestructura;
+
+**IV.** Un programa de trabajo para dar cabal cumplimiento a la política
+para la transición a la Televisión Digital Terrestre y los recursos
+presupuestales necesarios para ello, y
+
+**V.** Un Programa Nacional de Espectro Radioeléctrico que, de manera
+enunciativa y no limitativa, incluirá lo siguiente:
+
+**a)** Un programa de trabajo para garantizar el uso óptimo de las
+bandas 700 MHz y 2.5 GHz bajo principios de acceso universal, no
+discriminatorio, compartido y continuo, y
+
+**b)** Un programa de trabajo para reorganizar el espectro
+radioeléctrico a estaciones de radio y televisión.
+
+El Instituto Federal de Telecomunicaciones deberá realizar las acciones
+necesarias para contribuir con los objetivos y metas fijados en el Plan
+Nacional de Desarrollo y demás instrumentos programáticos, relacionados
+con los sectores de radiodifusión y telecomunicaciones.
+
+**DÉCIMO OCTAVO.** Los derechos laborales de los trabajadores que
+presten sus servicios en las empresas y organismos dedicados a las
+actividades que comprende el presente Decreto se respetarán en todo
+momento de conformidad con la ley.
+
+México, D.F., a 22 de mayo de 2013.- Sen. **Ernesto Cordero Arroyo**,
+Presidente.- Dip. **Cristina González Cruz**, Secretaria.-
+Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+diez de junio de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
 .. figure:: ../ima/h_line.gif
    :align: center
@@ -10704,3 +11586,4 @@ Rúbrica.
 .. |image5| image:: ../ima/bt_mensaj_f1.gif
 .. |image6| image:: ../ima/aumentar.gif
 .. |image7| image:: ../ima/disminuir.gif
+.. |image8| image:: ../ima/h_line.gif
