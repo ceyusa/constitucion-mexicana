@@ -303,7 +303,7 @@ una estructura jurídica y un régimen político, sino como un sistema de
 vida fundado en el constante mejoramiento económico, social y cultural
 del pueblo;
 
-**b)** Será nacional, en cuanto -sin hostilidades ni exclusivismos -
+**b)** Será nacional, en cuanto -sin hostilidades ni exclusivismos-
 atenderá a la comprensión de nuestros problemas, al aprovechamiento de
 nuestros recursos, a la defensa de nuestra independencia política, al
 aseguramiento de nuestra independencia económica y a la continuidad y
@@ -2146,7 +2146,7 @@ con la aprobación de la Cámara de Senadores o de la Comisión Permanente,
 en su caso; desempeñarán su encargo por períodos cuya duración y
 escalonamiento provean al ejercicio autónomo de sus funciones; sólo
 podrán ser removidas por causa grave y no podrán tener ningún otro
-empleo, cargo o comisión, con excepción de aquéllos en que actúen en
+empleo, cargo o comisión, con excepción de aquéllos que actúen en
 representación del banco y de los no remunerados en asociaciones
 docentes, científicas, culturales o de beneficiencia **(beneficencia,
 sic DOF 20-08-1993)**. Las personas encargadas de la conducción del
@@ -6000,13 +6000,13 @@ internacionales celebrados por el Estado Mexicano;
 
 **d)** El equivalente al treinta y tres por ciento de los integrantes de
 alguno de los órganos legislativos estatales, en contra de leyes
-expedidas por el propio órgano, y
+expedidas por el propio órgano,
 
 Inciso reformado DOF 22-08-1996
 
 **e)** El equivalente al treinta y tres por ciento de los integrantes de
 la Asamblea de Representantes del Distrito Federal, en contra de leyes
-expedidas por la propia Asamblea.
+expedidas por la propia Asamblea, y
 
 Inciso reformado DOF 22-08-1996
 
@@ -6871,7 +6871,7 @@ Estados respectivas. Así mismo cuando a juicio del ayuntamiento
 respectivo sea necesario, podrán celebrar convenios con el Estado para
 que éste, de manera directa o a través del organismo correspondiente, se
 haga cargo en forma temporal de algunos de ellos, o bien se presten o
-ejerzan coordinadamente por el Estado y el propio municipio.
+ejerzan coordinadamente por el Estado y el propio municipio;
 
 Párrafo adicionado DOF 23-12-1999
 
@@ -8188,7 +8188,7 @@ autoridades de los Estados, en sus respectivas jurisdicciones, pero es
 de la competencia exclusiva de las autoridades federales en los asuntos
 relativos a:
 
-**a)** Ramas industriales y servicios:
+**a)** Ramas industriales y servicios.
 
 Encabezado de inciso reformado DOF 27-06-1990
 
@@ -9027,10 +9027,12 @@ Lo que hónrome en comunicar a usted para su publicación y demás efectos.
 Constitución y Reformas.- México, cinco de febrero de mil novecientos
 diez y siete.- AGUIRRE BERLANGA.
 
-Al Ciudadano ……
-
+Al Ciudadano ……\ **
 **
-** |image8|
+
+.. figure:: ../ima/h_line.gif
+   :align: center
+   :alt:
 
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
@@ -12866,4 +12868,3 @@ Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 .. |image5| image:: ../ima/bt_mensaj_f1.gif
 .. |image6| image:: ../ima/aumentar.gif
 .. |image7| image:: ../ima/disminuir.gif
-.. |image8| image:: ../ima/h_line.gif
