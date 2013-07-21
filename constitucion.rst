@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 11-06-2013
+Última reforma publicada DOF 19-07-2013
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
@@ -1342,10 +1342,15 @@ instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya
 sea que en el juicio se le absuelva o se le condene. Queda prohibida la
 práctica de absolver de la instancia.
 
-**Artículo 24.** Todo hombre es libre para profesar la creencia
-religiosa que más le agrade y para practicar las ceremonias, devociones
-o actos del culto respectivo, siempre que no constituyan un delito o
-falta penados por la ley.
+**Artículo 24.** Toda persona tiene derecho a la libertad de
+convicciones éticas, de conciencia y de religión, y a tener o adoptar,
+en su caso, la de su agrado. Esta libertad incluye el derecho de
+participar, individual o colectivamente, tanto en público como en
+privado, en las ceremonias, devociones o actos del culto respectivo,
+siempre que no constituyan un delito o falta penados por la ley. Nadie
+podrá utilizar los actos públicos de expresión de esta libertad con
+fines políticos, de proselitismo o de propaganda política.
+
 
 El Congreso no puede dictar leyes que establezcan o prohiban religión
 alguna.
@@ -11559,6 +11564,33 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 diez de junio de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.\ **
+**
+
+DECRETO por el que se reforma el artículo 24 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 19 de julio de 2013
+
+**Artículo Único**. Se reforma el primer párrafo del artículo 24 de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+……….
+
+Transitorio
+
+**Único.** El presente Decreto entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 19 de junio de 2013.- Sen. **Ernesto Cordero Arroyo**,
+Presidente.- Dip. **Cristina González Cruz**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+diez de julio de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
 Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
 .. figure:: ../ima/h_line.gif
