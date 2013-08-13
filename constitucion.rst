@@ -1720,19 +1720,21 @@ relativas a obras o trabajos de explotación de los minerales y
 substancias a que se refiere el párrafo cuarto, regularán la ejecución y
 comprobación de los que se efectúen o deban efectuarse a partir de su
 vigencia, independientemente de la fecha de otorgamiento de las
-concesiones, y su inobservancia dará lugar a la cancelación de éstas. El
-Gobierno Federal tiene la facultad de establecer reservas nacionales y
+concesiones, y su inobservancia dará lugar a la cancelación de éstas. No
+se otorgarán conseciones ni contratos respecto de minerales radioactivos.
+El Gobierno Federal tiene la facultad de establecer reservas nacionales y
 suprimirlas. Las declaratorias correspondientes se harán por el
 Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose
 del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos
-o de minerales radioactivos, no se otorgarán concesiones ni contratos,
-ni subsistirán los que en su caso se hayan otorgado y la Nación llevará
-a cabo la explotación de esos productos, en los términos que señale la
-Ley Reglamentaria respectiva. Corresponde exclusivamente a la Nación
-generar, conducir, transformar, distribuir y abastecer energía eléctrica
-que tenga por objeto la prestación de servicio público. En esta materia
-no se otorgarán concesiones a los particulares y la Nación aprovechará
-los bienes y recursos naturales que se requieran para dichos fines.
+no se expedirán concesiones y la Ley Reglamentaria respectiva
+determinará la forma en que la Nación llevará a cabo las explotaciones
+de esos productos. Corresponde exclusivamente a la Nación el control del
+sistema eléctrico nacional, así como el servicio público de transmisión y
+distribución de energía eléctrica; en dichas actividades no se otorgarán
+concesiones, sin perjuicio de que el Estado pueda celebrar contratos con
+particulares en los términos que establezcan las leyes, mismas que
+determinarán la forma en que podrán participar en las actividades de la
+industria eléctrica.
 
 Párrafo reformado DOF 09-11-1940, 20-01-1960, 06-02-1975, 11-06-2013
 
@@ -2111,7 +2113,9 @@ términos del artículo 25 de esta Constitución; el Estado al ejercer en
 ellas su rectoría, protegerá la seguridad y la soberanía de la Nación, y
 al otorgar concesiones o permisos mantendrá o establecerá el dominio de
 las respectivas vías de comunicación de acuerdo con las leyes de la
-materia.
+materia. Tratándose de electricidad, petróleo y demás hidrocarburos, se
+estará a lo dispuesto por el artículo 27 párrafo sexto de esta
+Constitución.
 
 Párrafo reformado DOF 20-08-1993, 02-03-1995
 
