@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 19-07-2013
+Última reforma publicada DOF 30-09-2013
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
@@ -2794,16 +2794,25 @@ impliquen sumisión a un Estado extranjero, y
 
 **I.** Por aceptar o usar títulos nobiliarios de gobiernos extranjeros;
 
-**II.** Por prestar voluntariamente servicios oficiales a un gobierno
-extranjero sin permiso del Congreso Federal o de su Comisión Permanente;
+**II.** Por prestar voluntariamente servicios o funciones oficiales a un
+gobierno extranjero, sin permiso del Ejecutivo Federal;
+
+Fracción reformada DOF 30-09-2013
 
 **III.** Por aceptar o usar condecoraciones extranjeras sin permiso del
-Congreso Federal o de su Comisión Permanente;
+Ejecutivo Federal.
+
+El Presidente de la República, los senadores y diputados al Congreso de
+la Unión y los ministros de la Suprema Corte de Justicia de la Nación
+podrán libremente aceptar y usar condecoraciones extranjeras;
+
+Fracción reformada DOF 30-09-2013
 
 **IV.** Por admitir del gobierno de otro país títulos o funciones sin
-previa licencia del Congreso Federal o de su Comisión Permanente,
-exceptuando los títulos literarios, científicos o humanitarios que
-pueden aceptarse libremente;
+previo permiso del Ejecutivo Federal, exceptuando los títulos
+literarios, científicos o humanitarios que pueden aceptarse libremente;
+
+Fracción reformada DOF 30-09-2013
 
 **V.** Por ayudar, en contra de la Nación, a un extranjero, o a un
 gobierno extranjero, en cualquier reclamación diplomática o ante un
@@ -2811,11 +2820,9 @@ tribunal internacional, y
 
 **VI.** En los demás casos que fijan las leyes.
 
-En el caso de las fracciones II a IV de este apartado, el Congreso de la
-Unión establecerá en la ley reglamentaria respectiva, los casos de
-excepción en los cuales los permisos y licencias se entenderán
-otorgados, una vez transcurrido el plazo que la propia ley señale, con
-la sola presentación de la solicitud del interesado.
+(Se deroga el último párrafo del Apartado C)
+
+Párrafo derogado DOF 30-09-2013
 
 Fe de erratas al artículo DOF 06-02-1917. Artículo reformado DOF
 18-01-1934, 20-03-1997
@@ -12841,7 +12848,40 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 diez de julio de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
-Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.\ **
+**
+
+DECRETO por el que se reforma el artículo 37 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 30 de septiembre de
+2013
+
+**Artículo Único.** Se reforman las fracciones II, III y IV, y se
+suprime el último párrafo del apartado C) del artículo 37 de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+………
+
+TRANSITORIOS
+
+**PRIMERO.** El presente decreto entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Quedará sin efecto toda disposición que contravenga el
+presente Decreto.
+
+México, D.F., a 24 de julio de 2013.- Sen. **Ernesto Cordero Arroyo**,
+Presidente.- Dip. **Cristina González Cruz**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+veintiséis de septiembre de dos mil trece.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.\ **
 
 .. figure:: ../ima/h_line.gif
    :align: center
