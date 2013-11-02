@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 30-09-2013
+Última reforma publicada DOF 08-10-2013
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
@@ -4072,31 +4072,35 @@ enajenación de terrenos baldíos y el precio de estos.
 **XX.** Para expedir las leyes de organización del Cuerpo Diplomático y
 del Cuerpo Consular mexicano.
 
-**XXI.** Para establecer los delitos y las faltas contra la Federación y
-fijar los castigos que por ellos deban imponerse; expedir leyes
-generales en materias de secuestro, y trata de personas, que
-establezcan, como mínimo, los tipos penales y sus sanciones, la
-distribución de competencias y las formas de coordinación entre la
-Federación, el Distrito Federal, los Estados y los Municipios; así como
-legislar en materia de delincuencia organizada.
+**XXI.** Para expedir:
 
-Párrafo reformado DOF 18-06-2008, 04-05-2009, 14-07-2011
+**a)** Las leyes generales en materias de secuestro y trata de personas,
+que establezcan como mínimo, los tipos penales y sus sanciones.
 
-Las autoridades federales podrán conocer también de los delitos del
-fuero común, cuando éstos tengan conexidad con delitos federales o
-delitos contra periodistas, personas o instalaciones que afecten,
-limiten o menoscaben el derecho a la información o las libertades de
-expresión o imprenta.
+Las leyes generales contemplarán también la distribución de competencias
+y las formas de coordinación entre la Federación, las entidades
+federativas, el Distrito Federal y los municipios;
 
-Párrafo reformado DOF 25-06-2012
+**b)** La legislación que establezca los delitos y las faltas contra la
+Federación y las penas y sanciones que por ellos deban imponerse; así
+como legislar en materia de delincuencia organizada;
+
+**c)** La legislación única en materia procedimental penal, de
+mecanismos alternativos de solución de controversias y de ejecución de
+penas que regirá en la República en el orden federal y en el fuero
+común.
+
+Las autoridades federales podrán conocer de los delitos del fuero común,
+cuando éstos tengan conexidad con delitos federales o delitos contra
+periodistas, personas o instalaciones que afecten, limiten o menoscaben
+el derecho a la información o las libertades de expresión o imprenta.
 
 En las materias concurrentes previstas en esta Constitución, las leyes
 federales establecerán los supuestos en que las autoridades del fuero
 común podrán conocer y resolver sobre delitos federales;
 
-Párrafo adicionado DOF 28-11-2005
-
-Fracción reformada DOF 03-07-1996
+Fracción reformada DOF 03-07-1996, 28-11-2005, 18-06-2008, 04-05-2009,
+14-07-2011, 25-06-2012, 08-10-2013
 
 **XXII.** Para conceder amnistías por delitos cuyo conocimiento
 pertenezca a los tribunales de la Federación.
@@ -4116,6 +4120,16 @@ gestión, control y evaluación de los Poderes de la Unión y de los entes
 públicos federales;
 
 Fracción reformada DOF 30-07-1999
+
+(Se elimina del artículo la anterior fracción XXV)
+
+Fracción derogada (se elimina del artículo y se recorren las demás en su
+orden) DOF 20-08-1928
+
+(Se elimina del artículo la anterior fracción XXVI)
+
+Fracción derogada (se elimina del artículo y se recorren las demás en su
+orden) DOF 20-08-1928
 
 **XXV.** Para establecer el Servicio Profesional docente en términos del
 artículo 3o. de esta Constitución; establecer, organizar y sostener en
@@ -12882,6 +12896,55 @@ del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintiséis de septiembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.\ **
+**
+
+DECRETO por el que se reforma la fracción XXI del artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 8 de octubre de 2013
+
+**ARTÍCULO ÚNICO.** Se reforma la fracción XXI del artículo 73, de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+………
+
+TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación de conformidad con las
+disposiciones previstas en los artículos siguientes.
+
+**SEGUNDO.** La legislación única en las materias procedimental penal,
+de mecanismos alternativos de solución de controversias y de ejecución
+de penas que expida el Congreso de la Unión conforme al presente
+Decreto, entrará en vigor en toda la República a más tardar el día
+dieciocho de junio de dos mil dieciséis.
+
+La legislación vigente en las materias procedimental penal, de
+mecanismos alternativos de solución de controversias y de ejecución de
+penas expedida por el Congreso de la Unión, las legislaturas de los
+Estados y la Asamblea Legislativa del Distrito Federal continuará en
+vigor hasta que inicie la vigencia de la legislación que respecto de
+cada una de dichas materias expida el Congreso de la Unión conforme al
+presente Decreto.
+
+**TERCERO.** Los procedimientos penales iniciados con anterioridad a la
+entrada en vigor de la legislación procedimental penal que establece el
+presente Decreto, serán concluidos conforme a las disposiciones vigentes
+al momento de iniciarse dichos procedimientos.
+
+México, D.F., a 5 de septiembre de 2013.- Dip. **Ricardo Anaya Cortes**,
+Presidente.- Sen. **Raúl Cervantes Andrade**, Presidente.- Dip. **Javier
+Orozco Gomez**, Secretario.- Sen. **Lilia Guadalupe Merodio Reza**,
+Secretaria.- Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+tres de octubre de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
 .. figure:: ../ima/h_line.gif
    :align: center
