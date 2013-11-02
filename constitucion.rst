@@ -9031,12 +9031,10 @@ Lo que hónrome en comunicar a usted para su publicación y demás efectos.
 Constitución y Reformas.- México, cinco de febrero de mil novecientos
 diez y siete.- AGUIRRE BERLANGA.
 
-Al Ciudadano ……\ **
-**
+Al Ciudadano ……
 
-.. figure:: ../ima/h_line.gif
-   :align: center
-   :alt:
+**
+** |image8|
 
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
@@ -12954,3 +12952,4 @@ Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 .. |image5| image:: ../ima/bt_mensaj_f1.gif
 .. |image6| image:: ../ima/aumentar.gif
 .. |image7| image:: ../ima/disminuir.gif
+.. |image8| image:: ../ima/h_line.gif
