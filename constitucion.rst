@@ -3348,9 +3348,7 @@ proporcional, mediante el Sistema de Listas Regionales, votadas en
 circunscripcionales **(sic DOF 15-12-1986)** plurinominales.
 
 Artículo reformado DOF 20-08-1928, 30-12-1942, 11-06-1951, 20-12-1960,
-14-02-1972, 08-10-1974, 06-12-1977,
-
-15-12-1986
+14-02-1972, 08-10-1974, 06-12-1977, 15-12-1986
 
 **Artículo 53.** La demarcación territorial de los 300 distritos
 electorales uninominales será la que resulte de dividir la población
@@ -3952,12 +3950,10 @@ Federación.
 **VI.** Derogada;
 
 Fracción reformada DOF 20-08-1928 (2 reformas), 15-12-1934, 14-12-1940,
-21-09-1944, 19-02-1951. Fe de erratas DOF
+21-09-1944, 19-02-1951. Fe de erratas DOF 14-03-1951.
 
-14-03-1951. Reformada DOF 08-10-1974, 06-12-1977, 28-12-1982,
-10-08-1987, 06-04-1990, 25-10-1993. Derogada DOF
-
-22-08-1996
+Reformada DOF 08-10-1974, 06-12-1977, 28-12-1982, 10-08-1987,
+06-04-1990, 25-10-1993. Derogada DOF 22-08-1996
 
 **VII.** Para imponer las contribuciones necesarias a cubrir el
 Presupuesto.
@@ -3994,9 +3990,9 @@ financieros, energía eléctrica y nuclear y para expedir las leyes del
 trabajo reglamentarias del artículo 123;
 
 Fracción reformada DOF 06-09-1929, 27-04-1933, 18-01-1934, 18-01-1935,
-14-12-1940, 24-10-1942, 18-11-1942,
+14-12-1940, 24-10-1942, 18-11-1942, 29-12-1947,
 
-29-12-1947, 06-02-1975, 17-11-1982, 20-08-1993, 20-07-2007
+06-02-1975, 17-11-1982, 20-08-1993, 20-07-2007
 
 **XI.** Para crear y suprimir empleos públicos de la Federación y
 señalar, aumentar o disminuir sus dotaciones.
@@ -4152,10 +4148,9 @@ autor y otras figuras de la propiedad intelectual relacionadas con la
 misma;
 
 Fracción reformada DOF 08-07-1921. Recorrida (antes fracción XXVII) por
-derogación de fracciones XXV y XXVI DOF
+derogación de fracciones XXV y XXVI DOF 20-08-1928.
 
-20-08-1928. Reformada DOF 13-12-1934, 13-01-1966, 21-09-2000,
-30-04-2009, 26-02-2013
+Reformada DOF 13-12-1934, 13-01-1966, 21-09-2000, 30-04-2009, 26-02-2013
 
 **XXVI.** Para conceder licencia al Presidente de la República y para
 constituirse en Colegio Electoral y designar al ciudadano que deba
@@ -4164,9 +4159,9 @@ interino o substituto, en los términos de los artículos 84 y 85 de esta
 Constitución;
 
 Fracción recorrida (antes fracción XXVIII) por derogación de fracciones
-XXV y XXVI DOF 20-08-1928. Reformada DOF
+XXV y XXVI DOF 20-08-1928. Reformada DOF 29-04-1933,
 
-29-04-1933, 09-08-2012
+09-08-2012
 
 **XXVII.** Para aceptar la renuncia del cargo de Presidente de la
 República.
@@ -4182,9 +4177,9 @@ los órganos político-administrativos de sus demarcaciones territoriales,
 a fin de garantizar su armonización a nivel nacional;
 
 Fracción recorrida (antes fracción XXX) por derogación de fracciones XXV
-y XXVI DOF 20-08-1928. Derogada DOF
+y XXVI DOF 20-08-1928. Derogada DOF 06-12-1977.
 
-06-12-1977. Adicionada DOF 07-05-2008
+Adicionada DOF 07-05-2008
 
 **XXIX.** Para establecer contribuciones:
 
@@ -4884,9 +4879,9 @@ ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a
 que se refiere la fracción IV del presente artículo.
 
 Artículo reformado DOF 24-11-1923, 20-08-1928, 29-04-1933, 21-10-1966,
-06-07-1971, 08-10-1974, 08-02-1985,
+06-07-1971, 08-10-1974, 08-02-1985, 10-08-1987,
 
-10-08-1987, 25-10-1993, 31-12-1994, 30-07-1999
+25-10-1993, 31-12-1994, 30-07-1999
 
 Capítulo III
 
@@ -5337,9 +5332,9 @@ provisional o interino.
 Párrafo adicionado DOF 31-12-1994. Reformado DOF 06-06-2011
 
 Artículo reformado DOF 20-08-1928, 15-12-1934, 21-09-1944, 19-02-1951.
-Fe de erratas DOF 14-03-1951. Reformado DOF
+Fe de erratas DOF 14-03-1951. Reformado DOF 25-10-1967,
 
-25-10-1967, 28-12-1982, 10-08-1987
+28-12-1982, 10-08-1987
 
 **Artículo 95.** Para ser electo ministro de la Suprema Corte de
 Justicia de la Nación, se necesita:
@@ -5477,9 +5472,7 @@ del término de dos años.
 Párrafo adicionado DOF 22-08-1996
 
 Artículo reformado DOF 20-08-1928, 19-02-1951. Fe de erratas al artículo
-DOF 14-03-1951. Reformado DOF 25-10-1967,
-
-31-12-1994
+DOF 14-03-1951. Reformado DOF 25-10-1967, 31-12-1994
 
 **Artículo 99.** El Tribunal Electoral será, con excepción de lo
 dispuesto en la fracción II del artículo 105 de esta Constitución, la
@@ -5695,6 +5688,8 @@ Suprema Corte de Justicia, únicamente para verificar que hayan sido
 adoptadas conforme a las reglas que establezca la ley orgánica
 respectiva.
 
+Párrafo reformado DOF 11-06-1999
+
 La Suprema Corte de Justicia elaborará su propio presupuesto y el
 Consejo lo hará para el resto del Poder Judicial de la Federación, sin
 perjuicio de lo dispuesto en el párrafo séptimo del artículo 99 de esta
@@ -5873,7 +5868,7 @@ del Distrito Federal o las legislaturas de las entidades federativas.
 
 Párrafo adicionado DOF 10-06-2011
 
-Apartado adicionado DOF 28-01-1992. Reformado 13-09-1999
+Apartado B adicionado DOF 28-01-1992. Reformado 13-09-1999
 
 Artículo reformado DOF 11-09-1940, 25-10-1967
 
@@ -5934,9 +5929,7 @@ y
 Consular.
 
 Artículo reformado DOF 18-01-1934, 30-12-1946, 25-10-1967, 08-10-1974,
-10-08-1987, 25-10-1993, 31-12-1994,
-
-06-06-2011
+10-08-1987, 25-10-1993, 31-12-1994, 06-06-2011
 
 **Artículo 105.** La Suprema Corte de Justicia de la Nación conocerá, en
 los términos que señale la ley reglamentaria, de los asuntos siguientes:
@@ -7036,9 +7029,7 @@ Fracción derogada DOF 17-03-1987
 Fracción derogada DOF 17-03-1987
 
 Artículo reformado DOF 20-08-1928, 29-04-1933, 08-01-1943, 12-02-1947,
-17-10-1953, 06-02-1976, 06-12-1977,
-
-03-02-1983
+17-10-1953, 06-02-1976, 06-12-1977, 03-02-1983
 
 **Artículo 116.** El poder público de los estados se dividirá, para su
 ejercicio, en Ejecutivo, Legislativo y Judicial, y no podrán reunirse
@@ -7872,9 +7863,7 @@ realización de acciones que acuerden los integrantes de las comisiones.
 para los Estados se aplicarán para las autoridades del Distrito Federal.
 
 Artículo reformado DOF 25-10-1993, 31-12-1994. Fe de erratas al artículo
-DOF 03-01-1995. Artículo reformado DOF
-
-22-08-1996
+DOF 03-01-1995. Artículo reformado DOF 22-08-1996
 
 Título Sexto
 
@@ -8744,9 +8733,7 @@ adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas
 de los Estados.
 
 Párrafo reformado (se suprime la última oración, la cual se reforma y
-adiciona para quedar como segundo párrafo) DOF
-
-21-10-1966
+adiciona para quedar como segundo párrafo) DOF 21-10-1966
 
 El Congreso de la Unión o la Comisión Permanente en su caso, harán el
 cómputo de los votos de las Legislaturas y la declaración de haber sido
