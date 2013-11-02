@@ -1673,7 +1673,7 @@ nacional, en la extensión y términos que fije el Derecho Internacional.
 Párrafo reformado DOF 20-01-1960
 
 Son propiedad de la Nación las aguas de los mares territoriales en la
-extensión y términos que fije **(el, sic DOF 20-01-1960)** Derecho
+extensión y términos que fije **(sic DOF 20-01-1960)**\ Derecho
 Internacional; las aguas marinas interiores; las de las lagunas y
 esteros que se comuniquen permanente o intermitentemente con el mar; las
 de los lagos interiores de formación natural que estén ligados
@@ -1681,9 +1681,9 @@ directamente a corrientes constantes; las de los ríos y sus afluentes
 directos o indirectos, desde el punto del cauce en que se inicien las
 primeras aguas permanentes, intermitentes o torrenciales, hasta su
 desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional;
-las de las corrientes constantes o interminentes **(intermitentes, sic
-DOF 20-01-1960)** y sus afluentes directos o indirectos, cuando el cauce
-de aquéllas en toda su extensión o en parte de ellas, sirva de límite al
+las de las corrientes constantes o interminentes **(sic DOF
+20-01-1960)**\ y sus afluentes directos o indirectos, cuando el cauce de
+aquéllas en toda su extensión o en parte de ellas, sirva de límite al
 territorio nacional o a dos entidades federativas, o cuando pase de una
 entidad federativa a otra o cruce la línea divisoria de la República; la
 de los lagos, lagunas o esteros cuyos vasos, zonas o riberas, estén
@@ -2029,9 +2029,9 @@ graves para el interés público.
 
 **XIX.** Con base en esta Constitución, el Estado dispondrá las medidas
 para la expedita y honesta impartición de la justicia agraria, con
-objeto de garantizar la seguridad jurídica en la tenencia de le **(la,
-sic DOF 03-02-1983)** tierra ejidal, comunal y de la pequeña propiedad,
-y apoyará la asesoría legal de los campesinos.
+objeto de garantizar la seguridad jurídica en la tenencia de le **(sic
+DOF 03-02-1983)** tierra ejidal, comunal y de la pequeña propiedad, y
+apoyará la asesoría legal de los campesinos.
 
 Son de jurisdicción federal todas las cuestiones que por límites de
 terrenos ejidales y comunales, cualquiera que sea el origen de éstos, se
@@ -2073,9 +2073,9 @@ Fracción adicionada DOF 03-02-1983
 Artículo reformado DOF 10-01-1934
 
 **Artículo 28.** En los Estados Unidos Mexicanos quedan prohibidos los
-monopolios, la **(las, sic DOF 03-02-1983)** prácticas monopólicas, los
+monopolios, la **(sic DOF 03-02-1983)** prácticas monopólicas, los
 estancos y las exenciones de impuestos en los términos y condiciones que
-fijan las leyes. El mismo tratamiento se dará a ls **(las, sic DOF
+fijan las leyes. El mismo tratamiento se dará a ls **(sic DOF
 03-02-1983)** prohibiciones a título de protección a la industria.
 
 En consecuencia, la ley castigará severamente, y las autoridades
@@ -2148,10 +2148,10 @@ escalonamiento provean al ejercicio autónomo de sus funciones; sólo
 podrán ser removidas por causa grave y no podrán tener ningún otro
 empleo, cargo o comisión, con excepción de aquéllos que actúen en
 representación del banco y de los no remunerados en asociaciones
-docentes, científicas, culturales o de beneficiencia **(beneficencia,
-sic DOF 20-08-1993)**. Las personas encargadas de la conducción del
-banco central, podrán ser sujetos de juicio político conforme a lo
-dispuesto por el artículo 110 de esta Constitución.
+docentes, científicas, culturales o de beneficiencia **(sic DOF
+20-08-1993)**. Las personas encargadas de la conducción del banco
+central, podrán ser sujetos de juicio político conforme a lo dispuesto
+por el artículo 110 de esta Constitución.
 
 Párrafo adicionado DOF 20-08-1993. Fe de erratas DOF 23-08-1993
 
@@ -3286,8 +3286,8 @@ I del artículo 105 de esta Constitución.
 
 Artículo reformado DOF 17-03-1987, 08-12-2005, 15-10-2012
 
-**Artículo 47.** El Estado del **(de, sic DOF 05-02-1917)** Nayarit
-tendrá la extensión territorial y límites que comprende actualmente el
+**Artículo 47.** El Estado del **(sic DOF 05-02-1917)** Nayarit tendrá
+la extensión territorial y límites que comprende actualmente el
 Territorio de Tepic.
 
 Artículo original DOF 05-02-1917
@@ -3345,8 +3345,7 @@ diputados electos según el principio de votación mayoritaria relativa,
 mediante el sistema de distritos electorales uninominales, y 200
 diputados que serán electos según el principio de representación
 proporcional, mediante el Sistema de Listas Regionales, votadas en
-circunscripcionales **(circunscripciones, sic DOF 15-12-1986)**
-plurinominales.
+circunscripcionales **(sic DOF 15-12-1986)** plurinominales.
 
 Artículo reformado DOF 20-08-1928, 30-12-1942, 11-06-1951, 20-12-1960,
 14-02-1972, 08-10-1974, 06-12-1977,
@@ -3825,7 +3824,7 @@ Inciso reformado DOF 17-08-2011
 
 **C.** El proyecto de ley o decreto desechado en todo o en parte por el
 Ejecutivo, será devuelto, con sus observaciones, a la Cámara de su
-origen. Deberá ser discutido de nuevo por ésta,, **(, sic DOF
+origen. Deberá ser discutido de nuevo por ésta,, **(sic DOF
 05-02-1917)** y si fuese confirmado por las dos terceras partes del
 número total de votos, pasará otra vez a la Cámara revisora. Si por esta
 fuese sancionado por la misma mayoría, el proyecto será ley o decreto y
@@ -3883,7 +3882,7 @@ que se pasen a la Comisión dictaminadora sin que ésta rinda dictamen,
 pues en tal caso el mismo proyecto de ley o decreto puede presentarse y
 discutirse en la otra Cámara.
 
-**I *(J, sic DOF 24-11-1923)*.** El Ejecutivo de la Unión no puede hacer
+**I (sic DOF 24-11-1923).** El Ejecutivo de la Unión no puede hacer
 observaciones a las resoluciones del Congreso o de alguna de las
 Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo
 mismo que cuando la Cámara de Diputados declare que debe acusarse a uno
@@ -5180,8 +5179,8 @@ estarán a cargo de las Secretarías de Estado y definirá las bases
 generales de creación de las entidades paraestatales y la intervención
 del Ejecutivo Federal en su operación.
 
-La **(Las, sic DOF 02-08-2007)** leyes determinarán las relaciones entre
-las entidades paraestatales y el Ejecutivo Federal, o entre éstas y las
+La **(sic DOF 02-08-2007)** leyes determinarán las relaciones entre las
+entidades paraestatales y el Ejecutivo Federal, o entre éstas y las
 Secretarías de Estado.
 
 Artículo reformado DOF 21-04-1981, 02-08-2007
@@ -6649,9 +6648,8 @@ como corresponda.
 
 Párrafo reformado DOF 31-12-1994
 
-Las declaraciones y resoluciones de la **(las, sic DOF 28-12-1982)**
-Cámaras de Diputados **(y, sic DOF 28-12-1982)** Senadores son
-inatacables.
+Las declaraciones y resoluciones de la **(sic DOF 28-12-1982)** Cámaras
+de Diputados **(sic DOF 28-12-1982)** Senadores son inatacables.
 
 El efecto de la declaración de que ha lugar a proceder contra el
 inculpado será separarlo de su encargo en tanto esté sujeto a proceso
@@ -6768,8 +6766,8 @@ integrantes, podrán suspender ayuntamientos, declarar que éstos han
 desaparecido y suspender o revocar el mandato a alguno de sus miembros,
 por alguna de las causas graves que la ley local prevenga, siempre y
 cuando sus miembros hayan tenido oportunidad suficiente para rendir las
-pruebas y hacerlos **(hacer los, sic DOF 03-02-1983)** alegatos que a su
-juicio convengan.
+pruebas y hacerlos **(sic DOF 03-02-1983)** alegatos que a su juicio
+convengan.
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido
 por su suplente, o se procederá según lo disponga la ley.
@@ -7170,10 +7168,10 @@ competencia y antecedentes en otras ramas de la profesión jurídica.
 
 Párrafo derogado (se recorren los demás en su orden) DOF 31-12-1994
 
-Los magistrados durarán en el ejercicio de su encargado **(encargo, sic
-DOF 17-03-1987)** el tiempo que señalen las Constituciones Locales,
-podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus
-puestos en los términos que determinen las Constituciones y las Leyes de
+Los magistrados durarán en el ejercicio de su encargado **(sic DOF
+17-03-1987)** el tiempo que señalen las Constituciones Locales, podrán
+ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos
+en los términos que determinen las Constituciones y las Leyes de
 Responsabilidades de los Servidores Públicos de los Estados.
 
 Los magistrados y los jueces percibirán una remuneración adecuada e
@@ -7319,11 +7317,11 @@ aduanas locales, requiera inspección o registro de bultos o exija
 documentación que acompañe la mercancía.
 
 **VII.** Expedir ni mantener en vigor leyes o disposiciones fiscales que
-importen diferencias de impues **(impuestos, sic DOF 05-02-1917)** o
-requisitos por razón de la procedencia de mercancías nacionales o
-extranjeras, ya sea que esta diferencia se establezca respecto de la
-producción similar de la localidad, o ya entre producciones semejantes
-de distinta procedencia.
+importen diferencias de impues **(sic DOF 05-02-1917)** o requisitos por
+razón de la procedencia de mercancías nacionales o extranjeras, ya sea
+que esta diferencia se establezca respecto de la producción similar de
+la localidad, o ya entre producciones semejantes de distinta
+procedencia.
 
 **VIII.** Contraer directa o indirectamente obligaciones o empréstitos
 con gobiernos de otras naciones, con sociedades o particulares
@@ -7424,7 +7422,7 @@ sido citada personalmente para ocurrir al juicio.
 tendrán validez en los otros.
 
 **V.** Los títulos profesionales expedidos por las autoridades de un
-Estado, con sujeción a sus leyes, serás **(serán, sic DOF 05-02-1917)**
+Estado, con sujeción a sus leyes, serás **(sic DOF 05-02-1917)**
 respetados en los otros.
 
 Artículo original DOF 05-02-1917
@@ -8025,10 +8023,10 @@ situadas fuera de las poblaciones, están obligadas a establecer
 escuelas, enfermerías y demás servicios necesarios a la comunidad.
 
 Además, en esos mismos centros de trabajo, cuando su población exceda de
-dosicentos **(doscientos, sic DOF 09-01-1978)** habitantes, deberá
-reservarse un espacio de terreno, que no será menor de cinco mil metros
-cuadrados, para el establecimiento de mercados públicos, instalación de
-edificios destinados a los servicios municipales y centros recreativos.
+dosicentos **(sic DOF 09-01-1978)** habitantes, deberá reservarse un
+espacio de terreno, que no será menor de cinco mil metros cuadrados,
+para el establecimiento de mercados públicos, instalación de edificios
+destinados a los servicios municipales y centros recreativos.
 
 Párrafo adicionado DOF 09-01-1978
 
@@ -8100,12 +8098,12 @@ patronos, y uno del Gobierno.
 
 **XXI.** Si el patrono se negare a someter sus diferencias al arbitraje
 o a aceptar el laudo pronunciado por la Junta, se dará por terminado el
-contrato de trabajo y quedará abligado **(obligado, sic DOF
-21-11-1962)** a indemnizar al obrero con el importe de tres meses de
-salario, además de la responsabilidad que le resulte del conflicto. Esta
-disposición no será aplicable en los casos de las acciones consignadas
-en la fracción siguiente. Si la negativa fuere de los trabajadores, se
-dará por terminado el contrato de trabajo.
+contrato de trabajo y quedará abligado **(sic DOF 21-11-1962)** a
+indemnizar al obrero con el importe de tres meses de salario, además de
+la responsabilidad que le resulte del conflicto. Esta disposición no
+será aplicable en los casos de las acciones consignadas en la fracción
+siguiente. Si la negativa fuere de los trabajadores, se dará por
+terminado el contrato de trabajo.
 
 Fracción reformada DOF 21-11-1962
 
@@ -8121,8 +8119,7 @@ servicio por falta de probidad del patrono o por recibir de él malos
 tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos
 o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando
 los malos tratamientos provengan de dependientes o familiares que obren
-con el consentimieto **(consentimiento, sic DOF 21-11-1962)** o
-tolerancia de él.
+con el consentimieto **(sic DOF 21-11-1962)** o tolerancia de él.
 
 Fracción reformada DOF 21-11-1962
 
@@ -8345,9 +8342,8 @@ represente la única fuente de ingreso en su familia;
 
 Fracción reformada DOF 31-12-1974
 
-**XI *(IX, sic 05-12-1960)*.** Los trabajadores sólo podrán ser
-suspendidos o cesados por causa justificada, en los términos que fije la
-ley.
+**XI (sic 05-12-1960).** Los trabajadores sólo podrán ser suspendidos o
+cesados por causa justificada, en los términos que fije la ley.
 
 En caso de separación injustificada tendrá derecho a optar por la
 reinstalación en su trabajo o por la indemnización correspondiente,
