@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 20-12-2013
+Últimas reformas publicadas DOF 27-12-2013
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
@@ -4392,6 +4392,13 @@ Fracción adicionada DOF 12-10-2011
 populares.
 
 Fracción adicionada DOF 09-08-2012
+
+**XXIX-R.-** Para expedir la ley general que armonice y homologue la
+organización y el funcionamiento de los registros públicos inmobiliarios
+y de personas morales de las entidades federativas y los catastros
+municipales;
+
+Fracción adicionada DOF 27-12-2013
 
 **XXX.** Para expedir todas las leyes que sean necesarias, a objeto de
 hacer efectivas las facultades anteriores, y todas las otras concedidas
@@ -13744,6 +13751,48 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinte de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.\ **
+**
+
+DECRETO por el que se adiciona una fracción XXIX-R al artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 27 de diciembre de
+2013
+
+**Artículo Único.-** Se adiciona una fracción XXIX-R al artículo 73 de
+la Constitución Política de los Estados Unidos Mexicanos, para quedar
+como sigue:
+
+………
+
+Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de
+su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El Congreso de la Unión expedirá la ley general
+correspondiente en un plazo no mayor a 180 días a partir de la entrada
+en vigor del presente Decreto. Para ello, solicitará previamente la
+opinión de las entidades federativas.
+
+**Tercero.-** Las Legislaturas de las Entidades Federativas adecuarán
+las legislaciones correspondientes a lo dispuesto en el presente Decreto
+y a la ley general que apruebe el Congreso de la Unión en un plazo no
+mayor a 60 días a partir de la entrada en vigor de dicha ley general.
+
+México, D.F., a 31 de octubre de 2013.- Sen. **Raúl Cervantes Andrade**,
+Presidente.- Dip. **Ricardo Anaya Cortés**, Presidente.- Sen. **Lilia
+Guadalupe Merodio Reza**, Secretaria.- Dip. **Javier Orozco Gómez**,
+Secretario.- Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+veintitrés de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.\ **
 Rúbrica.
 
 .. figure:: ../ima/h_line.gif
