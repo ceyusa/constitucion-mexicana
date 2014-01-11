@@ -7249,9 +7249,11 @@ haga cargo de la organización de los procesos electorales locales;
 **e)** Los partidos políticos sólo se constituyan por ciudadanos sin
 intervención de organizaciones gremiales, o con objeto social diferente
 y sin que haya afiliación corporativa. Asimismo tengan reconocido el
-derecho exclusivo para solicitar el registro de candidatos a cargos de
-elección popular, con excepción de lo dispuesto en el artículo 2o.,
-apartado A, fracciones III y VII, de esta Constitución;
+derecho para solicitar el registro de candidatos a cargos de elección
+popular, con excepción de lo dispuesto en el artículo 2°., apartado A,
+fracciones III y VII, de esta Constitución.
+
+Inciso reformado DOF 27-12-2013
 
 **f)** Las autoridades electorales solamente puedan intervenir en los
 asuntos internos de los partidos en los términos que expresamente
@@ -7305,6 +7307,13 @@ principio de definitividad de las etapas de los procesos electorales, y
 
 **n)** Se tipifiquen los delitos y determinen las faltas en materia
 electoral, así como las sanciones que por ellos deban imponerse.
+
+**o)** Se fijen las bases y requisitos para que en las elecciones los
+ciudadanos soliciten su registro como candidatos para poder ser votados
+en forma independiente a todos los cargos de elección popular, en los
+términos del artículo 35 de esta Constitución.
+
+Inciso adicionado DOF 27-12-2013
 
 Fracción adicionada DOF 22-08-1996. Reformada DOF 13-11-2007
 
@@ -7658,13 +7667,13 @@ Inciso reformado DOF 07-05-2008
 elecciones libres y auténticas, mediante sufragio universal, libre,
 secreto y directo; sujetándose a las bases que establezca el Estatuto de
 Gobierno, las cuales cumplirán los principios y reglas establecidos en
-los incisos b) al n) de la fracción IV del artículo 116 de esta
-Constitución, para lo cual las referencias que los incisos j) y m) hacen
-a gobernador, diputados locales y ayuntamientos se asumirán,
+los incisos b) al o) de la fracción IV del artículo 116 de esta
+Constitución, para lo cual las referencias que los incisos j) al m)
+hacen a gobernador, diputados locales y ayuntamientos se asumirán,
 respectivamente, para Jefe de Gobierno, diputados a la Asamblea
 Legislativa y Jefes Delegacionales;
 
-Inciso reformado DOF 13-11-2007
+Inciso reformado DOF 13-11-2007, 27-12-2013
 
 **g)** Legislar en materia de Administración Pública local, su régimen
 interno y de procedimientos administrativos;
@@ -13793,6 +13802,44 @@ del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintitrés de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.\ **
+**
+
+DECRETO por el que se reforma el inciso e) y se adiciona un inciso o) de
+la fracción IV del artículo 116; y se reforma el artículo 122, Apartado
+C, Base Primera, fracción V, inciso f) de la Constitución Política de
+los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 27 de diciembre de
+2013
+
+**ARTÍCULO PRIMERO.-** Se reforma el inciso e) y se adiciona el inciso
+o) de la fracción IV del artículo 116 de la Constitución Política de los
+Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+**ARTÍCULO SEGUNDO.-** Se reforma el artículo 122, Apartado C, BASE
+PRIMERA, fracción V, inciso f) de la Constitución Política de los
+Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+TRANSITORIO
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 28 de noviembre de 2013.- Dip. **Ricardo Anaya Cortés**,
+Presidente.- Sen. **Raúl Cervantes Andrade**, Presidente.- Dip.
+**Angelina Carreño Mijares**, Secretaria.- Sen. **María Elena Barrera
+Tapia**, Secretaria.- Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+veintitrés de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
 .. figure:: ../ima/h_line.gif
