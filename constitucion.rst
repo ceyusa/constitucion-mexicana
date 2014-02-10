@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Últimas reformas publicadas DOF 27-12-2013
+Última reforma publicada DOF 07-02-2014
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
@@ -646,10 +646,20 @@ bases:
 Párrafo reformado (para quedar como apartado A) DOF 11-06-2013
 
 **I.** Toda la información en posesión de cualquier autoridad, entidad,
-órgano y organismo federal, estatal y municipal, es pública y sólo podrá
-ser reservada temporalmente por razones de interés público en los
-términos que fijen las leyes. En la interpretación de este derecho
-deberá prevalecer el principio de máxima publicidad.
+órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial,
+órganos autónomos, partidos políticos, fideicomisos y fondos públicos,
+así como de cualquier persona física, moral o sindicato que reciba y
+ejerza recursos públicos o realice actos de autoridad en el ámbito
+federal, estatal y municipal, es pública y sólo podrá ser reservada
+temporalmente por razones de interés público y seguridad nacional, en
+los términos que fijen las leyes. En la interpretación de este derecho
+deberá prevalecer el principio de máxima publicidad. Los sujetos
+obligados deberán documentar todo acto que derive del ejercicio de sus
+facultades, competencias o funciones, la ley determinará los supuestos
+específicos bajo los cuales procederá la declaración de inexistencia de
+la información.
+
+Fracción reformada DOF 07-02-2014
 
 **II.** La información que se refiere a la vida privada y los datos
 personales será protegida en los términos y con las excepciones que
@@ -660,15 +670,20 @@ justificar su utilización, tendrá acceso gratuito a la información
 pública, a sus datos personales o a la rectificación de éstos.
 
 **IV.** Se establecerán mecanismos de acceso a la información y
-procedimientos de revisión expeditos. Estos procedimientos se
-sustanciarán ante órganos u organismos especializados e imparciales, y
-con autonomía operativa, de gestión y de decisión.
+procedimientos de revisión expeditos que se sustanciarán ante los
+organismos autónomos especializados e imparciales que establece esta
+Constitución.
+
+Fracción reformada DOF 07-02-2014
 
 **V.** Los sujetos obligados deberán preservar sus documentos en
-archivos administrativos actualizados y publicarán a través de los
+archivos administrativos actualizados y publicarán, a través de los
 medios electrónicos disponibles, la información completa y actualizada
-sobre sus indicadores de gestión y el ejercicio de los recursos
-públicos.
+sobre el ejercicio de los recursos públicos y los indicadores que
+permitan rendir cuenta del cumplimiento de sus objetivos y de los
+resultados obtenidos.
+
+Fracción reformada DOF 07-02-2014
 
 **VI.** Las leyes determinarán la manera en que los sujetos obligados
 deberán hacer pública la información relativa a los recursos públicos
@@ -679,6 +694,116 @@ información pública será sancionada en los términos que dispongan las
 leyes.
 
 Párrafo con fracciones adicionado DOF 20-07-2007
+
+**VIII.** La Federación contará con un organismo autónomo,
+especializado, imparcial, colegiado, con personalidad jurídica y
+patrimonio propio, con plena autonomía técnica, de gestión, capacidad
+para decidir sobre el ejercicio de su presupuesto y determinar su
+organización interna, responsable de garantizar el cumplimiento del
+derecho de acceso a la información pública y a la protección de datos
+personales en posesión de los sujetos obligados en los términos que
+establezca la ley.
+
+El organismo autónomo previsto en esta fracción, se regirá por la ley en
+materia de transparencia y acceso a la información pública y protección
+de datos personales en posesión de sujetos obligados, en los términos
+que establezca la ley general que emita el Congreso de la Unión para
+establecer las bases, principios generales y procedimientos del
+ejercicio de este derecho.
+
+En su funcionamiento se regirá por los principios de certeza, legalidad,
+independencia, imparcialidad, eficacia, objetividad, profesionalismo,
+transparencia y máxima publicidad.
+
+El organismo garante tiene competencia para conocer de los asuntos
+relacionados con el acceso a la información pública y la protección de
+datos personales de cualquier autoridad, entidad, órgano u organismo que
+forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial,
+órganos autónomos, partidos políticos, fideicomisos y fondos públicos,
+así como de cualquier persona física, moral o sindicatos que reciba y
+ejerza recursos públicos o realice actos de autoridad en el ámbito
+federal; con excepción de aquellos asuntos jurisdiccionales que
+correspondan a la Suprema Corte de Justicia de la Nación, en cuyo caso
+resolverá un comité integrado por tres ministros. También conocerá de
+los recursos que interpongan los particulares respecto de las
+resoluciones de los organismos autónomos especializados de los estados y
+el Distrito Federal que determinen la reserva, confidencialidad,
+inexistencia o negativa de la información, en los términos que
+establezca la ley.
+
+El organismo garante federal de oficio o a petición fundada del
+organismo garante equivalente del estado o del Distrito Federal, podrá
+conocer de los recursos de revisión que por su interés y trascendencia
+así lo ameriten.
+
+La ley establecerá aquella información que se considere reservada o
+confidencial.
+
+Las resoluciones del organismo garante son vinculatorias, definitivas e
+inatacables para los sujetos obligados. El Consejero Jurídico del
+Gobierno podrá interponer recurso de revisión ante la Suprema Corte de
+Justicia de la Nación en los términos que establezca la ley, sólo en el
+caso que dichas resoluciones puedan poner en peligro la seguridad
+nacional conforme a la ley de la materia.
+
+El organismo garante se integra por siete comisionados. Para su
+nombramiento, la Cámara de Senadores, previa realización de una amplia
+consulta a la sociedad, a propuesta de los grupos parlamentarios, con el
+voto de las dos terceras partes de los miembros presentes, nombrará al
+comisionado que deba cubrir la vacante, siguiendo el proceso establecido
+en la ley. El nombramiento podrá ser objetado por el Presidente de la
+República en un plazo de diez días hábiles. Si el Presidente de la
+República no objetara el nombramiento dentro de dicho plazo, ocupará el
+cargo de comisionado la persona nombrada por el Senado de la República.
+
+En caso de que el Presidente de la República objetara el nombramiento,
+la Cámara de Senadores nombrará una nueva propuesta, en los términos del
+párrafo anterior, pero con una votación de las tres quintas partes de
+los miembros presentes. Si este segundo nombramiento fuera objetado, la
+Cámara de Senadores, en los términos del párrafo anterior, con la
+votación de las tres quintas partes de los miembros presentes, designará
+al comisionado que ocupará la vacante.
+
+Los comisionados durarán en su encargo siete años y deberán cumplir con
+los requisitos previstos en las fracciones I, II, IV, V y VI del
+artículo 95 de esta Constitución, no podrán tener otro empleo, cargo o
+comisión, con excepción de los no remunerados en instituciones docentes,
+científicas o de beneficencia, sólo podrán ser removidos de su cargo en
+los términos del Título Cuarto de esta Constitución y serán sujetos de
+juicio político.
+
+En la conformación del organismo garante se procurará la equidad de
+género.
+
+El comisionado presidente será designado por los propios comisionados,
+mediante voto secreto, por un periodo de tres años, con posibilidad de
+ser reelecto por un periodo igual; estará obligado a rendir un informe
+anual ante el Senado, en la fecha y en los términos que disponga la ley.
+
+El organismo garante tendrá un Consejo Consultivo, integrado por diez
+consejeros, que serán elegidos por el voto de las dos terceras partes de
+los miembros presentes de la Cámara de Senadores. La ley determinará los
+procedimientos a seguir para la presentación de las propuestas por la
+propia Cámara. Anualmente serán sustituidos los dos consejeros de mayor
+antigüedad en el cargo, salvo que fuesen propuestos y ratificados para
+un segundo periodo.
+
+La ley establecerá las medidas de apremio que podrá imponer el organismo
+garante para asegurar el cumplimiento de sus decisiones.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el
+organismo garante y sus integrantes para el buen desempeño de sus
+funciones.
+
+El organismo garante coordinará sus acciones con la entidad de
+fiscalización superior de la Federación, con la entidad especializada en
+materia de archivos y con el organismo encargado de regular la
+captación, procesamiento y publicación de la información estadística y
+geográfica, así como con los organismos garantes de los estados y el
+Distrito Federal, con el objeto de fortalecer la rendición de cuentas
+del Estado Mexicano.
+
+Fracción adicionada DOF 07-02-2014
 
 **B.** En materia de radiodifusión y telecomunicaciones:
 
@@ -4400,6 +4525,21 @@ municipales;
 
 Fracción adicionada DOF 27-12-2013
 
+**XXIX-S.** Para expedir las leyes generales reglamentarias que
+desarrollen los principios y bases en materia de transparencia
+gubernamental, acceso a la información y protección de datos personales
+en posesión de las autoridades, entidades, órganos y organismos
+gubernamentales de todos los niveles de gobierno.
+
+Fracción adicionada DOF 07-02-2014
+
+**XXIX-T.** Para expedir la ley general que establezca la organización y
+administración homogénea de los archivos en los órdenes federal,
+estatal, del Distrito Federal y municipal, que determine las bases de
+organización y funcionamiento del Sistema Nacional de Archivos.
+
+Fracción adicionada DOF 07-02-2014
+
 **XXX.** Para expedir todas las leyes que sean necesarias, a objeto de
 hacer efectivas las facultades anteriores, y todas las otras concedidas
 por esta Constitución a los Poderes de la Unión.
@@ -4653,9 +4793,16 @@ Fracción adicionada DOF 08-12-2005
 
 Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012
 
-**XII.** Las demás que la misma Constitución le atribuya.
+**XII.** Nombrar a los comisionados del organismo garante que establece
+el artículo 6o. de esta Constitución, en los términos establecidos por
+la misma y las disposiciones previstas en la ley; y
 
-Fracción adicionada DOF 20-08-1928. Recorrida y reformada DOF 08-12-2005
+Fracción adicionada DOF 07-02-2014
+
+**XIII.** Las demás que la misma Constitución le atribuya.
+
+Fracción adicionada DOF 20-08-1928. Recorrida y reformada DOF
+08-12-2005. Recorrida DOF 07-02-2014
 
 **Artículo 77.** Cada una de las Cámaras puede, sin intervención de la
 otra:
@@ -5213,9 +5360,13 @@ licencias y renuncias a la aprobación del propio Senado;
 
 Fracción adicionada DOF 20-08-1928. Reformada DOF 31-12-1994
 
-**XIX.** Se deroga.
+**XIX.** Objetar los nombramientos de los comisionados del organismo
+garante que establece el artículo 6o. de esta Constitución hechos por el
+Senado de la República, en los términos establecidos en esta
+Constitución y en la ley;
 
-Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982
+Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada
+DOF 07-02-2014
 
 **XX.** Las demás que le confiere expresamente esta Constitución.
 
@@ -6027,9 +6178,11 @@ Inciso reformado DOF 11-06-2013
 
 **l)** Dos órganos constitucionales autónomos, y entre uno de éstos y el
 Poder Ejecutivo de la Unión o el Congreso de la Unión sobre la
-constitucionalidad de sus actos o disposiciones generales.
+constitucionalidad de sus actos o disposiciones generales. Lo dispuesto
+en el presente inciso será aplicable al organismo garante que establece
+el artículo 6o. de esta Constitución.
 
-Inciso adicionado DOF 11-06-2013
+Inciso adicionado DOF 11-06-2013. Reformado DOF 07-02-2014
 
 Siempre que las controversias versen sobre disposiciones generales de
 los Estados o de los municipios impugnadas por la Federación, de los
@@ -6098,6 +6251,18 @@ Derechos Humanos del Distrito Federal, en contra de leyes emitidas por
 la Asamblea Legislativa del Distrito Federal.
 
 Inciso adicionado DOF 14-09-2006. Reformado DOF 10-06-2011
+
+**h)** El organismo garante que establece el artículo 6o. de esta
+Constitución en contra de leyes de carácter federal, estatal y del
+Distrito Federal, así como de tratados internacionales celebrados por el
+Ejecutivo Federal y aprobados por el Senado de la República, que
+vulneren el derecho al acceso a la información pública y la protección
+de datos personales. Asimismo, los organismos garantes equivalentes en
+los estados de la República, en contra de leyes expedidas por las
+legislaturas locales y el órgano garante del Distrito Federal, en contra
+de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
+
+Inciso adicionado DOF 07-02-2014
 
 La única vía para plantear la no conformidad de las leyes electorales a
 la Constitución es la prevista en este artículo.
@@ -6547,12 +6712,15 @@ común.
 
 Los Gobernadores de los Estados, los Diputados a las Legislaturas
 Locales, los Magistrados de los Tribunales Superiores de Justicia
-Locales y, en su caso, los miembros de los Consejos de las Judicaturas
-Locales, serán responsables por violaciones a esta Constitución y a las
-leyes federales, así como por el manejo indebido de fondos y recursos
-federales.
+Locales, en su caso, los miembros de los Consejos de las Judicaturas
+Locales, así como los miembros de los organismos a los que las
+Constituciones Locales y el Estatuto de Gobierno del Distrito Federal
+les otorgue autonomía, serán responsables por violaciones a esta
+Constitución y a las leyes federales, así como por el manejo indebido de
+fondos y recursos federales.
 
-Párrafo reformado DOF 31-12-1994. Fe de erratas DOF 03-01-1995
+Párrafo reformado DOF 31-12-1994. Fe de erratas DOF 03-01-1995.
+Reformado DOF 07-02-2014
 
 Las Constituciones de los Estados de la República precisarán, en los
 mismos términos del primer párrafo de este artículo y para los efectos
@@ -6614,24 +6782,28 @@ los magistrados de Circuito y jueces de Distrito, los magistrados y
 jueces del Fuero Común del Distrito Federal, los Consejeros de la
 Judicatura del Distrito Federal, el consejero Presidente, los consejeros
 electorales, y el secretario ejecutivo del Instituto Federal Electoral,
-los magistrados del Tribunal Electoral, los directores generales y sus
-equivalentes de los organismos descentralizados, empresas de
-participación estatal mayoritaria, sociedades y asociaciones asimiladas
-a éstas y fideicomisos públicos.
+los magistrados del Tribunal Electoral, los comisionados del organismo
+garante establecido en el artículo 6o. constitucional, los directores
+generales y sus equivalentes de los organismos descentralizados,
+empresas de participación estatal mayoritaria, sociedades y asociaciones
+asimiladas a éstas y fideicomisos públicos.
 
-Párrafo reformado DOF 10-08-1987, 31-12-1994, 22-08-1996, 02-08-2007
+Párrafo reformado DOF 10-08-1987, 31-12-1994, 22-08-1996, 02-08-2007,
+07-02-2014
 
 Los Gobernadores de los Estados, Diputados Locales, Magistrados de los
-Tribunales Superiores de Justicia Locales y, en su caso, los miembros de
-los Consejos de las Judicaturas Locales, sólo podrán ser sujetos de
-juicio político en los términos de este título por violaciones graves a
-esta Constitución y a las leyes federales que de ella emanen, así como
-por el manejo indebido de fondos y recursos federales, pero en este caso
-la resolución será únicamente declarativa y se comunicará a las
-Legislaturas Locales para que, en ejercicio de sus atribuciones,
-procedan como corresponda.
+Tribunales Superiores de Justicia Locales, en su caso, los miembros de
+los Consejos de las Judicaturas Locales, así como los miembros de los
+organismos a los que las Constituciones Locales y el Estatuto de
+Gobierno del Distrito Federal les otorgue autonomía, sólo podrán ser
+sujetos de juicio político en los términos de este Título por
+violaciones graves a esta Constitución y a las leyes federales que de
+ella emanen, así como por el manejo indebido de fondos y recursos
+federales, pero en este caso la resolución será únicamente declarativa y
+se comunicará a las Legislaturas Locales para que, en ejercicio de sus
+atribuciones, procedan como corresponda.
 
-Párrafo reformado DOF 31-12-1994
+Párrafo reformado DOF 31-12-1994, 07-02-2014
 
 Las sanciones consistirán en la destitución del servidor público y en su
 inhabilitación para desempeñar funciones, empleos, cargos o comisiones
@@ -6661,13 +6833,15 @@ Electoral, los consejeros de la Judicatura Federal, los Secretarios de
 Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de
 Gobierno del Distrito Federal, el Procurador General de la República y
 el Procurador General de Justicia del Distrito Federal, así como el
-consejero Presidente y los consejeros electorales del Consejo General
-del Instituto Federal Electoral, por la comisión de delitos durante el
-tiempo de su encargo, la Cámara de Diputados declarará por mayoría
-absoluta de sus miembros presentes en sesión, si ha o no lugar a
-proceder contra el inculpado.
+consejero Presidente, los consejeros electorales del Consejo General del
+Instituto Federal Electoral y los comisionados del organismo garante
+establecido en el artículo 6o. constitucional, por la comisión de
+delitos durante el tiempo de su encargo, la Cámara de Diputados
+declarará por mayoría absoluta de sus miembros presentes en sesión si ha
+o no lugar a proceder contra el inculpado.
 
-Párrafo reformado DOF 10-08-1987, 31-12-1994, 22-08-1996, 02-08-2007
+Párrafo reformado DOF 10-08-1987, 31-12-1994, 22-08-1996, 02-08-2007,
+07-02-2014
 
 Si la resolución de la Cámara fuese negativa se suspenderá todo
 procedimiento ulterior, pero ello no será obstáculo para que la
@@ -6686,14 +6860,16 @@ legislación penal aplicable.
 
 Para poder proceder penalmente por delitos federales contra los
 Gobernadores de los Estados, Diputados Locales, Magistrados de los
-Tribunales Superiores de Justicia de los Estados y, en su caso, los
-miembros de los Consejos de las Judicaturas Locales, se seguirá el mismo
+Tribunales Superiores de Justicia de los Estados, en su caso los
+miembros de los Consejos de las Judicaturas Locales, y los miembros de
+los organismos a los que las Constituciones Locales y el Estatuto de
+Gobierno del Distrito Federal les otorgue autonomía se seguirá el mismo
 procedimiento establecido en este artículo, pero en este supuesto, la
 declaración de procedencia será para el efecto de que se comunique a las
 Legislaturas Locales, para que en ejercicio de sus atribuciones procedan
 como corresponda.
 
-Párrafo reformado DOF 31-12-1994
+Párrafo reformado DOF 31-12-1994, 07-02-2014
 
 Las declaraciones y resoluciones de la **(sic DOF 28-12-1982)** Cámaras
 de Diputados **(sic DOF 28-12-1982)** Senadores son inatacables.
@@ -7344,6 +7520,17 @@ o la atención de las funciones a las que se refiere el párrafo anterior.
 
 Fracción recorrida DOF 22-08-1996
 
+**VIII.** Las Constituciones de los Estados establecerán organismos
+autónomos, especializados, imparciales y colegiados, responsables de
+garantizar el derecho de acceso a la información y de protección de
+datos personales en posesión de los sujetos obligados, conforme a los
+principios y bases establecidos por el artículo 6o. de esta Constitución
+y la ley general que emita el Congreso de la Unión para establecer las
+bases, principios generales y procedimientos del ejercicio de este
+derecho.
+
+Fracción adicionada DOF 07-02-2014
+
 Artículo reformado DOF 17-03-1987
 
 **Artículo 117.** Los Estados no pueden, en ningún caso:
@@ -7712,18 +7899,35 @@ relativo a las responsabilidades de los servidores públicos de dichos
 **n)** Expedir la Ley Orgánica del Tribunal de lo Contencioso
 Administrativo para el Distrito Federal;
 
-**ñ)** Presentar iniciativas de leyes o decretos en materias relativas
-al Distrito Federal, ante el Congreso de la Unión; y
+**ñ)** Legislar en materia del derecho de acceso a la información y
+protección de datos personales en posesión de los sujetos obligados del
+Distrito Federal, así como en materia de organización y administración
+de archivos, de conformidad con las leyes generales que expida el
+Congreso de la Unión, para establecer las bases, principios generales y
+procedimientos del ejercicio de este derecho. El Distrito Federal
+contará con un organismo autónomo, imparcial y colegiado responsable de
+garantizar el derecho de acceso a la información y de protección de
+datos personales en posesión de los sujetos obligados, contará con
+personalidad jurídica y patrimonio propio, así como plena autonomía
+técnica, de gestión, y capacidad para decidir sobre el ejercicio de su
+presupuesto y su organización interna;
 
-**o)** Para establecer en ley los términos y requisitos para que los
+Inciso adicionado DOF 07-02-2014
+
+**o)** Presentar iniciativas de leyes o decretos en materias relativas
+al Distrito Federal, ante el Congreso de la Unión;
+
+Inciso reformado y recorrido DOF 07-02-2014
+
+**p)** Para establecer en ley los términos y requisitos para que los
 ciudadanos del Distrito Federal ejerzan el derecho de iniciativa ante la
-propia Asamblea, y
+propia Asamblea; y
 
-Inciso adicionado DOF 09-08-2012
+Inciso adicionado DOF 09-08-2012. Reformado y recorrido DOF 07-02-2014
 
-**p)** Las demás que se le confieran expresamente en esta Constitución.
+**q)** Las demás que se le confieran expresamente en esta Constitución.
 
-Inciso recorrido DOF 09-08-2012
+Inciso recorrido DOF 09-08-2012, 07-02-2014
 
 **BASE SEGUNDA.-** Respecto al Jefe de Gobierno del Distrito Federal:
 
@@ -13840,7 +14044,205 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintitrés de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.
+Rúbrica.\ **
+**
+
+DECRETO por el que se reforman y adicionan diversas disposiciones de la
+Constitución Política de los Estados Unidos Mexicanos, en materia de
+transparencia.
+
+Publicado en el Diario Oficial de la Federación el 7 de febrero de 2014
+
+**ARTÍCULO ÚNICO.** Se reforman las fracciones I, IV y V del apartado A,
+y se adiciona una fracción VIII al artículo 6o.; se adicionan las
+fracciones XXIX-S y XXIX-T al artículo 73; se adiciona una fracción XII
+al artículo 76 y se recorre la subsecuente; se reforma la fracción XIX
+del artículo 89; se reforma el inciso l) de la fracción I y se adiciona
+el inciso h) a la fracción II del artículo 105; se reforma el párrafo
+tercero del artículo 108; se reforman los párrafos primero y segundo del
+artículo 110; se reforman los párrafos primero y quinto del artículo
+111; se adiciona una fracción VIII al artículo 116; se adiciona un
+inciso ñ), recorriéndose los actuales incisos en su orden, a la fracción
+V, de la Base Primera del Apartado C del artículo 122, de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+……..
+
+Transitorios
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** El Congreso de la Unión deberá expedir la Ley General del
+Artículo 6o. de esta Constitución, así como las reformas que
+correspondan a la Ley Federal de Transparencia y Acceso a la Información
+Pública Gubernamental, a la Ley Federal de Datos Personales en Posesión
+de los Particulares, al Código Federal de Instituciones y Procedimientos
+Electorales, a la Ley General del Sistema de Medios de Impugnación en
+Materia Electoral y los demás ordenamientos necesarios, en un plazo de
+un año contado a partir de la fecha de publicación del presente Decreto.
+
+**TERCERO.** Los Comisionados que actualmente conforman el Instituto
+Federal de Acceso a la Información y Protección de Datos podrán formar
+parte del nuevo organismo autónomo en el ámbito federal, previa petición
+formal al Senado de la República dentro de los diez días siguientes a la
+entrada en vigor del presente Decreto únicamente por el tiempo que reste
+al nombramiento del que fueron objeto en el Instituto que se extingue,
+siempre y cuando su petición sea aprobada por el voto de las dos
+terceras partes de los Senadores presentes. En este caso, la Cámara de
+Senadores deberá resolver en un plazo de diez días, de lo contrario se
+entenderá la negativa a su petición.
+
+En tanto se integra el organismo garante que establece el artículo 6o.
+de esta Constitución, continuarán en sus funciones, conforme al orden
+jurídico vigente al entrar en vigor el presente Decreto, los
+comisionados del actual Instituto Federal de Acceso a la Información y
+Protección de Datos.
+
+La designación de los comisionados del organismo garante que se crea
+mediante la modificación del artículo 6o. constitucional materia del
+presente Decreto, será realizada a más tardar 90 días después de su
+entrada en vigor, conforme a lo siguiente:
+
+**I.** En el supuesto de que la totalidad de los comisionados del
+Instituto Federal de Acceso a la Información y Protección de Datos
+soliciten su continuidad en el cargo y obtengan la respectiva aprobación
+en los términos del párrafo primero de esta disposición transitoria,
+formarán parte del organismo garante del derecho de acceso a la
+información que se crea mediante el presente Decreto, hasta la fecha de
+terminación del período para el que fueron originariamente designados,
+conforme a lo dispuesto por el siguiente artículo transitorio.
+
+**II.** En el caso de que sólo alguna, alguno, algunas o algunos de los
+comisionados del Instituto Federal de Acceso a la Información y
+Protección de Datos soliciten continuar en el cargo y obtengan la
+aprobación a que se refiere el párrafo primero de este precepto,
+continuarán en el ejercicio del cargo en el nuevo organismo hasta el
+término de la designación que se les confirió originariamente para
+formar parte del Instituto que se extingue; asimismo, se designarán los
+comisionados a que se refieren los incisos a) y b) del siguiente
+artículo transitorio, quienes ejercerán el cargo en los periodos
+señalados en los respectivos incisos.
+
+En esta hipótesis, los comisionados que formen parte del nuevo organismo
+en virtud de que los comisionados del citado Instituto no soliciten o no
+obtengan la aprobación para continuar en esa función, tendrán los
+períodos de desempeño siguientes:
+
+**a)** Si ha fenecido el mandato de la comisionada que concluye el
+encargo el 9 de enero de 2014, el nombramiento concluirá el 31 de marzo
+de 2018;
+
+**b)** Si el nombramiento es en razón de la no continuación del
+comisionado que habría concluido el encargo el 13 de abril de 2019, el
+mismo se hará hasta esa fecha.
+
+**c)** Si el nombramiento es en razón de la no continuación del
+comisionado que habría concluido el encargo el 17 de junio de 2016, el
+mismo se hará hasta esa fecha.
+
+**d)** Si el o los nombramientos son en razón de la no continuación de
+una o de ambas comisionadas que habría o habrían concluido el encargo el
+11 de septiembre de 2016, el o los mismos se harán hasta esa fecha.
+
+**III.** En el supuesto de que ninguno de los actuales comisionados del
+Instituto Federal de Acceso a la Información y Protección de Datos
+solicite al Senado o reciba la aprobación para formar parte del
+organismo garante del derecho de acceso a la información que se crea por
+medio del presente Decreto, y para asegurar la renovación escalonada con
+motivo de los nombramientos que se realizarán, el Senado de la República
+especificará el período de ejercicio para cada comisionado, tomando en
+consideración lo siguiente:
+
+**a)** Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de
+marzo de 2018.
+
+**b)** Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de
+marzo de 2020.
+
+**c)** Nombrará a dos comisionados, cuyos mandatos concluirán el 31 de
+marzo de 2022, y
+
+**d)** Nombrará a un comisionado, cuyo mandato concluirá el 31 de marzo
+de 2023.
+
+**CUARTO.** La designación de los dos nuevos comisionados del organismo
+garante que establece el artículo 6o. de esta Constitución será
+realizada a más tardar 90 días después de la entrada en vigor de este
+Decreto.
+
+Para asegurar la renovación escalonada de los comisionados en los
+primeros nombramientos, el Senado de la República especificará el
+período de ejercicio para cada comisionado tomando en consideración lo
+siguiente:
+
+**a)** Nombrará a un comisionado, cuyo mandato concluirá el 1 de
+noviembre de 2017.
+
+**b)** Nombrará a un nuevo comisionado, cuyo mandato concluirá el 31 de
+marzo de 2020.
+
+**c)** Quien sustituya al comisionado que deja su encargo el 9 de enero
+de 2014, concluirá su mandato el 31 de marzo de 2018.
+
+**d)** Quien sustituya al comisionado que deja su encargo el 13 de abril
+de 2019, concluirá su mandato el 31 de marzo de 2026.
+
+**e)** Quien sustituya al comisionado que deja su encargo el 17 de junio
+de 2016, concluirá su mandato el 1 de noviembre de 2021.
+
+**f)** Quienes sustituyan a los comisionados que dejan su encargo el 11
+de septiembre de 2016, uno concluirá su mandato el 1 de noviembre de
+2022 y el otro concluirá su mandato el 1 de noviembre de 2023.
+
+**QUINTO.** Las Legislaturas de los Estados y la Asamblea Legislativa
+del Distrito Federal tendrán un plazo de un año, contado a partir de su
+entrada en vigor, para armonizar su normatividad conforme a lo
+establecido en el presente Decreto.
+
+**SEXTO.** El organismo garante que establece el artículo 6o. de esta
+Constitución podrá ejercer las facultades de revisión y de atracción a
+que se refiere el presente Decreto, posterior a la entrada en vigor de
+las reformas a la ley secundaria que al efecto expida el Honorable
+Congreso de la Unión.
+
+**SÉPTIMO.** En tanto se determina la instancia responsable encargada de
+atender los temas en materia de protección de datos personales en
+posesión de particulares, el organismo garante que establece el artículo
+6o. de esta Constitución ejercerá las atribuciones correspondientes.
+
+**OCTAVO.** En tanto el Congreso de la Unión expide las reformas a las
+leyes respectivas en materia de transparencia, el organismo garante que
+establece el artículo 6o. de esta Constitución ejercerá sus atribuciones
+y competencias conforme a lo dispuesto por el presente Decreto y la Ley
+Federal de Transparencia y Acceso a la Información Pública Gubernamental
+vigente.
+
+**NOVENO.** Los asuntos que se encuentren en trámite o pendientes de
+resolución a la entrada en vigor de este Decreto se sustanciarán ante el
+organismo garante que establece el artículo 6o. de esta Constitución,
+creado en los términos del presente Decreto.
+
+**DÉCIMO.** Los recursos financieros y materiales, así como los
+trabajadores adscritos al Instituto Federal de Acceso a la Información
+Pública y Protección de Datos Personales, se transferirán al organismo
+público autónomo creado. Los trabajadores que pasen a formar parte del
+nuevo organismo se seguirán rigiendo por el apartado B del artículo 123
+de esta Constitución y de ninguna forma resultarán afectados en sus
+derechos laborales y de seguridad social.
+
+SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA
+UNIÓN.- México, D.F., a 22 de enero de 2014.- Dip. **Ricardo Anaya
+Cortés**, Presidente.- Dip. **Verónica Beatriz Juárez Piña**,
+Secretaria.- Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+siete de febrero de dos mil catorce.- **Enrique Peña Nieto**.- Rúbrica.-
+El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
 .. figure:: ../ima/h_line.gif
    :align: center
