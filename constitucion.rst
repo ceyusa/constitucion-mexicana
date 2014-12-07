@@ -7187,14 +7187,14 @@ común.
 Los Gobernadores de los Estados, los Diputados a las Legislaturas
 Locales, los Magistrados de los Tribunales Superiores de Justicia
 Locales, en su caso, los miembros de los Consejos de las Judicaturas
-Locales, así como los miembros de los organismos a los que las
-Constituciones Locales y el Estatuto de Gobierno del Distrito Federal
-les otorgue autonomía, serán responsables por violaciones a esta
-Constitución y a las leyes federales, así como por el manejo indebido de
-fondos y recursos federales.
+Locales, los integrantes de los ayuntamientos, así como los miembros de
+los organismos a los que las Constituciones Locales y el Estatuto de
+Gobierno del Distrito Federal les otorgue autonomía, serán responsables
+por violaciones a esta Constitución y a las leyes federales, así como
+por el manejo y aplicación indebidos de fondos y recursos federales.
 
 Párrafo reformado DOF 31-12-1994. Fe de erratas DOF 03-01-1995.
-Reformado DOF 07-02-2014
+Reformado DOF 07-02-2014, 17-06-2014
 
 Las Constituciones de los Estados de la República precisarán, en los
 mismos términos del primer párrafo de este artículo y para los efectos
@@ -15336,6 +15336,36 @@ certificados de defunción.
 México, D.F., a 4 de junio de 2014.- Sen. **Raúl Cervantes Andrade**,
 Presidente.- Sen. **María Elena Barrera Tapia**, Secretaria.-
 Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+dieciséis de junio de dos mil catorce.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.
+
+DECRETO por el que se reforma el tercer párrafo del artículo 108 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
+
+**ARTÍCULO ÚNICO.-** Se reforma el tercer párrafo del artículo 108 de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+………
+
+TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** Las disposiciones que contravengan el presente Decreto
+quedarán sin efecto.
+
+México, D.F., a 4 de junio de 2014.- Sen. **Raúl Cervantes Andrade**,
+Presidente.- Sen. **María Elena Barrera Tapia**, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
 Constitución Política de los Estados Unidos Mexicanos, y para su debida
