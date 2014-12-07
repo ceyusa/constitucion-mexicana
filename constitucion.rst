@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 10-02-2014
+Última reforma publicada DOF 07-07-2014
 
 Notas de vigencia relativas al Decreto en materia política-electoral
 publicado en el DOF 10-02-2014:
