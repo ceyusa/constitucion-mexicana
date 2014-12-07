@@ -504,13 +504,8 @@ Fracción adicionada DOF 26-02-2013
 Artículo reformado DOF 13-12-1934, 30-12-1946, 09-06-1980, 28-01-1992,
 05-03-1993
 
-**Artículo 4o.** (Se deroga el anterior párrafo primero)
-
-Párrafo adicionado DOF 28-01-1992. Derogado (se recorren los demás en su
-orden) DOF 14-08-2001
-
-El varón y la mujer son iguales ante la ley. Esta protegerá la
-organización y el desarrollo de la familia.
+**Artículo 4o.** El varón y la mujer son iguales ante la ley. Esta
+protegerá la organización y el desarrollo de la familia.
 
 Toda persona tiene derecho a decidir de manera libre, responsable e
 informada sobre el número y el espaciamiento de sus hijos.
@@ -551,6 +546,13 @@ tal objetivo.
 
 Párrafo adicionado DOF 07-02-1983
 
+Toda persona tiene derecho a la identidad y a ser registrado de manera
+inmediata a su nacimiento. El Estado garantizará el cumplimiento de
+estos derechos. La autoridad competente expedirá gratuitamente la
+primera copia certificada del acta de registro de nacimiento.
+
+Párrafo adicionado DOF 17-06-2014
+
 En todas las decisiones y actuaciones del Estado se velará y cumplirá
 con el principio del interés superior de la niñez, garantizando de
 manera plena sus derechos. Los niños y las niñas tienen derecho a la
@@ -589,6 +591,9 @@ a las leyes en la materia.
 Párrafo adicionado DOF 12-10-2011
 
 Artículo reformado DOF 31-12-1974
+
+Reforma DOF 14-08-2001: Derogó del artículo el entonces párrafo primero
+(antes adicionado por DOF 28-01-1992)
 
 **Artículo 5o.** A ninguna persona podrá impedirse que se dedique a la
 profesión, industria, comercio o trabajo que le acomode, siendo lícitos.
@@ -15286,6 +15291,57 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 treinta y uno de enero de dos mil catorce.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.
+
+DECRETO por el que se adiciona el artículo 4o. de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
+
+**ARTÍCULO ÚNICO.-** Se adiciona un octavo párrafo, recorriéndose en su
+orden los subsecuentes, al artículo 4o. de la Constitución Política de
+los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+TRANSITORIOS
+
+**PRIMERO.** El presente Decreto entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.** A partir de la entrada en vigor del presente Decreto, las
+Legislaturas de los Estados y la Asamblea Legislativa del Distrito
+Federal, dispondrán de seis meses para establecer en sus haciendas o
+códigos financieros la exención de cobro del derecho por el registro de
+nacimiento y la expedición de la primera copia certificada del acta de
+nacimiento.
+
+**TERCERO.** El Congreso de la Unión en un plazo no mayor a seis meses a
+partir de la entrada en vigor del presente Decreto, y previa opinión de
+las entidades federativas y la autoridad competente en materia de
+registro nacional de población, deberá realizar las adecuaciones a la
+ley que determinen las características, diseño y contenido del formato
+único en materia de registro de población, así como para la expedición
+de toda acta del registro civil que deberá implementarse a través de
+mecanismos electrónicos y adoptarse por las propias entidades
+federativas del país y por las representaciones de México en el
+exterior.
+
+**CUARTO.** La Secretaría de Gobernación a través del Registro Nacional
+de Población, remitirá al Instituto Nacional Electoral la información
+recabada por las autoridades locales registrales relativas a los
+certificados de defunción.
+
+México, D.F., a 4 de junio de 2014.- Sen. **Raúl Cervantes Andrade**,
+Presidente.- Sen. **María Elena Barrera Tapia**, Secretaria.-
+Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+dieciséis de junio de dos mil catorce.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
