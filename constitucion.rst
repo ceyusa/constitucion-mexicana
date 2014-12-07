@@ -2352,10 +2352,6 @@ comunicación de acuerdo con las leyes de la materia.
 
 Párrafo reformado DOF 20-08-1993, 02-03-1995, 20-12-2013
 
-(Se deroga el párrafo quinto)
-
-Párrafo derogado (se recorren los demás en su orden) DOF 27-06-1990
-
 El Estado contará con los organismos y empresas que requiera para el
 eficaz manejo de las áreas estratégicas a su cargo y en las actividades
 de carácter prioritario donde, de acuerdo con las leyes, participe por
@@ -2730,6 +2726,8 @@ Párrafo adicionado DOF 11-06-2013
 
 Artículo reformado DOF 17-11-1982, 03-02-1983
 
+Reforma DOF 27-06-1990: Derogó del artículo el entonces párrafo quinto
+
 **Artículo 29.** En los casos de invasión, perturbación grave de la paz
 pública, o de cualquier otro que ponga a la sociedad en grave peligro o
 conflicto, solamente el Presidente de los Estados Unidos Mexicanos, con
@@ -3076,9 +3074,8 @@ tribunal internacional, y
 
 **VI.** En los demás casos que fijan las leyes.
 
-(Se deroga el último párrafo del Apartado C)
-
-Párrafo derogado DOF 30-09-2013
+Reforma *DOF 30-09-2013: Derogó de este Apartado C el entonces último
+párrafo*
 
 Fe de erratas al artículo DOF 06-02-1917. Artículo reformado DOF
 18-01-1934, 20-03-1997
@@ -3902,13 +3899,11 @@ desarrollará las reglas y fórmulas para estos efectos.
 
 Fracción adicionada DOF 03-09-1993. Reformada DOF 22-08-1996
 
-VII. (Se elimina del artículo)
-
-Fracción adicionada DOF 03-09-1993. Fracción eliminada del artículo DOF
-22-08-1996
-
 Artículo reformado DOF 22-06-1963, 14-02-1972, 06-12-1977, 15-12-1986,
 06-04-1990
+
+Reforma DOF 22-08-1996: Eliminó del artículo la entonces fracción VII
+(antes adicionada por DOF 03-09-1993)
 
 **Artículo 55.** Para ser diputado se requieren los siguientes
 requisitos:
@@ -4611,16 +4606,6 @@ públicos federales;
 
 Fracción reformada DOF 30-07-1999
 
-(Se elimina del artículo la anterior fracción XXV)
-
-Fracción derogada (se elimina del artículo y se recorren las demás en su
-orden) DOF 20-08-1928
-
-(Se elimina del artículo la anterior fracción XXVI)
-
-Fracción derogada (se elimina del artículo y se recorren las demás en su
-orden) DOF 20-08-1928
-
 **XXV.** Para establecer el Servicio Profesional docente en términos del
 artículo 3o. de esta Constitución; establecer, organizar y sostener en
 toda la República escuelas rurales, elementales, superiores, secundarias
@@ -4876,6 +4861,9 @@ por esta Constitución a los Poderes de la Unión.
 
 Fracción adicionada DOF 24-10-1942
 
+Reforma DOF 20-08-1928: Eliminó del artículo las entonces fracciones XXV
+y XXVI
+
 **Artículo 74.** Son facultades exclusivas de la Cámara de Diputados:
 
 **I.** Expedir el Bando Solemne para dar a conocer en toda la República
@@ -4930,20 +4918,6 @@ No podrá haber otras partidas secretas, fuera de las que se consideren
 necesarias, con ese carácter, en el mismo presupuesto; las que emplearán
 los secretarios por acuerdo escrito del Presidente de la República.
 
-(Se deroga el quinto párrafo)
-
-Párrafo derogado (se recorren los demás en su orden) DOF 07-05-2008
-
-(Se deroga el sexto párrafo)
-
-Párrafo reformado DOF 30-07-1999. Derogado (se recorren los demás en su
-orden) DOF 07-05-2008
-
-(Se deroga el séptimo párrafo)
-
-Párrafo reformado DOF 17-03-1987. Derogado (se recorren los demás en su
-orden) DOF 07-05-2008
-
 Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley
 de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie
 solicitud del Ejecutivo suficientemente justificada a juicio de la
@@ -4954,6 +4928,11 @@ motiven;
 Párrafo reformado DOF 25-10-1993, 07-05-2008
 
 Fracción reformada DOF 06-12-1977
+
+Reforma DOF 07-05-2008: Derogó de esta fracción los entonces párrafos
+quinto, sexto (antes reformado por DOF 30-07-1999)
+
+y séptimo (antes reformado por DOF 17-03-1987)
 
 **V.** Declarar si ha o no lugar a proceder penalmente contra los
 servidores públicos que hubieren incurrido en delito en los términos del
@@ -6009,10 +5988,6 @@ magistrado federal.
 
 Párrafo reformado DOF 10-06-2011
 
-(Se deroga el párrafo tercero)
-
-Párrafo derogado (se recorren los demás en su orden) DOF 13-11-2007
-
 La Suprema Corte de Justicia nombrará y removerá a su secretario y demás
 funcionarios y empleados. Los Magistrados y jueces nombrarán y removerán
 a los respectivos funcionarios y empleados de los Tribunales de Circuito
@@ -6043,6 +6018,8 @@ Párrafo reformado DOF 11-06-1999
 
 Artículo reformado DOF 20-08-1928, 11-09-1940, 19-02-1951, 06-12-1977,
 28-12-1982, 10-08-1987, 31-12-1994
+
+Reforma DOF 13-11-2007: Derogó del artículo el entonces párrafo tercero
 
 **Artículo 98.** Cuando la falta de un Ministro excediere de un mes, el
 Presidente de la República someterá el nombramiento de un Ministro
@@ -7875,10 +7852,6 @@ que hayan prestado sus servicios con eficiencia y probidad en la
 administración de justicia o que lo merezcan por su honorabilidad,
 competencia y antecedentes en otras ramas de la profesión jurídica.
 
-(Se deroga el párrafo quinto)
-
-Párrafo derogado (se recorren los demás en su orden) DOF 31-12-1994
-
 Los magistrados durarán en el ejercicio de su encargado **(sic DOF
 17-03-1987)** el tiempo que señalen las Constituciones Locales, podrán
 ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos
@@ -7887,6 +7860,9 @@ Responsabilidades de los Servidores Públicos de los Estados.
 
 Los magistrados y los jueces percibirán una remuneración adecuada e
 irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+Reforma DOF 31-12-1994: Derogó de esta fracción el entonces párrafo
+quinto
 
 **IV.** De conformidad con las bases establecidas en esta Constitución y
 las leyes generales en la materia, las Constituciones y leyes de los
