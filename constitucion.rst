@@ -8734,10 +8734,10 @@ menores de dieciséis años;
 Fracción reformada DOF 21-11-1962, 31-12-1974
 
 **III.** Queda prohibida la utilización del trabajo de los menores de
-catorce años. Los mayores de esta edad y menores de dieciséis tendrán
+quince años. Los mayores de esta edad y menores de dieciséis tendrán
 como jornada máxima la de seis horas.
 
-Fracción reformada DOF 21-11-1962
+Fracción reformada DOF 21-11-1962, 17-06-2014
 
 **IV.** Por cada seis días de trabajo deberá disfrutar el operario de un
 día de descanso, cuando menos.
@@ -15366,6 +15366,35 @@ quedarán sin efecto.
 
 México, D.F., a 4 de junio de 2014.- Sen. **Raúl Cervantes Andrade**,
 Presidente.- Sen. **María Elena Barrera Tapia**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+dieciséis de junio de dos mil catorce.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.
+
+DECRETO por el que se reforma la fracción III del apartado A del
+artículo 123 de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 17 de junio de 2014
+
+**ARTÍCULO ÚNICO.-** Se reforma la fracción III del apartado A del
+artículo 123 de la Constitución Política de los Estados Unidos
+Mexicanos, para quedar como sigue:
+
+……….
+
+TRANSITORIO
+
+**ÚNICO.** El presente Decreto entrará en vigor el día siguiente al de
+su publicación en el Diario Oficial de la Federación.
+
+México, D.F., a 4 de junio de 2014.- Sen. **Raúl Cervantes Andrade**,
+Presidente.- Sen. **María Elena Barrera Tapia**, Secretaria.-
+Rúbricas.\ **"**
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
 Constitución Política de los Estados Unidos Mexicanos, y para su debida
