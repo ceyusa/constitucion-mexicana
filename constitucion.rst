@@ -26,7 +26,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 26-05-2015
+Última reforma publicada DOF 27-05-2015
 
 Notas de vigencia:
 
@@ -1618,8 +1618,10 @@ las siguientes reglas:
 **I.** Será jurisdiccional y autónomo del de materia penal;
 
 **II.** Procederá en los casos de delincuencia organizada, delitos
-contra la salud, secuestro, robo de vehículos y trata de personas,
-respecto de los bienes siguientes:
+contra la salud, secuestro, robo de vehículos, trata de personas y
+enriquecimiento ilícito, respecto de los bienes siguientes:
+
+Párrafo reformado DOF 27-05-2015
 
 **a)** Aquellos que sean instrumento, objeto o producto del delito, aún
 cuando no se haya dictado la sentencia que determine la responsabilidad
@@ -2609,9 +2611,12 @@ por las dos terceras partes de los miembros presentes del Senado de la
 República, por falta grave en el ejercicio de sus funciones, en los
 términos que disponga la ley, y
 
-**XII.** Cada órgano contará con una Contraloría Interna, cuyo titular
-será designado por las dos terceras partes de los miembros presentes de
-la Cámara de Diputados, en los términos que disponga la ley.
+**XII.** Cada órgano contará con un órgano interno de control, cuyo
+titular será designado por las dos terceras partes de los miembros
+presentes de la Cámara de Diputados, en los términos que disponga la
+ley.
+
+Fracción reformada DOF 27-05-2015
 
 Párrafo con fracciones adicionado DOF 11-06-2013
 
@@ -3446,15 +3451,17 @@ políticos y un Secretario Ejecutivo; la ley determinará las reglas para
 la organización y funcionamiento de los órganos, las relaciones de mando
 entre éstos, así como la relación con los organismos públicos locales.
 Los órganos ejecutivos y técnicos dispondrán del personal calificado
-necesario para el ejercicio de sus atribuciones. Una Contraloría General
-tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización
-de todos los ingresos y egresos del Instituto. Las disposiciones de la
-ley electoral y del Estatuto que con base en ella apruebe el Consejo
-General, regirán las relaciones de trabajo con los servidores del
-organismo público. Los órganos de vigilancia del padrón electoral se
-integrarán mayoritariamente por representantes de los partidos políticos
-nacionales. Las mesas directivas de casilla estarán integradas por
-ciudadanos.
+necesario para el ejercicio de sus atribuciones. Un órgano interno de
+control tendrá a su cargo, con autonomía técnica y de gestión, la
+fiscalización de todos los ingresos y egresos del Instituto. Las
+disposiciones de la ley electoral y del Estatuto que con base en ella
+apruebe el Consejo General, regirán las relaciones de trabajo con los
+servidores del organismo público. Los órganos de vigilancia del padrón
+electoral se integrarán mayoritariamente por representantes de los
+partidos políticos nacionales. Las mesas directivas de casilla estarán
+integradas por ciudadanos.
+
+Párrafo reformado DOF 27-05-2015
 
 Las sesiones de todos los órganos colegiados de dirección serán públicas
 en los términos que señale la ley.
@@ -3518,26 +3525,31 @@ en representación del Consejo General y los no remunerados que
 desempeñen en asociaciones docentes, científicas, culturales, de
 investigación o de beneficencia.
 
-El titular de la Contraloría General del Instituto será designado por la
-Cámara de Diputados con el voto de las dos terceras partes de sus
+El titular del órgano interno de control del Instituto será designado
+por la Cámara de Diputados con el voto de las dos terceras partes de sus
 miembros presentes a propuesta de instituciones públicas de educación
 superior, en la forma y términos que determine la ley. Durará seis años
 en el cargo y podrá ser reelecto por una sola vez. Estará adscrito
 administrativamente a la presidencia del Consejo General y mantendrá la
-coordinación técnica necesaria con la entidad de fiscalización superior
-de la Federación.
+coordinación técnica necesaria con la Auditoría Superior de la
+Federación.
+
+Párrafo reformado DOF 27-05-2015
 
 El Secretario Ejecutivo será nombrado con el voto de las dos terceras
 partes del Consejo General a propuesta de su Presidente.
 
 La ley establecerá los requisitos que deberán reunir para su designación
 el consejero Presidente del Consejo General, los consejeros electorales,
-el Contralor General y el Secretario Ejecutivo del Instituto Nacional
-Electoral. Quienes hayan fungido como consejero Presidente, consejeros
-electorales y Secretario Ejecutivo no podrán desempeñar cargos en los
-poderes públicos en cuya elección hayan participado, de dirigencia
-partidista, ni ser postulados a cargos de elección popular, durante los
-dos años siguientes a la fecha de conclusión de su encargo.
+el titular del órgano interno de control y el Secretario Ejecutivo del
+Instituto Nacional Electoral. Quienes hayan fungido como consejero
+Presidente, consejeros electorales y Secretario Ejecutivo no podrán
+desempeñar cargos en los poderes públicos en cuya elección hayan
+participado, de dirigencia partidista, ni ser postulados a cargos de
+elección popular, durante los dos años siguientes a la fecha de
+conclusión de su encargo.
+
+Párrafo reformado DOF 27-05-2015
 
 Los consejeros del Poder Legislativo serán propuestos por los grupos
 parlamentarios con afiliación de partido en alguna de las Cámaras. Sólo
@@ -4653,12 +4665,14 @@ artículo 21 de esta Constitución.
 Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada
 DOF 18-06-2008
 
-**XXIV.** Para expedir la Ley que regule la organización de la entidad
-de fiscalización superior de la Federación y las demás que normen la
-gestión, control y evaluación de los Poderes de la Unión y de los entes
-públicos federales;
+**XXIV.** Para expedir las leyes que regulen la organización y
+facultades de la Auditoría Superior de la Federación y las demás que
+normen la gestión, control y evaluación de los Poderes de la Unión y de
+los entes públicos federales; así como para expedir la ley general que
+establezca las bases de coordinación del Sistema Nacional Anticorrupción
+a que se refiere el artículo 113 de esta Constitución;
 
-Fracción reformada DOF 30-07-1999
+Fracción reformada DOF 30-07-1999, 27-05-2015
 
 **XXV.** Para establecer el Servicio Profesional docente en términos del
 artículo 3o. de esta Constitución; establecer, organizar y sostener en
@@ -4795,17 +4809,46 @@ al ambiente y de preservación y restauración del equilibrio ecológico.
 
 Fracción adicionada DOF 10-08-1987
 
-**XXIX-H.** Para expedir leyes que instituyan tribunales de lo
-contencioso-administrativo, dotados de plena autonomía para dictar sus
-fallos, y que tengan a su cargo dirimir las controversias que se
-susciten entre la administración pública federal y los particulares, así
-como para imponer sanciones a los servidores públicos por
-responsabilidad administrativa que determine la ley, estableciendo las
-normas para su organización, su funcionamiento, los procedimientos y los
-recursos contra sus resoluciones;
+**XXIX-H.** Para expedir la ley que instituya el Tribunal Federal de
+Justicia Administrativa, dotado de plena autonomía para dictar sus
+fallos, y que establezca su organización, su funcionamiento y los
+recursos para impugnar sus resoluciones.
+
+El Tribunal tendrá a su cargo dirimir las controversias que se susciten
+entre la administración pública federal y los particulares.
+
+Asimismo, será el órgano competente para imponer las sanciones a los
+servidores públicos por las responsabilidades administrativas que la ley
+determine como graves y a los particulares que participen en actos
+vinculados con dichas responsabilidades, así como fincar a los
+responsables el pago de las indemnizaciones y sanciones pecuniarias que
+deriven de los daños y perjuicios que afecten a la Hacienda Pública
+Federal o al patrimonio de los entes públicos federales.
+
+El Tribunal funcionará en Pleno o en Salas Regionales.
+
+La Sala Superior del Tribunal se compondrá de dieciséis Magistrados y
+actuará en Pleno o en Secciones, de las cuales a una corresponderá la
+resolución de los procedimientos a que se refiere el párrafo tercero de
+la presente fracción.
+
+Los Magistrados de la Sala Superior serán designados por el Presidente
+de la República y ratificados por el voto de las dos terceras partes de
+los miembros presentes del Senado de la República o, en sus recesos, por
+la Comisión Permanente. Durarán en su encargo quince años
+improrrogables.
+
+Los Magistrados de Sala Regional serán designados por el Presidente de
+la República y ratificados por mayoría de los miembros presentes del
+Senado de la República o, en sus recesos, por la Comisión Permanente.
+Durarán en su encargo diez años pudiendo ser considerados para nuevos
+nombramientos.
+
+Los Magistrados sólo podrán ser removidos de sus cargos por las causas
+graves que señale la ley.
 
 Fracción adicionada DOF 10-08-1987. Reformada DOF 25-10-1993,
-28-06-1999, 04-12-2006
+28-06-1999, 04-12-2006, 27-05-2015
 
 **XXIX-I.** Para expedir leyes que establezcan las bases sobre las
 cuales la Federación, los estados, el Distrito Federal y los municipios,
@@ -4909,11 +4952,20 @@ conforme a las bases previstas en esta Constitución.
 
 Fracción adicionada DOF 10-02-2014
 
-**XXIX-W (sic DOF 26-05-2015).** Para expedir leyes en materia de
-responsabilidad hacendaria que tengan por objeto el manejo sostenible de
-las finanzas públicas en la Federación, los Estados, Municipios y el
-Distrito Federal, con base en el principio establecido en el párrafo
-segundo del artículo 25;
+**XXIX-V.** Para expedir la ley general que distribuya competencias
+entre los órdenes de gobierno para establecer las responsabilidades
+administrativas de los servidores públicos, sus obligaciones, las
+sanciones aplicables por los actos u omisiones en que éstos incurran y
+las que correspondan a los particulares vinculados con faltas
+administrativas graves que al efecto prevea, así como los procedimientos
+para su aplicación.
+
+Fracción adicionada DOF 27-05-2015
+
+**XXIX-W.** Para expedir leyes en materia de responsabilidad hacendaria
+que tengan por objeto el manejo sostenible de las finanzas públicas en
+la Federación, los Estados, Municipios y el Distrito Federal, con base
+en el principio establecido en el párrafo segundo del artículo 25;
 
 Fracción adicionada DOF 26-05-2015
 
@@ -4935,10 +4987,10 @@ Electoral del Poder Judicial de la Federación;
 Fracción reformada DOF 06-07-1971, 08-10-1974, 03-09-1993, 22-08-1996
 
 **II.** Coordinar y evaluar, sin perjuicio de su autonomía técnica y de
-gestión, el desempeño de las funciones de la entidad de fiscalización
-superior de la Federación, en los términos que disponga la ley;
+gestión, el desempeño de las funciones de la Auditoría Superior de la
+Federación, en los términos que disponga la ley;
 
-Fracción reformada DOF 30-07-1999
+Fracción reformada DOF 30-07-1999, 27-05-2015
 
 **III.** Ratificar el nombramiento que el Presidente de la República
 haga del Secretario del ramo en materia de Hacienda, salvo que se opte
@@ -5012,39 +5064,45 @@ ajustado a los criterios señalados por el Presupuesto y verificar el
 cumplimiento de los objetivos contenidos en los programas.
 
 La revisión de la Cuenta Pública la realizará la Cámara de Diputados a
-través de la entidad de fiscalización superior de la Federación. Si del
-examen que ésta realice aparecieran discrepancias entre las cantidades
-correspondientes a los ingresos o a los egresos, con relación a los
-conceptos y las partidas respectivas o no existiera exactitud o
-justificación en los ingresos obtenidos o en los gastos realizados, se
-determinarán las responsabilidades de acuerdo con la Ley. En el caso de
-la revisión sobre el cumplimiento de los objetivos de los programas,
-dicha entidad sólo podrá emitir las recomendaciones para la mejora en el
-desempeño de los mismos, en los términos de la Ley.
+través de la Auditoría Superior de la Federación. Si del examen que ésta
+realice aparecieran discrepancias entre las cantidades correspondientes
+a los ingresos o a los egresos, con relación a los conceptos y las
+partidas respectivas o no existiera exactitud o justificación en los
+ingresos obtenidos o en los gastos realizados, se determinarán las
+responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre
+el cumplimiento de los objetivos de los programas, dicha autoridad sólo
+podrá emitir las recomendaciones para la mejora en el desempeño de los
+mismos, en los términos de la Ley.
+
+Párrafo reformado DOF 27-05-2015
 
 La Cuenta Pública del ejercicio fiscal correspondiente deberá ser
 presentada a la Cámara de Diputados a más tardar el 30 de abril del año
 siguiente. Sólo se podrá ampliar el plazo de presentación en los
 términos de la fracción IV, último párrafo, de este artículo; la
 prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la
-entidad de fiscalización superior de la Federación contará con el mismo
-tiempo adicional para la presentación del informe del resultado de la
-revisión de la Cuenta Pública.
+Auditoria Superior de la Federación contará con el mismo tiempo
+adicional para la presentación del Informe General Ejecutivo del
+resultado de la Fiscalización Superior de la Cuenta Pública.
+
+Párrafo reformado DOF 27-05-2015
 
 La Cámara concluirá la revisión de la Cuenta Pública a más tardar el 31
 de octubre del año siguiente al de su presentación, con base en el
-análisis de su contenido y en las conclusiones técnicas del informe del
-resultado de la entidad de fiscalización superior de la Federación, a
-que se refiere el artículo 79 de esta Constitución, sin menoscabo de que
-el trámite de las observaciones, recomendaciones y acciones promovidas
-por la entidad de fiscalización superior de la Federación, seguirá su
-curso en términos de lo dispuesto en dicho artículo.
+análisis de su contenido y en las conclusiones técnicas del Informe
+General Ejecutivo del resultado de la Fiscalización Superior, a que se
+refiere el artículo 79 de esta Constitución, sin menoscabo de que el
+trámite de las observaciones, recomendaciones y acciones promovidas por
+la Auditoría Superior de la Federación, seguirá su curso en términos de
+lo dispuesto en dicho artículo.
 
-Párrafo reformado DOF 09-08-2012
+Párrafo reformado DOF 09-08-2012, 27-05-2015
 
-La Cámara de Diputados evaluará el desempeño de la entidad de
-fiscalización superior de la Federación y al efecto le podrá requerir
-que le informe sobre la evolución de sus trabajos de fiscalización;
+La Cámara de Diputados evaluará el desempeño de la Auditoría Superior de
+la Federación y al efecto le podrá requerir que le informe sobre la
+evolución de sus trabajos de fiscalización;
+
+Párrafo reformado DOF 27-05-2015
 
 Fracción reformada DOF 20-08-1928, 08-10-1974. Derogada DOF 10-08-1987.
 Adicionada DOF 07-05-2008
@@ -5056,9 +5114,16 @@ plazo, el Plan se entenderá aprobado;
 Fracción adicionada DOF 20-08-1928. Derogada DOF 28-12-1982. Adicionada
 DOF 10-02-2014
 
-**VIII.** Las demás que le confiere expresamente esta Constitución.
+**VIII.** Designar, por el voto de las dos terceras partes de sus
+miembros presentes, a los titulares de los órganos internos de control
+de los organismos con autonomía reconocida en esta Constitución que
+ejerzan recursos del Presupuesto de Egresos de la Federación, y
 
-Fracción adicionada DOF 20-08-1928
+Fracción adicionada DOF 27-05-2015
+
+**IX.** Las demás que le confiere expresamente esta Constitución.
+
+Fracción adicionada DOF 20-08-1928. Recorrida DOF 27-05-2015
 
 **Artículo 75.** La Cámara de Diputados, al aprobar el Presupuesto de
 Egresos, no podrá dejar de señalar la retribución que corresponda a un
@@ -5101,14 +5166,16 @@ Fracción reformada DOF 06-12-1977, 12-02-2007
 **II.** Ratificar los nombramientos que el mismo funcionario haga de los
 Secretarios de Estado, en caso de que éste opte por un gobierno de
 coalición, con excepción de los titulares de los ramos de Defensa
-Nacional y Marina; del Secretario de Relaciones; de los embajadores y
+Nacional y Marina; del Secretario responsable del control interno del
+Ejecutivo Federal; del Secretario de Relaciones; de los embajadores y
 cónsules generales; de los empleados superiores del ramo de Relaciones;
 de los integrantes de los órganos colegiados encargados de la regulación
 en materia de telecomunicaciones, energía, competencia económica, y
 coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea
 Nacionales, en los términos que la ley disponga;
 
-Fracción reformada DOF 10-02-1944, 31-12-1994, 09-08-2012, 10-02-2014
+Fracción reformada DOF 10-02-1944, 31-12-1994, 09-08-2012, 10-02-2014,
+27-05-2015
 
 **III.** Autorizarlo también para que pueda permitir la salida de tropas
 nacionales fuera de los límites del País, el paso de tropas extranjeras
@@ -5286,20 +5353,35 @@ De la Fiscalización Superior de la Federación
 
 Sección adicionada DOF 30-07-1999
 
-**Artículo 79.** La entidad de fiscalización superior de la Federación,
-de la Cámara de Diputados, tendrá autonomía técnica y de gestión en el
-ejercicio de sus atribuciones y para decidir sobre su organización
-interna, funcionamiento y resoluciones, en los términos que disponga la
-ley.
+**Artículo 79**. La Auditoría Superior de la Federación de la Cámara de
+Diputados, tendrá autonomía técnica y de gestión en el ejercicio de sus
+atribuciones y para decidir sobre su organización interna,
+funcionamiento y resoluciones, en los términos que disponga la ley.
+
+Párrafo reformado DOF 27-05-2015
 
 La función de fiscalización será ejercida conforme a los principios de
-posterioridad, anualidad, legalidad, definitividad, imparcialidad y
-confiabilidad.
+legalidad, definitividad, imparcialidad y confiabilidad.
 
-Párrafo adicionado DOF 07-05-2008
+Párrafo adicionado DOF 07-05-2008. Reformado DOF 27-05-2015
 
-Esta entidad de fiscalización superior de la Federación tendrá a su
-cargo:
+La Auditoría Superior de la Federación podrá iniciar el proceso de
+fiscalización a partir del primer día hábil del ejercicio fiscal
+siguiente, sin perjuicio de que las observaciones o recomendaciones que,
+en su caso realice, deberán referirse a la información definitiva
+presentada en la Cuenta Pública.
+
+Párrafo adicionado DOF 27-05-2015
+
+Asimismo, por lo que corresponde a los trabajos de planeación de las
+auditorías, la Auditoría Superior de la Federación podrá solicitar
+información del ejercicio en curso, respecto de procesos concluidos.
+
+Párrafo adicionado DOF 27-05-2015
+
+La Auditoría Superior de la Federación tendrá a su cargo:
+
+Párrafo reformado DOF 27-05-2015
 
 **I.** Fiscalizar en forma posterior los ingresos, egresos y deuda; las
 garantías que, en su caso, otorgue el Gobierno Federal respecto a
@@ -5313,108 +5395,123 @@ términos que disponga la Ley.
 Párrafo reformado DOF 26-05-2015
 
 También fiscalizará directamente los recursos federales que administren
-o ejerzan los Estados, los Municipios, el Distrito Federal y los órganos
-político-administrativos de sus demarcaciones territoriales, con
-excepción de las participaciones federales. En el caso de los Estados y
-los Municipios cuyos empréstitos cuenten con la garantía de la
-Federación, fiscalizará el destino y ejercicio de los recursos
-correspondientes que hayan realizado los gobiernos locales. Asimismo,
-fiscalizará los recursos federales que se destinen y se ejerzan por
-cualquier entidad, persona física o moral, pública o privada, y los
-transferidos a fideicomisos, mandatos, fondos o cualquier otra figura
+o ejerzan los estados, los municipios, el Distrito Federal y los órganos
+político-administrativos de sus demarcaciones territoriales. En los
+términos que establezca la ley fiscalizará, en coordinación con las
+entidades locales de fiscalización o de manera directa, las
+participaciones federales. En el caso de los Estados y los Municipios
+cuyos empréstitos cuenten con la garantía de la Federación, fiscalizará
+el destino y ejercicio de los recursos correspondientes que hayan
+realizado los gobiernos locales. Asimismo, fiscalizará los recursos
+federales que se destinen y se ejerzan por cualquier entidad, persona
+física o moral, pública o privada, y los transferidos a fideicomisos,
+fondos y mandatos, públicos y privados, o cualquier otra figura
 jurídica, de conformidad con los procedimientos establecidos en las
 leyes y sin perjuicio de la competencia de otras autoridades y de los
 derechos de los usuarios del sistema financiero.
 
-Párrafo reformado DOF 26-05-2015
+Párrafo reformado DOF 26-05-2015, 27-05-2015
 
 Las entidades fiscalizadas a que se refiere el párrafo anterior deberán
 llevar el control y registro contable, patrimonial y presupuestario de
 los recursos de la Federación que les sean transferidos y asignados, de
 acuerdo con los criterios que establezca la Ley.
 
-Sin perjuicio del principio de anualidad, la entidad de fiscalización
-superior de la Federación podrá solicitar y revisar, de manera
-casuística y concreta, información de ejercicios anteriores al de la
-Cuenta Pública en revisión, sin que por este motivo se entienda, para
+La Auditoría Superior de la Federación podrá solicitar y revisar, de
+manera casuística y concreta, información de ejercicios anteriores al de
+la Cuenta Pública en revisión, sin que por este motivo se entienda, para
 todos los efectos legales, abierta nuevamente la Cuenta Pública del
 ejercicio al que pertenece la información solicitada, exclusivamente
 cuando el programa, proyecto o la erogación, contenidos en el
 presupuesto en revisión abarque para su ejecución y pago diversos
 ejercicios fiscales o se trate de revisiones sobre el cumplimiento de
 los objetivos de los programas federales. Las observaciones y
-recomendaciones que, respectivamente, la entidad de fiscalización
-superior de la Federación emita, sólo podrán referirse al ejercicio de
-los recursos públicos de la Cuenta Pública en revisión.
+recomendaciones que, respectivamente, la Auditoría Superior de la
+Federación emita, sólo podrán referirse al ejercicio de los recursos
+públicos de la Cuenta Pública en revisión.
 
-Asimismo, sin perjuicio del principio de posterioridad, en las
-situaciones excepcionales que determine la Ley, derivado de denuncias,
-podrá requerir a las entidades fiscalizadas que procedan a la revisión,
-durante el ejercicio fiscal en curso, de los conceptos denunciados y le
-rindan un informe. Si estos requerimientos no fueren atendidos en los
-plazos y formas señalados por la Ley, se impondrán las sanciones
-previstas en la misma. La entidad de fiscalización superior de la
-Federación rendirá un informe específico a la Cámara de Diputados y, en
-su caso, fincará las responsabilidades correspondientes o promoverá
-otras responsabilidades ante las autoridades competentes;
+Párrafo reformado DOF 27-05-2015
+
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones
+que determine la Ley, derivado de denuncias, la Auditoría Superior de la
+Federación, previa autorización de su Titular, podrá revisar durante el
+ejercicio fiscal en curso a las entidades fiscalizadas, así como
+respecto de ejercicios anteriores. Las entidades fiscalizadas
+proporcionarán la información que se solicite para la revisión, en los
+plazos y términos señalados por la Ley y, en caso de incumplimiento,
+serán aplicables las sanciones previstas en la misma. La Auditoría
+Superior de la Federación rendirá un informe específico a la Cámara de
+Diputados y, en su caso, promoverá las acciones que correspondan ante el
+Tribunal Federal de Justicia Administrativa, la Fiscalía Especializada
+en Combate a la Corrupción o las autoridades competentes;
+
+Párrafo reformado DOF 27-05-2015
 
 Fracción reformada DOF 07-05-2008
 
-**II.** Entregar el informe del resultado de la revisión de la Cuenta
-Pública a la Cámara de Diputados a más tardar el 20 de febrero del año
-siguiente al de su presentación, el cual se someterá a la consideración
-del pleno de dicha Cámara y tendrá carácter público. Dentro de dicho
-informe se incluirán las auditorías practicadas, los dictámenes de su
-revisión, los apartados correspondientes a la fiscalización del manejo
-de los recursos federales por parte de las entidades fiscalizadas a que
-se refiere la fracción anterior y a la verificación del desempeño en el
-cumplimiento de los objetivos de los programas federales, así como
-también un apartado específico con las observaciones de la entidad de
-fiscalización superior de la Federación que incluya las justificaciones
-y aclaraciones que, en su caso, las entidades fiscalizadas hayan
+**II.** Entregar a la Cámara de Diputados, el último día hábil de los
+meses de junio y octubre, así como el 20 de febrero del año siguiente al
+de la presentación de la Cuenta Pública, los informes individuales de
+auditoría que concluya durante el periodo respectivo. Asimismo, en esta
+última fecha, entregar el Informe General Ejecutivo del Resultado de la
+Fiscalización Superior de la Cuenta Pública, el cual se someterá a la
+consideración del Pleno de dicha Cámara. El Informe General Ejecutivo y
+los informes individuales serán de carácter público y tendrán el
+contenido que determine la ley; estos últimos incluirán como mínimo el
+dictamen de su revisión, un apartado específico con las observaciones de
+la Auditoría Superior de la Federación, así como las justificaciones y
+aclaraciones que, en su caso, las entidades fiscalizadas hayan
 presentado sobre las mismas.
 
-Para tal efecto, de manera previa a la presentación del informe del
-resultado se darán a conocer a las entidades fiscalizadas la parte que
-les corresponda de los resultados de su revisión, a efecto de que éstas
-presenten las justificaciones y aclaraciones que correspondan, las
-cuales deberán ser valoradas por la entidad de fiscalización superior de
-la Federación para la elaboración del informe del resultado de la
-revisión de la Cuenta Pública.
+Para tal efecto, de manera previa a la presentación del Informe General
+Ejecutivo y de los informes individuales de auditoría, se darán a
+conocer a las entidades fiscalizadas la parte que les corresponda de los
+resultados de su revisión, a efecto de que éstas presenten las
+justificaciones y aclaraciones que correspondan, las cuales deberán ser
+valoradas por la Auditoría Superior de la Federación para la elaboración
+de los informes individuales de auditoría.
 
-El titular de la entidad de fiscalización superior de la Federación
-enviará a las entidades fiscalizadas, a más tardar a los 10 días hábiles
-posteriores a que sea entregado a la Cámara de Diputados el informe del
-resultado, las recomendaciones y acciones promovidas que correspondan
-para que, en un plazo de hasta 30 días hábiles, presenten la información
-y realicen las consideraciones que estimen pertinentes, en caso de no
-hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo
-anterior, no aplicará a los pliegos de observaciones y a las promociones
-de responsabilidades, las cuales se sujetarán a los procedimientos y
-términos que establezca la Ley.
+El titular de la Auditoría Superior de la Federación enviará a las
+entidades fiscalizadas los informes individuales de auditoría que les
+corresponda, a más tardar a los 10 días hábiles posteriores a que haya
+sido entregado el informe individual de auditoría respectivo a la Cámara
+de Diputados, mismos que contendrán las recomendaciones y acciones que
+correspondan para que, en un plazo de hasta 30 días hábiles, presenten
+la información y realicen las consideraciones que estimen pertinentes;
+en caso de no hacerlo se harán acreedores a las sanciones establecidas
+en Ley. Lo anterior, no aplicará a las promociones de responsabilidades
+ante el Tribunal Federal de Justicia Administrativa, las cuales se
+sujetarán a los procedimientos y términos que establezca la Ley.
 
-La entidad de fiscalización superior de la Federación deberá
-pronunciarse en un plazo de 120 días hábiles sobre las respuestas
-emitidas por las entidades fiscalizadas, en caso de no hacerlo, se
-tendrán por atendidas las recomendaciones y acciones promovidas.
-
-En el caso de las recomendaciones al desempeño las entidades
-fiscalizadas deberán precisar ante la entidad de fiscalización superior
-de la Federación las mejoras realizadas o, en su caso, justificar su
-improcedencia.
-
-La entidad de fiscalización superior de la Federación deberá entregar a
-la Cámara de Diputados, los días 1 de los meses de mayo y noviembre de
-cada año, un informe sobre la situación que guardan las observaciones,
+La Auditoría Superior de la Federación deberá pronunciarse en un plazo
+de 120 días hábiles sobre las respuestas emitidas por las entidades
+fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las
 recomendaciones y acciones promovidas.
 
-La entidad de fiscalización superior de la Federación deberá guardar
-reserva de sus actuaciones y observaciones hasta que rinda el informe
-del resultado a la Cámara de Diputados a que se refiere esta fracción;
-la Ley establecerá las sanciones aplicables a quienes infrinjan esta
-disposición;
+En el caso de las recomendaciones, las entidades fiscalizadas deberán
+precisar ante la Auditoría Superior de la Federación las mejoras
+realizadas, las acciones emprendidas o, en su caso, justificar su
+improcedencia.
 
-Fracción reformada DOF 07-05-2008
+La Auditoría Superior de la Federación deberá entregar a la Cámara de
+Diputados, los días 1 de los meses de mayo y noviembre de cada año, un
+informe sobre la situación que guardan las observaciones,
+recomendaciones y acciones promovidas, correspondientes a cada uno de
+los informes individuales de auditoría que haya presentado en los
+términos de esta fracción. En dicho informe, el cual tendrá carácter
+público, la Auditoría incluirá los montos efectivamente resarcidos a la
+Hacienda Pública Federal o al patrimonio de los entes públicos
+federales, como consecuencia de sus acciones de fiscalización, las
+denuncias penales presentadas y los procedimientos iniciados ante el
+Tribunal Federal de Justicia Administrativa.
+
+La Auditoría Superior de la Federación deberá guardar reserva de sus
+actuaciones y observaciones hasta que rinda los informes individuales de
+auditoría y el Informe General Ejecutivo a la Cámara de Diputados a que
+se refiere esta fracción; la Ley establecerá las sanciones aplicables a
+quienes infrinjan esta disposición;
+
+Fracción reformada DOF 07-05-2008, 27-05-2015
 
 **III.** Investigar los actos u omisiones que impliquen alguna
 irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia
@@ -5424,26 +5521,19 @@ archivos indispensables para la realización de sus investigaciones,
 sujetándose a las leyes y a las formalidades establecidas para los
 cateos, y
 
-**IV.** Determinar los daños y perjuicios que afecten a la Hacienda
-Pública Federal o al patrimonio de los entes públicos federales y fincar
-directamente a los responsables las indemnizaciones y sanciones
-pecuniarias correspondientes, así como promover ante las autoridades
-competentes el fincamiento de otras responsabilidades; promover las
-acciones de responsabilidad a que se refiere el Título Cuarto de esta
-Constitución, y presentar las denuncias y querellas penales, en cuyos
-procedimientos tendrá la intervención que señale la ley.
+**IV.** Derivado de sus investigaciones, promover las responsabilidades
+que sean procedentes ante el Tribunal Federal de Justicia Administrativa
+y la Fiscalía Especializada en Combate a la Corrupción, para la
+imposición de las sanciones que correspondan a los servidores públicos
+federales y, en el caso del párrafo segundo de la fracción I de este
+artículo, a los servidores públicos de los estados, municipios, del
+Distrito Federal y sus demarcaciones territoriales, y a los
+particulares.
 
-Las sanciones y demás resoluciones de la entidad de fiscalización
-superior de la Federación podrán ser impugnadas por las entidades
-fiscalizadas y, en su caso, por los servidores públicos afectados
-adscritos a las mismas, ante la propia entidad de fiscalización o ante
-los tribunales a que se refiere el artículo 73, fracción XXIX-H de esta
-Constitución conforme a lo previsto en la Ley.
+Fracción reformada DOF 07-05-2008, 27-05-2015
 
-Párrafo adicionado DOF 07-05-2008
-
-La Cámara de Diputados designará al titular de la entidad de
-fiscalización por el voto de las dos terceras partes de sus miembros
+La Cámara de Diputados designará al titular de la Auditoría Superior de
+la Federación por el voto de las dos terceras partes de sus miembros
 presentes. La ley determinará el procedimiento para su designación.
 Dicho titular durará en su encargo ocho años y podrá ser nombrado
 nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las
@@ -5451,30 +5541,34 @@ causas graves que la ley señale, con la misma votación requerida para su
 nombramiento, o por las causas y conforme a los procedimientos previstos
 en el Título Cuarto de esta Constitución.
 
-Para ser titular de la entidad de fiscalización superior de la
-Federación se requiere cumplir, además de los requisitos establecidos en
-las fracciones I, II, IV, V y VI del artículo 95 de esta Constitución,
-los que señale la ley. Durante el ejercicio de su encargo no podrá
-formar parte de ningún partido político, ni desempeñar otro empleo,
-cargo o comisión, salvo los no remunerados en asociaciones científicas,
-docentes, artísticas o de beneficencia.
+Párrafo reformado DOF 27-05-2015
+
+Para ser titular de la Auditoría Superior de la Federación se requiere
+cumplir, además de los requisitos establecidos en las fracciones I, II,
+IV, V y VI del artículo 95 de esta Constitución, los que señale la ley.
+Durante el ejercicio de su encargo no podrá formar parte de ningún
+partido político, ni desempeñar otro empleo, cargo o comisión, salvo los
+no remunerados en asociaciones científicas, docentes, artísticas o de
+beneficencia.
+
+Párrafo reformado DOF 27-05-2015
 
 Los Poderes de la Unión, las entidades federativas y las demás entidades
-fiscalizadas facilitarán los auxilios que requiera la entidad de
-fiscalización superior de la Federación para el ejercicio de sus
-funciones y, en caso de no hacerlo, se harán acreedores a las sanciones
-que establezca la Ley. Asimismo, los servidores públicos federales y
-locales, así como cualquier entidad, persona física o moral, pública o
-privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica,
-que reciban o ejerzan recursos públicos federales, deberán proporcionar
-la información y documentación que solicite la entidad de fiscalización
-superior de la Federación, de conformidad con los procedimientos
-establecidos en las leyes y sin perjuicio de la competencia de otras
-autoridades y de los derechos de los usuarios del sistema financiero. En
-caso de no proporcionar la información, los responsables serán
-sancionados en los términos que establezca la Ley.
+fiscalizadas facilitarán los auxilios que requiera la Auditoría Superior
+de la Federación para el ejercicio de sus funciones y, en caso de no
+hacerlo, se harán acreedores a las sanciones que establezca la Ley.
+Asimismo, los servidores públicos federales y locales, así como
+cualquier entidad, persona física o moral, pública o privada,
+fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que
+reciban o ejerzan recursos públicos federales, deberán proporcionar la
+información y documentación que solicite la Auditoría Superior de la
+Federación, de conformidad con los procedimientos establecidos en las
+leyes y sin perjuicio de la competencia de otras autoridades y de los
+derechos de los usuarios del sistema financiero. En caso de no
+proporcionar la información, los responsables serán sancionados en los
+términos que establezca la Ley.
 
-Párrafo reformado DOF 07-05-2008
+Párrafo reformado DOF 07-05-2008, 27-05-2015
 
 El Poder Ejecutivo Federal aplicará el procedimiento administrativo de
 ejecución para el cobro de las indemnizaciones y sanciones pecuniarias a
@@ -6606,15 +6700,17 @@ Las sentencias de primera instancia podrán ser apelables ante el
 superior inmediato del juez que conozca del asunto en primer grado;
 
 **III.** De los recursos de revisión que se interpongan contra las
-resoluciones definitivas de los tribunales de lo
-contencioso-administrativo a que se refieren la fracción XXIX-H del
-artículo 73 y fracción IV, inciso e) del artículo 122 de esta
+resoluciones definitivas de los tribunales de justicia administrativa a
+que se refieren la fracción XXIX-H del artículo 73 y la BASE PRIMERA,
+fracción V, inciso n) y BASE QUINTA del artículo 122 de esta
 Constitución, sólo en los casos que señalen las leyes. Las revisiones,
 de las cuales conocerán los Tribunales Colegiados de Circuito, se
 sujetarán a los trámites que la ley reglamentaria de los artículos 103 y
 107 de esta Constitución fije para la revisión en amparo indirecto, y en
 contra de las resoluciones que en ellas dicten los Tribunales Colegiados
 de Circuito no procederá juicio o recurso alguno;
+
+Fracción reformada DOF 27-05-2015
 
 **IV.** De todas las controversias que versen sobre derecho marítimo;
 
@@ -7211,10 +7307,11 @@ Artículo reformado DOF 19-02-1951
 
 Título Cuarto
 
-De las Responsabilidades de los Servidores Públicos y Patrimonial del
-Estado
+De las Responsabilidades de los Servidores Públicos, Particulares
+Vinculados con Faltas Administrativas Graves o Hechos de Corrupción, y
+Patrimonial del Estado.
 
-Denominación del Título reformada DOF 28-12-1982, 14-06-2002
+Denominación del Título reformada DOF 28-12-1982, 14-06-2002, 27-05-2015
 
 **Artículo 108.** Para los efectos de las responsabilidades a que alude
 este Título se reputarán como servidores públicos a los representantes
@@ -7255,14 +7352,18 @@ recursos públicos y la deuda pública.
 
 Párrafo reformado DOF 26-05-2015
 
+Los servidores públicos a que se refiere el presente artículo estarán
+obligados a presentar, bajo protesta de decir verdad, su declaración
+patrimonial y de intereses ante las autoridades competentes y en los
+términos que determine la ley.
+
+Párrafo adicionado DOF 27-05-2015
+
 Artículo reformado DOF 28-12-1982
 
-**Artículo 109.** El Congreso de la Unión y las Legislaturas de los
-Estados, dentro de los ámbitos de sus respectivas competencias,
-expedirán las leyes de responsabilidades de los servidores públicos y
-las demás normas conducentes a sancionar a quienes, teniendo este
-carácter, incurran en responsabilidad, de conformidad con las siguientes
-prevenciones:
+**Artículo 109.** Los servidores públicos y particulares que incurran en
+responsabilidad frente al Estado, serán sancionados conforme a lo
+siguiente:
 
 **I.** Se impondrán, mediante juicio político, las sanciones indicadas
 en el artículo 110 a los servidores públicos señalados en el mismo
@@ -7272,33 +7373,120 @@ fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de ideas.
 
-**II.** La comisión de delitos por parte de cualquier servidor público
-será perseguida y sancionada en los términos de la legislación penal; y
-
-**III.** Se aplicarán sanciones administrativas a los servidores
-públicos por los actos u omisiones que afecten la legalidad, honradez,
-lealtad, imparcialidad y eficiencia que deban observar en el desempeño
-de sus empleos, cargos o comisiones.
-
-Los procedimientos para la aplicación de las sanciones mencionadas se
-desarrollarán autónomamente. No podrán imponerse dos veces por una sola
-conducta sanciones de la misma naturaleza.
+**II.** La comisión de delitos por parte de cualquier servidor público o
+particulares que incurran en hechos de corrupción, será sancionada en
+los términos de la legislación penal aplicable.
 
 Las leyes determinarán los casos y las circunstancias en los que se deba
 sancionar penalmente por causa de enriquecimiento ilícito a los
 servidores públicos que durante el tiempo de su encargo, o por motivos
-del mismo, por sí o por interpósita persona, aumenten substancialmente
-su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos,
-cuya procedencia lícita no pudiesen justificar. Las leyes penales
-sancionarán con el decomiso y con la privación de la propiedad de dichos
-bienes, además de las otras penas que correspondan.
+del mismo, por sí o por interpósita persona, aumenten su patrimonio,
+adquieran bienes o se conduzcan como dueños sobre ellos, cuya
+procedencia lícita no pudiesen justificar. Las leyes penales sancionarán
+con el decomiso y con la privación de la propiedad de dichos bienes,
+además de las otras penas que correspondan;
+
+**III.** Se aplicarán sanciones administrativas a los servidores
+públicos por los actos u omisiones que afecten la legalidad, honradez,
+lealtad, imparcialidad y eficiencia que deban observar en el desempeño
+de sus empleos, cargos o comisiones. Dichas sanciones consistirán en
+amonestación, suspensión, destitución e inhabilitación, así como en
+sanciones económicas, y deberán establecerse de acuerdo con los
+beneficios económicos que, en su caso, haya obtenido el responsable y
+con los daños y perjuicios patrimoniales causados por los actos u
+omisiones. La ley establecerá los procedimientos para la investigación y
+sanción de dichos actos u omisiones.
+
+Las faltas administrativas graves serán investigadas y substanciadas por
+la Auditoría Superior de la Federación y los órganos internos de
+control, o por sus homólogos en las entidades federativas, según
+corresponda, y serán resueltas por el Tribunal de Justicia
+Administrativa que resulte competente. Las demás faltas y sanciones
+administrativas, serán conocidas y resueltas por los órganos internos de
+control.
+
+Para la investigación, substanciación y sanción de las responsabilidades
+administrativas de los miembros del Poder Judicial de la Federación, se
+observará lo previsto en el artículo 94 de esta Constitución, sin
+perjuicio de las atribuciones de la Auditoría Superior de la Federación
+en materia de fiscalización sobre el manejo, la custodia y aplicación de
+recursos públicos.
+
+La ley establecerá los supuestos y procedimientos para impugnar la
+clasificación de las faltas administrativas como no graves, que realicen
+los órganos internos de control.
+
+Los entes públicos federales tendrán órganos internos de control con las
+facultades que determine la ley para prevenir, corregir e investigar
+actos u omisiones que pudieran constituir responsabilidades
+administrativas; para sancionar aquéllas distintas a las que son
+competencia del Tribunal Federal de Justicia Administrativa; revisar el
+ingreso, egreso, manejo, custodia y aplicación de recursos públicos
+federales y participaciones federales; así como presentar las denuncias
+por hechos u omisiones que pudieran ser constitutivos de delito ante la
+Fiscalía Especializada en Combate a la Corrupción a que se refiere esta
+Constitución.
+
+Los entes públicos estatales y municipales, así como del Distrito
+Federal y sus demarcaciones territoriales, contarán con órganos internos
+de control, que tendrán, en su ámbito de competencia local, las
+atribuciones a que se refiere el párrafo anterior, y
+
+**IV.** Los tribunales de justicia administrativa impondrán a los
+particulares que intervengan en actos vinculados con faltas
+administrativas graves, con independencia de otro tipo de
+responsabilidades, las sanciones económicas; inhabilitación para
+participar en adquisiciones, arrendamientos, servicios u obras públicas;
+así como el resarcimiento de los daños y perjuicios ocasionados a la
+Hacienda Pública o a los entes públicos federales, locales o
+municipales. Las personas morales serán sancionadas en los términos de
+esta fracción cuando los actos vinculados con faltas administrativas
+graves sean realizados por personas físicas que actúen a nombre o
+representación de la persona moral y en beneficio de ella. También podrá
+ordenarse la suspensión de actividades, disolución o intervención de la
+sociedad respectiva cuando se trate de faltas administrativas graves que
+causen perjuicio a la Hacienda Pública o a los entes públicos,
+federales, locales o municipales, siempre que la sociedad obtenga un
+beneficio económico y se acredite participación de sus órganos de
+administración, de vigilancia o de sus socios, o en aquellos casos que
+se advierta que la sociedad es utilizada de manera sistemática para
+vincularse con faltas administrativas graves; en estos supuestos la
+sanción se ejecutará hasta que la resolución sea definitiva. Las leyes
+establecerán los procedimientos para la investigación e imposición de
+las sanciones aplicables de dichos actos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas en
+las fracciones anteriores se desarrollarán autónomamente. No podrán
+imponerse dos veces por una sola conducta sanciones de la misma
+naturaleza.
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la
 presentación de elementos de prueba, podrá formular denuncia ante la
 Cámara de Diputados del Congreso de la Unión respecto de las conductas a
 las que se refiere el presente artículo.
 
-Artículo reformado DOF 28-12-1982
+En el cumplimiento de sus atribuciones, a los órganos responsables de la
+investigación y sanción de responsabilidades administrativas y hechos de
+corrupción no les serán oponibles las disposiciones dirigidas a proteger
+la secrecía de la información en materia fiscal o la relacionada con
+operaciones de depósito, administración, ahorro e inversión de recursos
+monetarios. La ley establecerá los procedimientos para que les sea
+entregada dicha información.
+
+La Auditoría Superior de la Federación y la Secretaría del Ejecutivo
+Federal responsable del control interno, podrán recurrir las
+determinaciones de la Fiscalía Especializada en Combate a la Corrupción
+y del Tribunal Federal de Justicia Administrativa, de conformidad con lo
+previsto en los artículos 20, Apartado C, fracción VII, y 104, fracción
+III de esta Constitución, respectivamente.
+
+La responsabilidad del Estado por los daños que, con motivo de su
+actividad administrativa irregular, cause en los bienes o derechos de
+los particulares, será objetiva y directa. Los particulares tendrán
+derecho a una indemnización conforme a las bases, límites y
+procedimientos que establezcan las leyes.
+
+Artículo reformado DOF 28-12-1982, 27-05-2015
 
 **Artículo 110.** Podrán ser sujetos de juicio político los senadores y
 diputados al Congreso de la Unión, los ministros de la Suprema Corte de
@@ -7434,29 +7622,66 @@ en dicho precepto.
 
 Artículo reformado DOF 28-12-1982
 
-**Artículo 113.** Las leyes sobre responsabilidades administrativas de
-los servidores públicos, determinarán sus obligaciones a fin de
-salvaguardar la legalidad, honradez, lealtad, imparcialidad, y
-eficiencia en el desempeño de sus funciones, empleos, cargos y
-comisiones; las sanciones aplicables por los actos u omisiones en que
-incurran, así como los procedimientos y las autoridades para aplicarlas.
-Dichas sanciones, además de las que señalen las leyes, consistirán en
-suspensión, destitución e inhabilitación, así como en sanciones
-económicas, y deberán establecerse de acuerdo con los beneficios
-económicos obtenidos por el responsable y con los daños y perjuicios
-patrimoniales causados por sus actos u omisiones a que se refiere la
-fracción III del artículo 109, pero que no podrán exceder de tres tantos
-de los beneficios obtenidos o de los daños y perjuicios causados.
+**Artículo 113.** El Sistema Nacional Anticorrupción es la instancia de
+coordinación entre las autoridades de todos los órdenes de gobierno
+competentes en la prevención, detección y sanción de responsabilidades
+administrativas y hechos de corrupción, así como en la fiscalización y
+control de recursos públicos. Para el cumplimiento de su objeto se
+sujetará a las siguientes bases mínimas:
 
-La responsabilidad del Estado por los daños que, con motivo de su
-actividad administrativa irregular, cause en los bienes o derechos de
-los particulares, será objetiva y directa. Los particulares tendrán
-derecho a una indemnización conforme a las bases, límites y
-procedimientos que establezcan las leyes.
+**I.** El Sistema contará con un Comité Coordinador que estará integrado
+por los titulares de la Auditoría Superior de la Federación; de la
+Fiscalía Especializada en Combate a la Corrupción; de la secretaría del
+Ejecutivo Federal responsable del control interno; por el presidente del
+Tribunal Federal de Justicia Administrativa; el presidente del organismo
+garante que establece el artículo 6o. de esta Constitución; así como por
+un representante del Consejo de la Judicatura Federal y otro del Comité
+de Participación Ciudadana;
 
-Párrafo adicionado DOF 14-06-2002
+**II.** El Comité de Participación Ciudadana del Sistema deberá
+integrarse por cinco ciudadanos que se hayan destacado por su
+contribución a la transparencia, la rendición de cuentas o el combate a
+la corrupción y serán designados en los términos que establezca la ley,
+y
 
-Artículo reformado DOF 28-12-1982
+**III.** Corresponderá al Comité Coordinador del Sistema, en los
+términos que determine la Ley:
+
+**a)** El establecimiento de mecanismos de coordinación con los sistemas
+locales;
+
+**b)** El diseño y promoción de políticas integrales en materia de
+fiscalización y control de recursos públicos, de prevención, control y
+disuasión de faltas administrativas y hechos de corrupción, en especial
+sobre las causas que los generan;
+
+**c)** La determinación de los mecanismos de suministro, intercambio,
+sistematización y actualización de la información que sobre estas
+materias generen las instituciones competentes de los órdenes de
+gobierno;
+
+**d)** El establecimiento de bases y principios para la efectiva
+coordinación de las autoridades de los órdenes de gobierno en materia de
+fiscalización y control de los recursos públicos;
+
+**e)** La elaboración de un informe anual que contenga los avances y
+resultados del ejercicio de sus funciones y de la aplicación de
+políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a
+las autoridades, con el objeto de que adopten medidas dirigidas al
+fortalecimiento institucional para la prevención de faltas
+administrativas y hechos de corrupción, así como al mejoramiento de su
+desempeño y del control interno. Las autoridades destinatarias de las
+recomendaciones informarán al Comité sobre la atención que brinden a las
+mismas.
+
+Las entidades federativas establecerán sistemas locales anticorrupción
+con el objeto de coordinar a las autoridades locales competentes en la
+prevención, detección y sanción de responsabilidades administrativas y
+hechos de corrupción.
+
+Artículo reformado DOF 28-12-1982, 14-06-2002, 27-05-2015
 
 **Artículo 114.** El Procedimiento de juicio político sólo podrá
 iniciarse durante el período en el que el servidor público desempeñe su
@@ -7475,7 +7700,9 @@ La ley señalará los casos de prescripción de la responsabilidad
 administrativa tomando en cuenta la naturaleza y consecuencia de los
 actos y omisiones a que hace referencia la fracción III del artículo
 109. Cuando dichos actos u omisiones fuesen graves los plazos de
-prescripción no serán inferiores a tres años.
+prescripción no serán inferiores a siete años.
+
+Párrafo reformado DOF 27-05-2015
 
 Artículo reformado DOF 28-12-1982
 
@@ -7879,17 +8106,18 @@ las disposiciones constitucionales y legales aplicables.
 
 Párrafo adicionado DOF 24-08-2009
 
-Las legislaturas de los Estados contarán con entidades estatales de
+Las legislaturas de los estados contarán con entidades estatales de
 fiscalización, las cuales serán órganos con autonomía técnica y de
-gestión en el ejercido de sus atribuciones y para decidir sobre su
+gestión en el ejercicio de sus atribuciones y para decidir sobre su
 organización interna, funcionamiento y resoluciones, en los términos que
 dispongan sus leyes. La función de fiscalización se desarrollará
-conforme a los principios de posterioridad, anualidad, legalidad,
-imparcialidad y confiabilidad. Asimismo, deberán fiscalizar las acciones
-de Estados y Municipios en materia de fondos, recursos locales y deuda
-pública.
+conforme a los principios de legalidad, imparcialidad y confiabilidad.
+Asimismo, deberán fiscalizar las acciones de Estados y Municipios en
+materia de fondos, recursos locales y deuda pública. Los informes de
+auditoría de las entidades estatales de fiscalización tendrán carácter
+público.
 
-Párrafo adicionado DOF 07-05-2008. Reformado DOF 26-05-2015
+Párrafo adicionado DOF 07-05-2008. Reformado DOF 26-05-2015, 27-05-2015
 
 El titular de la entidad de fiscalización de las entidades federativas
 será electo por las dos terceras partes de los miembros presentes en las
@@ -7898,6 +8126,13 @@ contar con experiencia de cinco años en materia de control, auditoría
 financiera y de responsabilidades.
 
 Párrafo adicionado DOF 07-05-2008
+
+La cuenta pública del año anterior deberá ser enviada a la Legislatura
+del Estado, a más tardar el 30 de abril. Sólo se podrá ampliar el plazo
+de presentación cuando medie solicitud del Gobernador, suficientemente
+justificada a juicio de la Legislatura.
+
+Párrafo adicionado DOF 27-05-2015
 
 Las Legislaturas de los Estados regularán los términos para que los
 ciudadanos puedan presentar iniciativas de ley ante el respectivo
@@ -8118,14 +8353,28 @@ Inciso adicionado DOF 27-12-2013. Recorrido DOF 10-02-2014
 
 Fracción adicionada DOF 22-08-1996. Reformada DOF 13-11-2007
 
-**V.** Las Constituciones y leyes de los Estados podrán instituir
-Tribunales de lo Contencioso-Administrativo dotados de plena autonomía
-para dictar sus fallos, que tengan a su cargo dirimir las controversias
-que se susciten entre la Administración Pública Estatal y los
-particulares, estableciendo las normas para su organización, su
-funcionamiento, el procedimiento y los recursos contra sus resoluciones;
+**V.** Las Constituciones y leyes de los Estados deberán instituir
+Tribunales de Justicia Administrativa, dotados de plena autonomía para
+dictar sus fallos y establecer su organización, funcionamiento,
+procedimientos y, en su caso, recursos contra sus resoluciones. Los
+Tribunales tendrán a su cargo dirimir las controversias que se susciten
+entre la administración pública local y municipal y los particulares;
+imponer, en los términos que disponga la ley, las sanciones a los
+servidores públicos locales y municipales por responsabilidad
+administrativa grave, y a los particulares que incurran en actos
+vinculados con faltas administrativas graves; así como fincar a los
+responsables el pago de las indemnizaciones y sanciones pecuniarias que
+deriven de los daños y perjuicios que afecten a la Hacienda Pública
+Estatal o Municipal o al patrimonio de los entes públicos locales o
+municipales.
 
-Fracción recorrida y reformada DOF 22-08-1996
+Para la investigación, substanciación y sanción de las responsabilidades
+administrativas de los miembros del Poder Judicial de los Estados, se
+observará lo previsto en las Constituciones respectivas, sin perjuicio
+de las atribuciones de las entidades de fiscalización sobre el manejo,
+la custodia y aplicación de recursos públicos;
+
+Fracción recorrida y reformada DOF 22-08-1996. Reformada DOF 27-05-2015
 
 **VI.** Las relaciones de trabajo entre los estados y sus trabajadores,
 se regirán por las leyes que expidan las legislaturas de los estados con
@@ -8474,12 +8723,18 @@ artículo 74, en lo que sean aplicables.
 Párrafo reformado DOF 07-05-2008
 
 La cuenta pública del año anterior deberá ser enviada a la Asamblea
-Legislativa dentro de los diez primeros días del mes de junio. Este
-plazo, así como los establecidos para la presentación de las iniciativas
-de la ley de ingresos y del proyecto del presupuesto de egresos,
-solamente podrán ser ampliados cuando se formule una solicitud del
-Ejecutivo del Distrito Federal suficientemente justificada a juicio de
-la Asamblea;
+Legislativa a más tardar el 30 de abril. Este plazo, así como los
+establecidos para la presentación de las iniciativas de la ley de
+ingresos y del proyecto del presupuesto de egresos, solamente podrán ser
+ampliados cuando se formule una solicitud del Ejecutivo del Distrito
+Federal suficientemente justificada a juicio de la Asamblea.
+
+Párrafo reformado DOF 27-05-2015
+
+Los informes de auditoría de la entidad de fiscalización del Distrito
+Federal tendrán carácter público.
+
+Párrafo adicionado DOF 27-05-2015
 
 El titular de la entidad de fiscalización del Distrito Federal será
 electo por las dos terceras partes de los miembros presentes de la
@@ -8497,10 +8752,10 @@ pública, el presupuesto, la contabilidad y el gasto público del Distrito
 Federal, y la entidad de fiscalización dotándola de autonomía técnica y
 de gestión en el ejercicio de sus atribuciones, y para decidir sobre su
 organización interna, funcionamiento y resoluciones. La función de
-fiscalización será ejercida conforme a los principios de posterioridad,
-anualidad, legalidad, imparcialidad y confiabilidad.
+fiscalización será ejercida conforme a los principios de legalidad,
+imparcialidad y confiabilidad;
 
-Inciso reformado DOF 07-05-2008
+Inciso reformado DOF 07-05-2008, 27-05-2015
 
 **f)** Expedir las disposiciones que garanticen en el Distrito Federal
 elecciones libres y auténticas, mediante sufragio universal, libre,
@@ -8544,12 +8799,13 @@ función social educativa en los términos de la fracción VIII, del
 artículo 3o. de esta Constitución;
 
 **m)** Expedir la Ley Orgánica de los tribunales encargados de la
-función judicial del fuero común en el Distrito Federal, que incluirá lo
-relativo a las responsabilidades de los servidores públicos de dichos
-órganos;
+función judicial del fuero común en el Distrito Federal;
 
-**n)** Expedir la Ley Orgánica del Tribunal de lo Contencioso
-Administrativo para el Distrito Federal;
+Inciso reformado DOF 27-05-2015
+
+**n)** Expedir la Ley Orgánica del Tribunal de Justicia Administrativa;
+
+Inciso reformado DOF 27-05-2015
 
 **ñ)** Legislar en materia del derecho de acceso a la información y
 protección de datos personales en posesión de los sujetos obligados del
@@ -8718,13 +8974,28 @@ tribunales de justicia en la entidad y lo remitirá al Jefe de Gobierno
 del Distrito Federal para su inclusión en el proyecto de presupuesto de
 egresos que se presente a la aprobación de la Asamblea Legislativa.
 
-**BASE QUINTA.-** Existirá un Tribunal de lo Contencioso Administrativo,
-que tendrá plena autonomía para dirimir las controversias entre los
-particulares y las autoridades de la Administración Pública local del
-Distrito Federal.
+**BASE QUINTA.-** Existirá un Tribunal de Justicia Administrativa,
+dotado de plena autonomía para dictar sus fallos y establecer su
+organización, funcionamiento, procedimientos y, en su caso, recursos
+contra sus resoluciones. El Tribunal tendrá a su cargo dirimir las
+controversias que se susciten entre la administración pública del
+Distrito Federal y los particulares; imponer, en los términos que
+disponga la ley, las sanciones a los servidores públicos por
+responsabilidad administrativa grave y a los particulares que incurran
+en actos vinculados con faltas administrativas graves; así como fincar a
+los responsables el pago de las indemnizaciones y sanciones pecuniarias
+que deriven de los daños y perjuicios que afecten a la Hacienda Pública
+del Distrito Federal o al patrimonio de los entes públicos del Distrito
+Federal.
 
-Se determinarán las normas para su integración y atribuciones, mismas
-que serán desarrolladas por su ley orgánica.
+Para la investigación, substanciación y sanción de las responsabilidades
+administrativas de los miembros del Tribunal Superior de Justicia, se
+observará lo previsto en la fracción II de la BASE CUARTA del presente
+artículo, sin perjuicio de las atribuciones de las entidades de
+fiscalización sobre el manejo, la custodia y aplicación de recursos
+públicos.
+
+Base reformada DOF 27-05-2015
 
 **D.** El Ministerio Público en el Distrito Federal será presidido por
 un Procurador General de Justicia, que será nombrado en los términos que
@@ -15658,6 +15929,160 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinticinco de mayo de 2015.- **Enrique Peña Nieto**.- Rúbrica.- El
 Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
+
+DECRETO por el que se reforman, adicionan y derogan diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de combate a la corrupción.
+
+Publicado en el Diario Oficial de la Federación el 27 de mayo de 2015
+
+**Artículo Único.-** Se reforman los artículos 22, párrafo segundo,
+fracción II; 28, párrafo vigésimo, fracción XII; 41, párrafo segundo,
+fracción V, Apartado A, en sus párrafos segundo, octavo y décimo; 73,
+fracciones XXIV y XXIX-H; 74, fracciones II y VI, en sus párrafos
+segundo, tercero, cuarto y quinto; 76, fracción II; 79, párrafos
+primero, segundo, actual tercero y sus fracciones I, en sus párrafos
+segundo, cuarto y quinto, II y IV, primer párrafo, y los actuales
+párrafos cuarto, quinto y sexto; 104, fracción III; se modifica la
+denominación del Título Cuarto para quedar “De las Responsabilidades de
+los Servidores Públicos, Particulares Vinculados con faltas
+administrativas graves o hechos de Corrupción, y Patrimonial del
+Estado”; 109; 113; 114, párrafo tercero; 116, párrafo segundo,
+fracciones II, en su párrafo sexto y V; 122, Apartado C, BASE PRIMERA,
+fracción V, incisos c), en su párrafo segundo, e), m) y n) y, BASE
+QUINTA; se adicionan los artículos 73, con una fracción XXIX-V; 74, con
+una fracción VIII, pasando la actual VIII a ser IX; 79, con un tercer y
+cuarto párrafos, recorriéndose los actuales en su orden; 108, con un
+último párrafo; 116, párrafo segundo, fracción II, con un octavo
+párrafo, recorriéndose el actual en su orden; 122, Apartado C, BASE
+PRIMERA, fracción V, inciso c), con un tercer párrafo, recorriéndose el
+actual en su orden; y se deroga el segundo párrafo de la fracción IV,
+del actual párrafo tercero del artículo 79 de la Constitución Política
+de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación, sin perjuicio de lo
+previsto en los transitorios siguientes.
+
+**Segundo.** El Congreso de la Unión, dentro del plazo de un año contado
+a partir de la entrada en vigor del presente Decreto, deberá aprobar las
+leyes generales a que se refieren las fracciones XXIV y XXIX-V del
+artículo 73 de esta Constitución, así como las reformas a la legislación
+establecida en las fracciones XXIV y XXIX-H de dicho artículo. Asimismo,
+deberá realizar las adecuaciones a la Ley Orgánica de la Administración
+Pública Federal, con el objeto de que la Secretaría responsable del
+control interno del Ejecutivo Federal asuma las facultades necesarias
+para el cumplimiento de lo previsto en el presente Decreto y en las
+leyes que derivan del mismo.
+
+**Tercero.** La ley a que se refiere la fracción XXIX-H del artículo 73
+de la Constitución, establecerá que, observando lo dispuesto en la Ley
+Federal de Presupuesto y Responsabilidad Hacendaria, el Tribunal Federal
+de Justicia Administrativa:
+
+**a)** Aprobará su proyecto de presupuesto, con sujeción a los criterios
+generales de política económica y los techos globales de gasto
+establecidos por el Ejecutivo Federal;
+
+**b)** Ejercerá directamente su presupuesto aprobado por la Cámara de
+Diputados, sin sujetarse a las disposiciones emitidas por las
+secretarías de Hacienda y Crédito Público y de la Función Pública;
+
+**c)** Autorizará las adecuaciones presupuestarias sin requerir la
+autorización de la Secretaría de Hacienda y Crédito Público, siempre y
+cuando no rebase su techo global aprobado por la Cámara de Diputados;
+
+**d)** Determinará los ajustes que correspondan a su presupuesto en caso
+de disminución de ingresos durante el ejercicio fiscal, y
+
+**e)** Realizará los pagos, llevará la contabilidad y elaborará sus
+informes, a través de su propia tesorería, en los términos de las leyes
+aplicables.
+
+**Cuarto.** El Congreso de la Unión, las Legislaturas de los Estados y
+la Asamblea Legislativa del Distrito Federal, deberán, en el ámbito de
+sus respectivas competencias, expedir las leyes y realizar las
+adecuaciones normativas correspondientes, dentro de los ciento ochenta
+días siguientes a la entrada en vigor de las leyes generales a que se
+refiere el Segundo Transitorio del presente Decreto.
+
+**Quinto.** Las adiciones, reformas y derogaciones que por virtud del
+presente Decreto se hacen a los artículos 79, 108, 109, 113, 114, 116,
+fracción V y 122, BASE QUINTA, entrarán en vigor en la misma fecha en
+que lo hagan las leyes a que se refiere el Transitorio Segundo del
+presente Decreto.
+
+**Sexto.** En tanto se expiden y reforman las leyes a que se refiere el
+Segundo Transitorio, continuará aplicándose la legislación en materia de
+responsabilidades administrativas de los servidores públicos, así como
+de fiscalización y control de recursos públicos, en el ámbito federal y
+de las entidades federativas, que se encuentre vigente a la fecha de
+entrada en vigor del presente Decreto.
+
+**Séptimo.** Los sistemas anticorrupción de las entidades federativas
+deberán conformarse de acuerdo con las Leyes Generales que resulten
+aplicables, las constituciones y leyes locales.
+
+**Octavo.** Los Magistrados del Tribunal Federal de Justicia Fiscal y
+Administrativa que hayan sido nombrados a la fecha de entrada en vigor
+de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta
+Constitución, continuarán como Magistrados del Tribunal Federal de
+Justicia Administrativa por el tiempo que fueron nombrados.
+
+Los titulares de los órganos a que se refieren las adiciones y reformas
+que establece el presente Decreto en las fracciones VIII del artículo 74
+y II del artículo 76, que se encuentren en funciones a la entrada en
+vigor del mismo, continuarán en su encargo en los términos en los que
+fueron nombrados.
+
+Los Magistrados de los Tribunales Contenciosos Administrativos
+cualquiera que sea su denominación en el ámbito de las entidades
+federativas, continuarán como magistrados de los Tribunales de Justicia
+Administrativa de cada entidad federativa, exclusivamente por el tiempo
+que hayan sido nombrados.
+
+El Tribunal Federal de Justicia Fiscal y Administrativa continuará
+funcionando con su organización y facultades actuales y substanciando
+los asuntos que actualmente se encuentran en trámite, hasta la entrada
+en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73,
+de este Decreto.
+
+**Noveno.** Los recursos humanos, materiales, financieros y
+presupuestales con que cuenta el Tribunal Federal de Justicia Fiscal y
+Administrativa, incluyendo todos sus bienes y los derechos derivados de
+los fondos o fideicomisos vigentes, pasarán a formar parte del Tribunal
+Federal de Justicia Administrativa en los términos que determine la Ley
+a que se refiere la fracción XXIX-H, del artículo 73, de esta
+Constitución.
+
+**Décimo.** Los trabajadores de base que se encuentren prestando sus
+servicios en el Tribunal Federal de Justicia Fiscal y Administrativa, a
+la entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del
+artículo 73, de esta Constitución, seguirán conservando su misma calidad
+y derechos laborales que les corresponden ante el Tribunal Federal de
+Justicia Administrativa, en los términos que dicha ley determine.
+
+**Décimo Primero.** La ley reglamentaria del segundo párrafo del
+artículo 113 Constitucional, reformado por virtud del presente Decreto,
+se entenderá referida al último párrafo del artículo 109 Constitucional
+atendiendo a lo establecido en el Quinto Transitorio del presente
+Decreto.
+
+México, D.F., a 20 de mayo de 2015.- Sen. **Miguel Barbosa Huerta**,
+Presidente.- Dip. **Rocío Esmeralda Reza Gallegos**, Secretaria.-
+Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+veintisiete de mayo de dos mil quince.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.
 
 .. figure:: ../ima/h_line.gif
    :align: center
