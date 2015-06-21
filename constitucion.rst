@@ -28,35 +28,42 @@ TEXTO VIGENTE
 
 Última reforma publicada DOF 26-05-2015
 
-Notas de vigencia relativas al Decreto en materia política-electoral
-publicado en el DOF 10-02-2014:
+Notas de vigencia:
 
-1. Las reformas, adiciones y derogaciones a los artículos 35, 41, 54,
+1. Relativas al Decreto en materia política-electoral publicado en el
+DOF 10-02-2014:
+
+a) Las reformas, adiciones y derogaciones a los artículos 35, 41, 54,
 55, 99, 105 fracción II inciso f), 110, 111 y 116 fracción IV, entrarán
 en vigor con base en lo que establece el Artículo Cuarto Transitorio de
 dicho Decreto.
 
-2. La reforma al artículo 59 será aplicable a los diputados y senadores
+b) La reforma al artículo 59 será aplicable a los diputados y senadores
 que sean electos a partir del proceso electoral de 2018, de conformidad
 con lo que estipula el Artículo Décimo Primero Transitorio del Decreto.
 
-3. Las reformas, adiciones y derogaciones a los artículos 69, párrafo
+c) Las reformas, adiciones y derogaciones a los artículos 69, párrafo
 tercero; 74, fracciones III y VII; 76, fracciones II y XI; 89, fracción
 II, párrafos segundo y tercero, y fracción XVII, entrarán en vigor el 1
 de diciembre de 2018, como lo establece el Artículo Décimo Segundo
 Transitorio del Decreto.
 
-4. Las reformas a los artículos 65; 74, fracción IV y 83, entrarán en
+d) Las reformas a los artículos 65; 74, fracción IV y 83, entrarán en
 vigor el 1 de diciembre de 2018, de conformidad con lo que señala el
 Artículo Décimo Quinto Transitorio del Decreto en mención.
 
-5. Las reformas, adiciones y derogaciones a los artículos 28; 29,
+e) Las reformas, adiciones y derogaciones a los artículos 28; 29,
 párrafo primero; 69, párrafo segundo; 76, fracciones II y XII; 78,
 fracción V; 82, fracción VI; 84; 89, fracción IX; 90; 93, párrafo
 segundo; 95; 102, Apartado A; 105, fracciones II, incisos c) e i) y III;
 107; 110, 111; 116, fracción IX y 119, párrafo primero, entrarán en
 vigor de conformidad con lo establecido en el Artículo Décimo Sexto
 Transitorio del Decreto.
+
+2. Las reformas, adiciones y derogaciones a los artículos 79, 108, 109,
+113, 114, 116, fracción V y 122, BASE QUINTA, publicadas por Decreto DOF
+27-05-2015, entrarán en vigor de conformidad con lo que establecen los
+Artículos Segundo y Quinto Transitorios de dicho Decreto.
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
