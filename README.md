@@ -49,10 +49,10 @@ que es mucho más propicio para esto fines.
 El script tiene la siguiente dependencias:
 
  * wget
- * iconv
  * tidy
  * pandoc
- * sed
+ * python3
+ * lxml (módulo de python)
 
 
 ¿Y luego?

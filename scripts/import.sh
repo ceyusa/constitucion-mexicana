@@ -8,24 +8,21 @@ do_get() {
     wget ${url} --quiet --output-document - 
 }
 
-do_iconv() {
-    iconv --from WINDOWS-1252 --to utf8
-}
-
 do_tidy() {
-    tidy -clean -bare -utf8 -omit -ashtml -quiet
+    config="--wrap 0 --drop-font-tags yes --drop-empty-paras yes --enclose-text yes --fix-uri yes --hide-comments yes --merge-divs yes --merge-spans yes --show-body-only yes"
+    tidy ${config} -clean -bare -omit -asxhtml -quiet
 }
 
 do_pandoc() {
     pandoc --smart --normalize --from html --to rst
 }
 
-do_sed() {
-    sed -e 's/[[:blank:]]*$//'
+do_clean() {
+    scripts/cleaner.py
 }
 
 get_law() {
-    do_get | do_iconv | do_tidy | do_pandoc | do_sed
+    do_get | do_tidy | do_clean | do_pandoc
 }
 
 get_law > ${outfile}.rst 2>/dev/null
