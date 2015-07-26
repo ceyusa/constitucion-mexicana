@@ -41,8 +41,9 @@ Transitorio del Decreto.
 
 2. Las reformas, adiciones y derogaciones a los artículos 79, 108, 109,
 113, 114, 116, fracción V y 122, BASE QUINTA, publicadas por Decreto DOF
-27-05-2015, entrarán en vigor de conformidad con lo que establecen los
-Artículos Segundo y Quinto Transitorios de dicho Decreto.
+27-05-2015, en materia de combate a la corrupción, entrarán en vigor de
+conformidad con lo que establecen los Artículos Segundo y Quinto
+Transitorios de dicho Decreto.
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder
 Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el
