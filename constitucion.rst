@@ -1,24 +1,3 @@
-Constitución Política de los Estados Unidos Mexicanos
-
-`|image0| <http://www.diputados.gob.mx>`_
-
-`|image1| <http://www.diputados.gob.mx/informacion_parlamentaria.htm>`_
-
-`|image2| <http://www.diputados.gob.mx/acuerdos.htm>`_
-
-`|image3| <http://www.diputados.gob.mx/transparencia.htm>`_
-
-`|image4| <http://www3.diputados.gob.mx/camara/005_comunicacion>`_
-
-`|image5| <http://201.147.98.21:81/uwc/auth>`_
-
-`|image6| <javascript:increaseFontSize();>`_
-
-`|image7| <javascript:decreaseFontSize();>`_
-
-`Inicio <http://www.diputados.gob.mx>`_ / `Leyes Federales de
-México <../index.htm>`_ / `Constitución Política <../ref/cpeum.htm>`_
-
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 Constitución publicada en el Diario Oficial de la Federación el 5 de
@@ -10224,8 +10203,7 @@ diez y siete.- AGUIRRE BERLANGA.
 Al Ciudadano ……
 
 **
-** |image8|
-
+**
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
 A partir del 3 de septiembre de 1993
@@ -16084,10 +16062,6 @@ veintisiete de mayo de dos mil quince.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
-.. figure:: ../ima/h_line.gif
-   :align: center
-   :alt:
-
 **Secretaría General**
 
 **Secretaría de Servicios Parlamentarios**
@@ -16097,16 +16071,3 @@ Rúbrica.
 **Correo electrónico:
 `armando.torres@congreso.gob.mx <mailto:armando.torres@congreso.gob.mx>`_**
 
-.. figure:: ../ima/pie.jpg
-   :align: center
-   :alt:
-
-.. |image0| image:: ../ima/bt_diputados_f1.gif
-.. |image1| image:: ../ima/bt_info_f2.gif
-.. |image2| image:: ../ima/bt_acuerdos_f1.gif
-.. |image3| image:: ../ima/bt_transp_f1.gif
-.. |image4| image:: ../ima/bt_comunic_f1.gif
-.. |image5| image:: ../ima/bt_mensaj_f1.gif
-.. |image6| image:: ../ima/aumentar.gif
-.. |image7| image:: ../ima/disminuir.gif
-.. |image8| image:: ../ima/h_line.gif
