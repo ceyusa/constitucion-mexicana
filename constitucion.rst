@@ -1694,7 +1694,7 @@ menoscabo de otras formas de actividad económica que contribuyan al
 desarrollo de la Nación.
 
 El sector público tendrá a su cargo, de manera exclusiva, las áreas
-estratégicas que se señalan en el Artículo 28, párrafo cuarto de la
+estratégicas que se señalan en el artículo 28, párrafo cuarto de la
 Constitución, manteniendo siempre el Gobierno Federal la propiedad y el
 control sobre los organismos y empresas productivas del Estado que en su
 caso se establezcan. Tratándose de la planeación y el control del
