@@ -1901,7 +1901,7 @@ nacional, en la extensión y términos que fije el Derecho Internacional.
 Párrafo reformado DOF 20-01-1960
 
 Son propiedad de la Nación las aguas de los mares territoriales en la
-extensión y términos que fije **(sic DOF 20-01-1960)**\ Derecho
+extensión y términos que fije **(sic DOF 20-01-1960)** Derecho
 Internacional; las aguas marinas interiores; las de las lagunas y
 esteros que se comuniquen permanente o intermitentemente con el mar; las
 de los lagos interiores de formación natural que estén ligados
