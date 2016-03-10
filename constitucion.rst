@@ -5,7 +5,7 @@ febrero de 1917
 
 TEXTO VIGENTE
 
-Última reforma publicada DOF 10-07-2015
+Última reforma publicada DOF 27-01-2016
 
 Notas de vigencia:
 
@@ -1813,6 +1813,24 @@ excepción de los no remunerados en instituciones docentes, científicas,
 culturales o de beneficencia; y estarán sujetos a lo dispuesto por el
 Título Cuarto de esta Constitución.
 
+El organismo calculará en los términos que señale la ley, el valor de la
+Unidad de Medida y Actualización que será utilizada como unidad de
+cuenta, índice, base, medida o referencia para determinar la cuantía del
+pago de las obligaciones y supuestos previstos en las leyes federales,
+de las entidades federativas y del Distrito Federal, así como en las
+disposiciones jurídicas que emanen de todas las anteriores.
+
+Párrafo adicionado DOF 27-01-2016
+
+Las obligaciones y supuestos denominados en Unidades de Medida y
+Actualización se considerarán de monto determinado y se solventarán
+entregando su equivalente en moneda nacional. Al efecto, deberá
+multiplicarse el monto de la obligación o supuesto, expresado en las
+citadas unidades, por el valor de dicha unidad a la fecha
+correspondiente.
+
+Párrafo adicionado DOF 27-01-2016
+
 **C.** El Estado contará con un Consejo Nacional de Evaluación de la
 Política de Desarrollo Social, que será un órgano autónomo, con
 personalidad jurídica y patrimonio propios, a cargo de la medición de la
@@ -3202,12 +3220,14 @@ que disponga la ley:
 **a)** El financiamiento público para el sostenimiento de sus
 actividades ordinarias permanentes se fijará anualmente, multiplicando
 el número total de ciudadanos inscritos en el padrón electoral por el
-sesenta y cinco por ciento del salario mínimo diario vigente para el
-Distrito Federal. El treinta por ciento de la cantidad que resulte de
+sesenta y cinco por ciento del valor diario de la Unidad de Medida y
+Actualización. El treinta por ciento de la cantidad que resulte de
 acuerdo a lo señalado anteriormente, se distribuirá entre los partidos
 políticos en forma igualitaria y el setenta por ciento restante de
 acuerdo con el porcentaje de votos que hubieren obtenido en la elección
 de diputados inmediata anterior.
+
+Inciso reformado DOF 27-01-2016
 
 **b)** El financiamiento público para las actividades tendientes a la
 obtención del voto durante el año en que se elijan Presidente de la
@@ -9100,7 +9120,11 @@ Fracción reformada DOF 31-12-1974
 serán generales o profesionales. Los primeros regirán en las áreas
 geográficas que se determinen; los segundos se aplicarán en ramas
 determinadas de la actividad económica o en profesiones, oficios o
-trabajos especiales.
+trabajos especiales. El salario mínimo no podrá ser utilizado como
+índice, unidad, base, medida o referencia para fines ajenos a su
+naturaleza.
+
+Párrafo reformado DOF 27-01-2016
 
 Los salarios mínimos generales deberán ser suficientes para satisfacer
 las necesidades normales de un jefe de familia, en el orden material,
@@ -16252,6 +16276,155 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 ocho de julio de dos mil quince.- **Enrique Peña Nieto**.- Rúbrica.- El
 Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
+
+**
+**
+DECRETO por el que se declara reformadas y adicionadas diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de desindexación del salario mínimo.
+
+Publicado en el Diario Oficial de la Federación el 27 de enero de 2016
+
+**Artículo Único.-** Se reforman el inciso a) de la base II del artículo
+41, y el párrafo primero de la fracción VI del Apartado A del artículo
+123; y se adicionan los párrafos sexto y séptimo al Apartado B del
+artículo 26 de la Constitución Política de los Estados Unidos Mexicanos,
+para quedar como sigue:
+
+………
+
+Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor el día siguiente al
+de su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** El valor inicial diario de la Unidad de Medida y
+Actualización, a la fecha de entrada en vigor del presente Decreto será
+equivalente al que tenga el salario mínimo general vigente diario para
+todo el país, al momento de la entrada en vigor del presente Decreto y
+hasta que se actualice dicho valor conforme al procedimiento previsto en
+el artículo quinto transitorio.
+
+El valor inicial mensual de la Unidad de Medida y Actualización a la
+fecha de entrada en vigor del presente Decreto, será producto de
+multiplicar el valor inicial referido en el párrafo anterior por 30.4.
+Por su parte, el valor inicial anual será el producto de multiplicar el
+valor inicial mensual por 12.
+
+**Tercero.-** A la fecha de entrada en vigor del presente Decreto, todas
+las menciones al salario mínimo como unidad de cuenta, índice, base,
+medida o referencia para determinar la cuantía de las obligaciones y
+supuestos previstos en las leyes federales, estatales, del Distrito
+Federal, así como en cualquier disposición jurídica que emane de todas
+las anteriores, se entenderán referidas a la Unidad de Medida y
+Actualización.
+
+**Cuarto.-** Sin perjuicio de lo dispuesto en el artículo transitorio
+anterior, el Congreso de la Unión, las Legislaturas de los Estados, la
+Asamblea Legislativa del Distrito Federal, así como las Administraciones
+Públicas Federal, Estatales, del Distrito Federal y Municipales deberán
+realizar las adecuaciones que correspondan en las leyes y ordenamientos
+de su competencia, según sea el caso, en un plazo máximo de un año
+contado a partir de la entrada en vigor de este Decreto, a efecto de
+eliminar las referencias al salario mínimo como unidad de cuenta,
+índice, base, medida o referencia y sustituirlas por las relativas a la
+Unidad de Medida y Actualización.
+
+**Quinto.-** El Congreso de la Unión deberá emitir la legislación
+reglamentaria para determinar el valor de la Unidad de Medida y
+Actualización, dentro de un plazo que no excederá de 120 días naturales
+siguientes a la fecha de publicación del presente Decreto.
+
+En tanto se promulga esta ley, se utilizará el siguiente método para
+actualizar el valor de la Unidad de Medida y Actualización:
+
+**I.** El valor diario se determinará multiplicando el valor diario de
+la Unidad de Medida y Actualización del año inmediato anterior por el
+resultado de la suma de uno más la variación interanual del Índice
+Nacional de Precios al Consumidor del mes de diciembre del año inmediato
+anterior.
+
+**II.** El valor mensual será el producto de multiplicar el valor diario
+de la Unidad de Medida y Actualización por 30.4.
+
+**III.** El valor anual será el producto de multiplicar el valor mensual
+de la Unidad de Medida y Actualización por 12.
+
+Así mismo la ley deberá prever la periodicidad, atendiendo al principio
+de anualidad, con que se deberá publicar la actualización de la Unidad
+de Medida y Actualización en el Diario Oficial de la Federación, así
+como los mecanismos de ajuste que en su caso procedan.
+
+El valor inicial previsto en el segundo transitorio del presente
+Decreto, se actualizará conforme al procedimiento que se establezca una
+vez que se realicen las adecuaciones legales correspondientes.
+
+**Sexto.-** Los créditos vigentes a la entrada en vigor del presente
+Decreto cuyos montos se actualicen con base al salario mínimo y que
+hayan sido otorgados por el Instituto del Fondo Nacional de la Vivienda
+para los Trabajadores, el Fondo de la Vivienda del Instituto de
+Seguridad y Servicios Sociales de los Trabajadores del Estado u otras
+instituciones del Estado dedicadas al otorgamiento de crédito para la
+vivienda, continuarán actualizándose bajo los términos y condiciones que
+hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que
+el salario mínimo se incremente por encima de la inflación, las
+referidas instituciones no podrán actualizar el saldo en moneda nacional
+de este tipo de créditos a una tasa que supere el crecimiento porcentual
+de la Unidad de Medida y Actualización durante el mismo año.
+
+Las instituciones a que se refiere el primer párrafo podrán, a partir de
+la entrada en vigor de este Decreto y hasta 720 días naturales
+posteriores a la entrada en vigor del mismo, seguir otorgando créditos a
+la vivienda que se referencien o actualicen con base al salario mínimo.
+En el evento de que el salario mínimo se incremente por encima de la
+inflación, las citadas instituciones no podrán actualizar el saldo en
+moneda nacional de este tipo de créditos a una tasa que supere el
+crecimiento porcentual de la Unidad de Medida y Actualización durante el
+mismo año.
+
+El órgano de gobierno de cada institución podrá determinar el mecanismo
+más adecuado para implementar lo dispuesto en el presente artículo
+transitorio.
+
+**Séptimo.-** Los contratos y convenios de cualquier naturaleza,
+vigentes a la fecha de entrada en vigor de este Decreto que utilicen el
+salario mínimo como referencia para cualquier efecto, no se modificarán
+por la Unidad de Medida y Actualización, salvo que las partes acuerden
+expresamente lo contrario. Lo anterior, sin perjuicio de que, a partir
+de la entrada en vigor de este Decreto, los contratantes puedan utilizar
+como índice o referencia a la Unidad de Medida y Actualización.
+
+**Octavo.-** En los créditos, garantías, coberturas y otros esquemas
+financieros otorgados o respaldados por el Fondo de Operación y
+Financiamiento Bancario a la Vivienda o por la Sociedad Hipotecaria
+Federal, S.N.C., Institución de Banca de Desarrollo, en los que para
+procurar la accesibilidad del crédito a la vivienda se haya previsto
+como referencia del incremento del saldo del crédito o sus mensualidades
+el salario mínimo, en beneficio de los acreditados, las citadas
+entidades deberán llevar a cabo los actos y gestiones necesarias para
+que el monto máximo de ese incremento en el periodo establecido, no sea
+superior a la inflación correspondiente. Asimismo, el órgano de gobierno
+de cada entidad podrá determinar el mecanismo más adecuado para
+implementar lo dispuesto en el presente artículo transitorio.
+
+**Noveno.-** Se abrogan todas las disposiciones que se opongan a lo
+establecido en el presente Decreto, excepto las disposiciones legales
+relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+SALÓN DE SESIONES DE LA COMISIÓN PERMANENTE DEL HONORABLE CONGRESO DE LA
+UNIÓN.- México, D.F., a 7 de enero de 2016.- Dip. **José de Jesús
+Zambrano Grijalva**, Presidente.- Dip. **Teresa de Jesús Lizárraga
+Figueroa**, Secretaria.- Rúbricas.\ **"**
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
+veintiséis de enero de dos mil dieciséis.- **Enrique Peña Nieto**.-
+Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
+Rúbrica.
 
 **Secretaría General**
 
