@@ -10270,9 +10270,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los dos días del mes de septiembre de mil novecientos noventa y tres.-
 El Secretario de Gobernación, José Patrocinio González Blanco Garrido.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los artículos 31, 44, 73, 74, 79, 89,
 104, 105, 107, 122, así como la denominación del título quinto, adición
 de una fracción IX al artículo 76 y un primer párrafo al 119 y se deroga
@@ -10345,9 +10346,10 @@ facultad de legislar, en el ámbito local, en las materias de orden
 común, civil y penal para el Distrito Federal, en tanto se expidan los
 ordenamientos de carácter federal correspondientes, a cuya entrada en
 vigor, corresponderá a la Asamblea de Representantes legislar sobre el
-particular, en los términos del presente Decreto.\ **
-**
+particular, en los términos del presente Decreto.
 
+**
+**
 DECRETO mediante el cual se declaran reformados diversos artículos de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10484,9 +10486,10 @@ observancia, expido el presente Decreto en la residencia del Poder
 Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los
 veintiún días del mes de agosto de mil novecientos noventa y seis.-
 Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación,
-Emilio Chuayffet Chemor.- Rúbrica.\ **
-**
+Emilio Chuayffet Chemor.- Rúbrica.
 
+**
+**
 DECRETO por el que se declaran reformados los artículos 30, 32 y 37 de
 la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10559,9 +10562,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veintidós días del mes de febrero de mil novecientos noventa y
 nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de
-Gobernación, Francisco Labastida Ochoa.- Rúbrica.\ **
-**
+Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los artículos 94, 97, 100 y 107 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10615,9 +10619,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los diez días del mes de junio de mil novecientos noventa y nueve.-
 Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación,
-Diódoro Carrasco Altamirano.- Rúbrica.\ **
-**
+Diódoro Carrasco Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se declara la adición de una fracción XXIX-J al
 artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10642,9 +10647,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veintitrés días del mes de junio de mil novecientos noventa y
 nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de
-Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.\ **
-**
+Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se declara reformado el artículo 58 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10666,9 +10672,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veintisiete días del mes de julio de mil novecientos noventa y
 nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de
-Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.\ **
-**
+Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se declaran reformados los artículos 73, 74, 78 y 79
 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10729,9 +10736,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veintisiete días del mes de julio de mil novecientos noventa y
 nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de
-Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.\ **
-**
+Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforma y adiciona el artículo 102 apartado B de
 la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10786,9 +10794,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los siete días del mes de septiembre de mil novecientos noventa y
 nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de
-Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.\ **
-**
+Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se declara reformado y adicionado el artículo 115 de
 la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10865,9 +10874,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veintidós días del mes de diciembre del año de mil novecientos
 noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El
-Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.\ **
-**
+Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se declara reformado y adicionado el artículo 4o. de
 la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10889,9 +10899,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los seis días del mes de abril de dos mil.- Ernesto Zedillo Ponce de
 León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco
-Altamirano.- Rúbrica.\ **
-**
+Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se declaran reformadas, adicionadas y derogadas
 diversas disposiciones del artículo 20 de la Constitución Política de
 los Estados Unidos Mexicanos.
@@ -10919,9 +10930,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los diecinueve días del mes de septiembre de dos mil.- Ernesto Zedillo
 Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco
-Altamirano.- Rúbrica.\ **
-**
+Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se declara reformada la fracción XXV del artículo 73
 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -10944,9 +10956,10 @@ publicación y observancia, expido el presente Decreto en la residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los diecinueve días del mes de septiembre de dos mil.- Ernesto Zedillo
 Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco
-Altamirano.- Rúbrica.\ **
-**
+Altamirano.- Rúbrica.
 
+**
+**
 DECRETO por el que se aprueba el diverso por el que se adicionan un
 segundo y tercer párrafos al artículo 1o., se reforma el artículo 2o.,
 se deroga el párrafo primero del artículo 4o.; y se adicionan un sexto
@@ -10987,9 +11000,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los tres días del mes de agosto de dos mil uno.- Vicente Fox Quesada.-
 Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se aprueba el diverso por el que se modifica la
 denominación del Título Cuarto y se adiciona un segundo párrafo al
 artículo 113 de la Constitución Política de los Estados Unidos
@@ -11038,9 +11052,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los trece días del mes de junio de dos mil dos.- Vicente Fox Quesada.-
 Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se aprueba el diverso por el que se adiciona el
 artículo 3o., en su párrafo primero, fracciones III, V y VI, y el
 artículo 31 en su fracción I, de la Constitución Política de los Estados
@@ -11121,9 +11136,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los ocho días del mes de noviembre de dos mil dos.- Vicente Fox
 Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
-Miranda.- Rúbrica.\ **
-**
+Miranda.- Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona la fracción XXIX-M al artículo 73 y se
 reforma la fracción VI del artículo 89 de la Constitución Política de
 los Estados Unidos Mexicanos.
@@ -11146,9 +11162,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los cinco días del mes de abril de dos mil cuatro.- Vicente Fox
 Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
-Miranda.- Rúbrica.\ **
-**
+Miranda.- Rúbrica.
 
+**
+**
 DECRETO por el que se aprueba el diverso que reforma el artículo segundo
 transitorio a los artículos 30, 32 y 37 de la Constitución Política de
 los Estados Unidos Mexicanos, publicado el veinte de marzo de 1997.
@@ -11169,9 +11186,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veinte días del mes de julio de dos mil cuatro.- Vicente Fox
 Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
-Miranda.- Rúbrica.\ **
-**
+Miranda.- Rúbrica.
 
+**
+**
 DECRETO por el que se aprueba el diverso mediante el cual se reforma la
 fracción IV del artículo 74 de la Constitución Política de los Estados
 Unidos Mexicanos.
@@ -11192,9 +11210,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veintiocho días del mes de julio de dos mil cuatro.- Vicente Fox
 Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
-Miranda.- Rúbrica.\ **
-**
+Miranda.- Rúbrica.
 
+**
+**
 DECRETO por el que se aprueba el Decreto que reforma el primer párrafo
 del artículo 65 de la Constitución Política de los Estados Unidos
 Mexicanos.
@@ -11220,9 +11239,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 los veintiocho días del mes de julio de dos mil cuatro.- Vicente Fox
 Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel
-Miranda.- Rúbrica.\ **
-**
+Miranda.- Rúbrica.
 
+**
+**
 DECRETO por el que se aprueba el diverso que adiciona una fracción
 XXIX-L al artículo 73 de la Constitución Política de los Estados Unidos
 Mexicanos.
@@ -12109,9 +12129,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 seis de mayo de dos mil ocho.- **Felipe de Jesús Calderón Hinojosa**.-
 Rúbrica.- El Secretario de Gobernación, **Juan Camilo Mouriño
-Terrazo**.- Rúbrica.\ **
-**
+Terrazo**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman y adicionan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -12337,9 +12358,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintidós de septiembre de dos mil ocho.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **Juan Camilo
-Mouriño Terrazo**.- Rúbrica.\ **
-**
+Mouriño Terrazo**.- Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona un párrafo noveno al artículo 4o.; se
 reforma la fracción XXV y se adiciona una fracción XXIX-Ñ al artículo 73
 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -12376,9 +12398,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinticuatro de abril de dos mil nueve.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, Lic. **Fernando
-Francisco Gómez Mont Urueta**.- Rúbrica.\ **
-**
+Francisco Gómez Mont Urueta**.- Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona la fracción XXIX-O al artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -12416,9 +12439,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinticuatro de abril de dos mil nueve.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, Lic. **Fernando
-Francisco Gómez Mont Urueta**.- Rúbrica.\ **
-**
+Francisco Gómez Mont Urueta**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el párrafo primero de la fracción XXI del
 artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -12456,9 +12480,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintisiete de abril de dos mil nueve.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, Lic. **Fernando
-Francisco Gómez Mont Urueta**.- Rúbrica.\ **
-**
+Francisco Gómez Mont Urueta**.- Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona un segundo párrafo, recorriéndose los
 subsecuentes en su orden, al artículo 16 de la Constitución Política de
 los Estados Unidos Mexicanos.
@@ -12487,9 +12512,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintiocho de mayo de dos mil nueve.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, Lic. **Fernando
-Francisco Gómez Mont Urueta**.- Rúbrica.\ **
-**
+Francisco Gómez Mont Urueta**.- Rúbrica.
 
+**
+**
 FE de errata al Decreto por el que se adiciona un segundo párrafo,
 recorriéndose los subsecuentes en su orden, al artículo 16 de la
 Constitución Política de los Estados Unidos Mexicanos, publicado el 1 de
@@ -12511,9 +12537,10 @@ No podrá librarse orden de aprehensión sino por la autoridad judicial y
 sin que **preceda** denuncia o querella de un hecho que la ley señale
 como delito, sancionado con pena privativa de libertad y obren datos que
 establezcan que se ha cometido ese hecho y que exista la probabilidad de
-que el indiciado lo cometió o participó en su comisión.\ **
-**
+que el indiciado lo cometió o participó en su comisión.
 
+**
+**
 DECRETO por el que se adiciona un segundo párrafo al artículo segundo
 transitorio y un artículo tercero transitorio al decreto por el que se
 declaran reformado el párrafo cuarto y adicionados los párrafos quinto y
@@ -12548,9 +12575,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 doce de agosto de dos mil nueve.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, Lic. **Fernando
-Francisco Gómez Mont Urueta**.- Rúbrica.\ **
-**
+Francisco Gómez Mont Urueta**.- Rúbrica.
 
+**
+**
 **DECRETO por el que **se**** **r**\ eforman y adicionan los artículos
 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados
 Unidos Mexicanos.
@@ -12631,9 +12659,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintiuno de agosto de dos mil nueve.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, Lic. **Fernando
-Francisco Gómez Mont Urueta**.- Rúbrica.\ **
-**
+Francisco Gómez Mont Urueta**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforma la fracción II, de la Base Cuarta del
 Apartado C del artículo 122 de la Constitución Política de los Estados
 Unidos Mexicanos.
@@ -12662,9 +12691,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintiuno de abril de dos mil diez.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, Lic. **Fernando
-Francisco Gómez Mont Urueta**.- Rúbrica.\ **
-**
+Francisco Gómez Mont Urueta**.- Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona un párrafo tercero y se recorre el orden
 de los párrafos subsecuentes del artículo 17 de la Constitución Política
 de los Estados Unidos Mexicanos.
@@ -12696,9 +12726,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 trece de julio de dos mil diez.- **Felipe de Jesús Calderón Hinojosa**.-
 Rúbrica.- El Secretario de Gobernación, Lic. **Fernando Francisco Gómez
-Mont Urueta**.- Rúbrica.\ **
-**
+Mont Urueta**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el artículo 43 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
@@ -12724,9 +12755,10 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 doce de abril de dos mil once.- **Felipe de Jesús Calderón Hinojosa**.-
-Rúbrica.- El Secretario de Gobernación, **José Francisco.
-**
+Rúbrica.- El Secretario de Gobernación, **José Francisco.**
 
+**
+**
 DECRETO por el que se reforman, adicionan y derogan diversas
 disposiciones de los artículos 94, 103, 104 y 107 de la Constitución
 Política de los Estados Unidos Mexicanos.
@@ -12777,9 +12809,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 tres de junio de dos mil once.- **Felipe de Jesús Calderón Hinojosa**.-
 Rúbrica.- El Secretario de Gobernación, **José Francisco Blake Mora**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se modifica la denominación del Capítulo I del Título
 Primero y reforma diversos artículos de la Constitución Política de los
 Estados Unidos Mexicanos.
@@ -12856,9 +12889,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 nueve de junio de dos mil once.- **Felipe de Jesús Calderón Hinojosa**.-
 Rúbrica.- El Secretario de Gobernación, **José Francisco Blake Mora**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los artículos 19, 20 y 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -12889,9 +12923,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 trece de julio de dos mil once.- **Felipe de Jesús Calderón Hinojosa**.-
 Rúbrica.- El Secretario de Gobernación, **José Francisco Blake Mora**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los artículos 71, 72 y 78 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -12929,9 +12964,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 doce de agosto de dos mil once.- **Felipe de Jesús Calderón Hinojosa**.-
 Rúbrica.- El Secretario de Gobernación, **José Francisco Blake Mora**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona un párrafo décimo al artículo 4o. y se
 reforma la fracción XXIX-J del artículo 73 de la Constitución Política
 de los Estados Unidos Mexicanos.
@@ -12964,9 +13000,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 diez de octubre de dos mil once.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **José Francisco
-Blake Mora**.- Rúbrica.\ **
-**
+Blake Mora**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los párrafos sexto y séptimo del artículo
 4o. y se adiciona la fracción XXIX-P al artículo 73, de la Constitución
 Política de los Estados Unidos Mexicanos.
@@ -12995,9 +13032,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 diez de octubre de dos mil once.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **José Francisco
-Blake Mora**.- Rúbrica.\ **
-**
+Blake Mora**.- Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona un párrafo tercero al artículo 4o.
 recorriéndose en el orden los subsecuentes y un segundo párrafo a la
 fracción XX del artículo 27 ambos de la Constitución Política de los
@@ -13027,9 +13065,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 diez de octubre de dos mil once.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **José Francisco
-Blake Mora**.- Rúbrica.\ **
-**
+Blake Mora**.- Rúbrica.
 
+**
+**
 DECRETO por el que se Declara reformado el párrafo quinto y se adiciona
 un párrafo sexto recorriéndose en su orden los subsecuentes, al artículo
 4o. de la Constitución Política de los Estados Unidos Mexicanos.
@@ -13065,9 +13104,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 tres de febrero de dos mil doce.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **Alejandro Alfonso
-Poiré Romero**.- Rúbrica.\ **
-**
+Poiré Romero**.- Rúbrica.
 
+**
+**
 DECRETO por el que se declara reformado el párrafo primero; el inciso c)
 de la fracción II y la fracción V del artículo 3o., y la fracción I del
 artículo 31 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -13126,9 +13166,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 ocho de febrero de dos mil doce.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **Alejandro Alfonso
-Poiré Romero**.- Rúbrica.\ **
-**
+Poiré Romero**.- Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona el párrafo segundo de la fracción XXI del
 artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -13164,9 +13205,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintidós de junio de dos mil doce.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **Alejandro Alfonso
-Poiré Romero**.- Rúbrica.\ **
-**
+Poiré Romero**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman y adicionan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en materia
 política.
@@ -13221,9 +13263,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 ocho de agosto de dos mil doce.- **Felipe de Jesús Calderón Hinojosa**.-
 Rúbrica.- El Secretario de Gobernación, **Alejandro Alfonso Poiré
-Romero**.- Rúbrica.\ **
-**
+Romero**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los artículos 46, 76 y 105 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -13253,9 +13296,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 trece de octubre de dos mil doce.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **Alejandro Alfonso
-Poiré Romero**.- Rúbrica.\ **
-**
+Poiré Romero**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el Artículo 40 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
@@ -13278,9 +13322,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintinueve de noviembre de dos mil doce.- **Felipe de Jesús Calderón
 Hinojosa**.- Rúbrica.- El Secretario de Gobernación, **Alejandro Alfonso
-Poiré Romero**.- Rúbrica.\ **
-**
+Poiré Romero**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los artículos 3o. en sus fracciones III,
 VII y VIII; y 73, fracción XXV, y se adiciona un párrafo tercero, un
 inciso d) al párrafo segundo de la fracción II y una fracción IX al
@@ -13420,9 +13465,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinticinco de febrero de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los párrafos primero y último del
 artículo 25, así como el párrafo primero y tercero del apartado A del
 artículo 26 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -13453,9 +13499,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 treinta y uno de mayo de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforman y adicionan diversas disposiciones de los
 artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política
 de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
@@ -13997,9 +14044,10 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 diez de junio de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
-Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.\ **
-**
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el artículo 24 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
@@ -14024,9 +14072,10 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 diez de julio de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
-Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.\ **
-**
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el artículo 37 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
@@ -14057,9 +14106,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintiséis de septiembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforma la fracción XXI del artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -14106,9 +14156,10 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 tres de octubre de dos mil trece.- **Enrique Peña Nieto**.- Rúbrica.- El
-Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.\ **
-**
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman y adicionan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en Materia de
 Energía.
@@ -14878,9 +14929,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinte de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona una fracción XXIX-R al artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -14919,9 +14971,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintitrés de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el inciso e) y se adiciona un inciso o) de
 la fracción IV del artículo 116; y se reforma el artículo 122, Apartado
 C, Base Primera, fracción V, inciso f) de la Constitución Política de
@@ -14958,9 +15011,10 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintitrés de diciembre de dos mil trece.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+Rúbrica.
 
+**
+**
 DECRETO por el que se reforman y adicionan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de
 transparencia.
@@ -15156,10 +15210,10 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 siete de febrero de dos mil catorce.- **Enrique Peña Nieto**.- Rúbrica.-
-El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman, adicionan y derogan diversas
 disposiciones de la Constitución Política de los Estados Unidos
 Mexicanos, en materia política-electoral.
@@ -15637,6 +15691,8 @@ treinta y uno de enero de dos mil catorce.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
+**
+**
 DECRETO por el que se adiciona el artículo 4o. de la Constitución
 Política de los Estados Unidos Mexicanos.
 
@@ -15688,6 +15744,8 @@ dieciséis de junio de dos mil catorce.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el tercer párrafo del artículo 108 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
@@ -15718,6 +15776,8 @@ dieciséis de junio de dos mil catorce.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
+**
+**
 DECRETO por el que se reforma la fracción III del apartado A del
 artículo 123 de la Constitución Política de los Estados Unidos
 Mexicanos.
@@ -15747,6 +15807,8 @@ dieciséis de junio de dos mil catorce.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el inciso b) del tercer párrafo de la Base
 VI del artículo 41 de la Constitución Política de los Estados Unidos
 Mexicanos.
@@ -15774,8 +15836,9 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 cuatro de julio de dos mil catorce.- **Enrique Peña Nieto**.- Rúbrica.-
 El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
-**
 
+**
+**
 DECRETO por el que se reforma la fracción III, del Apartado A, del
 artículo 2o. de la Constitución Política de los Estados Unidos
 Mexicanos.
@@ -15808,10 +15871,10 @@ Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintiuno de mayo de dos mil quince.- **Enrique Peña Nieto**.- Rúbrica.-
-El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
-Rúbrica.\ **
-**
+El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman y adicionan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de
 disciplina financiera de las entidades federativas y los municipios.
@@ -15921,6 +15984,8 @@ del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veinticinco de mayo de 2015.- **Enrique Peña Nieto**.- Rúbrica.- El
 Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
+**
+**
 DECRETO por el que se reforman, adicionan y derogan diversas
 disposiciones de la Constitución Política de los Estados Unidos
 Mexicanos, en materia de combate a la corrupción.
@@ -16075,6 +16140,8 @@ veintisiete de mayo de dos mil quince.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
+**
+**
 DECRETO por el que se reforman los párrafos cuarto y sexto del artículo
 18 y el inciso c) de la fracción XXI del artículo 73 de la Constitución
 Política de los Estados Unidos Mexicanos.
@@ -16137,6 +16204,8 @@ veintiséis de junio de dos mil quince.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
 
+**
+**
 DECRETO por el que se reforma el artículo 73, fracción XXI, inciso a),
 de la Constitución Política de los Estados Unidos Mexicanos.
 
