@@ -10536,8 +10536,10 @@ los siete días del mes de marzo de mil novecientos noventa y siete.-
 Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación,
 Emilio Chuayffet Chemor.- Rúbrica.
 
-DECRETO por el que se declara reformado el artículo 3o. transitorio, del Decreto por el que se reformaron los artículos 30, 32 y 37 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 20 de marzo de 1997.
-==================================================================================================================================================================================================================================
+DECRETO por el que se declara reformado el artículo 3o. transitorio, del
+Decreto por el que se reformaron los artículos 30, 32 y 37 de la
+Constitución Política de los Estados Unidos Mexicanos, publicado el 20 de
+marzo de 1997.
 
 Publicado en el Diario Oficial de la Federación el 26 de febrero de 1999
 
