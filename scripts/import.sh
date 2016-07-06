@@ -9,7 +9,7 @@ do_get() {
 }
 
 do_tidy() {
-    config="--wrap 0 --drop-font-tags yes --drop-empty-paras yes --enclose-text yes --fix-uri yes --hide-comments yes --merge-divs yes --merge-spans yes --show-body-only yes"
+    config="--wrap 0 --drop-font-tags yes --drop-empty-elements yes --enclose-text yes --fix-uri yes --hide-comments yes --merge-divs yes --merge-spans yes --show-body-only yes"
     tidy ${config} -clean -bare -omit -asxhtml -quiet
 }
 
