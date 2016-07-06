@@ -18,11 +18,11 @@ do_pandoc() {
 }
 
 do_clean() {
-    scripts/cleaner.py
+    scripts/cleaner.py ${url}
 }
 
 get_law() {
-    do_get | do_tidy | do_clean | do_pandoc
+    do_clean | do_tidy | do_pandoc
 }
 
 get_law > ${outfile}.rst 2>/dev/null
