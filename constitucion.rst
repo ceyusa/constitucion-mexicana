@@ -6,7 +6,7 @@ febrero de 1917**
 
 **TEXTO VIGENTE**
 
-**Última reforma publicada DOF 29-01-2016**
+**Última reforma publicada DOF 25-07-2016**
 
 **Notas de vigencia:**
 
@@ -5048,6 +5048,14 @@ la Federación, los Estados, Municipios y el Distrito Federal, con base
 en el principio establecido en el párrafo segundo del artículo 25;
 
 *Fracción adicionada DOF 26-05-2015*
+
+**XXIX-X.** Para expedir la ley general que establezca la concurrencia
+de la federación, las entidades federativas, los municipios y, en su
+caso, las demarcaciones territoriales de la Ciudad de México, en el
+ámbito de sus respectivas competencias, en materia de derecho de las
+víctimas.
+
+*Fracción adicionada DOF 25-07-2016*
 
 **XXX.** Para expedir todas las leyes que sean necesarias, a objeto de
 hacer efectivas las facultades anteriores, y todas las otras concedidas
@@ -16849,6 +16857,32 @@ del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a
 veintinueve de enero de dos mil dieciséis.- **Enrique Peña Nieto**.-
 Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio Chong**.-
 Rúbrica.
+
+**DECRETO por el que se adiciona la fracción XXIX-X al artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos.**
+
+Publicado en el Diario Oficial de la Federación el 25 de julio de 2016
+
+**ARTÍCULO ÚNICO.-** Se adiciona la fracción XXIX-X al artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+……….
+
+TRANSITORIO
+
+**ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 29 de junio de 2016.- Sen. **Roberto Gil Zuarth**,
+Presidente.- Dip. **Genoveva Huerta Villegas**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de
+julio de dos mil dieciséis.- **Enrique Peña Nieto**.- Rúbrica.- El
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
 **Secretaría General**
 
