@@ -6,7 +6,7 @@ febrero de 1917**
 
 **TEXTO VIGENTE**
 
-**Última reforma publicada DOF 05-02-2017**
+**Última reforma publicada DOF 24-02-2017**
 
 **Notas de vigencia:**
 
@@ -7216,10 +7216,13 @@ En los juicios civiles del orden federal las sentencias podrán ser
 reclamadas en amparo por cualquiera de las partes, incluso por la
 Federación, en defensa de sus intereses patrimoniales, y
 
-**d)** En materia laboral, cuando se reclamen laudos dictados por las
-Juntas Locales o la Federal de Conciliación y Arbitraje, o por el
-Tribunal Federal de Conciliación y Arbitraje de los Trabajadores al
-Servicio del Estado;
+**d)** En materia laboral, cuando se reclamen resoluciones o sentencias
+definitivas que pongan fin al juicio dictadas por los tribunales
+laborales locales o federales o laudos del Tribunal Federal de
+Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y
+sus homólogos en las entidades federativas;
+
+*Inciso reformado DOF 24-02-2017*
 
 La Suprema Corte de Justicia, de oficio o a petición fundada del
 correspondiente Tribunal Colegiado de Circuito, del Fiscal General de la
@@ -9289,35 +9292,110 @@ patronos, las huelgas y los paros.
 el equilibrio entre los diversos factores de la producción, armonizando
 los derechos del trabajo con los del capital. En los servicios públicos
 será obligatorio para los trabajadores dar aviso, con diez días de
-anticipación, a la Junta de Conciliación y Arbitraje, de la fecha
-señalada para la suspensión del trabajo. Las huelgas serán consideradas
-como ilícitas únicamente cuando la mayoría de los huelguistas ejerciera
-actos violentos contra las personas o las propiedades, o en caso de
-guerra, cuando aquéllos pertenezcan a los establecimientos y servicios
-que dependan del Gobierno.
+anticipación, a los tribunales laborales, de la fecha señalada para la
+suspensión del trabajo. Las huelgas serán consideradas como ilícitas
+únicamente cuando la mayoría de los huelguistas ejerciera actos
+violentos contra las personas o las propiedades, o en caso de guerra,
+cuando aquéllos pertenezcan a los establecimientos y servicios que
+dependan del Gobierno.
 
-*Fracción reformada DOF 31-12-1938*
+Cuando se trate de obtener la celebración de un contrato colectivo de
+trabajo se deberá acreditar que se cuenta con la representación de los
+trabajadores.
+
+*Fracción reformada DOF 31-12-1938, 24-02-2017*
 
 **XIX.** Los paros serán lícitos únicamente cuando el exceso de
 producción haga necesario suspender el trabajo para mantener los precios
-en un límite costeable, previa aprobación de la Junta de Conciliación y
-Arbitraje.
+en un límite costeable, previa aprobación de los tribunales laborales.
 
-**XX.** Las diferencias o los conflictos entre el capital y el trabajo,
-se sujetarán a la decisión de una Junta de Conciliación y Arbitraje,
-formada por igual número de representantes de los obreros y de los
-patronos, y uno del Gobierno.
+*Fracción reformada DOF 24-02-2017*
+
+**XX.** La resolución de las diferencias o los conflictos entre
+trabajadores y patrones estará a cargo de los tribunales laborales del
+Poder Judicial de la Federación o de las entidades federativas, cuyos
+integrantes serán designados atendiendo a lo dispuesto en los artículos
+94, 97, 116 fracción III, y 122 Apartado A, fracción IV de esta
+Constitución, según corresponda, y deberán contar con capacidad y
+experiencia en materia laboral. Sus sentencias y resoluciones deberán
+observar los principios de legalidad, imparcialidad, transparencia,
+autonomía e independencia.
+
+Antes de acudir a los tribunales laborales, los trabajadores y patrones
+deberán asistir a la instancia conciliatoria correspondiente. En el
+orden local, la función conciliatoria estará a cargo de los Centros de
+Conciliación, especializados e imparciales que se instituyan en las
+entidades federativas. Dichos centros tendrán personalidad jurídica y
+patrimonio propios. Contarán con plena autonomía técnica, operativa,
+presupuestaria, de decisión y de gestión. Se regirán por los principios
+de certeza, independencia, legalidad, imparcialidad, confiabilidad,
+eficacia, objetividad, profesionalismo, transparencia y publicidad. Su
+integración y funcionamiento se determinará en las leyes locales.
+
+La ley determinará el procedimiento que se deberá observar en la
+instancia conciliatoria. En todo caso, la etapa de conciliación
+consistirá en una sola audiencia obligatoria, con fecha y hora
+debidamente fijadas de manera expedita. Las subsecuentes audiencias de
+conciliación sólo se realizarán con el acuerdo de las partes en
+conflicto. La ley establecerá las reglas para que los convenios
+laborales adquieran condición de cosa juzgada, así como para su
+ejecución.
+
+En el orden federal, la función conciliatoria estará a cargo de un
+organismo descentralizado. Al organismo descentralizado le corresponderá
+además, el registro de todos los contratos colectivos de trabajo y las
+organizaciones sindicales, así como todos los procesos administrativos
+relacionados.
+
+El organismo descentralizado a que se refiere el párrafo anterior
+contará con personalidad jurídica y patrimonio propios, plena autonomía
+técnica, operativa, presupuestaria, de decisión y de gestión. Se regirá
+por los principios de certeza, independencia, legalidad, imparcialidad,
+confiabilidad, eficacia, objetividad, profesionalismo, transparencia y
+publicidad. Su integración y funcionamiento se determinará en la ley de
+la materia.
+
+Para la designación del titular del organismo descentralizado a que se
+refiere el párrafo anterior, el Ejecutivo Federal someterá una terna a
+consideración de la Cámara de Senadores, la cual previa comparecencia de
+las personas propuestas, realizará la designación correspondiente. La
+designación se hará por el voto de las dos terceras partes de los
+integrantes de la Cámara de Senadores presentes, dentro del
+improrrogable plazo de treinta días. Si la Cámara de Senadores no
+resolviere dentro de dicho plazo, ocupará el cargo aquél que, dentro de
+dicha terna, designe el Ejecutivo Federal.
+
+En caso de que la Cámara de Senadores rechace la totalidad de la terna
+propuesta, el Ejecutivo Federal someterá una nueva, en los términos del
+párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el
+cargo la persona que dentro de dicha terna designe el Ejecutivo Federal.
+
+El nombramiento deberá recaer en una persona que tenga capacidad y
+experiencia en las materias de la competencia del organismo
+descentralizado; que no haya ocupado un cargo en algún partido político,
+ni haya sido candidato a ocupar un cargo público de elección popular en
+los tres años anteriores a la designación; y que goce de buena
+reputación y no haya sido condenado por delito doloso. Asimismo, deberá
+cumplir los requisitos que establezca la ley. Desempeñará su encargo por
+períodos de seis años y podrá ser reelecto por una sola ocasión. En caso
+de falta absoluta, el sustituto será nombrado para concluir el periodo
+respectivo. Sólo podrá ser removido por causa grave en los términos del
+Título IV de esta Constitución y no podrá tener ningún otro empleo,
+cargo o comisión, con excepción de aquéllos en que actúen en
+representación del organismo y de los no remunerados en actividades
+docentes, científicas, culturales o de beneficencia.
+
+*Fracción reformada DOF 24-02-2017*
 
 **XXI.** Si el patrono se negare a someter sus diferencias al arbitraje
-o a aceptar el laudo pronunciado por la Junta, se dará por terminado el
-contrato de trabajo y quedará abligado **(sic DOF 21-11-1962)** a
-indemnizar al obrero con el importe de tres meses de salario, además de
-la responsabilidad que le resulte del conflicto. Esta disposición no
-será aplicable en los casos de las acciones consignadas en la fracción
-siguiente. Si la negativa fuere de los trabajadores, se dará por
-terminado el contrato de trabajo.
+o a cumplir con la resolución, se dará por terminado el contrato de
+trabajo y quedará obligado a indemnizar al obrero con el importe de tres
+meses de salario, además de la responsabilidad que le resulte del
+conflicto. Esta disposición no será aplicable en los casos de las
+acciones consignadas en la fracción siguiente. Si la negativa fuere de
+los trabajadores, se dará por terminado el contrato de trabajo.
 
-*Fracción reformada DOF 21-11-1962*
+*Fracción reformada DOF 21-11-1962, 24-02-2017*
 
 **XXII.** El patrono que despida a un obrero sin causa justificada o por
 haber ingresado a una asociación o sindicato, o por haber tomado parte
@@ -9334,6 +9412,24 @@ los malos tratamientos provengan de dependientes o familiares que obren
 con el consentimieto **(sic DOF 21-11-1962)** o tolerancia de él.
 
 *Fracción reformada DOF 21-11-1962*
+
+**XXII Bis.** Los procedimientos y requisitos que establezca la ley para
+asegurar la libertad de negociación colectiva y los legítimos intereses
+de trabajadores y patrones, deberán garantizar, entre otros, los
+siguientes principios:
+
+**a)** Representatividad de las organizaciones sindicales, y
+
+**b)** Certeza en la firma, registro y depósito de los contratos
+colectivos de trabajo.  Para la resolución de conflictos entre
+sindicatos, la solicitud de celebración de un contrato colectivo de
+trabajo y la elección de dirigentes, el voto de los trabajadores será
+personal, libre y secreto. La ley garantizará el cumplimiento de estos
+principios. Con base en lo anterior, para la elección de dirigentes, los
+estatutos sindicales podrán, de conformidad con lo dispuesto en la ley,
+fijar modalidades procedimentales aplicables a los respectivos procesos.
+
+**Fracción adicionada DOF 24-02-2017**
 
 **XXIII.** Los créditos en favor de los trabajadores por salario o
 sueldos devengados en el último año, y por indemnizaciones, tendrán
@@ -9369,8 +9465,10 @@ aunque se expresen en el contrato:
 **a)** Las que estipulen una jornada inhumana por lo notoriamente
 excesiva, dada la índole del trabajo.
 
-**b)** Las que fijen un salario que no sea remunerador a juicio de las
-Juntas de Conciliación y Arbitraje.
+**b)** Las que fijen un salario que no sea remunerador a juicio de los
+tribunales laborales.
+
+*Inciso reformado DOF 24-02-2017*
 
 **c)** Las que estipulen un plazo mayor de una semana para la percepción
 del jornal.
@@ -9493,17 +9591,31 @@ y las industrias que les sean conexas; y
 encuentren bajo jurisdicción federal, en las aguas territoriales o en
 las comprendidas en la zona económica exclusiva de la Nación.
 
-También será competencia exclusiva de las autoridades federales, la
-aplicación de las disposiciones de trabajo en los asuntos relativos a
-conflictos que afecten a dos o más Entidades Federativas; contratos
-colectivos que hayan sido declarados obligatorios en más de una Entidad
-Federativa; obligaciones patronales en materia educativa, en los
-términos de Ley; y respecto a las obligaciones de los patrones en
-materia de capacitación y adiestramiento de sus trabajadores, así como
-de seguridad e higiene en los centros de trabajo, para lo cual, las
-autoridades federales contarán con el auxilio de las estatales, cuando
-se trate de ramas o actividades de jurisdicción local, en los términos
-de la ley reglamentaria correspondiente.
+**c)** Materias:
+
+**1.** El registro de todos los contratos colectivos de trabajo y las
+organizaciones sindicales, así como todos los procesos administrativos
+relacionados;
+
+**2.** La aplicación de las disposiciones de trabajo en los asuntos
+relativos a conflictos que afecten a dos o más entidades federativas;
+
+**3.**Contratos colectivos que hayan sido declarados obligatorios en más
+de una entidad federativa;
+
+**4.** Obligaciones patronales en materia educativa, en los términos de
+ley, y
+
+**5.** Obligaciones de los patrones en materia de capacitación y
+adiestramiento de sus trabajadores, así como de seguridad e higiene en
+los centros de trabajo, para lo cual, las autoridades federales contarán
+con el auxilio de las estatales, cuando se trate de ramas o actividades
+de jurisdicción local, en los términos de la ley correspondiente.
+
+*Inciso adicionado DOF 24-02-2017*
+
+*Reforma DOF 24-02-2017: Derogó de la fracción el entonces párrafo
+segundo*
 
 *Fracción adicionada DOF 18-11-1942. Reformada DOF 21-11-1962,
 06-02-1975. Fe de erratas DOF 17-03-1975. Reformada DOF 09-01-1978*
@@ -17035,6 +17147,90 @@ publicación y observancia, expido el presente Decreto en la Ciudad de
 Querétaro, a cinco de febrero de dos mil diecisiete.- **Enrique Peña
 Nieto**.- Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio
 Chong**.- Rúbrica.
+
+**DECRETO por el que se declaran reformadas y adicionadas diversas
+disposiciones de los artículos 107 y 123 de la Constitución Política de
+los Estados Unidos Mexicanos, en materia de Justicia Laboral.**
+
+Publicado en el Diario Oficial de la Federación el 24 de febrero de 2017
+
+**Artículo Único.-** Se reforman el inciso d) de la fracción V del
+artículo 107; las fracciones XVIII, XIX, XX, XXI y el inciso b) de la
+fracción XXVII del artículo 123; se adicionan la fracción XXII Bis y el
+inciso c) a la fracción XXXI del Apartado A del artículo 123, y se
+elimina el último párrafo de la fracción XXXI del Apartado A del
+artículo 123 de la Constitución Política de los Estados Unidos
+Mexicanos, para quedar como sigue:
+
+………
+
+Transitorios
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión y las legislaturas de las entidades
+federativas deberán realizar las adecuaciones legislativas que
+correspondan para dar cumplimiento a lo previsto en el presente Decreto,
+dentro del año siguiente a la entrada en vigor del mismo.
+
+**Tercero**. En tanto se instituyen e inician operaciones los tribunales
+laborales, los Centros de Conciliación y el organismo descentralizado a
+que se refiere el presente Decreto, de conformidad con el transitorio
+anterior, las Juntas de Conciliación y Arbitraje y, en su caso, la
+Secretaría del Trabajo y Previsión Social o las autoridades locales
+laborales, continuarán atendiendo las diferencias o conflictos que se
+presenten entre el capital y el trabajo y sobre el registro de los
+contratos colectivos de trabajo y de organizaciones sindicales.
+
+Los Tribunales Colegiados de Circuito del Poder Judicial de la
+Federación continuarán conociendo de los amparos interpuestos en contra
+de los laudos emitidos por las referidas Juntas en términos de lo
+previsto por la fracción V del artículo 107 de esta Constitución.
+
+Los asuntos que estuvieran en trámite al momento de iniciar sus
+funciones los tribunales laborales, los Centros de Conciliación y el
+organismo descentralizado a que se refiere el presente Decreto, serán
+resueltos de conformidad con las disposiciones aplicables al momento de
+su inicio.
+
+**Cuarto.** Dentro del plazo a que se refiere el artículo segundo
+transitorio de este Decreto, el Ejecutivo Federal someterá a la Cámara
+de Senadores la terna para la designación del titular del organismo
+descentralizado que se encargará de atender los asuntos relacionados con
+el registro de contratos colectivos de trabajo y organizaciones
+sindicales.
+
+**Quinto.** En cualquier caso, los derechos de los trabajadores que
+tienen a su cargo la atención de los asuntos a que se refiere el primer
+párrafo del artículo tercero transitorio, se respetarán conforme a la
+ley.
+
+**Sexto.** Las autoridades competentes y las Juntas de Conciliación y
+Arbitraje deberán transferir los procedimientos, expedientes y
+documentación que, en el ámbito de sus respectivas competencias, tengan
+bajo su atención o resguardo a los tribunales laborales y a los Centros
+de Conciliación que se encargarán de resolver las diferencias y los
+conflictos entre patrones y trabajadores.
+
+Asimismo, las autoridades competentes y las Juntas de Conciliación y
+Arbitraje deberán transferir los expedientes y documentación que, en el
+ámbito de sus respectivas competencias tengan bajo su atención o
+resguardo, al organismo descentralizado que se encargará de atender los
+asuntos relacionados con el registro de contratos colectivos de trabajo
+y organizaciones sindicales.
+
+Ciudad de México, a 8 de febrero de 2017.- Dip. **Edmundo Javier Bolaños
+Aguilar**, Presidente.- Sen. **Pablo Escudero Morales**, Presidente.-
+Dip. **Alejandra Noemí Reynoso Sánchez**, Secretaria.- Sen. **María
+Elena Barrera Tapia**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, a veintitrés de
+febrero de dos mil diecisiete.- **Enrique Peña Nieto**.- Rúbrica.- El
+Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
 **Secretaría General**
 
