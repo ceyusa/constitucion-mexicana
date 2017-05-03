@@ -6,7 +6,7 @@ febrero de 1917**
 
 **TEXTO VIGENTE**
 
-**Última reforma publicada DOF 15-08-2016**
+**Última reforma publicada DOF 05-02-2017**
 
 **Notas de vigencia:**
 
@@ -1764,6 +1764,15 @@ desarrollo industrial sustentable que incluya vertientes sectoriales y
 regionales, en los términos que establece esta Constitución.
 
 *Párrafo reformado DOF 05-06-2013, 20-12-2013*
+
+A fin de contribuir al cumplimiento de los objetivos señalados en los
+párrafos primero, sexto y noveno de este artículo, las autoridades de
+todos los órdenes de gobierno, en el ámbito de su competencia, deberán
+implementar políticas públicas de mejora regulatoria para la
+simplificación de regulaciones, trámites, servicios y demás objetivos
+que establezca la ley general en la materia.
+
+*Párrafo adicionado DOF 05-02-2017*
 
 *Artículo reformado DOF 03-02-1983*
 
@@ -4703,11 +4712,11 @@ Federación y las penas y sanciones que por ellos deban imponerse; así
 como legislar en materia de delincuencia organizada;
 
 **c)** La legislación única en materia procedimental penal, de
-mecanismos alternativos de solución de controversias, de ejecución de
-penas y de justicia penal para adolescentes, que regirá en la República
-en el orden federal y en el fuero común.
+mecanismos alternativos de solución de controversias en materia penal,
+de ejecución de penas y de justicia penal para adolescentes, que regirá
+en la República en el orden federal y en el fuero común.
 
-*Inciso reformado DOF 02-07-2015*
+*Inciso reformado DOF 02-07-2015, 05-02-2017*
 
 Las autoridades federales podrán conocer de los delitos del fuero común,
 cuando éstos tengan conexidad con delitos federales o delitos contra
@@ -5005,12 +5014,12 @@ populares.
 
 *Fracción adicionada DOF 09-08-2012*
 
-**XXIX-R.-** Para expedir la ley general que armonice y homologue la
-organización y el funcionamiento de los registros públicos inmobiliarios
-y de personas morales de las entidades federativas y los catastros
-municipales;
+**XXIX-R.-** Para expedir las leyes generales que armonicen y homologuen
+la organización y el funcionamiento de los registros civiles, los
+registros públicos inmobiliarios y de personas morales de las entidades
+federativas y los catastros municipales;
 
-*Fracción adicionada DOF 27-12-2013*
+*Fracción adicionada DOF 27-12-2013. Reformada DOF 05-02-2017*
 
 **XXIX-S.** Para expedir las leyes generales reglamentarias que
 desarrollen los principios y bases en materia de transparencia
@@ -5059,6 +5068,19 @@ caso, las demarcaciones territoriales de la Ciudad de México, en el
 víctimas.
 
 *Fracción adicionada DOF 25-07-2016*
+
+**XXIX-Y.** Para expedir la ley general que establezca los principios y
+bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito
+de sus respectivas competencias, en materia de mejora regulatoria;
+
+*Fracción adicionada DOF 05-02-2017*
+
+**XXIX-Z.** Para expedir la ley general que establezca los principios y
+bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito
+de su respectiva competencia, en materia de justicia cívica e
+itinerante, y
+
+*Fracción adicionada DOF 05-02-2017*
 
 **XXX.** Para expedir todas las leyes que sean necesarias, a objeto de
 hacer efectivas las facultades anteriores, y todas las otras concedidas
@@ -16912,6 +16934,107 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, a doce de agosto de
 dos mil dieciséis.- **Enrique Peña Nieto**.- Rúbrica.- El Secretario de
 Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
+
+**DECRETO por el que se declaran reformadas y adicionadas diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de Mecanismos Alternativos de Solución de
+Controversias, Mejora Regulatoria, Justicia Cívica e Itinerante y
+Registros Civiles.**
+
+Publicado en el Diario Oficial de la Federación el 5 de febrero de 2017
+
+Artículo Único.- Se reforman las fracciones XXI, inciso c) y XXIX-R del
+artículo 73 y se adicionan un último párrafo al artículo 25 y las
+fracciones XXIX-A, XXIX-Y y XXIX-Z al artículo 73 de la Constitución
+Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+………
+
+Transitorios
+
+**Primero.-** El presente Decreto entrará en vigor al día siguiente de
+su publicación en el Diario Oficial de la Federación.
+
+**Segundo.-** En un plazo que no excederá de 180 días naturales
+siguientes a la entrada en vigor del presente Decreto, el Congreso de la
+Unión expedirá las leyes generales a que se refieren las fracciones
+XXIX-A, XXIX-R, XXIX-Y y XXIX-Z de esta Constitución.
+
+**Tercero.-** La ley general en materia de registros civiles a que se
+refiere la fracción XXIX-R del artículo 73 de esta Constitución deberá
+prever, al menos: la obligación de trabajar con formatos accesibles de
+inscripción; la estandarización de actas a nivel nacional; medidas de
+seguridad física y electrónica; la posibilidad de realizar trámites con
+firmas digitales; de realizar consultas y emisiones vía remota; el
+diseño de mecanismos alternos para la atención de comunidades indígenas
+y grupos en situación de especial vulnerabilidad y marginación;
+mecanismos homologados de captura de datos; simplificación de
+procedimientos de corrección, rectificación y aclaración de actas.
+
+Los documentos expedidos con antelación a la entrada en vigor de la ley
+a que se refiere el segundo transitorio del presente Decreto,
+continuarán siendo válidos conforme a las disposiciones vigentes al
+momento de su expedición. Asimismo, los procedimientos iniciados y las
+resoluciones emitidas con fundamento en dichas disposiciones deberán
+concluirse y ejecutarse, respectivamente, conforme a las mismas.
+
+**Cuarto.-** La legislación federal y local en materia de mecanismos
+alternativos de solución de controversias continuará vigente hasta en
+tanto entre en vigor la legislación a que se refiere el presente
+Decreto, por lo que los procedimientos iniciados y las sentencias
+emitidas con fundamento en las mismas, deberán concluirse y ejecutarse,
+conforme a lo previsto en aquéllas.
+
+**Quinto.-** La legislación en materia de mecanismos alternativos de
+solución de controversias de la federación y de las entidades
+federativas deberá ajustarse a lo previsto en la ley general que emita
+el Congreso de la Unión conforme al artículo 73, fracción XXIX-A de esta
+Constitución.
+
+**Sexto.-** La ley general en materia de mejora regulatoria a que se
+refiere el artículo 73, fracción XXIX-Y de esta Constitución deberá
+considerar al menos, lo siguiente:
+
+**a)** Un catálogo nacional de regulaciones, trámites y servicios
+federales, locales y municipales con el objetivo de generar seguridad
+jurídica a los particulares.
+
+**b)** Establecer la obligación para las autoridades de facilitar los
+trámites y la obtención de servicios mediante el uso de las tecnologías
+de la información, de conformidad con su disponibilidad presupuestaria.
+
+**c)**La inscripción en el catálogo será obligatoria para todas las
+autoridades en los términos en que la misma disponga.
+
+**Séptimo.-** La ley general en materia de justicia cívica e itinerante
+a que se refiere el artículo 73, fracción XXIX-Z de esta Constitución
+deberá considerar, al menos lo siguiente:
+
+**a)** Los principios a los que deberán sujetarse las autoridades para
+que la justicia itinerante sea accesible y disponible a los ciudadanos;
+
+**b)** Las bases para la organización y funcionamiento de la justicia
+cívica en las entidades federativas, y
+
+**c)** Los mecanismos de acceso a la justicia cívica e itinerante y la
+obligación de las autoridades de cumplir con los principios previstos
+por la ley.
+
+Las legislaturas de las entidades federativas proveerán de los recursos
+necesarios para cumplir con lo dispuesto en el presente artículo
+transitorio.
+
+Ciudad de México, a 2 de febrero de 2017.- Sen. **Pablo Escudero
+Morales**, Presidente.- Dip. **Edmundo Javier Bolaños Aguilar**,
+Presidente.- Sen. **Itzel Sarahí Ríos de la Mora**, Secretaria.-
+Dip. **Raúl Domínguez Rex**, Secretario.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Ciudad de
+Querétaro, a cinco de febrero de dos mil diecisiete.- **Enrique Peña
+Nieto**.- Rúbrica.- El Secretario de Gobernación, **Miguel Ángel Osorio
+Chong**.- Rúbrica.
 
 **Secretaría General**
 
