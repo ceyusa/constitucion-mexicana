@@ -6,7 +6,7 @@ febrero de 1917**
 
 **TEXTO VIGENTE**
 
-**Última reforma publicada DOF 25-07-2016**
+**Última reforma publicada DOF 15-08-2016**
 
 **Notas de vigencia:**
 
@@ -979,9 +979,12 @@ toca a las limitaciones que impongan las leyes sobre emigración,
 inmigración y salubridad general de la República, o sobre extranjeros
 perniciosos residentes en el país.
 
-En caso de persecución, por motivos de orden político, toda persona
-tiene derecho de solicitar asilo; por causas de carácter humanitario se
-recibirá refugio. La ley regulará sus procedencias y excepciones.
+Toda persona tiene derecho a buscar y recibir asilo. El reconocimiento
+de la condición de refugiado y el otorgamiento de asilo político, se
+realizarán de conformidad con los tratados internacionales. La ley
+regulará sus procedencias y excepciones.
+
+*Párrafo reformado DOF 15-08-2016*
 
 *Artículo reformado DOF 10-06-2011*
 
@@ -16883,6 +16886,32 @@ publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de
 julio de dos mil dieciséis.- **Enrique Peña Nieto**.- Rúbrica.- El
 Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
+
+**DECRETO por el que se reforma el párrafo segundo del artículo 11 de la
+Constitución Política de los Estados Unidos Mexicanos.**
+
+Publicado en el Diario Oficial de la Federación el 15 de agosto de 2016
+
+ARTÍCULO ÚNICO.- Se reforma el párrafo segundo del artículo 11 de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+……….
+
+TRANSITORIO
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 13 de julio de 2016.- Sen. **Roberto Gil Zuarth**,
+Presidente.- Dip. **Genoveva Huerta Villegas**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, a doce de agosto de
+dos mil dieciséis.- **Enrique Peña Nieto**.- Rúbrica.- El Secretario de
+Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
 **Secretaría General**
 
