@@ -396,3 +396,11 @@ LEY que reforma los artículo 73, 74, 76, 79, 89, 94, 96, 97, 98, 99,
 100, y 111 de la Constitución Política de la República.
 
 .. include:: T005.rst
+
+Artículos Transitorios de Decretos de Reforma (6)
+-------------------------------------------------
+
+LEY que reforma el artículo 52 y el párrafo cuarto de la fracción III
+del artículo 115 de la Constitución Federal.
+
+.. include:: T006.rst

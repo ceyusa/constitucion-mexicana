@@ -26,9 +26,11 @@ Son aplicables a los Gobernadores, substitutos o interinos, las
 prohibiciones del artículo 83.
 
 El número de representantes en las Legislaturas de los Estados, será
-proporcional al de habitantes de cada uno, pero, en todo caso, el número
-de representantes de una Legislatura local no podrá ser menor de quince
-diputados propietarios.
+proporcional al de habitantes de cada uno; pero en todo caso no podrá ser
+menor de siete diputados en los Estados cuya población no llegue a
+cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda de
+este número y no llegue a ochocientos mil habitantes y de once en los Estados
+cuya población sea superior a esta última cifra.
 
 En los Estados, cada distrito electoral nombrará un diputado propietario
 y un suplente.
