@@ -408,3 +408,13 @@ del artículo 115 de la Constitución Federal.
 Publicado en el Diario Oficial de la Federación el 20 de Agosto de 1928
 
 .. include:: T006.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma varios artículos de la Constitución General de la
+República (Elección de Poderes Federales).
+
+Publicado en el Diario Oficial de la Federación el 29 de abril de 1933
+
+.. include:: T012.rst
