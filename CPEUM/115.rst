@@ -1,40 +1,75 @@
 **Artículo 115**
 
 Los Estados adoptarán, para su régimen interior, la forma de gobierno
-republicano, representativo, popular, teniendo como base de su división
-territorial, y de su organización política y administrativa, el
-Municipio Libre, conforme a las bases siguientes:
+republicano, representativo popular, teniendo como base de su división
+territorial y de su organización política y administrativa, el Municipio
+Libre, conforme a las base siguientes;
 
 I. Cada Municipio será administrado por un Ayuntamiento de elección
-   popular directa, y no habrá ninguna autoridad intermedia entre éste y
+   popular directa y no habrá ninguna autoridad intermedia entre éste y
    el Gobierno del Estado.
+
+   Los presidentes municipales, regidores y síndicos de los
+   Ayuntamientos, electos popularmente por elección directa, no podrán
+   ser reelectos para el período inmediato. Las personas que por
+   elección indirecta o por nombramiento o designación de alguna
+   autoridad, desempeñen las funciones propias de esos cargos,
+   cualquiera que sea la denominación que se les dé, no podrán ser
+   electos para el período inmediato. Todos los funcionarios antes
+   mencionados cuando tengan el carácter propietarios, no podrán ser
+   electos para el período inmediato con el carácter de suplentes, pero
+   los que tengan el carácter de suplentes, sí podrán ser electos para
+   el período inmediato como propietarios a menos que hayan estado en
+   ejercicio.
 
 II. Los Municipios administrarán libremente su hacienda, la cual se
     formará de las contribuciones que señalen las Legislaturas de los
     Estados y que, en todo caso, serán las suficientes para atender a
-    sus necesidades.
+    las necesidades municipales.
 
 III. Los Municipios serán investidos de personalidad jurídica para todos
      los efectos legales.
 
 El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando
 de la fuerza pública en los Municipios donde residieren habitual o
-transitoriamente. Los Gobernadores constitucionales no podrán ser
-reelectos ni durar en su encargo más de cuatro años.
+transitoriamente.
 
-Son aplicables a los Gobernadores, substitutos o interinos, las
-prohibiciones del artículo 83.
+Los Gobernadores de los Estados no podrán durar en su cargo más de
+cuatro años.
 
-El número de representantes en las Legislaturas de los Estados, será
-proporcional al de habitantes de cada uno; pero en todo caso no podrá ser
-menor de siete diputados en los Estados cuya población no llegue a
-cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda de
-este número y no llegue a ochocientos mil habitantes y de once en los Estados
-cuya población sea superior a esta última cifra.
+La elección de los Gobernadores de los Estados y de las Legislaturas
+Locales será directa y en los términos que disponga las leyes
+electorales respectivas.
 
-En los Estados, cada distrito electoral nombrará un diputado propietario
-y un suplente.
+Los Gobernadores de los Estados, cuyo origen sea la elección popular,
+ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán
+volver a ocupar ese cargo ni aun con el carácter de interinos,
+provisionales, substitutos o encargados del despacho.
 
-Sólo podrá ser Gobernador constitucional de un Estado, un ciudadano
-mexicano por nacimiento y nativo de él o con vecindad no menor de cinco
-años, inmediatamente anteriores al día de la elección.
+Nunca podrán ser electos para el período inmediato:
+
+a) El Gobernador substituto constitucional, o el designado para concluir
+   el período en caso de falta absoluta del constitucional aun cuando
+   tenga distinta denominación.
+
+b) El Gobernador interino, el provisional o el ciudadano que, bajo
+   cualquiera denominación, supla las faltas temporales del Gobernador,
+   siempre que desempeñe el cargo en los dos últimos años del período.
+
+Sólo podrá ser Gobernador Constitucional de un Estado, un ciudadano
+mexicano por nacimiento y nativo de él, o con residencia efectiva no
+menor de cinco años inmediatamente anteriores al día de la elección.
+
+El número de representantes en las Legislaturas de los Estados será
+proporcional al de habitantes de cada uno; pero en todo caso, no podrá
+ser menor de siete diputados en los Estados cuya población no llegue a
+cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda
+de este número y no llegue a ochocientos mil habitantes y de once en los
+Estados cuya población sea superior a esta última cifra.
+
+Los diputados a las Legislaturas de los Estados no podrá ser reelectos
+para el período inmediato. Los diputados suplentes podrán ser electos
+para el período inmediato con el carácter de propietarios, siempre que
+no hubieren estado en ejercicio, pero los diputados propietarios no
+podrán ser electos para el período inmediato con el carácter de
+suplentes.

@@ -404,3 +404,11 @@ LEY que reforma el artículo 52 y el párrafo cuarto de la fracción III
 del artículo 115 de la Constitución Federal.
 
 .. include:: T006.rst
+
+Artículos Transitorios de Decretos de Reforma (12)
+--------------------------------------------------
+
+DECRETO que reforma varios artículos de la Constitución General de la
+República (Elección de Poderes Federales).
+
+.. include:: T012.rst
