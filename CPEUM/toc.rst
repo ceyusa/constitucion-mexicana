@@ -418,3 +418,12 @@ República (Elección de Poderes Federales).
 Publicado en el Diario Oficial de la Federación el 29 de abril de 1933
 
 .. include:: T012.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que adiciona el artículo 45 constitucional.
+
+Publicado en el Diario Oficial de la Federación el 22 de marzo 1934
+
+.. include:: T019.rst
