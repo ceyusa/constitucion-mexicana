@@ -412,3 +412,10 @@ DECRETO que reforma varios artículos de la Constitución General de la
 República (Elección de Poderes Federales).
 
 .. include:: T012.rst
+
+Artículos Transitorios de Decretos de Reforma (19)
+--------------------------------------------------
+
+DECRETO que adiciona el artículo 45 constitucional.
+
+.. include:: T019.rst
