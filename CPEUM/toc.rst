@@ -428,3 +428,11 @@ del artículo 73, el artículo 94 y las fracciones II y III del 95 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T021.rst
+
+Artículos Transitorios de Decretos de Reforma (22)
+--------------------------------------------------
+
+DECRETO que reforma el artículo 32 de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T022.rst
