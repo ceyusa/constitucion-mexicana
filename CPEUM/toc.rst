@@ -419,3 +419,12 @@ Artículos Transitorios de Decretos de Reforma (19)
 DECRETO que adiciona el artículo 45 constitucional.
 
 .. include:: T019.rst
+
+Artículos Transitorios de Decretos de Reforma (21)
+--------------------------------------------------
+
+DECRETO que reforma el último párrafo de la base 4ª de la fracción VI
+del artículo 73, el artículo 94 y las fracciones II y III del 95 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T021.rst
