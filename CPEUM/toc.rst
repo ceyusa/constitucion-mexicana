@@ -439,3 +439,14 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de
 1934
 
 .. include:: T021.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma el artículo 32 de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 15 de diciembre de
+1934
+
+.. include:: T022.rst
