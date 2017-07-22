@@ -427,3 +427,15 @@ DECRETO que adiciona el artículo 45 constitucional.
 Publicado en el Diario Oficial de la Federación el 22 de marzo 1934
 
 .. include:: T019.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma el último párrafo de la base 4ª de la fracción VI
+del artículo 73, el artículo 94 y las fracciones II y III del 95 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 15 de diciembre de
+1934
+
+.. include:: T021.rst
