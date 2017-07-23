@@ -132,17 +132,13 @@ X. Para legislar en toda la República sobre Minería, Industria
    del artículo 28 de esta Constitución, y para expedir las leyes del
    trabajo reglamentarias del artículo 123 de la propia Constitución. La
    aplicación de las leyes del trabajo corresponde a las autoridades de
-   los Estados, en sus respectivas jurisdicciones, excepto cuando se
-   trate de asuntos relativos a la industrial textil, ferrocarriles y
-   demás empresas de transporte amparadas por concesión federal, minería
-   e hidrocarburos, los trabajos ejecutados en el mar y en las zonas
-   marítimas, y, por último, las obligaciones que en materia educativa
-   corresponden a los patrones, en la forma y términos que fijen las
-   disposiciones reglamentarias. En el rendimiento de los impuestos que
-   el Congreso Federal establezca sobre energía eléctrica en uso de las
-   facultados que en materia de legislación le concede esta fracción,
-   participarán los Estados y Municipios en la proporción que las
-   autoridades federales y locales respectivas acuerden.
+   los Estados en sus respectivas jurisdicciones, excepto cuando se
+   trate de asuntos relativos a las industrias textil y eléctrica,
+   ferrocarriles y demás empresas de transporte amparadas por concesión
+   federal, minería e hidrocarburos, los trabajos ejecutados en el mar y
+   en las zonas marítimas y, por último, las obligaciones que en materia
+   educativa corresponden a los patrones, en la forma y términos que
+   fijen las disposiciones reglamentarias.
 
 XI. Para crear y suprimir empleos públicos de la Federación y señalar,
     aumentar o disminuir sus dotaciones.
