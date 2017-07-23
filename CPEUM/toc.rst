@@ -436,3 +436,10 @@ DECRETO que reforma el artículo 32 de la Constitución Política de los
 Estados Unidos Mexicanos.
 
 .. include:: T022.rst
+
+Artículos Transitorios de Decretos de Reforma (23)
+--------------------------------------------------
+
+DECRETO que reforma los artículos 43 y 45 constitucionales.
+
+.. include:: T023.rst
