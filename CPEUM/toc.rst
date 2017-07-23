@@ -450,3 +450,12 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de
 1934
 
 .. include:: T022.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma los artículos 43 y 45 constitucionales.
+
+Publicado en el Diario Oficial de la Federación el 16 de enero de 1935
+
+.. include:: T023.rst
