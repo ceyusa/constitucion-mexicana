@@ -54,6 +54,14 @@ VI. Para legislar en todo lo relativo al Distrito Federal y Territorios
        que dependerán directamente del Presidente de la República, quien
        los nombrará y removerá libremente.
 
+       Los Territorios se dividirán en Municipalidades, que tendrán la
+       la extensión territorial y el número de habitantes suficientes
+       para poder subsistir con sus propios recursos y contribuir a sus
+       gastos comunes.
+
+       Cada Municipalidad de los Territorios estará a cargo de un
+       Ayuntamiento de elección popular directa.
+
     3. Los Gobernadores de los Territorios acordarán con el Presidente
        de la República, por el conducto que determine la ley.
 
