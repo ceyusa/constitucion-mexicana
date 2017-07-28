@@ -443,3 +443,11 @@ Artículos Transitorios de Decretos de Reforma (23)
 DECRETO que reforma los artículos 43 y 45 constitucionales.
 
 .. include:: T023.rst
+
+Artículos Transitorios de Decretos de Reforma (32)
+--------------------------------------------------
+
+DECRETO que modifica los artículos 73 y 117 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T032.rst
