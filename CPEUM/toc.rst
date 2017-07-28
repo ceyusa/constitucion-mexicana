@@ -459,3 +459,14 @@ DECRETO que reforma los artículos 43 y 45 constitucionales.
 Publicado en el Diario Oficial de la Federación el 16 de enero de 1935
 
 .. include:: T023.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que modifica los artículos 73 y 117 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 24 de octubre de
+1942
+
+.. include:: T032.rst
