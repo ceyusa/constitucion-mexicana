@@ -131,22 +131,22 @@ VIII. Para dar bases sobre los cuales el Ejecutivo pueda celebrar
       mismos empréstitos y para reconocer y mandar pagar la deuda
       nacional.
 
-IX. Para expedir aranceles sobre el comercio extranjero y para impedir
-    que en el comercio de Estado a Estado se establezcan restricciones.
+IX. Para impedir que en el comercio de Estado a Estado se establezcan
+    restricciones.
 
-X. Para legislar en toda la República sobre Minería, Industria
-   Cinematográfica, Comercio, Instituciones de Crédito y Energía
-   Eléctrica, para establecer el Banco de Emisión Único, en los términos
+X. Para legislar en toda la República sobre minería, industria
+   cinematográfica, comercio, instituciones de crédito y energía
+   eléctrica; para establecer el Banco de Emisión Único, en los términos
    del artículo 28 de esta Constitución, y para expedir las leyes del
-   trabajo reglamentarias del artículo 123 de la propia Constitución. La
-   aplicación de las leyes del trabajo corresponde a las autoridades de
-   los Estados en sus respectivas jurisdicciones, excepto cuando se
-   trate de asuntos relativos a las industrias textil y eléctrica,
+   trabajo, reglamentarias del artículo 123 de la propia Constitución.
+   La aplicación de las leyes del trabajo corresponde a las autoridades
+   de los Estados, en sus respectivas jurisdicciones, excepto cuando se
+   trate de asuntos relativos a las industrias textil, eléctrica,
    ferrocarriles y demás empresas de transporte amparadas por concesión
    federal, minería e hidrocarburos, los trabajos ejecutados en el mar y
-   en las zonas marítimas y, por último, las obligaciones que en materia
-   educativa corresponden a los patrones, en la forma y términos que
-   fijen las disposiciones reglamentarias.
+   en las zonas marítimas, y, por último, las obligaciones que en
+   materia educativa corresponden a los patrones, en la forma y términos
+   que fijen las disposiciones reglamentarias.
 
 XI. Para crear y suprimir empleos públicos de la Federación y señalar,
     aumentar o disminuir sus dotaciones.
@@ -255,13 +255,29 @@ XXVIII. Para constituirse en Colegio Electoral y elegir al ciudadano que
         caracter (*sic*) de substituto o de provisional, en los términos
         de los artículos 84 y 85 de esta Constitución.
 
-XXIX. Para aceptar la renuncia del cargo de Presidente de la República.
+XXIX. Para establecer contribuciones:
 
-XXX. Para examinar la cuenta que anualmente debe presentarle el Poder
-     Ejecutivo, debiendo comprender dicho examen, no solo la conformidad
-     de las partidas gastadas por el Presupuesto de Egresos, sino
-     también la exactitud y justificación de tales partidas.
+      1. Sobre comercio exterior;
+      2. Sobre el aprovechamiento y explotación de los recursos
+         naturales comprendidos en los párrafos 4º y 5º del artículo 27;
+      3. Sobre instituciones de crédito y sociedades de seguros;
+      4. Sobre servicios públicos concesionados o explotados
+	 directamente por la Federación; y
+      5. Especiales sobre:
 
-XXXI. Para expedir todas las leyes que sean necesarias a objeto de hacer
-      efectivas las facultades anteriores y todas las otras concedidas
-      por esta Constitución a los Poderes de la Unión.
+	 a. Energía eléctrica;
+	 b. Producción y consumo de tabacos labrados;
+	 c. Gasolina y otros productos derivados del petróleo;
+	 d. Cerillos y fósforos;
+	 e. Aguamiel y productos de su fermentación; y
+	 f. Explotación forestal.
+
+      Las entidades federativas participarán en el rendimiento de estas
+      contribuciones especiales, en la proporción que la ley secundaria
+      federal determine. Las legislaturas locales fijarán el porcentaje
+      correspondiente a los Municipios, en sus ingresos por concepto del
+      impuesto sobre energía eléctrica.
+
+XXX. Para expedir todas las leyes que sean necesarias, a objeto de hacer
+     efectivas las facultades anteriores, y todas las otras concedidas
+     por esta Constitución a los Poderes de la Unión.
