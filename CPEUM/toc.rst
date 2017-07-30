@@ -470,3 +470,14 @@ Publicado en el Diario Oficial de la Federación el 24 de octubre de
 1942
 
 .. include:: T032.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el cual se reforma el artículo 52 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 30 de diciembre de
+1942
+
+.. include:: T035.rst
