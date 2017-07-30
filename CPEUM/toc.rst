@@ -451,3 +451,11 @@ DECRETO que modifica los artículos 73 y 117 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T032.rst
+
+Artículos Transitorios de Decretos de Reforma (35)
+--------------------------------------------------
+
+DECRETO por el cual se reforma el artículo 52 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T035.rst
