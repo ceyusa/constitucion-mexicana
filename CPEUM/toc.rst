@@ -467,3 +467,11 @@ DECRETO que reforma los artículos 73, fracción VI, base 4a; 94 y 111 de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T038.rst
+
+Artículos Transitorios de Decretos de Reforma (40)
+--------------------------------------------------
+
+DECRETO que se reforma la fracción I del artículo 104 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T040.rst
