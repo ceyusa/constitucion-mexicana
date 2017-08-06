@@ -475,3 +475,12 @@ DECRETO que se reforma la fracción I del artículo 104 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T040.rst
+
+Artículos Transitorios de Decretos de Reforma (42)
+--------------------------------------------------
+
+DECRETO por el cual se reforma la fracción VIII del artículo 73 y
+adiciona la fracción VIII del artículo 117 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T042.rst
