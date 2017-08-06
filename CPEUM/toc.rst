@@ -481,3 +481,14 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de
 1942
 
 .. include:: T035.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma los artículos 73, fracción VI, base 4a; 94 y 111 de
+la Constitución Política de los Estados Unidos Mexicanos.
+
+Publicado en el Diario Oficial de la Federación el 21 de septiembre de
+1944
+
+.. include:: T038.rst
