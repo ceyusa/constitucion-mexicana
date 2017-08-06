@@ -459,3 +459,11 @@ DECRETO por el cual se reforma el artículo 52 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T035.rst
+
+Artículos Transitorios de Decretos de Reforma (38)
+--------------------------------------------------
+
+DECRETO que reforma los artículos 73, fracción VI, base 4a; 94 y 111 de
+la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T038.rst
