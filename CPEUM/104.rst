@@ -1,16 +1,22 @@
 **Artículo 104**
 
-Corresponde a los tribunales de la Federación conocer:
+Corresponde a los Tribunales de la Federación conocer:
 
 I. De todas las controversias del orden civil o criminal que se susciten
    sobre el cumplimiento y aplicación de leyes federales o con motivo
-   de los Tratados celebrados con las potencias extranjeras. Cuando
-   dichas controversias sólo afecten intereses particulares podrán
+   de los tratados celebrados con las potencias extranjeras. Cuando
+   dichas controversias sólo afecten intereses particulares, podrán
    conocer también de ellas, a elección del actor, los jueces y
-   Tribunales locales del orden común de los Estados, del Distrito
+   tribunales locales del orden común de los Estados, del Distrito
    Federal y Territorios. Las sentencias de primera instancia serán
    apelables para ante el superior inmediato del juez que conozca del
    asunto en primer grado.
+
+   En los juicios en que la Federación esté interesada, las leyes podrán
+   establecer recursos ante la Suprema Corte de Justicia contra las
+   sentencias de segunda instancia o contra las de tribunales
+   administrativos creados por ley federal, siempre que dichos
+   tribunales estén dotados de plena autonomía para dictar sus fallos.
 
 II.  De todas las controversias que versen sobre derecho marítimo.
 

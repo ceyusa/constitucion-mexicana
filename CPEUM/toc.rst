@@ -492,3 +492,11 @@ Publicado en el Diario Oficial de la Federación el 21 de septiembre de
 1944
 
 .. include:: T038.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que se reforma la fracción I del artículo 104 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T040.rst
