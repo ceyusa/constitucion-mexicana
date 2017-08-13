@@ -1,15 +1,22 @@
 **Artículo 20**
 
-En todo juicio del orden criminal, tendrá el acusado las siguientes
+En todo juicio del orden criminal tendrá el acusado las siguientes
 garantías:
 
-I. Inmediatamente que lo solicite será puesto en libertad, bajo de
-   fianza hasta de diez mil pesos, según sus circunstancias personales y
-   la gravedad del delito que se le impute, siempre que dicho delito no
-   merezca ser castigado con una pena mayor de cinco años de prisión y
-   sin más requisitos que poner la suma de dinero respectiva a
-   disposición de la autoridad, u otorgar caución hipotecaria o personal
-   bastante para asegurarla.
+I. Inmediatamente que lo solicite será puesto en libertad bajo fianza
+   que fijará el juez tomando en cuenta sus circunstancias personales y
+   la gravedad del delito que se le impute, siempre que dicho delito
+   merezca ser castigado con pena cuyo término medio aritmético no sea
+   mayor de cinco años de prisión, y sin más requisito que poner la suma
+   de dinero respectiva, a disposición de la autoridad u otorgar caución
+   hipotecaria o personal bastante para asegurarla, bajo las
+   responsabilidad del juez en su aceptación.
+
+   En ningún caso la fianza o caución será mayor de $250,000.00, a no
+   ser que se trate de un delito que represente para su autor un
+   beneficio económico o cause a la víctima un daño patrimonial, pues en
+   estos casos la garantía será, cuando menos, tres veces mayor al
+   beneficio obtenido o al daño ocasionado.
 
 II. No podrá ser compelido a declarar en su contra, por lo cual queda
     rigurosamente prohibida toda incomunicación o cualquier otro medio
