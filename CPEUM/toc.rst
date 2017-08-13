@@ -509,3 +509,12 @@ adiciona la fracción VIII del artículo 117 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T042.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que declara adicionada la fracción I del artículo 27 de la
+Constitución de la República.
+
+.. include:: T047.rst
+
