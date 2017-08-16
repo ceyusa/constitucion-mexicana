@@ -492,3 +492,12 @@ DECRETO que declara adicionada la fracción I del artículo 27 de la
 Constitución de la República.
 
 .. include:: T047.rst
+
+Artículos Transitorios de Decretos de Reforma (49)
+--------------------------------------------------
+
+DECRETO que reforma los artículos 73, fracción VI, base cuarta, párrafo
+último; 94, 97, párrafo primero, 98 y 107 de la Constitución General de
+la República.
+
+.. include:: T049.rst
