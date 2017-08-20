@@ -533,4 +533,12 @@ Artículos Transitorios de Decretos de Reforma
 DECRETO que adiciona el artículo 131 y reforma el artículo 49 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
-.. include:: T50.rst
+.. include:: T050.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma el artículo 52 de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T051.rst
