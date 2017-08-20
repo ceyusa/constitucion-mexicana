@@ -501,3 +501,11 @@ DECRETO que reforma los artículos 73, fracción VI, base cuarta, párrafo
 la República.
 
 .. include:: T049.rst
+
+Artículos Transitorios de Decretos de Reforma (50)
+--------------------------------------------------
+
+DECRETO que adiciona el artículo 131 y reforma el artículo 49 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T050.rst
