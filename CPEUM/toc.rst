@@ -542,3 +542,11 @@ DECRETO que reforma el artículo 52 de la Constitución Política de los
 Estados Unidos Mexicanos.
 
 .. include:: T051.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma los artículos 43 y 45 de la Constitución Política de
+los Estados Unidos Mexicanos.
+
+.. include:: T052.rst
