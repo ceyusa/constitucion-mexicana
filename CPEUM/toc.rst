@@ -575,3 +575,11 @@ DECRETO que reforma reforma el artículo 52 de la Constitución General de
 la República.
 
 .. include:: T056.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que declara adicionado el párrafo sexto del Artículo 27 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T057.rst
