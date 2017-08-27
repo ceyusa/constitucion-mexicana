@@ -534,3 +534,11 @@ fracción I del artículo 27 y los artículos 42 y 48 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T054.rst
+
+Artículos Transitorios de Decretos de Reforma (55)
+--------------------------------------------------
+
+DECRETO que reforma y adiciona el artículo 123 de la Constitución
+General de la República.
+
+.. include:: T055.rst
