@@ -567,3 +567,11 @@ DECRETO que reforma y adiciona el artículo 123 de la Constitución
 General de la República.
 
 .. include:: T055.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma reforma el artículo 52 de la Constitución General de
+la República.
+
+.. include:: T056.rst
