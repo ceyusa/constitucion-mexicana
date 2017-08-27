@@ -550,3 +550,12 @@ DECRETO que reforma los artículos 43 y 45 de la Constitución Política de
 los Estados Unidos Mexicanos.
 
 .. include:: T052.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma los párrafos cuarto, quinto, sexto y séptimo
+fracción I del artículo 27 y los artículos 42 y 48 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T054.rst
