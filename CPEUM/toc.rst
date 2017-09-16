@@ -583,3 +583,12 @@ DECRETO que declara adicionado el párrafo sexto del Artículo 27 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T057.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma el párrafo segundo de la fracción IV del inciso B
+del artículo 123 de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T058.rst
