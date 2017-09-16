@@ -575,3 +575,11 @@ DECRETO por el que se adiciona con un párrafo final la fracción II del
 artículo 107 de la Constitucional.
 
 .. include:: T059.rst
+
+Artículos Transitorios de Decretos de Reforma (60)
+--------------------------------------------------
+
+DECRETO que reforma el artículo 123 de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T060.rst
