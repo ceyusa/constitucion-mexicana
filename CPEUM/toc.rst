@@ -608,3 +608,11 @@ DECRETO que reforma el artículo 123 de la Constitución Política de los
 Estados Unidos Mexicanos.
 
 .. include:: T060.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO de Reformas y Adiciones a los artículos 54 y 63 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T061.rst
