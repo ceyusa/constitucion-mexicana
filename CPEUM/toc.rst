@@ -591,3 +591,10 @@ DECRETO de Reformas y Adiciones a los artículos 54 y 63 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T061.rst
+
+Artículos Transitorios de Decretos de Reforma (62)
+--------------------------------------------------
+
+DECRETO que reforma y adiciona el artículo 18 Constitucional.
+
+.. include:: T062.rst
