@@ -623,3 +623,11 @@ Artículos Transitorios de Decretos de Reforma
 DECRETO que reforma y adiciona el artículo 18 Constitucional.
 
 .. include:: T062.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que declara adicionada la fracción XXV del artículo 73 de la
+Constitución General de la República.
+
+.. include:: T063.rst
