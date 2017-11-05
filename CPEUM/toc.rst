@@ -606,3 +606,11 @@ DECRETO que declara adicionada la fracción XXV del artículo 73 de la
 Constitución General de la República.
 
 .. include:: T063.rst
+
+Artículos Transitorios de Decretos de Reforma (64)
+--------------------------------------------------
+
+DECRETO que reforma los artículos 73, 89 y 117 de la Constitución
+General de la República.
+
+.. include:: T064.rst
