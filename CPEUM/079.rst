@@ -11,9 +11,11 @@ II. Recibir, en su caso, la protesta del Presidente de la República, de los
     Magistrados del Distrito Federal y Territorios, si estos últimos
     funcionarios se encontraren en la ciudad de México.
 
-III. Dictaminar sobre todos los asuntos que queden sin resolución en los
-     expedientes a fin de que en el inmediato período de sesiones sigan
-     tramitándose.
+III. Resolver los asuntos de su competencia; recibir durante el receso
+     del Congreso de la Unión las iniciativas de ley y proposiciones
+     dirigidas a las Cámaras, y turnarlas para dictamen a las Comisiones
+     de la Cámara a la que vayan dirigidas, a fin de que se despachen en
+     el inmediato período de sesiones.
 
 IV. Acordar por sí o a propuesta del Ejecutivo, la convocatoria del
     Congreso o de una sola Cámara a sesiones extraordinarias, siendo
@@ -29,3 +31,9 @@ V. Otorgar o negar su aprobación a los nombramientos de Ministros de la
 
 VI. Conceder licencia hasta por treinta días al Presidente de la
     República y nombrar el interino que supla esa falta.
+
+VII. Ratificar los nombramientos que el Presidente de la República haga
+     de ministros, agentes, diplomáticos, cónsules generales, empleados
+     superiores de Hacienda, coroneles y demás jefes superiores del
+     Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la
+     ley disponga.
