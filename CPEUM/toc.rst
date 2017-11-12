@@ -655,3 +655,13 @@ DECRETO que declara adicionado el Artículo 73 de la Constitución General
 de la República.
 
 .. include:: T066.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma y adiciona los artículos 94, 98, 100, 102, 104
+fracción I, 105 y 107 fracción II párrafo final, III, IV, V, VI, VIII,
+XIII y XVI, de la Constitución Política de los Estados Unidos Mexicanos.
+de la República.
+
+.. include:: T067.rst
