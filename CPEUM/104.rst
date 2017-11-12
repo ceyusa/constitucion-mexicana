@@ -3,30 +3,45 @@
 Corresponde a los Tribunales de la Federación conocer:
 
 I. De todas las controversias del orden civil o criminal que se susciten
-   sobre el cumplimiento y aplicación de leyes federales o con motivo
-   de los tratados celebrados con las potencias extranjeras. Cuando
+   sobre el cumplimiento y aplicación de leyes federales o de los
+   tratados internacionales celebrados por el Estado Mexicano. Cuando
    dichas controversias sólo afecten intereses particulares, podrán
    conocer también de ellas, a elección del actor, los jueces y
-   tribunales locales del orden común de los Estados, del Distrito
-   Federal y Territorios. Las sentencias de primera instancia serán
-   apelables para ante el superior inmediato del juez que conozca del
-   asunto en primer grado.
+   tribunales del orden común de los Estados, del Distrito Federal y
+   Territorios. Las sentencias de primera instancia podrán ser apelables
+   para ante el superior inmediato del juez que conozca del asunto en
+   primer grado.
 
-   En los juicios en que la Federación esté interesada, las leyes podrán
-   establecer recursos ante la Suprema Corte de Justicia contra las
-   sentencias de segunda instancia o contra las de tribunales
-   administrativos creados por ley federal, siempre que dichos
-   tribunales estén dotados de plena autonomía para dictar sus fallos.
+   Las leyes federales podrán instituir tribunales de los
+   contencioso-administrativo dotados de plena autonomía para dictar sus
+   fallos, que tengan a su cargo dirimir las controversias que se
+   susciten entre la Administración Pública Federal o del Distrito y
+   Territorios Federales, y los particulares, estableciendo las normas
+   para su organización, su funcionamiento, el procedimiento y los
+   recursos contra sus resoluciones.
 
-II.  De todas las controversias que versen sobre derecho marítimo.
+   Procederá el recurso de revisión ante la Suprema Corte de Justicia
+   contra las resoluciones definitivas de dichos tribunales
+   administrativos, sólo en los casos que señalen las leyes federales, y
+   siempre que esas resoluciones hayan sido dictadas como consecuencia
+   de un recurso interpuesto dentro de la jurisdicción
+   contencioso-administrativa.
 
-III. De aquellas en que la Federación fuese parte.
+   La revisión se sujetará a los trámites que la Ley Reglamentaria de
+   los artículos 103 y 107 de esta Constitución fije para la revisión en
+   amparo indirecto, y la resolución que en ella dicte la Suprema Corte
+   de Justicia, quedará sujeta a las normas que regulan la ejecutoriedad
+   y cumplimento de las sentencia de amparo;
+
+II.  De todas las controversias que versen sobre derecho marítimo;
+
+III. De aquellas en que la Federación fuese parte;
 
 IV.  De las que se susciten entre dos o más Estados, o en un Estado y la
      Federación, así como de los que surgieren entre los tribunales del
-     Distrito Federal y los de la Federación o un Estado.
+     Distrito Federal y los de la Federación o un Estado;
 
-V. De las que surjan entre un Estado y uno o más vecinos de otro.
+V. De las que surjan entre un Estado y uno o más vecinos de otro, y
 
 VI. De los casos concernientes a miembros del Cuerpo Diplomático y
     Consular.
