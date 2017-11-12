@@ -647,3 +647,11 @@ DECRETO que reforma los artículos 79, 88, 89 y 135 de la Constitución
 General de la República.
 
 .. include:: T065.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que declara adicionado el Artículo 73 de la Constitución General
+de la República.
+
+.. include:: T066.rst
