@@ -657,3 +657,13 @@ DECRETO que reforma la fracción II del inciso A) del artículo 30 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T069.rst
+
+
+Artículos Transitorios de Decretos de Reforma (71)
+--------------------------------------------------
+
+DECRETO por el que se adiciona la base 4a. de la fracción XVI del
+artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+
+.. include:: T071.rst
