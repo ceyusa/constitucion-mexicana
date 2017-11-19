@@ -640,3 +640,11 @@ XIII y XVI, de la Constitución Política de los Estados Unidos Mexicanos.
 de la República.
 
 .. include:: T067.rst
+
+Artículos Transitorios de Decretos de Reforma (68)
+--------------------------------------------------
+
+DECRETO que reforma el artículo 34 de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T068.rst
