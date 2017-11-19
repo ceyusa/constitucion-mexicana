@@ -648,3 +648,12 @@ DECRETO que reforma el artículo 34 de la Constitución Política de los
 Estados Unidos Mexicanos.
 
 .. include:: T068.rst
+
+
+Artículos Transitorios de Decretos de Reforma (69)
+--------------------------------------------------
+
+DECRETO que reforma la fracción II del inciso A) del artículo 30 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T069.rst
