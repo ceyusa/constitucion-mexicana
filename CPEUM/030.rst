@@ -8,8 +8,7 @@ A. Son mexicanos por nacimiento:
       nacionalidad de sus padres.
 
    II. Los que nazcan en el extranjero de padres mexicanos; de padre
-       mexicano y madre extranjera, o de madre mexicana y padre
-       desconocido.
+       mexicano o de madre mexicana
 
    III. Los que nazcan a bordo de embarcaciones o aeronaves mexicanas,
 	sean de guerra o mercantes.
