@@ -718,3 +718,13 @@ Política de los Estados Unidos Mexicanos, que la Comisión Permanente
 del H. Congreso de la Unión declara que ha sido aprobada.
 
 .. include:: T074.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforma el inciso f) de la fracción XI y se
+adiciona con el párrafo segundo la fracción XIII, del Apartado B) del
+artículo 123 de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T075.rst
