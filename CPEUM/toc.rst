@@ -699,3 +699,13 @@ DECRETO por el que se reforma el artículo 10 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T072.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+REFORMAS y Adiciones a los artículos 52, 54 fracciones I, II y III; 55,
+fracción II; y 58 de la Constitución Política de los Estados Unidos
+Mexicanos, que la Comisión Permanente del H. Congreso de la Unión
+declara que han sido aprobadas.
+
+.. include:: T073.rst
