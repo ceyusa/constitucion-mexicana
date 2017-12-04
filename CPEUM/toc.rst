@@ -728,3 +728,11 @@ artículo 123 de la Constitución Política de los Estados Unidos
 Mexicanos.
 
 .. include:: T075.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma y adiciona el Artículo 93 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T076.rst
