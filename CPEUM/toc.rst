@@ -684,3 +684,12 @@ Mexicanos, que la Comisión Permanente del H. Congreso de la Unión
 declara que han sido aprobadas.
 
 .. include:: T073.rst
+
+Artículos Transitorios de Decretos de Reforma (74)
+--------------------------------------------------
+
+REFORMA a la fracción XII del Apartado A del Artículo 123 Constitución
+Política de los Estados Unidos Mexicanos, que la Comisión Permanente
+del H. Congreso de la Unión declara que ha sido aprobada.
+
+.. include:: T074.rst
