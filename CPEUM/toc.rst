@@ -711,3 +711,11 @@ DECRETO que reforma y adiciona el Artículo 93 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T076.rst
+
+Artículos Transitorios de Decretos de Reforma (77)
+--------------------------------------------------
+
+DECRETO por el que se adiciona el Artículo 107 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T077.rst
