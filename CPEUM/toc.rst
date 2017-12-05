@@ -744,3 +744,11 @@ DECRETO por el que se adiciona el Artículo 107 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T077.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforman el Artículo 43 y demás relativos de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T078.rst

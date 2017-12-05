@@ -172,15 +172,15 @@ V. Los bancos debidamente autorizados, conforme a las leyes de las
 
 VI. Fuera de las corporaciones a que se refieren las fracciones III, IV
     y V, así como de los núcleos de población que de hecho o por derecho
-    guarden el estado comunal, o de los núcleos dotados, restituídos o
-    constituídos en centro de población agrícola, ninguna otra
-    corporación civil podrá tener en propiedad o administrar por sí,
-    bienes raíces o capitales impuestos sobre ellos, con la única
-    excepción de los edificios destinados inmediatamente y directamente
-    al objeto de la institución. Los Estados, el Distrito Federal y los
-    Territorios, lo mismo que los Municipios de toda la Repúblico,
-    tendrán plena capacidad para adquirir y poseer todos los bienes
-    raíces necesarios para los servicios públicos.
+    guarden el estado comunal, o de los núcleos dotados, restituidos o
+    constituidos en centro de población agrícola, ninguna otra
+    corporación civil podrá tener propiedad o administrar por sí bienes
+    raíces o capitales impuestos sobre ellos, con la única excepción de
+    los edificios destinados inmediata y directamente al objeto de la
+    institución. Los Estados y el Distrito Federal, lo mismo que los
+    municipios de toda la República, tendrán plena capacidad de adquirir
+    y poseer todos los bienes raíces necesarios para los servicios
+    públicos.
 
     Las leyes de la Federación y de los Estados en sus respectivas
     jurisdicciones determinarán los caos en que sea de utilidad pública
@@ -293,11 +293,11 @@ XI. Para los efectos de las disposiciones contenidas en este artículo y
        funciones que las leyes orgánicas reglamentarias les fijen.
 
     c. Una Comisión Mixta compuesta de representantes iguales de la
-       Federación, de los Gobiernos locales, y de un representante de
+       Federación, de los gobiernos locales, y de un representante de
        los campesinos, cuya designación se hará en los términos que
-       prevenga la ley reglamentaria respectiva, que funcionará en cada
-       Estado, Territorio y Distrito Federal, con las atribuciones que
-       las mismas leyes orgánicas y reglamentarias determinen.
+       prevenga la Ley Parlamentaria respectiva, que funcionará en cada
+       Estado y en el Distrito Federal, con las atribuciones que las
+       mismas leyes orgánicas y reglamentarias determinen.
 
     d. Comités particulares ejecutivos para cada uno de los núcleos de
        población que tramiten expedientes agrarios.
@@ -306,8 +306,7 @@ XI. Para los efectos de las disposiciones contenidas en este artículo y
        que posean ejidos.
 
 XII. Las solicitudes de restitución o dotación de tierras o aguas se
-     presentarán en los Estados y Territorios directamente ante los
-     Gobernadores.
+     presentarán en los Estados directamente ante los gobernadores.
 
      Los Gobernadores turnarán las solicitudes a las Comisiones Mixtas,
      las que substanciarán los expedientes en plazo perentorio y
@@ -400,9 +399,9 @@ XVII. El Congreso de la Unión y las Legislaturas de los Estados, en sus
       fraccionamiento de los excedentes, de acuerdo con las siguientes
       bases:
 
-      a. En cada Estado, Territorio y Distrito Federal, se fijará la
-	 extensión máxima de tierra de que pueda ser dueño un solo
-	 individuo o sociedad legalmente constituída.
+      a. En cada Estado y en el Distrito Federal se fijará la extensión
+         máxima de tierra de que pueda ser dueño un sólo individuo, o
+         sociedad legalmente constituida.
 
       b. El excedente de la extensión fijada deberá ser fraccionado por
 	 el propietario en el plazo que señalen las leyes locales, y las
