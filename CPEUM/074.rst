@@ -3,12 +3,7 @@
 Son facultades exclusivas de la Cámara de Diputados:
 
 I. Erigirse en Colegio Electoral para ejercer las atribuciones que la
-   Ley le señala respecto a la elección del Presidente de la
-   República. Dicha facultad se ejercerá también respecto a las
-   elecciones de Ayuntamientos en los Territorios, pudiendo suspender y
-   destituir, en su caso, a los miembros de dichos Ayuntamientos y
-   designar sustitutos o juntas municipales, en los términos de las
-   leyes respectivas.
+   ley le señala respecto a la elección de Presidente de la República.
 
 II. Vigilar por medio de una Comisión de su seno, el exacto desempeño de
     las funciones de la Contaduría Mayor.
@@ -25,9 +20,9 @@ V. Conocer de las acusaciones que se hagan a los funcionarios públicos
    funcionarios públicos que gozan de fuero constitucional, cuando sean
    acusados por delitos del orden común.
 
-VI. Otorgar o negar su aprobación a los nombramientos de Magistrados del
-    Tribunal de Justicia del Distrito Federal y de los Territorios, que le
-    someta el Presidente de la República.
+VI. Otorgar o negar su aprobación a los nombramientos de magistrados del
+    Tribunal Superior de Justicia del Distrito Federal, que le someta el
+    Presidente de la República.
 
 VII. Declarar justificadas o no justificadas las peticiones de destitución de
      las autoridades judiciales que hiciera el Presidente de la República, en
