@@ -745,3 +745,11 @@ párrafo al artículo 27 y se adiciona la fracción X del artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T080.rst
+
+Artículos Transitorios de Decretos de Reforma (81)
+--------------------------------------------------
+
+DECLARATORIA por la que se adiciona la fracción XXXI del Artículo 123,
+Apartado A, de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T081.rst
