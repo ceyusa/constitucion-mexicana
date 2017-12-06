@@ -75,11 +75,11 @@ pública, y quedará sujeto a las disposiciones que dicen los Estados.
 En los casos a que se refieren los dos párrafos anteriores, el dominio
 de la Nación es inalienable e imprescriptible y la explotación, el uso o
 el aprovechamiento de los recursos de que se trata, por los particulares
-o por sociedades constituídas conforme a las leyes mexicanas, no podrá
+o por sociedades constituidas conforme a las leyes mexicanas, no podrá
 realizarse sino mediante concesiones, otorgadas por el Ejecutivo
 Federal, de acuerdo con las reglas y condiciones que establezcan las
 leyes. Las normas legales relativas a obras o trabajos de explotación de
-los minerales y substancias a que se refiere el párrafo cuarto:
+los minerales y substancias a que se refiere el párrafo cuarto,
 regularán la ejecución y comprobación de los que se efectúen o deban
 efectuarse a partir de su vigencia, independientemente de la fecha de
 otorgamiento de las concesiones, y su inobservancia dará lugar a la
@@ -95,6 +95,11 @@ generar conducir, transformar, distribuir y abastecer energía eléctrica
 que tenga por objeto la prestación de servicio público. En esta materia
 no se otorgarán concesiones a los particulares la Nación aprovechará los
 bienes y recursos naturales que se requieran para dicho fines.
+
+Corresponde también a la Nación el aprovechamiento de los combustibles
+nucleares para la generación de energía nuclear y la regulación de sus
+aplicaciones en otros propósitos. El uso de energía nuclear sólo podrá
+tener fines pacíficos.
 
 La capacidad para adquirir el dominio de las tierras y aguas de la
 Nación, se regirá por las siguientes prescripciones:
