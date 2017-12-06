@@ -761,3 +761,12 @@ Constitución Política de los Estados Unidos Mexicanos, en relación con
 la Igualdad Jurídica de la Mujer.
 
 .. include:: T079.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECLARATORIA por la que se adiciona el párrafo sexto y un séptimo
+párrafo al artículo 27 y se adiciona la fracción X del artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T080.rst
