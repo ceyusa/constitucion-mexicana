@@ -752,3 +752,12 @@ DECRETO por el que se reforman el Artículo 43 y demás relativos de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T078.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que Reforma y Adiciona los Artículos 4o., 5o., 30 y 123 de la
+Constitución Política de los Estados Unidos Mexicanos, en relación con
+la Igualdad Jurídica de la Mujer.
+
+.. include:: T079.rst
