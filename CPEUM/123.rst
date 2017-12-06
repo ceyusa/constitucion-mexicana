@@ -8,13 +8,10 @@ A. Entre los obreros, jornaleros, empleados, domésticos, artesanos y de
 
    I. La duración de la jornada máxima será de ocho horas.
 
-   II. La jornada máxima de trabajo nocturno será de siete horas. Quedan
-       prohibidas: las labores insalubres o peligrosas para las mujeres
-       y los menores de dieciséis años; el trabajo nocturno industrial
-       para unas y otros; el trabajo en los establecimientos
-       comerciales, después de las diez de la noche para la mujer y el
-       trabajo después de las diez de la noche, de los menores de
-       dieciséis años.
+   II. La jornada máxima de trabajo nocturno será de 7 horas Quedan
+       prohibidas las labores insalubres o peligrosas; el trabajo
+       nocturno industrial y todo otro trabajo después de las diez de la
+       noche, de los menores de dieciséis años;
 
    III. Queda prohibida la utilización del trabajo de los menores de
         catorce años. Los mayores de esta edad y menores de dieciséis
@@ -23,15 +20,15 @@ A. Entre los obreros, jornaleros, empleados, domésticos, artesanos y de
    IV. Por cada seis días de trabajo deberá disfrutar el operario de un
        día de descanso, cuando menos.
 
-   V. Las mujeres durante los tres meses anteriores al parto, no
-      desempeñarán trabajos físicos que exijan esfuerzo material
-      considerable.
-
-      En el mes siguiente al parto disfrutarán forzosamente de descanso,
-      debiendo percibir su salario íntegro y conservar su empleo y los
-      derechos que hubieren adquirido por su contrato. En el período de
-      lactancia tendrán dos descansos extraordinarios por día, de media
-      hora cada uno, para amamantar a sus hijos.
+   V. Las mujeres durante el embarazo no realizarán trabajos que exijan
+      un esfuerzo considerable y signifiquen un peligro para su salud en
+      relación con la gestación; gozarán forzosamente de un descanso de
+      seis semanas anteriores a la fecha fijada aproximadamente para el
+      parto y seis semanas posteriores al mismo, debiendo percibir su
+      salario integro y conservar su empleo y los derechos que hubieren
+      adquirido por la relación de trabajo. En el periodo de lactancia
+      tendría dos descansos extraordinarios por día, de media hora cada
+      un para alimentar a sus hijos;
 
    VI. Los salarios mínimos que deberán disfrutar los trabajadores serán
        generales o profesionales. Los primeros regirán en una o en
@@ -101,12 +98,11 @@ A. Entre los obreros, jornaleros, empleados, domésticos, artesanos y de
       fichas o cualquier otro representativo con que se pretenda
       substituir la moneda.
 
-   XI. Cuando por circunstancias extraordinarias deban aumentarse las
-       horas de jornada, se abonará como salario por el tiempo
-       excedente, un ciento por ciento mas de lo fijado por las horas
-       normales. En ningún caso de trabajo extraordinario podrá exceder
-       de tres horas diarias, ni de tres consecutivas. Los hombres
-       menores de diez y seis años y las mujeres de cualquiera edad, no
+   XI. Cuando, por circunstancias extraordinarias deban aumentarse las
+       horas de jornada, se abonará como salario por el tiempo excedente
+       un 100% más de lo fijado para las horas normales. En ningún caso
+       el trabajo extraordinario podrá exceder de tres horas diarias, ni
+       de tres veces consecutivas. Los menores de dieciséis años no
        serán admitidos en esta clase de trabajos.
 
    XII. Toda empresa agrícola, industrial, minera o de cualquier otra
@@ -151,14 +147,15 @@ A. Entre los obreros, jornaleros, empleados, domésticos, artesanos y de
         determinen. Esta responsabilidad subsistirá aún en el caso de
         que el patrono contrate el trabajo por un intermediario.
 
-   XV. El patrono estará obligado a observar en la instalación de sus
-       establecimientos, los preceptos legales sobre higiene y
-       salubridad, y adoptar las medidas adecuadas para prevenir
-       accidentes en el uso de las maquinas, instrumentos y materiales
-       de trabajo, así como a organizar de tal manera éste, que resulte
-       para la salud y la vida de los trabajadores la mayor garantía
-       compatible con la naturaleza de la negociación, bajo las penas
-       que al efecto establezcan las leyes.
+   XV. El patrón estará obligado a observar, de acuerdo con la
+       naturaleza de su negocio, los preceptos legales sobre higiene y
+       seguridad en las instalaciones de su establecimiento, y a adoptar
+       las medidas adecuadas para prevenir accidentes en el uso de las
+       máquinas, instrumentos y materiales de trabajo, así como a
+       organizar de tal manera éste, que resulte la mayor garantía para
+       la salud y la vida de los trabajadores, y del producto de la
+       concepción, cuando se trate de mujeres embarazadas. Las leyes
+       contendrán, al efecto, las sanciones procedentes en cada caso;
 
    XVI. Tanto los obreros como los empresarios tendrán derecho para
         coaligarse en defensa de sus respectivos intereses, formando
@@ -226,10 +223,13 @@ A. Entre los obreros, jornaleros, empleados, domésticos, artesanos y de
          serán exigibles dichas deudas por la cantidad excedente del
          sueldo del trabajador en un mes.
 
-   XXV. El servicio para la colocación de los trabajadores, será
-        gratuito para éstos, ya se efectúe por oficinas municipales,
-        bolsas del trabajo o por cualquiera otra institución oficial o
-        particular.
+   XXV. El servicio para la colocación de los trabajadores será gratuito
+        para éstos, ya se efectúe por oficinas municipales, bolsas de
+        trabajo o por cualquier otra institución oficial o particular.
+
+        En la prestación de este servicio se tomará en cuenta la demanda
+        de trabajo y, en igualdad de condiciones, tendrán prioridad
+        quienes representen la única fuente de ingresos en su familia.
 
    XXVI. Todo contrato de trabajo celebrado entre un mexicano y un
          empresario extranjero, deberá ser legalizado por la autoridad
@@ -269,10 +269,13 @@ A. Entre los obreros, jornaleros, empleados, domésticos, artesanos y de
            transmisibles a título de herencia con simplificación de las
            formalidades de los juicios sucesorios.
 
-   XXIX. Se considera de utilidad pública la expedición de la Ley del
-         Seguro Social y ella comprenderá seguros de la invalidez, de
-         vida, de cesación involuntaria del trabajo, de enfermedades y
-         accidentes y otras con fines análogos.
+   XXIX. Es de utilidad pública la Ley del Seguro Social, y ella
+         comprenderá seguros de invalidez, de vejez, de vida, de
+         cesación involuntaria del trabajo, de enfermedades y
+         accidentes, de servicios de guardería y cualquier otro
+         encaminado a la protección y bienestar de los trabajadores,
+         campesinos, no asalariados y otros sectores sociales y sus
+         familiares.
 
    XXX. Asimismo serán consideradas de utilidad social, las sociedades
         cooperativas para la construcción de casas baratas e higiénicas,
@@ -334,9 +337,11 @@ B. Entre los Poderes de la Unión, el Gobierno del Distrito Federal y sus
         aspirantes. El Estado organizará escuelas de Administración
         Pública;
 
-   VIII. Los trabajadores gozarán de derechos de escalafón a fin de que
+   VIII. Las trabajadores gozarán de derechos de escalafón a fin de que
          los ascensos se otorguen en función de los conocimientos,
-         aptitudes y antigüedad;
+         aptitudes y antigüedad. En igualdad de condiciones tendrá
+         prioridad quien represente la única fuente de ingresos en su
+         familia;
 
    IX. Los trabajadores sólo podrán ser suspendidos o cesados por causa
        justificada, en los términos que fije la ley.
@@ -363,13 +368,18 @@ B. Entre los Poderes de la Unión, el Gobierno del Distrito Federal y sus
           la invalidez, vejez y muerte.
        b. En caso de accidente o enfermedad, se conservará el derecho al
           trabajo por el tiempo que determine la ley.
-       c. Las mujeres disfrutarán de un mes de descanso antes de la
-          fecha que aproximadamente se fije para el parto y de otros dos
-          después del mismo. Durante el período de lactancia, tendrán
-          dos descansos extraordinarios por día, media hora cada uno,
-          para amamantar a sus hijos. Además, disfrutarán de asistencia
-          médica y obstétrica, de medicinas, de ayudas para la lactancia
-          y del servicio de guarderías infantiles.
+       c. Las mujeres durante el embarazo no realizarán trabajos que
+          exijan un esfuerzo considerable y signifiquen un peligro para
+          su salud en relación con la gestación; gozarán forzosamente de
+          un mes de descanso antes de la fecha fijada aproximadamente
+          para el parto y de otros dos después del mismo, debiendo
+          percibir su salario integro y conservar su empleo y derechos
+          que hubieren adquirido por la relación de trabajo. En el
+          periodo de lactancia tendrán dos descansos extraordinarios por
+          día, media hora cada uno, para alimentar a sus hijos. Además,
+          disfrutarán de asistencia médica y obstetricia, de medicinas,
+          de ayudas para la lactancia y del servicio de guarderías
+          infantiles.
        d. Los familiares de los trabajadores tendrán derecho a
           asistencia médica y medicinas, en los casos y en la proporción
           que determine la ley.
