@@ -795,3 +795,13 @@ Política de los Estados Unidos Mexicanos, para establecer una zona
 económica exclusiva situada fuera del mar territorial.
 
 .. include:: T083.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforma el párrafo tercero del artículo 27; se
+adicionan el artículo 73 con la fracción XXIX-C y el artículo 115 con
+las fracciones IV y V, de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T084.rst
