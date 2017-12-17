@@ -761,3 +761,12 @@ DECRETO por el que se reforma la fracción XIV del Artículo 107 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T082.rst
+
+Artículos Transitorios de Decretos de Reforma (83)
+--------------------------------------------------
+
+DECRETO por el que se adiciona el artículo 27 de la Constitución
+Política de los Estados Unidos Mexicanos, para establecer una zona
+económica exclusiva situada fuera del mar territorial.
+
+.. include:: T083.rst
