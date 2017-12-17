@@ -753,3 +753,11 @@ DECLARATORIA por la que se adiciona la fracción XXXI del Artículo 123,
 Apartado A, de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T081.rst
+
+Artículos Transitorios de Decretos de Reforma (82)
+--------------------------------------------------
+
+DECRETO por el que se reforma la fracción XIV del Artículo 107 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T082.rst
