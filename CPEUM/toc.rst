@@ -805,3 +805,11 @@ las fracciones IV y V, de la Constitución Política de los Estados Unidos
 Mexicanos.
 
 .. include:: T084.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se adiciona un quinto párrafo al Artículo 18 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T085.rst
