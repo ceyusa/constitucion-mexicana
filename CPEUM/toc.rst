@@ -813,3 +813,12 @@ DECRETO por el que se adiciona un quinto párrafo al Artículo 18 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T085.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma y adiciona los artículos 6o., 41, 51, 52, 53, 54,
+55, 60, 61, 65, 70, 73, 74, 76, 93, 97 y 115 de la Constitución Política
+de los Estados Unidos Mexicanos.
+
+.. include:: T086.rst
