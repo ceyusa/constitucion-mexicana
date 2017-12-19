@@ -806,3 +806,12 @@ XIII, ambas del Apartado "A", del Artículo 123 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T087.rst
+
+Artículos Transitorios de Decretos de Reforma (88)
+--------------------------------------------------
+
+DECRETO por el que se reforma a la fracción XXXI, del Apartado "A" del
+Artículo 123 de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T088.rst
