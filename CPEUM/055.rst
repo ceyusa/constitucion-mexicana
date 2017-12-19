@@ -7,10 +7,19 @@ I. Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus
 
 II. Tener veintiún años cumplidos el día de la elección.
 
-III. Ser originario del Estado en que se haga la elección, o vecino de
-     él con residencia efectiva de más de seis meses anteriores a la
-     fecha de ella. La vecindad no se pierde por ausencia en el
-     desempeño de cargos públicos de elección popular;
+III. Ser originario del Estado en que se haga la elección o vecino de él
+     con residencia efectiva de más de seis meses anteriores a la fecha
+     de ella.
+
+     Para poder figurar en las listas de las circunscripciones
+     electorales plurinominales como candidato a diputados, se requiere
+     ser originario de algunas de las entidades federativas que
+     comprenda la circunscripción en la que se realice la elección, o
+     vecino de ella con residencia efectiva de más de seis meses
+     anteriores a la fecha en que la misma se celebre.
+
+     La vecindad no se pierde por ausencia en el desempeño de cargos
+     púbicos de elección popular.
 
 IV. No estar en servicio activo en el Ejército Federal ni tener mando en
     la policía o gendarmería rural en el Distrito donde se haga la
