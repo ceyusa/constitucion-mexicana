@@ -822,3 +822,12 @@ DECRETO que reforma y adiciona los artículos 6o., 41, 51, 52, 53, 54,
 de los Estados Unidos Mexicanos.
 
 .. include:: T086.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se adiciona la fracción XII y se reforma la fracción
+XIII, ambas del Apartado "A", del Artículo 123 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T087.rst
