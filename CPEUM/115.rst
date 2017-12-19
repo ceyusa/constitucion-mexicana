@@ -3,7 +3,7 @@
 Los Estados adoptarán, para su régimen interior, la forma de gobierno
 republicano, representativo, popular, teniendo como base de su división
 territorial y de su organización política y administrativa, el Municipio
-Libre, conforme a las base siguientes;
+Libre conforme a las bases siguientes:
 
 I. Cada Municipio será administrado por un Ayuntamiento de elección
    popular directa y no habrá ninguna autoridad intermedia entre éste y
@@ -29,6 +29,12 @@ II. Los Municipios administrarán libremente su hacienda, la cual se
 
 III. Los Municipios serán investidos de personalidad jurídica para todos
      los efectos legales.
+
+     De acuerdo con la legislación que se expida en cada una de las
+     entidades federativas se introducirá el sistema de diputados de
+     minoría en la elección de las legislaturas locales y el principio
+     de representación proporcional en la elección de los avuntamientos
+     de los municipios cuya población sea de 300 mil 0 más habitantes.
 
 IV. Los Estados y Municipios, en el ámbito de sus competencias,
     expedirán las leyes, reglamentos y disposiciones administrativas que
