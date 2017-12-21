@@ -856,3 +856,11 @@ DECRETO por el que se modifican las fracciones V y VI del artículo 107
 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T090.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se adiciona un tercer párrafo al Artículo 4o. de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T091.rst
