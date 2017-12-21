@@ -840,3 +840,11 @@ Artículo 123 de la Constitución Política de los Estados Unidos
 Mexicanos.
 
 .. include:: T088.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se adiciona un párrafo inicial al Artículo 123 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T089.rst
