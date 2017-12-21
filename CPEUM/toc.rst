@@ -881,3 +881,11 @@ DECRETO por el que se reforma el Artículo 78 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T093.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforman los Artículos 29, 90 y 92 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T094.rst
