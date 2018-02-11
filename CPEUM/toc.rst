@@ -981,3 +981,11 @@ DECRETO por el que se reforma la fracción I del Artículo 20 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T105.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se adiciona el Artículo 79 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T106.rst
