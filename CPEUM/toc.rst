@@ -1082,3 +1082,11 @@ adiciona una fracción XXIX-G al artículo 73 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T116.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforma la Fracción X del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T117.rst
