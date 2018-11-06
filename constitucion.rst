@@ -15652,12 +15652,20 @@ siempre que se haga por el propio Congreso la declaratoria expresa de
 entrada en vigor de la autonomía constitucional de la Fiscalía General
 de la República.
 
-El Procurador General de la República que se encuentre en funciones al
-momento de expedirse la declaratoria a que se refiere el párrafo
-anterior, quedará designado por virtud de este Decreto Fiscal General de
-la República por el tiempo que establece el artículo 102, Apartado A, de
-esta Constitución, sin perjuicio del procedimiento de remoción previsto
-en la fracción IV de dicho artículo.
+Una vez realizada la declaratoria a que se refiere el párrafo anterior, la
+Cámara de Senadores iniciará de forma inmediata el procedimiento previsto en el
+Apartado A del artículo 102 de esta Constitución para la designación del Fiscal
+General de la República. Si la Cámara de Senadores no estuviere reunida, la
+Comisión Permanente la convocará inmediatamente a sesión extraordinaria.
+
+*Párrafo adicionado DOF 27-08-2018*
+
+El Procurador General de la República que se encuentre en funciones al momento
+de expedirse la declaratoria a que se refiere el párrafo primero de este
+artículo, continuará en su encargo hasta en tanto el Senado designe al Fiscal
+General de la República.
+
+*Párrafo reformado DOF 27-08-2018*
 
 **DÉCIMO SÉPTIMO.-** Una vez que entren en vigor las disposiciones de
 este Decreto referidas en el Transitorio anterior, se procederá de la
