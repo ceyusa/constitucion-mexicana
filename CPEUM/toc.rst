@@ -1135,3 +1135,11 @@ DECRETO por el que se reforma el Artículo 4o. de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T122.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforma el Artículo 102 de la Constitución
+Política de los Estados Unidos Mexicanos.
+
+.. include:: T123.rst
