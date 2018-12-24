@@ -1143,3 +1143,11 @@ DECRETO por el que se reforma el Artículo 102 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T123.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que declara reformados los artículos 3o. y 31 fracción I, de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T124.rst
