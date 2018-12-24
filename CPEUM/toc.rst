@@ -1151,3 +1151,11 @@ DECRETO que declara reformados los artículos 3o. y 31 fracción I, de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T124.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se adiciona la fracción III del artículo 82 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T125.rst
