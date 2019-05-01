@@ -1627,47 +1627,44 @@ proporcional al delito que sancione y al bien jurídico afectado.
 
 No se considerará confiscación la aplicación de bienes de una persona
 cuando sea decretada para el pago de multas o impuestos, ni cuando la
-decrete una autoridad judicial para el pago de responsabilidad civil
+decrete la autoridad judicial para el pago de responsabilidad civil
 derivada de la comisión de un delito. Tampoco se considerará
 confiscación el decomiso que ordene la autoridad judicial de los bienes
 en caso de enriquecimiento ilícito en los términos del artículo 109, la
 aplicación a favor del Estado de bienes asegurados que causen abandono
-en los términos de las disposiciones aplicables, ni la de aquellos
-bienes cuyo dominio se declare extinto en sentencia. En el caso de
-extinción de dominio se establecerá un procedimiento que se regirá por
-las siguientes reglas:
+en los términos de las disposiciones aplicables, ni de aquellos bienes
+cuyo dominio se declare extinto en sentencia.
 
-**I.** Será jurisdiccional y autónomo del de materia penal;
+*Párrafo reformado DOF 27-05-2015, 14-03-2019*
 
-**II.** Procederá en los casos de delincuencia organizada, delitos
-contra la salud, secuestro, robo de vehículos, trata de personas y
-enriquecimiento ilícito, respecto de los bienes siguientes:
+La acción de extinción de dominio se ejercitará por el Ministerio
+Público a través de un procedimiento jurisdiccional de naturaleza civil
+y autónomo del penal. Las autoridades competentes de los distintos
+órdenes de gobierno le prestarán auxilio en el cumplimiento de esta
+función. La ley establecerá los mecanismos para que las autoridades
+administren los bienes sujetos al proceso de extinción de dominio,
+incluidos sus productos, rendimientos, frutos y accesorios, para que la
+autoridad lleve a cabo su disposición, uso, usufructo, enajenación y
+monetización, atendiendo al interés público, y defina con criterios de
+oportunidad el destino y, en su caso, la destrucción de los mismos.
 
-*Párrafo reformado DOF 27-05-2015*
+*Párrafo adicionado DOF 14-03-2019*
 
-**a)** Aquellos que sean instrumento, objeto o producto del delito, aún
-cuando no se haya dictado la sentencia que determine la responsabilidad
-penal, pero existan elementos suficientes para determinar que el hecho
-ilícito sucedió.
+Será procedente sobre bienes de carácter patrimonial cuya legítima
+procedencia no pueda acreditarse y se encuentren relacionados con las
+investigaciones derivadas de hechos de corrupción, encubrimiento,
+delitos cometidos por servidores públicos, delincuencia organizada, robo
+de vehículos, recursos de procedencia ilícita, delitos contra la salud,
+secuestro, extorsión, trata de personas y delitos en materia de
+hidrocarburos, petrolíferos y petroquímicos.
 
-**b)** Aquellos que no sean instrumento, objeto o producto del delito,
-pero que hayan sido utilizados o destinados a ocultar o mezclar bienes
-producto del delito, siempre y cuando se reúnan los extremos del inciso
-anterior.
+*Párrafo adicionado DOF 14-03-2019*
 
-**c)** Aquellos que estén siendo utilizados para la comisión de delitos
-por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a
-la autoridad o hizo algo para impedirlo.
+A toda persona que se considere afectada, se le deberá garantizar el
+acceso a los medios de defensa adecuados para demostrar la procedencia
+legítima del bien sujeto al procedimiento
 
-**d)** Aquellos que estén intitulados a nombre de terceros, pero existan
-suficientes elementos para determinar que son producto de delitos
-patrimoniales o de delincuencia organizada, y el acusado por estos
-delitos se comporte como dueño.
-
-**III.** Toda persona que se considere afectada podrá interponer los
-recursos respectivos para demostrar la procedencia lícita de los bienes
-y su actuación de buena fe, así como que estaba impedida para conocer la
-utilización ilícita de sus bienes.
+*Párrafo adicionado DOF 14-03-2019*
 
 *Artículo reformado DOF 28-12-1982, 03-07-1996, 08-03-1999, 09-12-2005,
 18-06-2008*
@@ -5095,7 +5092,8 @@ itinerante, y
 *Fracción adicionada DOF 05-02-2017*
 
 **XXX.** Para expedir la legislación única en materia procesal civil y
-familiar;
+familiar, así como sobre extinción de dominio en los términos del
+artículo 22 de esta Constitución, y
 
 *Fracción adicionada DOF 15-09-2017*
 
@@ -17319,12 +17317,50 @@ del Poder Ejecutivo Federal, en la Ciudad de México, a catorce de
 septiembre de dos mil diecisiete.- **Enrique Peña Nieto**.- Rúbrica.- El
 Secretario de Gobernación, **Miguel Ángel Osorio Chong**.- Rúbrica.
 
-**Secretaría General**
+**DECRETO por el que se reforman el artículo 22 y la fracción XXX del
+artículo 73, de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de Extinción de Dominio.**
 
-**Secretaría de Servicios Parlamentarios**
+Publicado en el Diario Oficial de la Federación el 14 de marzo de 2019
 
-**Tel. 5628-1300, Ext. 2045 y 2148**
+**Artículo Único.-** Se reforman los artículos 22, segundo párrafo y 73,
+fracción XXX, y se adicionan un tercer, cuarto y quinto párrafos al
+artículo 22 de la Constitución Política de los Estados Unidos Mexicanos,
+para quedar como sigue:
 
-**Correo electrónico:
-`armando.torres@congreso.gob.mx <mailto:armando.torres@congreso.gob.mx>`_**
+……….
 
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.
+
+**Segundo.** El Congreso de la Unión, en un plazo de 180 días
+posteriores al inicio de vigencia de este Decreto expedirá la
+legislación nacional única en materia de extinción de dominio.
+
+**Tercero.** La Ley Federal de Extinción de Dominio, Reglamentaria del
+artículo 22 de la Constitución Política los Estados Unidos Mexicanos,
+así como la legislación respectiva del ámbito local, seguirán en vigor
+hasta en tanto el Congreso de la Unión expida la legislación nacional
+única en materia de extinción de dominio que ordena el presente Decreto.
+
+**Cuarto.** Los procesos en materia de extinción de dominio iniciados
+con fundamento en la legislación federal y local referida en el artículo
+transitorio anterior, así como las sentencias dictadas con base en las
+mismas, no se verán afectados por la entrada en vigor del presente
+Decreto, y deberán concluirse y ejecutarse conforme al orden
+constitucional y legal vigente al momento de su inicio.
+
+Ciudad de México, a 7 de marzo de 2019.- Sen. **Martí Batres
+Guadarrama**, Presidente.- Dip. **Porfirio Muñoz Ledo**, Presidente.-
+Sen. **Antares G. Vázquez Alatorre**, Secretaria.- Dip. **Lizeth Sánchez
+García**, Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de marzo de
+2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
+Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
+Rúbrica.
