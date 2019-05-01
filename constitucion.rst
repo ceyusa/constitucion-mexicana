@@ -962,12 +962,12 @@ resolver en el sentido que se desee.
 **Artículo 10.** Los habitantes de los Estados Unidos Mexicanos tienen
 derecho a poseer armas en su domicilio, para su seguridad y legítima
 defensa, con excepción de las prohibidas por la Ley Federal y de las
-reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y
-Guardia Nacional. La ley federal determinará los casos, condiciones,
+reservadas para el uso exclusivo de la Fuerza Armada permanente y los
+cuerpos de reserva. La ley federal determinará los casos, condiciones,
 requisitos y lugares en que se podrá autorizar a los habitantes la
 portación de armas.
 
-*Artículo reformado DOF 22-10-1971*
+*Artículo reformado DOF 22-10-1971, 26-03-2019*
 
 **Artículo 11.** Toda persona tiene derecho para entrar en la República,
 salir de ella, viajar por su territorio y mudar de residencia, sin
@@ -1069,9 +1069,11 @@ por la ley penal.
 
 Cualquier persona puede detener al indiciado en el momento en que esté
 cometiendo un delito o inmediatamente después de haberlo cometido,
-poniéndolo sin demora a disposición de la autoridad más cercana y ésta
-con la misma prontitud, a la del Ministerio Público. Existirá un
+poniéndolo sin demora a disposición de la autoridad civil más cercana y
+ésta con la misma prontitud, a la del Ministerio Público. Existirá un
 registro inmediato de la detención.
+
+*Párrafo reformado DOF 26-03-2019*
 
 Sólo en casos urgentes, cuando se trate de delito grave así calificado
 por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse
@@ -1572,24 +1574,29 @@ ley.
 El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso,
 reconocer la jurisdicción de la Corte Penal Internacional.
 
-La seguridad pública es una función a cargo de la Federación, las
-entidades federativas y los Municipios, que comprende la prevención de
-los delitos; la investigación y persecución para hacerla efectiva, así
-como la sanción de las infracciones administrativas, en los términos de
-la ley, en las respectivas competencias que esta Constitución señala. La
-actuación de las instituciones de seguridad pública se regirá por los
-principios de legalidad, objetividad, eficiencia, profesionalismo,
-honradez y respeto a los derechos humanos reconocidos en esta
-Constitución.
+La seguridad pública es una función del Estado a cargo de la Federación,
+las entidades federativas y los Municipios, cuyos fines son salvaguardar
+la vida, las libertades, la integridad y el patrimonio de las personas,
+así como contribuir a la generación y preservación del orden público y
+la paz social, de conformidad con lo previsto en esta Constitución y las
+leyes en la materia. La seguridad pública comprende la prevención,
+investigación y persecución de los delitos, así como la sanción de las
+infracciones administrativas, en los términos de la ley, en las
+respectivas competencias que esta Constitución señala. La actuación de
+las instituciones de seguridad pública se regirá por los principios de
+legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto
+a los derechos humanos reconocidos en esta Constitución.
 
-*Párrafo reformado DOF 29-01-2016*
+*Párrafo reformado DOF 29-01-2016, 26-03-2019*
 
-Las instituciones de seguridad pública serán de carácter civil,
-disciplinado y profesional. El Ministerio Público y las instituciones
-policiales de los tres órdenes de gobierno deberán coordinarse entre sí
-para cumplir los objetivos de la seguridad pública y conformarán el
-Sistema Nacional de Seguridad Pública, que estará sujeto a las
-siguientes bases mínimas:
+Las instituciones de seguridad pública, incluyendo la Guardia Nacional,
+serán de carácter civil, disciplinado y profesional. El Ministerio
+Público y las instituciones policiales de los tres órdenes de gobierno
+deberán coordinarse entre sí para cumplir los fines de la seguridad
+pública y conformarán el Sistema Nacional de Seguridad Pública, que
+estará sujeto a las siguientes bases mínimas:
+
+*Párrafo reformado DOF 26-03-2019*
 
 **a)** La regulación de la selección, ingreso, formación, permanencia,
 evaluación, reconocimiento y certificación de los integrantes de las
@@ -1599,10 +1606,17 @@ los Municipios en el ámbito de sus respectivas atribuciones.
 
 *Inciso reformado DOF 29-01-2016*
 
-**b)** El establecimiento de las bases de datos criminalísticos y de
-personal para las instituciones de seguridad pública. Ninguna persona
-podrá ingresar a las instituciones de seguridad pública si no ha sido
-debidamente certificado y registrado en el sistema.
+**b)** El establecimiento de un sistema nacional de información en
+seguridad pública a cargo de la Federación al que ésta, las entidades
+federativas y los Municipios, a través de las dependencias responsables
+de la seguridad pública, proporcionarán la información de que dispongan
+en la materia, conforme a la ley.  El sistema contendrá también las
+bases de datos criminalísticos y de personal para las instituciones de
+seguridad pública. Ninguna persona podrá ingresar a las instituciones de
+seguridad pública si no ha sido debidamente certificada y registrada en
+el sistema.
+
+*Inciso reformado DOF 26-03-2019*
 
 **c)** La formulación de políticas públicas tendientes a prevenir la
 comisión de delitos.
@@ -1615,6 +1629,32 @@ pública.
 **e)** Los fondos de ayuda federal para la seguridad pública, a nivel
 nacional serán aportados a las entidades federativas y municipios para
 ser destinados exclusivamente a estos fines.
+
+*Artículo reformado DOF 03-02-1983, 31-12-1994, 03-07-1996, 20-06-2005,
+18-06-2008*
+
+La Federación contará con una institución policial de carácter civil
+denominada Guardia Nacional, cuyos fines son los señalados en el párrafo
+noveno de este artículo, la coordinación y colaboración con las
+entidades federativas y Municipios, así como la salvaguarda de los
+bienes y recursos de la Nación.
+
+*Párrafo adicionado DOF 26-03-2019*
+
+La ley determinará la estructura orgánica y de dirección de la Guardia
+Nacional, que estará adscrita a la secretaría del ramo de seguridad
+pública, que formulará la Estrategia Nacional de Seguridad Pública, los
+respectivos programas, políticas y acciones.
+
+*Párrafo adicionado DOF 26-03-2019*
+
+La formación y el desempeño de los integrantes de la Guardia Nacional y
+de las demás instituciones policiales se regirán por una doctrina
+policial fundada en el servicio a la sociedad, la disciplina, el respeto
+a los derechos humanos, al imperio de la ley, al mando superior, y en lo
+conducente a la perspectiva de género.
+
+*Párrafo adicionado DOF 26-03-2019*
 
 *Artículo reformado DOF 03-02-1983, 31-12-1994, 03-07-1996, 20-06-2005,
 18-06-2008*
@@ -2912,10 +2952,11 @@ lugar en que residan, para recibir instrucción cívica y militar que los
 mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en
 el manejo de las armas, y conocedores de la disciplina militar.
 
-**III.** Alistarse y servir en la Guardia Nacional, conforme a la ley
-orgánica respectiva, para asegurar y defender la independencia, el
-territorio, el honor, los derechos e intereses de la Patria, así como la
-tranquilidad y el orden interior; y
+**III.** Alistarse y servir en los cuerpos de reserva, conforme a la
+ley, para asegurar y defender la independencia, el territorio, el honor,
+los derechos e intereses de la Patria, y
+
+*Fracción reformada DOF 26-03-2019*
 
 **IV.** Contribuir para los gastos públicos, así de la Federación, como
 de los Estados, de la Ciudad de México y del Municipio en que residan,
@@ -3007,11 +3048,11 @@ pacífica en los asuntos políticos del país;
 
 *Fracción reformada DOF 06-04-1990, 22-08-1996*
 
-**IV.** Tomar las armas en el Ejército o Guardia Nacional, para la
-defensa de la República y de sus instituciones, en los términos que
-prescriben las leyes;
+**IV.** Tomar las armas en la Fuerza Armada permanente o en los cuerpos
+de reserva, para la defensa de la República y de sus instituciones, en
+los términos que prescriben las leyes;
 
-*Fracción reformada DOF 09-08-2012*
+*Fracción reformada DOF 09-08-2012, 26-03-2019*
 
 **V.** Ejercer en toda clase de negocios el derecho de petición.
 
@@ -3095,7 +3136,9 @@ establezca la ley,
 
 *Fracción reformada DOF 06-04-1990*
 
-**II.** Alistarse en la Guardia Nacional;
+**II.** Formar parte de los cuerpos de reserva en términos de ley;
+
+*Fracción reformada DOF 26-03-2019*
 
 **III.** Votar en las elecciones y en las consultas populares, en los
 términos que señale la ley;
@@ -4643,13 +4686,9 @@ para reglamentar su organización y servicio.
 
 *Fracción reformada DOF 10-02-1944*
 
-**XV.** Para dar reglamentos con objeto de organizar, armar y
-disciplinar la Guardia Nacional, reservándose los ciudadanos que la
-formen, el nombramiento respectivo de jefes y oficiales, y a las
-entidades federativas la facultad de instruirla conforme a la disciplina
-prescrita por dichos reglamentos.
+**XV.** Derogada.
 
-*Fracción reformada DOF 29-01-2016*
+*Fracción reformada DOF 29-01-2016. Derogada DOF 26-03-2019*
 
 **XVI.** Para dictar leyes sobre nacionalidad, condición jurídica de los
 extranjeros, ciudadanía, naturalización, colonización, emigración e
@@ -4742,14 +4781,16 @@ común podrán conocer y resolver sobre delitos federales;
 **XXII.** Para conceder amnistías por delitos cuyo conocimiento
 pertenezca a los tribunales de la Federación.
 
-**XXIII.** Para expedir leyes que establezcan las bases de coordinación
-entre la Federación, las entidades federativas y los Municipios, así
-como para establecer y organizar a las instituciones de seguridad
-pública en materia federal, de conformidad con lo establecido en el
-artículo 21 de esta Constitución.
+**XXIII.** Para expedir leyes que, con respeto a los derechos humanos,
+establezcan las bases de coordinación entre la Federación, las entidades
+federativas y los Municipios; organicen la Guardia Nacional y las demás
+instituciones de seguridad pública en materia federal, de conformidad
+con lo establecido en el artículo 21 de esta Constitución; así como la
+Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro
+de Detenciones;
 
 *Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada
-DOF 18-06-2008, 29-01-2016*
+DOF 18-06-2008, 29-01-2016, 26-03-2019*
 
 **XXIV.** Para expedir las leyes que regulen la organización y
 facultades de la Auditoría Superior de la Federación y las demás que
@@ -5310,11 +5351,10 @@ nacionales fuera de los límites del País, el paso de tropas extranjeras
 por el territorio nacional y la estación de escuadras de otra potencia,
 por más de un mes, en aguas mexicanas.
 
-**IV.** Dar su consentimiento para que el Presidente de la República
-pueda disponer de la Guardia Nacional fuera de sus respectivas entidades
-federativas, fijando la fuerza necesaria.
+**IV.** Analizar y aprobar el informe anual que el Ejecutivo Federal le
+presente sobre las actividades de la Guardia Nacional;
 
-*Fracción reformada DOF 08-10-1974, 29-01-2016*
+*Fracción reformada DOF 08-10-1974, 29-01-2016, 26-03-2019*
 
 **V.** Declarar, cuando hayan desaparecido todos los poderes
 constitucionales de una entidad federativa, que es llegado el caso de
@@ -5369,12 +5409,13 @@ sobre sus respectivos límites celebren las entidades federativas;
 
 *Fracción adicionada DOF 08-12-2005*
 
-**XI.** Aprobar la Estrategia Nacional de Seguridad Pública en el plazo
-que disponga la ley. En caso de que el Senado no se pronuncie en dicho
+**XI.** Analizar y aprobar la Estrategia Nacional de Seguridad Pública,
+en el plazo que disponga la ley, previa comparecencia del titular de la
+secretaría del ramo. En caso de que el Senado no se pronuncie en dicho
 plazo, ésta se entenderá aprobada;
 
 *Fracción adicionada DOF 08-12-2005. Derogada DOF 15-10-2012. Adicionada
-DOF 10-02-2014*
+DOF 10-02-2014. Reformada DOF 26-03-2019*
 
 **XII.** Nombrar a los comisionados del organismo garante que establece
 el artículo 6o. de esta Constitución, en los términos establecidos por
@@ -5430,8 +5471,9 @@ sustituto.
 La Comisión Permanente, además de las atribuciones que expresamente le
 confiere esta Constitución, tendrá las siguientes:
 
-**I.** Prestar su consentimiento para el uso de la Guardia Nacional en
-los casos de que habla el artículo 76 fracción IV;
+**I.** Derogada.
+
+*Fracción derogada DOF 26-03-2019*
 
 **II.** Recibir, en su caso, la protesta del Presidente de la República;
 
@@ -5943,8 +5985,10 @@ interior y defensa exterior de la Federación.
 
 *Fracción reformada DOF 10-02-1944, 05-04-2004*
 
-**VII.** Disponer de la Guardia Nacional para los mismos objetos, en los
-términos que previene la fracción IV del artículo 76.
+**VII.** Disponer de la Guardia Nacional en los términos que señale la
+ley;
+
+*Fracción reformada DOF 26-03-2019*
 
 **VIII.** Declarar la guerra en nombre de los Estados Unidos Mexicanos,
 previa ley del Congreso de la Unión.
@@ -17361,6 +17405,233 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
 Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de marzo de
+2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
+Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
+Rúbrica.
+
+**DECRETO por el que se reforman, adicionan y derogan diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia de Guardia Nacional.**
+
+Publicado en el Diario Oficial de la Federación el 26 de marzo de 2019
+
+**Artículo Único.-** Se **reforman** los artículos 10; 16, párrafo
+quinto; 21, párrafos noveno, décimo y su inciso b); 31, fracción III;
+35, fracción IV; 36, fracción II; 73, fracción XXIII; 76, fracciones IV
+y XI, y 89, fracción VII; se **adicionan** los párrafos décimo primero,
+décimo segundo y décimo tercero al artículo 21; y se **derogan** la
+fracción XV del artículo 73, y la fracción I del artículo 78 de la
+Constitución Política de los Estados Unidos Mexicanos, para quedar como
+sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.
+
+El Congreso de la Unión dentro de los 60 días naturales siguientes a la
+entrada en vigor de este Decreto, expedirá la Ley de la Guardia Nacional
+y hará las adecuaciones legales conducentes.
+
+Asimismo, expedirá las leyes nacionales que reglamenten el uso de la
+fuerza y del registro de detenciones dentro de los 90 días naturales
+siguientes a la entrada en vigor de este Decreto.
+
+**Segundo**. La Guardia Nacional se constituirá a la entrada en vigor
+del presente Decreto con los elementos de la Policía Federal, la Policía
+Militar y la Policía Naval que determine en acuerdos de carácter general
+el Presidente de la República. En tanto se expide la ley respectiva, la
+Guardia Nacional asumirá los objetivos, atribuciones y obligaciones
+previstas en los artículos 2 y 8 de la Ley de la Policía Federal, con la
+gradualidad que se requiera para asegurar la continuidad de operaciones
+y la transferencia de recursos humanos, materiales y financieros que
+correspondan. De igual forma, el Ejecutivo Federal dispondrá lo
+necesario para la incorporación de los elementos de las policías Militar
+y Naval a la Guardia Nacional y designará al titular del órgano de mando
+superior y a los integrantes de la instancia de coordinación operativa
+interinstitucional formada por representantes de las secretarías del
+ramo de seguridad, de la Defensa Nacional y de Marina.
+
+**Tercero.** Los elementos de las policías Militar y Naval, así como
+otros elementos de mando y servicios de apoyo de la Fuerza Armada
+permanente, que sean asignados a la Guardia Nacional, conservarán su
+rango y prestaciones; la ley garantizará que cuando un elemento sea
+reasignado a su cuerpo de origen, ello se realice respetando los
+derechos con que contaba al momento de ser asignado a aquélla, así como
+el reconocimiento del tiempo de servicio en la misma, para efectos de su
+antigüedad. Lo anterior será aplicable, en lo conducente, a los
+elementos de la Policía Federal que sean adscritos a la Guardia
+Nacional.
+
+**Cuarto.** Al expedir las leyes a que se refiere la fracción XXIII del
+artículo 73 de esta Constitución, el Congreso de la Unión estará a lo
+siguiente:
+
+I. Las reformas a la Ley General del Sistema Nacional de Seguridad
+Pública deberán contemplar, al menos, los siguientes elementos:
+
+   1. La normativa sobre la formación y actuación de las instituciones
+      de policía encargadas de la seguridad pública en términos de la
+      doctrina policial civil establecida en el artículo 21 de esta
+      Constitución, y
+
+   2. La regulación del sistema nacional de información en seguridad
+      pública a que se refiere el inciso b) del párrafo décimo del
+      artículo 21 constitucional.
+
+II. La Ley de la Guardia Nacional contendrá, al menos, los siguientes
+    elementos:
+
+    1. Los supuestos para la coordinación y colaboración de la Guardia
+       Nacional con las instituciones de seguridad pública de las
+       entidades federativas y de los Municipios;
+
+    2. Las reglas para determinar las aportaciones de las entidades
+       federativas y Municipios cuando soliciten la colaboración de la
+       Guardia Nacional para la atención de tareas de seguridad pública
+       de competencia local;
+
+    3. Lo relativo a la estructura jerárquica, regímenes de disciplina
+       que incluya faltas, delitos y sanciones a la disciplina policial,
+       responsabilidades y servicios, ascensos, prestaciones, ingreso,
+       educación, capacitación, profesionalización y el cumplimiento de
+       las responsabilidades y tareas que puedan homologarse, en lo
+       conducente a las disposiciones aplicables en el ámbito de la
+       Fuerza Armada permanente;
+
+    4. Los criterios de evaluación del desempeño de sus integrantes;
+
+    5. La regulación sobre la disposición, posesión, portación y uso de
+       armas de fuego, atendiendo los estándares y mejores prácticas
+       internacionales;
+
+    6. Las hipótesis para la delimitación de la actuación de sus
+       integrantes;
+
+    7. Los requisitos que deberán cumplir sus integrantes, conforme a
+       las leyes aplicables, y
+
+    8. Los componentes mínimos del informe anual a que se refiere la
+       fracción IV del artículo 76 de esta Constitución.
+
+III. La Ley Nacional sobre el Uso de la Fuerza establecerá, por lo
+     menos, las siguientes previsiones:
+
+     1. La finalidad, alcance y definición del uso de la fuerza pública;
+
+     2. Los sujetos obligados al cumplimiento del ordenamiento y los
+	derechos y obligaciones de los integrantes de instituciones con
+	atribuciones para llevar a cabo el ejercicio de la fuerza
+	pública;
+
+     3. La sujeción del uso de la fuerza a los principios de legalidad,
+	necesidad, proporcionalidad, racionalidad y oportunidad;
+
+     4. La previsión del adiestramiento en medios, métodos, técnicas y
+	tácticas del uso de la fuerza mediante el control físico, el
+	empleo de armas incapacitantes, no letales y de armas letales;
+
+     5. Los niveles para el uso de la fuerza pública por los servidores
+	públicos en el ejercicio de sus atribuciones para hacer cumplir
+	la ley;
+
+     6. La distinción y regulación de las armas e instrumentos
+	incapacitantes, no letales y letales;
+
+     7. Las reglas sobre la portación y uso de armas de fuego entre los
+	integrantes de instituciones con atribuciones para llevar a cabo
+	el ejercicio de la fuerza pública, así como sus
+	responsabilidades y sanciones;
+
+     8. Las previsiones de actuación de los integrantes de instituciones
+	con atribuciones para llevar a cabo el ejercicio de la fuerza
+	pública, con relación a personas detenidas, bajo su custodia o
+	en manifestaciones públicas;
+
+     9. Las normas para la presentación de informes de los servidores
+	públicos que hagan uso de armas de fuego en el desempeño de sus
+	funciones, así como para su sistematización y archivo, y
+
+     10. Las reglas básicas de adiestramiento y gestión profesional del
+	 uso de la fuerza pública.
+
+IV. La Ley Nacional del Registro de Detenciones incorporará, al menos,
+    las siguientes previsiones:
+
+    1. Las características del Registro y los principios que rigen su
+       conformación, uso y conservación;
+
+    2. El momento de realizar el registro de la persona dentro del
+       procedimiento de detención;
+
+    3. El tratamiento de los datos personales de la persona detenida, en
+       términos de las leyes en la materia;
+
+    4. Los criterios para clasificar la información como reservada o
+       confidencial;
+
+    5. Las personas autorizadas para acceder a la base de datos del
+       Registro y los niveles de acceso;
+
+    6. Las atribuciones de los servidores públicos que desempeñen
+       funciones en el Registro y sus responsabilidades en la recepción,
+       administración y seguridad de la información, y
+
+    7. La actuación que deberá desplegar el Registro y su personal en
+       caso de ocurrir hechos que pongan en riesgo o vulneren su base de
+       datos.
+
+**Quinto.** Durante los cinco años siguientes a la entrada en vigor del
+presente Decreto, en tanto la Guardia Nacional desarrolla su estructura,
+capacidades e implantación territorial, el Presidente de la República
+podrá disponer de la Fuerza Armada permanente en tareas de seguridad
+pública de manera extraordinaria, regulada, fiscalizada, subordinada y
+complementaria.
+
+El Ejecutivo Federal incluirá un apartado sobre el uso de la facultad
+anterior en la presentación del informe a que se hace referencia en la
+fracción IV del artículo 76.
+
+**Sexto.** Durante el periodo a que se refiere el artículo anterior,
+para la conformación y funcionamiento de la Guardia Nacional, las
+secretarías de los ramos de Defensa Nacional y de Marina participarán,
+conforme a la ley, con la del ramo de seguridad, para el establecimiento
+de su estructura jerárquica, sus regímenes de disciplina, de
+cumplimiento de responsabilidades y tareas, y de servicios, así como
+para la instrumentación de las normas de ingreso, educación,
+capacitación, profesionalización, ascensos y prestaciones, que podrán
+estar homologados en lo conducente, a las disposiciones aplicables en el
+ámbito de la Fuerza Armada permanente.
+
+**Séptimo.** Los Ejecutivos de las entidades federativas presentarán
+ante el Consejo Nacional de Seguridad Pública, en un plazo que no podrá
+exceder de 180 días a partir de la entrada en vigor del presente
+Decreto, el diagnóstico y el programa para el fortalecimiento del estado
+de fuerza y las capacidades institucionales de sus respectivos cuerpos
+policiales estatales y municipales.  Para la ejecución del programa, se
+establecerán las previsiones necesarias en los presupuestos de Egresos
+de la Federación y de las entidades federativas, sobre la base de la
+corresponsabilidad a partir del ejercicio fiscal de 2020.
+
+Un año después de haberse emitido el programa referido, el Ejecutivo
+local enviará anualmente a la Legislatura de la entidad federativa
+correspondiente y al Consejo Nacional de Seguridad Pública, la
+evaluación integral del mismo con el informe sobre los avances en los
+objetivos señalados y su cumplimiento en un horizonte de seis años. Los
+resultados de la evaluación serán considerados para el ajuste del
+programa y su calendario de ejecución, por los órganos correspondientes.
+
+Ciudad de México, a 14 de marzo de 2019.- Sen. **Marti Batres
+Guadarrama**, Presidente.- Dip.  **Porfirio Muñoz Ledo**, Presidente.-
+Sen. **Antares G. Vazquez Alatorre**, Secretaria.- Dip. **Ma. Sara Rocha
+Medina, Secretaria**.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de marzo de
 2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
 Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
 Rúbrica.
