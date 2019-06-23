@@ -180,7 +180,10 @@ esta Constitución. Para estos efectos las comunidades podrán asociarse
 en términos de ley.
 
 **VII.** Elegir, en los municipios con población indígena,
-representantes ante los ayuntamientos.
+representantes ante los ayuntamientos, observando el principio de
+paridad de género conforme a las normas aplicables.
+
+*Párrafo reformado DOF 06-06-2019*
 
 Las constituciones y leyes de las entidades federativas reconocerán y
 regularán estos derechos en los municipios, con el propósito de
@@ -645,8 +648,10 @@ instituciones públicas.
 *Artículo reformado DOF 13-12-1934, 30-12-1946, 09-06-1980, 28-01-1992,
 05-03-1993*
 
-**Artículo 4o.** El varón y la mujer son iguales ante la ley. Esta
+**Artículo 4o.** La mujer y el hombre son iguales ante la ley. Ésta
 protegerá la organización y el desarrollo de la familia.
+
+*Párrafo reformado DOF 06-06-2019*
 
 Toda persona tiene derecho a decidir de manera libre, responsable e
 informada sobre el número y el espaciamiento de sus hijos.
@@ -3177,20 +3182,21 @@ requisitos:
 
 *Artículo reformado DOF 17-10-1953, 22-12-1969*
 
-**Artículo 35.** Son derechos del ciudadano:
+**Artículo 35.** Son derechos de la ciudadanía:
 
-*Párrafo reformado DOF 09-08-2012*
+*Párrafo reformado DOF 09-08-2012, 06-06-2019*
 
 **I.** Votar en las elecciones populares;
 
-**II.** Poder ser votado para todos los cargos de elección popular,
-teniendo las calidades que establezca la ley. El derecho de solicitar el
-registro de candidatos ante la autoridad electoral corresponde a los
-partidos políticos así como a los ciudadanos que soliciten su registro
-de manera independiente y cumplan con los requisitos, condiciones y
-términos que determine la legislación;
+**II.** Poder ser votada en condiciones de paridad para todos los cargos
+de elección popular, teniendo las calidades que establezca la ley. El
+derecho de solicitar el registro de candidatos y candidatas ante la
+autoridad electoral corresponde a los partidos políticos, así como a los
+ciudadanos y las ciudadanas que soliciten su registro de manera
+independiente y cumplan con los requisitos, condiciones y términos que
+determine la legislación;
 
-*Fracción reformada DOF 09-08-2012*
+*Fracción reformada DOF 09-08-2012, 06-06-2019*
 
 **III.** Asociarse individual y libremente para tomar parte en forma
 pacífica en los asuntos políticos del país;
@@ -3411,6 +3417,14 @@ Pacto Federal.
 
 *Párrafo reformado DOF 29-01-2016*
 
+La ley determinará las formas y modalidades que correspondan, para
+observar el principio de paridad de género en los nombramientos de las
+personas titulares de las secretarías de despacho del Poder Ejecutivo
+Federal y sus equivalentes en las entidades federativas. En la
+integración de los organismos autónomos se observará el mismo principio.
+
+*Párrafo adicionado DOF 06-06-2019*
+
 La renovación de los poderes Legislativo y Ejecutivo se realizará
 mediante elecciones libres, auténticas y periódicas, conforme a las
 siguientes bases:
@@ -3418,24 +3432,26 @@ siguientes bases:
 **I.** Los partidos políticos son entidades de interés público; la ley
 determinará las normas y requisitos para su registro legal, las formas
 específicas de su intervención en el proceso electoral y los derechos,
-obligaciones y prerrogativas que les corresponden.
+obligaciones y prerrogativas que les corresponden. En la postulación de
+sus candidaturas, se observará el principio de paridad de género.
 
-*Párrafo reformado DOF 10-02-2014*
+*Párrafo reformado DOF 10-02-2014, 06-06-2019*
 
 Los partidos políticos tienen como fin promover la participación del
-pueblo en la vida democrática, contribuir a la integración de los
-órganos de representación política y como organizaciones de ciudadanos,
-hacer posible el acceso de éstos al ejercicio del poder público, de
-acuerdo con los programas, principios e ideas que postulan y mediante el
-sufragio universal, libre, secreto y directo, así como las reglas para
-garantizar la paridad entre los géneros, en candidaturas a legisladores
-federales y locales. Sólo los ciudadanos podrán formar partidos
-políticos y afiliarse libre e individualmente a ellos; por tanto, quedan
-prohibidas la intervención de organizaciones gremiales o con objeto
-social diferente en la creación de partidos y cualquier forma de
-afiliación corporativa.
+pueblo en la vida democrática, fomentar el principio de paridad de
+género, contribuir a la integración de los órganos de representación
+política, y como organizaciones ciudadanas, hacer posible su acceso al
+ejercicio del poder público, de acuerdo con los programas, principios e
+ideas que postulan y mediante el sufragio universal, libre, secreto y
+directo, así como con las reglas que marque la ley electoral para
+garantizar la paridad de género, en las candidaturas a los distintos
+cargos de elección popular. Sólo los ciudadanos y ciudadanas podrán
+formar partidos políticos y afiliarse libre e individualmente a ellos;
+por tanto, quedan prohibidas la intervención de organizaciones gremiales
+o con objeto social diferente en la creación de partidos y cualquier
+forma de afiliación corporativa.
 
-*Párrafo reformado DOF 10-02-2014*
+*Párrafo reformado DOF 10-02-2014, 06-06-2019*
 
 Las autoridades electorales solamente podrán intervenir en los asuntos
 internos de los partidos políticos en los términos que señalen esta
@@ -4105,14 +4121,14 @@ propietario, se elegirá un suplente.
 *Artículo reformado DOF 29-04-1933, 06-12-1977*
 
 **Artículo 52.** La Cámara de Diputados estará integrada por 300
-diputados electos según el principio de votación mayoritaria relativa,
-mediante el sistema de distritos electorales uninominales, y 200
-diputados que serán electos según el principio de representación
-proporcional, mediante el Sistema de Listas Regionales, votadas en
-circunscripcionales **(sic DOF 15-12-1986)** plurinominales.
+diputadas y diputados electos según el principio de votación mayoritaria
+relativa, mediante el sistema de distritos electorales uninominales, así
+como por 200 diputadas y diputados que serán electos según el principio
+de representación proporcional, mediante el Sistema de Listas
+Regionales, votadas en circunscripciones plurinominales.
 
 *Artículo reformado DOF 20-08-1928, 30-12-1942, 11-06-1951, 20-12-1960,
-14-02-1972, 08-10-1974, 06-12-1977, 15-12-1986*
+14-02-1972, 08-10-1974, 06-12-1977, 15-12-1986, 06-06-2019*
 
 **Artículo 53.** La demarcación territorial de los 300 distritos
 electorales uninominales será la que resulte de dividir la población
@@ -4120,19 +4136,18 @@ total del país entre los distritos señalados. La distribución de los
 distritos electorales uninominales entre las entidades federativas se
 hará teniendo en cuenta el último censo general de población, sin que en
 ningún caso la representación de una entidad federativa pueda ser menor
-de dos diputados de mayoría.
+de dos diputados o diputadas de mayoría.
 
-*Párrafo reformado DOF 29-01-2016*
-
-Para la elección de los 200 diputados según el principio de
+Para la elección de los 200 diputados y diputadas según el principio de
 representación proporcional y el Sistema de Listas Regionales, se
 constituirán cinco circunscripciones electorales plurinominales en el
-país. La Ley determinará la forma de establecer la demarcación
-territorial de estas circunscripciones.
+país conformadas de acuerdo con el principio de paridad, y encabezadas
+alternadamente entre mujeres y hombres cada periodo electivo. La Ley
+determinará la forma de establecer la demarcación territorial de estas
+circunscripciones.
 
-*Párrafo reformado DOF 15-12-1986*
+*Artículo reformado DOF 06-12-1977, 15-12-1986, 29-01-2016, 06-06-2019*
 
-*Artículo reformado DOF 06-12-1977*
 
 **Artículo 54.** La elección de los 200 diputados según el principio de
 representación proporcional y el sistema de asignación por listas
@@ -4272,21 +4287,25 @@ el artículo 59.
 *Fracción adicionada DOF 29-04-1933*
 
 **Artículo 56.** La Cámara de Senadores se integrará por ciento
-veintiocho senadores, de los cuales, en cada Estado y en la Ciudad de
-México, dos serán elegidos según el principio de votación mayoritaria
-relativa y uno será asignado a la primera minoría. Para estos efectos,
-los partidos políticos deberán registrar una lista con dos fórmulas de
-candidatos. La senaduría de primera minoría le será asignada a la
-fórmula de candidatos que encabece la lista del partido político que,
-por sí mismo, haya ocupado el segundo lugar en número de votos en la
-entidad de que se trate.
+veintiocho senadoras y senadores, de los cuales, en cada Estado y en la
+Ciudad de México, dos serán elegidos según el principio de votación
+mayoritaria relativa y uno será asignado a la primera minoría. Para
+estos efectos, los partidos políticos deberán registrar una lista con
+dos fórmulas de candidatos. La senaduría de primera minoría le será
+asignada a la fórmula de candidaturas que encabece la lista del partido
+político que, por sí mismo, haya ocupado el segundo lugar en número de
+votos en la entidad de que se trate.
 
-*Párrafo reformado DOF 29-01-2016*
+*Párrafo reformado DOF 29-01-2016, 06-06-2019*
 
-Los treinta y dos senadores restantes serán elegidos según el principio
+Las treinta y dos senadurías restantes serán elegidas según el principio
 de representación proporcional, mediante el sistema de listas votadas en
-una sola circunscripción plurinominal nacional. La ley establecerá las
-reglas y fórmulas para estos efectos.
+una sola circunscripción plurinominal nacional, conformadas de acuerdo
+con el principio de paridad, y encabezadas alternadamente entre mujeres
+y hombres cada periodo electivo. La ley establecerá las reglas y
+fórmulas para estos efectos.
+
+*Párrafo reformado DOF 06-06-2019*
 
 La Cámara de Senadores se renovará en su totalidad cada seis años.
 
@@ -6321,10 +6340,10 @@ leyes.
 
 *Párrafo adicionado DOF 11-06-1999*
 
-La Suprema Corte de Justicia de la Nación se compondrá de once Ministros
-y funcionará en Pleno o en Salas.
+La Suprema Corte de Justicia de la Nación se compondrá de once
+integrantes, Ministras y Ministros, y funcionará en Pleno o en Salas.
 
-*Párrafo reformado DOF 31-12-1994*
+*Párrafo reformado DOF 31-12-1994, 06-06-2019*
 
 En los términos que la ley disponga las sesiones del Pleno y de las
 Salas serán públicas, y por excepción secretas en los casos en que así
@@ -6353,6 +6372,12 @@ pertenezcan a cada Circuito. Las leyes determinarán su integración y
 funcionamiento.
 
 *Párrafo adicionado DOF 06-06-2011*
+
+La ley establecerá la forma y procedimientos mediante concursos abiertos
+para la integración de los órganos jurisdiccionales, observando el
+principio de paridad de género.
+
+*Párrafo adicionado DOF 06-06-2019*
 
 El Pleno de la Suprema Corte de Justicia estará facultado para expedir
 acuerdos generales, a fin de lograr una adecuada distribución entre las
@@ -8074,13 +8099,14 @@ las bases siguientes:
 *Párrafo reformado DOF 10-02-2014*
 
 **I.** Cada Municipio será gobernado por un Ayuntamiento de elección
-popular directa, integrado por un Presidente Municipal y el número de
-regidores y síndicos que la ley determine. La competencia que esta
-Constitución otorga al gobierno municipal se ejercerá por el
-Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna
-entre éste y el gobierno del Estado.
+popular directa, integrado por un Presidente o Presidenta Municipal y el
+número de regidurías y sindicaturas que la ley determine, de conformidad
+con el principio de paridad. La competencia que esta Constitución otorga
+al gobierno municipal se ejercerá por el Ayuntamiento de manera
+exclusiva y no habrá autoridad intermedia alguna entre éste y el
+gobierno del Estado.
 
-*Párrafo reformado DOF 23-12-1999*
+*Párrafo reformado DOF 23-12-1999, 06-06-2019*
 
 Las Constituciones de los estados deberán establecer la elección
 consecutiva para el mismo cargo de presidentes municipales, regidores y
@@ -18148,6 +18174,66 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
 Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de mayo de
+2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
+Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
+Rúbrica.
+
+**DECRETO por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56,
+94 y 115; de la Constitución Política de los Estados Unidos Mexicanos,
+en materia de Paridad entre Géneros.**
+
+Publicado en el Diario Oficial de la Federación el 6 de junio de 2019
+
+**ARTÍCULO ÚNICO.** Se reforman: la fracción VII del apartado A del
+artículo 2; el párrafo primero del artículo 4; el párrafo primero y la
+fracción II del artículo 35; los párrafos primero y segundo de la
+fracción I del artículo 41; el artículo 52; los párrafos primero y
+segundo del artículo 53; los párrafos primero y segundo del artículo 56;
+el tercer párrafo del artículo 94; el párrafo primero de la fracción I
+del artículo 115. Se adicionan: un segundo párrafo, recorriéndose los
+subsecuentes al artículo 41; un párrafo octavo, recorriendo los
+subsecuentes, al artículo 94, todos de la Constitución Política de los
+Estados Unidos
+
+Mexicanos, para quedar como sigue:
+
+……….
+
+
+**TRANSITORIOS**
+
+**PRIMERO.-** El presente Decreto entrará en vigor al día siguiente de
+su publicación en el Diario Oficial de la Federación.
+
+**SEGUNDO.-** El Congreso de la Unión deberá, en un plazo improrrogable
+de un año a partir de la entrada en vigor del presente Decreto, realizar
+las adecuaciones normativas correspondientes a efecto de observar el
+principio de paridad de género establecido en esta Constitución, en los
+términos del segundo párrafo del artículo 41.
+
+**TERCERO.-** La observancia del principio de paridad de género a que se
+refiere el artículo 41, será aplicable a quiénes tomen posesión de su
+encargo, a partir del proceso electoral federal o local siguiente a la
+entrada en vigor del presente Decreto, según corresponda.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos
+electorales, su integración y designación habrá de realizarse de manera
+progresiva a partir de las nuevas designaciones y nombramientos que
+correspondan, de conformidad con la ley.
+
+CUARTO.- Las legislaturas de las entidades federativas, en el ámbito de
+su competencia, deberán realizar las reformas correspondientes en su
+legislación, para procurar la observancia del principio de paridad de
+género en los términos del artículo 41.
+
+Ciudad de México, a 05 de junio de 2019.- Sen. **Martí Batres
+Guadarrama**, Presidente.- Sen. **Mónica Fernández Balboa**,
+Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de
 2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
 Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
 Rúbrica.
