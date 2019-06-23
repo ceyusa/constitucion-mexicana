@@ -1212,3 +1212,11 @@ decimoséptimo y decimoctavo del artículo 41 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T131.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforma la fracción I del Artículo 82 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T132.rst
