@@ -297,28 +297,115 @@ establezca la ley.
 
 *Artículo reformado DOF 14-08-2001*
 
-**Artículo 3o.** Toda persona tiene derecho a recibir educación. El
-Estado -Federación, Estados, Ciudad de México y Municipios-, impartirá
-educación preescolar, primaria, secundaria y media superior. La
-educación preescolar, primaria y secundaria conforman la educación
-básica; ésta y la media superior serán obligatorias.
+**Artículo 3o.** Toda persona tiene derecho a la educación. El Estado
+-Federación, Estados, Ciudad de México y Municipios- impartirá y
+garantizará la educación inicial, preescolar, primaria, secundaria,
+media superior y superior. La educación inicial, preescolar, primaria y
+secundaria, conforman la educación básica; ésta y la media superior
+serán obligatorias, la educación superior lo será en términos de la
+fracción X del presente artículo. La educación inicial es un derecho de
+la niñez y será responsabilidad del Estado concientizar sobre su
+importancia.
 
-*Fe de erratas al párrafo DOF 09-03-1993. Párrafo reformado DOF
-12-11-2002, 09-02-2012, 29-01-2016*
+*Fe de erratas al párrafo DOF 09-03-1993. Reformado DOF 12-11-2002,
+09-02-2012, 29-01-2016, 15-05-2019*
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente,
-todas las facultades del ser humano y fomentará en él, a la vez, el amor
-a la Patria, el respeto a los derechos humanos y la conciencia de la
-solidaridad internacional, en la independencia y en la justicia.
+Corresponde al Estado la rectoría de la educación, la impartida por
+éste, además de obligatoria, será universal, inclusiva, pública,
+gratuita y laica.
 
-*Párrafo reformado DOF 10-06-2011*
+*Párrafo adicionado DOF 15-05-2019*
 
-El Estado garantizará la calidad en la educación obligatoria de manera
-que los materiales y métodos educativos, la organización escolar, la
-infraestructura educativa y la idoneidad de los docentes y los
-directivos garanticen el máximo logro de aprendizaje de los educandos.
+Párrafo tercero. Se deroga.
 
-*Párrafo adicionado DOF 26-02-2013*
+*Párrafo adicionado DOF 26-02-2013. Derogado DOF 15-05-2019*
+
+La educación se basará en el respeto irrestricto de la dignidad de las
+personas, con un enfoque de derechos humanos y de igualdad
+sustantiva. Tenderá a desarrollar armónicamente todas las facultades del
+ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto
+a todos los derechos, las libertades, la cultura de paz y la conciencia
+de la solidaridad internacional, en la independencia y en la justicia;
+promoverá la honestidad, los valores y la mejora continua del proceso de
+enseñanza aprendizaje.
+
+*Párrafo reformado DOF 10-06-2011. Reformado y reubicado (antes párrafo
+segundo) DOF 15-05-2019*
+
+El Estado priorizará el interés superior de niñas, niños, adolescentes y
+jóvenes en el acceso, permanencia y participación en los servicios
+educativos.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+Las maestras y los maestros son agentes fundamentales del proceso
+educativo y, por tanto, se reconoce su contribución a la trasformación
+social. Tendrán derecho de acceder a un sistema integral de formación,
+de capacitación y de actualización retroalimentado por evaluaciones
+diagnósticas, para cumplir los objetivos y propósitos del Sistema
+Educativo Nacional.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+La ley establecerá las disposiciones del Sistema para la Carrera de las
+Maestras y los Maestros en sus funciones docente, directiva o de
+supervisión. Corresponderá a la Federación su rectoría y, en
+coordinación con las entidades federativas, su implementación, conforme
+a los criterios de la educación previstos en este artículo.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+La admisión, promoción y reconocimiento del personal que ejerza la
+función docente, directiva o de supervisión, se realizará a través de
+procesos de selección a los que concurran los aspirantes en igualdad de
+condiciones y establecidos en la ley prevista en el párrafo anterior,
+los cuales serán públicos, transparentes, equitativos e imparciales y
+considerarán los conocimientos, aptitudes y experiencia necesarios para
+el aprendizaje y el desarrollo integral de los educandos. Los
+nombramientos derivados de estos procesos sólo se otorgarán en términos
+de dicha ley. Lo dispuesto en este párrafo en ningún caso afectará la
+permanencia de las maestras y los maestros en el servicio. A las
+instituciones a las que se refiere la fracción VII de este artículo no
+les serán aplicables estas disposiciones.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+El Estado fortalecerá a las instituciones públicas de formación docente,
+de manera especial a las escuelas normales, en los términos que disponga
+la ley.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+Los planteles educativos constituyen un espacio fundamental para el
+proceso de enseñanza aprendizaje. El Estado garantizará que los
+materiales didácticos, la infraestructura educativa, su mantenimiento y
+las condiciones del entorno, sean idóneos y contribuyan a los fines de
+la educación.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+A fin de dar cumplimiento a lo dispuesto en la fracción II de este
+artículo, el Ejecutivo Federal determinará los principios rectores y
+objetivos de la educación inicial, así como los planes y programas de
+estudio de la educación básica y normal en toda la República; para tal
+efecto, considerará la opinión de los gobiernos de las entidades
+federativas y de diversos actores sociales involucrados en la educación,
+así como el contenido de los proyectos y programas educativos que
+contemplen las realidades y contextos, regionales y locales.
+
+*Párrafo adicionado DOF 15-05-2019*
+
+Los planes y programas de estudio tendrán perspectiva de género y una
+orientación integral, por lo que se incluirá el conocimiento de las
+ciencias y humanidades: la enseñanza de las matemáticas, la
+lecto-escritura, la literacidad, la historia, la geografía, el civismo,
+la filosofía, la tecnología, la innovación, las lenguas indígenas de
+nuestro país, las lenguas extranjeras, la educación física, el deporte,
+las artes, en especial la música, la promoción de estilos de vida
+saludables, la educación sexual y reproductiva y el cuidado al medio
+ambiente, entre otras.
+
+*Párrafo adicionado DOF 15-05-2019*
 
 **I.** Garantizada por el artículo 24 la libertad de creencias, dicha
 educación será laica y, por tanto, se mantendrá por completo ajena a
@@ -344,64 +431,96 @@ acrecentamiento de nuestra cultura;
 *Inciso reformado DOF 26-02-2013*
 
 **c)** Contribuirá a la mejor convivencia humana, a fin de fortalecer el
-aprecio y respeto por la diversidad cultural, la dignidad de la persona,
-la integridad de la familia, la convicción del interés general de la
-sociedad, los ideales de fraternidad e igualdad de derechos de todos,
-evitando los privilegios de razas, de religión, de grupos, de sexos o de
-individuos, y
+aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad
+de la persona, la integridad de las familias, la convicción del interés
+general de la sociedad, los ideales de fraternidad e igualdad de
+derechos de todos, evitando los privilegios de razas, de religión, de
+grupos, de sexos o de individuos;
 
-*Inciso reformado DOF 09-02-2012, 26-02-2013*
+*Inciso reformado DOF 09-02-2012, 26-02-2013, 15-05-2019*
 
-**d)** Será de calidad, con base en el mejoramiento constante y el
-máximo logro académico de los educandos;
+**d)** Se deroga.
 
-*Inciso adicionado DOF 26-02-2013*
+*Inciso adicionado DOF 26-02-2013. Derogado DOF 15-05-2019*
 
-**III.** Para dar pleno cumplimiento a lo dispuesto en el segundo
-párrafo de la fracción II, el Ejecutivo Federal determinará los planes y
-programas de estudio de la educación preescolar, primaria, secundaria y
-normal para toda la República. Para tales efectos, el Ejecutivo Federal
-considerará la opinión de los gobiernos de las entidades federativas,
-así como de los diversos sectores sociales involucrados en la educación,
-los maestros y los padres de familia en los términos que la ley
-señale. Adicionalmente, el ingreso al servicio docente y la promoción a
-cargos con funciones de dirección o de supervisión en la educación
-básica y media superior que imparta el Estado, se llevarán a cabo
-mediante concursos de oposición que garanticen la idoneidad de los
-conocimientos y capacidades que correspondan. La ley reglamentaria
-fijará los criterios, los términos y condiciones de la evaluación
-obligatoria para el ingreso, la promoción, el reconocimiento y la
-permanencia en el servicio profesional con pleno respeto a los derechos
-constitucionales de los trabajadores de la educación. Serán nulos todos
-los ingresos y promociones que no sean otorgados conforme a la ley. Lo
-dispuesto en este párrafo no será aplicable a las instituciones a las
-que se refiere la fracción VII de este artículo;
+**e)** Será equitativo, para lo cual el Estado implementará medidas que
+favorezcan el ejercicio pleno del derecho a la educación de las personas
+y combatan las desigualdades socioeconómicas, regionales y de género en
+el acceso, tránsito y permanencia en los servicios educativos.
 
-*Fracción reformada DOF 12-11-2002, 26-02-2013, 29-01-2016*
+En las escuelas de educación básica de alta marginación, se impulsarán
+acciones que mejoren las condiciones de vida de los educandos, con
+énfasis en las de carácter alimentario. Asimismo, se respaldará a
+estudiantes en vulnerabilidad social, mediante el establecimiento de
+políticas incluyentes y transversales.
+
+En educación para personas adultas, se aplicarán estrategias que
+aseguren su derecho a ingresar a las instituciones educativas en sus
+distintos tipos y modalidades.  En los pueblos y comunidades indígenas
+se impartirá educación plurilingüe e intercultural basada en el respeto,
+promoción y preservación del patrimonio histórico y cultural;
+
+*Inciso adicionado DOF 15-05-2019*
+
+**f)** Será inclusivo, al tomar en cuenta las diversas capacidades,
+circunstancias y necesidades de los educandos. Con base en el principio
+de accesibilidad se realizarán ajustes razonables y se implementarán
+medidas específicas con el objetivo de eliminar las barreras para el
+aprendizaje y la participación;
+
+*Inciso adicionado DOF 15-05-2019*
+
+**g)** Será intercultural, al promover la convivencia armónica entre
+personas y comunidades para el respeto y reconocimiento de sus
+diferencias y derechos, en un marco de inclusión social;
+
+*Inciso adicionado DOF 15-05-2019*
+
+**h)** Será integral, educará para la vida, con el objeto de desarrollar
+en las personas capacidades cognitivas, socioemocionales y físicas que
+les permitan alcanzar su bienestar, e
+
+*Inciso adicionado DOF 15-05-2019*
+
+**i)** Será de excelencia, entendida como el mejoramiento integral
+constante que promueve el máximo logro de aprendizaje de los educandos,
+para el desarrollo de su pensamiento crítico y el fortalecimiento de los
+lazos entre escuela y comunidad;
+
+*Inciso adicionado DOF 15-05-2019*
+
+**III.** Se deroga.
+
+*Fracción reformada DOF 12-11-2002, 26-02-2013, 29-01-2016. Derogada DOF
+15-05-2019*
 
 **IV.** Toda la educación que el Estado imparta será gratuita;
 
-**V.** Además de impartir la educación preescolar, primaria, secundaria
-y media superior, señaladas en el primer párrafo, el Estado promoverá y
-atenderá todos los tipos y modalidades educativos -incluyendo la
-educación inicial y a la educación superior- necesarios para el
-desarrollo de la nación, apoyará la investigación científica y
-tecnológica, y alentará el fortalecimiento y difusión de nuestra
-cultura;
+**V.** Toda persona tiene derecho a gozar de los beneficios del
+desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará
+la investigación e innovación científica, humanística y tecnológica, y
+garantizará el acceso abierto a la información que derive de ella, para
+lo cual deberá proveer recursos y estímulos suficientes, conforme a las
+bases de coordinación, vinculación y participación que establezcan las
+leyes en la materia; además alentará el fortalecimiento y difusión de
+nuestra cultura;
 
-*Fracción reformada DOF 12-11-2002, 09-02-2012*
+*Fracción reformada DOF 12-11-2002, 09-02-2012, 15-05-2019*
 
 **VI.** Los particulares podrán impartir educación en todos sus tipos y
 modalidades. En los términos que establezca la ley, el Estado otorgará y
 retirará el reconocimiento de validez oficial a los estudios que se
-realicen en planteles particulares. En el caso de la educación
+realicen en planteles particulares. En el caso de la educación inicial,
 preescolar, primaria, secundaria y normal, los particulares deberán:
 
-*Párrafo reformado DOF 12-11-2002*
+*Párrafo reformado DOF 12-11-2002, 15-05-2019*
 
 **a)** Impartir la educación con apego a los mismos fines y criterios
-que establecen el segundo párrafo y la fracción II, así como cumplir los
-planes y programas a que se refiere la fracción III, y
+que establece el párrafo cuarto, y la fracción II, así como cumplir los
+planes y programas a que se refieren los párrafos décimo primero y
+décimo segundo, y
+
+*Inciso reformado DOF 15-05-2019*
 
 **b)** Obtener previamente, en cada caso, la autorización expresa del
 poder público, en los términos que establezca la ley;
@@ -430,77 +549,98 @@ las entidades federativas y los Municipios, a fijar las aportaciones
 económicas correspondientes a ese servicio público y a señalar las
 sanciones aplicables a los funcionarios que no cumplan o no hagan
 cumplir las disposiciones relativas, lo mismo que a todos aquellos que
-las infrinjan, y
+las infrinjan;
 
-*Fracción reformada DOF 26-02-2013, 29-01-2016*
+*Fracción reformada DOF 26-02-2013, 29-01-2016, 15-05-2019*
 
-**IX.** Para garantizar la prestación de servicios educativos de
-calidad, se crea el Sistema Nacional de Evaluación Educativa. La
-coordinación de dicho sistema estará a cargo del Instituto Nacional para
-la Evaluación de la Educación. El Instituto Nacional para la Evaluación
-de la Educación será un organismo público autónomo, con personalidad
-jurídica y patrimonio propio. Corresponderá al Instituto evaluar la
-calidad, el desempeño y resultados del sistema educativo nacional en la
-educación preescolar, primaria, secundaria y media superior. Para ello
-deberá:
+**IX.** Para contribuir al cumplimiento de los objetivos de este
+artículo, se crea el Sistema Nacional de Mejora Continua de la
+Educación, que será coordinado por un organismo público descentralizado,
+con autonomía técnica, operativa, presupuestaria, de decisión y de
+gestión, con personalidad jurídica y patrimonio propios, no sectorizado,
+al que le corresponderá:
 
-**a)** Diseñar y realizar las mediciones que correspondan a componentes,
-procesos o resultados del sistema;
+**a)** Realizar estudios, investigaciones especializadas y evaluaciones
+diagnósticas, formativas e integrales del Sistema Educativo Nacional;
 
-**b)** Expedir los lineamientos a los que se sujetarán las autoridades
-educativas federal y locales para llevar a cabo las funciones de
-evaluación que les corresponden, y
+**b)** Determinar indicadores de resultados de la mejora continua de la
+ educación;
 
-**c)** Generar y difundir información y, con base en ésta, emitir
-directrices que sean relevantes para contribuir a las decisiones
-tendientes a mejorar la calidad de la educación y su equidad, como
-factor esencial en la búsqueda de la igualdad social.
+**c)** Establecer los criterios que deben cumplir las instancias
+evaluadoras para los procesos valorativos, cualitativos, continuos y
+formativos de la mejora continua de la educación;
 
-La Junta de Gobierno será el órgano de dirección del Instituto y estará
-compuesta por cinco integrantes. El Ejecutivo Federal someterá una terna
-a consideración de la Cámara de Senadores, la cual, con previa
-comparecencia de las personas propuestas, designará al integrante que
-deba cubrir la vacante. La designación se hará por el voto de las dos
-terceras partes de los integrantes de la Cámara de Senadores presentes
-o, durante los recesos de esta, de la Comisión Permanente, dentro del
-improrrogable plazo de treinta días. Si la Cámara de Senadores no
-resolviere dentro de dicho plazo, ocupará el cargo de integrante de la
-Junta de Gobierno aquel que, dentro de dicha terna, designe el Ejecutivo
-Federal.
+**d)** Emitir lineamientos relacionados con el desarrollo del
+magisterio, el desempeño escolar, los resultados de aprendizaje; así
+como de la mejora de las escuelas, organización y profesionalización de
+la gestión escolar;
 
-En caso de que la Cámara de Senadores rechace la totalidad de la terna
-propuesta, el Ejecutivo Federal someterá una nueva, en los términos del
-párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el
-cargo la persona que dentro de dicha terna designe el Ejecutivo Federal.
+**e)** Proponer mecanismos de coordinación entre las autoridades
+educativas federal y de las entidades federativas para la atención de
+las necesidades de las personas en la materia;
 
-Los integrantes de la Junta de Gobierno deberán ser personas con
-capacidad y experiencia en las materias de la competencia del Instituto
-y cumplir los requisitos que establezca la ley, desempeñarán su encargo
-por períodos de siete años en forma escalonada y podrán ser reelectos
-por una sola ocasión. Los integrantes no podrán durar en su encargo más
-de catorce años. En caso de falta absoluta de alguno de ellos, el
-sustituto será nombrado para concluir el periodo respectivo. Sólo podrán
-ser removidos por causa grave en los términos del Título IV de esta
-Constitución y no podrán tener ningún otro empleo, cargo o comisión, con
-excepción de aquéllos en que actúen en representación del Instituto y de
-los no remunerados en actividades docentes, científicas, culturales o de
-beneficencia.
+**f)** Sugerir elementos que contribuyan a la mejora de los objetivos de
+la educación inicial, de los planes y programas de estudio de educación
+básica y media superior, así como para la educación inclusiva y de
+adultos, y
 
-La Junta de Gobierno de manera colegiada nombrará a quien la presida,
-con voto mayoritario de tres de sus integrantes quien desempeñará dicho
-cargo por el tiempo que establezca la ley.
+**g)** Generar y difundir información que contribuya a la mejora
+continua del Sistema Educativo Nacional.
 
 La ley establecerá las reglas para la organización y funcionamiento del
-Instituto, el cual regirá sus actividades con apego a los principios de
-independencia, transparencia, objetividad, pertinencia, diversidad e
-inclusión.
+organismo para la mejora continua de la educación, el cual regirá sus
+actividades con apego a los principios de independencia, transparencia,
+objetividad, pertinencia, diversidad e inclusión. Definirá también los
+mecanismos y acciones necesarios que le permitan una eficaz colaboración
+y coordinación con las autoridades educativas federal y locales para el
+cumplimiento de sus respectivas funciones.
 
-La ley establecerá los mecanismos y acciones necesarios que permitan al
-Instituto y a las autoridades educativas federal y locales una eficaz
-colaboración y coordinación para el mejor cumplimiento de sus
-respectivas funciones.
+El organismo contará con una Junta Directiva, un Consejo Técnico de
+Educación y un Consejo Ciudadano.
 
-*Fracción adicionada DOF 26-02-2013*
+La Junta Directiva será la responsable de la conducción, planeación,
+programación, organización y coordinación de los trabajos del organismo
+al que se refiere este artículo. Se integrará por cinco personas que
+durarán en su encargo siete años en forma escalonada y serán nombradas
+por la Cámara de Senadores, con el voto de las dos terceras partes de
+sus integrantes. El Presidente de la Junta Directiva será nombrado por
+sus integrantes y presidirá el Consejo Técnico de Educación.
+
+El Consejo Técnico de Educación asesorará a la Junta Directiva en los
+términos que determine la ley, estará integrado por siete personas que
+durarán en el encargo cinco años en forma escalonada. Serán nombradas
+por la Cámara de Senadores, con el voto de las dos terceras partes de
+sus integrantes. En su composición se procurará la diversidad y
+representación de los tipos y modalidades educativos, así como la
+paridad de género. En caso de falta absoluta de alguno de sus
+integrantes, la persona sustituta será nombrada para concluir el periodo
+respectivo.
+
+Las personas que integren la Junta Directiva y el Consejo Técnico de
+Educación, deberán ser especialistas en investigación, política
+educativa, temas pedagógicos o tener experiencia docente en cualquier
+tipo o modalidad educativa; además acreditar el grado académico de su
+especialidad y experiencia, no haber sido dirigente de algún partido
+político o candidato a ocupar un cargo de elección popular en los cuatro
+años anteriores a la designación y cumplir con los requisitos que
+establezca la ley. Sólo podrán ser removidos por causa grave en los
+términos del Título Cuarto de esta Constitución.
+
+El organismo al que se refiere esta fracción, contará con un Consejo
+Ciudadano honorífico, integrado por representantes de los sectores
+involucrados en materia educativa. La ley determinará las atribuciones,
+organización y funcionamiento de dicho Consejo, y
+
+*Fracción adicionada DOF 26-02-2013. Reformada DOF 15-05-2019*
+
+**X.** La obligatoriedad de la educación superior corresponde al
+Estado. Las autoridades federal y locales establecerán políticas para
+fomentar la inclusión, permanencia y continuidad, en términos que la ley
+señale. Asimismo, proporcionarán medios de acceso a este tipo educativo
+para las personas que cumplan con los requisitos dispuestos por las
+instituciones públicas.
+
+*Fracción adicionada DOF 15-05-2019*
 
 *Artículo reformado DOF 13-12-1934, 30-12-1946, 09-06-1980, 28-01-1992,
 05-03-1993*
@@ -2948,12 +3088,13 @@ efecto señale la ley.
 
 **Artículo 31.** Son obligaciones de los mexicanos:
 
-**I.** Hacer que sus hijos o pupilos concurran a las escuelas públicas o
-privadas, para obtener la educación preescolar, primaria, secundaria,
-media superior y reciban la militar, en los términos que establezca la
-ley.
+**I.** Ser responsables de que sus hijas, hijos o pupilos menores de dieciocho
+años concurran a las escuelas, para recibir la educación obligatoria y, en su
+caso, reciban la militar, en los términos que establezca la ley, así como
+participar en su proceso educativo, al revisar su progreso y desempeño, velando
+siempre por su bienestar y desarrollo;
 
-*Fracción reformada DOF 05-03-1993, 12-11-2002, 09-02-2012*
+*Fracción reformada DOF 05-03-1993, 12-11-2002, 09-02-2012, 15-05-2019*
 
 **II.** Asistir en los días y horas designados por el Ayuntamiento del
 lugar en que residan, para recibir instrucción cívica y militar que los
@@ -4809,32 +4950,32 @@ a que se refiere el artículo 113 de esta Constitución;
 
 *Fracción reformada DOF 30-07-1999, 27-05-2015*
 
-**XXV.** Para establecer el Servicio Profesional docente en términos del
-artículo 3o. de esta Constitución; establecer, organizar y sostener en
-toda la República escuelas rurales, elementales, superiores, secundarias
-y profesionales; de investigación científica, de bellas artes y de
-enseñanza técnica, escuelas prácticas de agricultura y de minería, de
-artes y oficios, museos, bibliotecas, observatorios y demás institutos
-concernientes a la cultura general de los habitantes de la nación y
-legislar en todo lo que se refiere a dichas instituciones; para legislar
-sobre vestigios o restos fósiles y sobre monumentos arqueológicos,
-artísticos e históricos, cuya conservación sea de interés nacional; así
-como para dictar las leyes encaminadas a distribuir convenientemente
-entre la Federación, las entidades federativas y los Municipios el
-ejercicio de la función educativa y las aportaciones económicas
-correspondientes a ese servicio público, buscando unificar y coordinar
-la educación en toda la República, y para asegurar el cumplimiento de
-los fines de la educación y su mejora continua en un marco de inclusión
-y diversidad. Los Títulos que se expidan por los establecimientos de que
-se trata surtirán sus efectos en toda la República. Para legislar en
+**XXV.** De establecer el Sistema para la Carrera de las Maestras y los
+Maestros, en términos del artículo 3o. de esta Constitución; establecer,
+organizar y sostener en toda la República escuelas rurales, elementales,
+media superiores, superiores, secundarias y profesionales; de
+investigación científica, de bellas artes y de enseñanza técnica,
+escuelas prácticas de agricultura y de minería, de artes y oficios,
+museos, bibliotecas, observatorios y demás institutos concernientes a la
+cultura general de los habitantes de la nación y legislar en todo lo que
+se refiere a dichas instituciones; para legislar sobre vestigios o
+restos fósiles y sobre monumentos arqueológicos, artísticos e
+históricos, cuya conservación sea de interés nacional; así como para
+dictar las leyes encaminadas a distribuir convenientemente entre la
+Federación, las entidades federativas y los Municipios el ejercicio de
+la función educativa y las aportaciones económicas correspondientes a
+ese servicio público, buscando unificar y coordinar la educación en toda
+la República, y para asegurar el cumplimiento de los fines de la
+educación y su mejora continua en un marco de inclusión y
+diversidad. Los Títulos que se expidan por los establecimientos de que
+se trata surtirán sus efectos en toda la República.  Para legislar en
 materia de derechos de autor y otras figuras de la propiedad intelectual
 relacionadas con la misma;
 
 *Fracción reformada DOF 08-07-1921. Recorrida (antes fracción XXVII) por
-derogación de fracciones XXV y XXVI DOF 20-08-1928.*
-
-*Reformada DOF 13-12-1934, 13-01-1966, 21-09-2000, 30-04-2009,
-26-02-2013, 29-01-2016*
+derogación de fracciones XXV y XXVI DOF 20-08-1928. Reformada DOF
+13-12-1934, 13-01-1966, 21-09-2000, 30-04-2009, 26-02-2013, 29-01-2016,
+15-05-2019*
 
 **XXVI.** Para conceder licencia al Presidente de la República y para
 constituirse en Colegio Electoral y designar al ciudadano que deba
@@ -4935,9 +5076,16 @@ necesarios.
 **XXIX-F.** Para expedir leyes tendientes a la promoción de la inversión
 mexicana, la regulación de la inversión extranjera, la transferencia de
 tecnología y la generación, difusión y aplicación de los conocimientos
-científicos y tecnológicos que requiere el desarrollo nacional.
+científicos y tecnológicos que requiere el desarrollo
+nacional. Asimismo, para legislar en materia de ciencia, tecnología e
+innovación, estableciendo bases generales de coordinación entre la
+Federación, las entidades federativas, los Municipios y las
+demarcaciones territoriales de la Ciudad de México, en el ámbito de sus
+respectivas competencias, así como la participación de los sectores
+social y privado, con el objeto de consolidar el Sistema Nacional de
+Ciencia, Tecnología e Innovación;
 
-*Fracción adicionada DOF 03-02-1983*
+*Fracción adicionada DOF 03-02-1983. Reformada DOF 15-05-2019*
 
 **XXIX-G.** Para expedir leyes que establezcan la concurrencia del
 Gobierno Federal, de los gobiernos de las entidades federativas, de los
@@ -17723,6 +17871,283 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
 Constitución Política de los Estados Unidos Mexicanos, y para su debida
 publicación y observancia, expido el presente Decreto en la Residencia
 del Poder Ejecutivo Federal, en la Ciudad de México, a 11 de abril de
+2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
+Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
+Rúbrica.
+
+***DECRETO por el que se reforman, adicionan y derogan diversas
+disposiciones de los artículos 3o., 31 y 73 de la Constitución Política
+de los Estados Unidos Mexicanos, en materia educativa.**
+
+Publicado en el Diario Oficial de la Federación el 15 de mayo de 2019
+
+**Artículo Único.-** Se reforman los párrafos primero y actual segundo,
+recorriéndose en su numeración para ser el cuarto, las fracciones II,
+inciso c), V, VI, párrafo primero y su inciso a), y IX del artículo 3o.,
+la fracción I del artículo 31 y las fracciones XXV y XXIX-F del artículo
+73; se adicionan los párrafos segundo, quinto, sexto, séptimo, octavo,
+noveno, décimo, décimo primero y décimo segundo, a la fracción II los
+incisos e), f), g), h), e i) y la fracción X del artículo 3o.; y se
+derogan el párrafo tercero, el inciso d) de la fracción II y la fracción
+III del artículo 3o. de la Constitución Política de los Estados Unidos
+Mexicanos, para quedar como sigue:
+
+……….
+
+**Transitorios**
+
+**Primero.** El presente Decreto entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.
+
+**Segundo.** A partir de la entrada en vigor de este Decreto se abroga
+la Ley General del Servicio Profesional Docente, se derogan todas las
+disposiciones contenidas en las leyes secundarias y quedan sin efectos
+los reglamentos, acuerdos y disposiciones de carácter general contrarias
+a este Decreto.
+
+Hasta en tanto el Congreso de la Unión expida la ley en materia del
+Sistema para la Carrera de las Maestras y los Maestros, queda suspendida
+cualquier evaluación y permanecerán vigentes las disposiciones que
+facultan a la actual Coordinación Nacional del Servicio Profesional
+Docente de la Secretaría de Educación Pública, para proveer las medidas
+necesarias y dar cumplimiento a los procesos derivados del Servicio
+Profesional Docente.
+
+En la aplicación de este Decreto se respetarán los derechos adquiridos
+de las maestras y los maestros, los cuales no podrán ser restringidos o
+afectados de manera retroactiva con las disposiciones de nueva creación.
+
+**Tercero.** Quedan sin efectos los actos referidos a la aplicación de
+la Ley General del Servicio Profesional Docente que afectaron la
+permanencia de las maestras y los maestros en el servicio.
+
+**Cuarto.** A partir de la entrada en vigor de este Decreto se abroga la
+Ley del Instituto Nacional para la Evaluación de la Educación, se
+derogan todas las disposiciones contenidas en las leyes secundarias y
+quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter
+general contrarias a este Decreto.
+
+**Quinto.** El Congreso de la Unión deberá expedir la Ley del organismo
+al que se refiere la fracción IX del artículo 3o. de la Constitución
+Política de los Estados Unidos Mexicanos y la Ley General del Sistema
+para la Carrera de las Maestras y los Maestros, a más tardar en un plazo
+de 120 días a partir de la publicación del presente Decreto.
+
+**Sexto.** El Congreso de la Unión deberá expedir las Leyes Generales en
+materia de Educación Superior y de Ciencia, Tecnología e Innovación a
+más tardar en el año 2020.
+
+**Séptimo.** El Congreso de la Unión deberá realizar las reformas a la
+legislación secundaria correspondiente, a más tardar en un plazo de 120
+días a partir de la publicación de este Decreto.
+
+**Octavo.** Las legislaturas de los Estados, en el ámbito de su
+competencia, tendrán el plazo de un año para armonizar el marco jurídico
+en la materia, conforme a este Decreto.
+
+**Noveno.** Para la integración de la primera Junta Directiva del
+organismo al que se refiere la fracción IX del artículo 3o. de la
+Constitución Política de los Estados Unidos Mexicanos, la Cámara de
+Senadores designará a sus cinco integrantes en un plazo de 30 días
+naturales contados a partir de la entrada en vigor de este Decreto, con
+una prórroga de hasta 15 días naturales.  Con el fin de asegurar la
+renovación escalonada con motivo de los nombramientos que se realizarán,
+éstos se harán por los periodos siguientes:
+
+1) Dos nombramientos por un periodo de cinco años;
+
+2) Dos nombramientos por un periodo de seis años, y
+
+3) Un nombramiento por un periodo de siete años.
+
+En la integración del Consejo Técnico de Educación, la Cámara de
+Senadores designará a sus siete miembros en un plazo máximo de 60 días
+naturales contados a partir de la entrada en vigor de este
+Decreto. Cuatro de ellos deberán ser representantes de los diversos
+tipos y modalidades de la educación.
+
+Para asegurar la renovación escalonada con motivo de los nombramientos
+que se realizarán, éstos se harán por los periodos siguientes:
+
+1) Tres nombramientos por un periodo de tres años;
+
+2) Tres nombramientos por un periodo de cuatro años, y
+
+3) Un nombramiento por un periodo de cinco años.
+
+Para la designación de los integrantes de la Junta Directiva y del
+Consejo Técnico, el Senado de la República emitirá convocatoria pública
+a fin de que las instituciones educativas, organismos de la sociedad
+civil organizada y sociedad en general presenten propuestas. La Junta de
+Coordinación Política acordará los procedimientos para su elección.
+
+La Junta Directiva y el Consejo Técnico de Educación asumirán sus
+funciones para ejercer las facultades que le otorga este Decreto, una
+vez que entre en vigor la legislación del organismo para la mejora
+continua de la educación, que expida el Congreso de la Unión.
+
+**Décimo.** Las asignaciones presupuestales, así como los recursos
+humanos, financieros y materiales con que cuenta el Instituto Nacional
+para la Evaluación de la Educación, formarán parte del organismo al que
+se refiere el artículo 3o., fracción IX, de la Constitución Política de
+los Estados Unidos Mexicanos.
+
+Una vez constituida la Junta Directiva, será la encargada de dar
+cumplimiento a esta disposición, con independencia de las atribuciones
+que correspondan en este proceso a otras autoridades, además realizará
+todas aquellas para el funcionamiento del organismo.
+
+Hasta la designación de la Junta Directiva que realice la Cámara de
+Senadores en los términos del Artículo Noveno Transitorio, se nombrará
+como Coordinador de Administración a quien fungía como titular de la
+Unidad de Administración del Instituto Nacional para la Evaluación de la
+Educación, quien dispondrá las medidas administrativas y financieras
+para el funcionamiento del mismo, para lo cual tendrá las siguientes
+atribuciones:
+
+I. Administrar y controlar los recursos humanos, presupuesto, recursos
+   financieros, bienes y servicios, servicios tecnológicos, asuntos
+   jurídicos y mejora de la gestión del organismo;
+
+II. Dar seguimiento a los procesos de planeación y programación, así
+    como su implementación, con la participación de las unidades
+    administrativas;
+
+III. Dar continuidad a las disposiciones que rijan las relaciones
+     laborales y llevar a cabo los procesos de reclutamiento, selección,
+     nómina y remuneraciones, servicios y capacitación al personal;
+
+IV. Supervisar las acciones para el desarrollo y seguimiento de los
+    procesos de adquisición, almacenamiento, distribución, control y
+    mantenimiento de los recursos materiales, así como de los servicios
+    generales del Instituto;
+
+V. Suscribir los instrumentos jurídicos en materia de administración del
+   Instituto;
+
+VI. Dirigir las estrategias de tecnologías de la información del
+    organismo y el desarrollo de herramientas informáticas y sistemas de
+    comunicación y tecnológicos, así como la prestación de servicios
+    informáticos y de soporte técnico, con la participación de las
+    unidades administrativas;
+
+VII. Establecer las estrategias para representar legalmente al organismo
+     en toda clase de juicios, procedimientos administrativos e
+     investigaciones ante los tribunales y otras autoridades;
+
+VIII. Coordinar la atención y vigilancia del cumplimiento de las
+      disposiciones en materia de transparencia y acceso a la
+      información pública, y
+
+IX. Determinar las acciones para atender las auditorías de las
+    instancias fiscalizadoras, en coordinación con las unidades
+    administrativas.
+
+En un plazo de 15 días a partir de la vigencia de este Decreto, el
+Coordinador de Administración deberá publicar en el Diario Oficial de la
+Federación un informe acerca de la situación del Instituto que incluya
+el balance financiero correspondiente.
+
+Los derechos laborales de los servidores públicos del actual Instituto
+Nacional para la Evaluación de la Educación se respetarán conforme a la
+ley.
+
+El acervo de información estadística, indicadores, estudios, bases de
+datos, informes y cualquier otro documento publicado o por publicar
+elaborado o en posesión del Instituto Nacional para la Evaluación de la
+Educación es patrimonio público y deberá ser puesto a disposición de la
+ciudadanía en un portal público, accesible, con la debida protección de
+datos personales y de fácil manejo en un plazo de 90 días a partir de la
+publicación de este Decreto.
+
+**Décimo Primero.** Para la integración de los planes y programas a los
+que se refiere el artículo 3o. en su párrafo décimo primero, el
+Ejecutivo Federal considerará el carácter local, contextual y
+situacional del proceso de enseñanza aprendizaje.
+
+En el caso de las escuelas normales, la ley respectiva en materia de
+educación superior, establecerá los criterios para su desarrollo
+institucional y regional, la actualización de sus planes y programas de
+estudio para promover la superación académica y contribuir a la mejora
+de la educación, así como el mejoramiento de su infraestructura y
+equipamiento.
+
+Para dar cumplimiento a lo establecido en el párrafo noveno del artículo
+3o., el Ejecutivo Federal, en un plazo no mayor a 180 días contados a
+partir de la entrada en vigor de las presentes disposiciones, definirá
+una Estrategia Nacional de Mejora de las Escuelas Normales, la cual
+establecerá acciones para su fortalecimiento.
+
+**Décimo Segundo.** Para atender la educación inicial referida en el
+artículo 3o., el Ejecutivo Federal, en un plazo no mayor a 180 días
+contados a partir de su entrada en vigor de estas disposiciones,
+definirá una Estrategia Nacional de Atención a la Primera Infancia, en
+la cual se determinará la gradualidad de su impartición y
+financiamiento.
+
+**Décimo Tercero.** La Autoridad Educativa Federal mantendrá sus
+facultades y atribuciones correspondientes para la impartición de la
+educación inicial, básica, incluyendo la indígena, especial, así como la
+normal y demás para la formación de maestros de educación básica, en el
+ámbito de la Ciudad de México, mientras se lleve a cabo la
+descentralización de los servicios educativos y la transferencia de los
+recursos humanos, materiales y presupuestales, conforme al Acuerdo que
+celebre la Federación y el Gobierno de la Ciudad de México.
+
+**Décimo Cuarto.** La legislación secundaria, en los aspectos que así lo
+ameriten, determinará la gradualidad para la implementación de lo
+contenido en este Decreto y, la Cámara de Diputados anualmente, en el
+Presupuesto de Egresos de la Federación, aprobará las previsiones
+presupuestarias necesarias para el cumplimento progresivo de las mismas.
+
+La Cámara de Diputados, en el Presupuesto de Egresos de la Federación
+que corresponda, aprobará los recursos necesarios para dar cumplimiento
+a lo establecido en la fracción V del artículo 3o.  Constitucional.
+
+**Décimo Quinto.** Para dar cumplimiento al principio de obligatoriedad
+de la educación superior, se incluirán los recursos necesarios en los
+presupuestos federal, de las entidades federativas y de los municipios,
+en términos de las fracciones VIII y X del artículo 3o. de esta
+Constitución; adicionalmente, se establecerá un fondo federal especial
+que asegure a largo plazo los recursos económicos necesarios para
+garantizar la obligatoriedad de los servicios a que se refiere este
+artículo, así como la plurianualidad de la infraestructura.
+
+**Décimo Sexto.** Con la entrada en vigor de las presentes
+disposiciones, los derechos laborales de los trabajadores al servicio de
+la educación, se regirán por el artículo 123 Constitucional
+Apartado B. Con fundamento en este Decreto, la admisión, promoción y
+reconocimiento se regirán por la Ley Reglamentaria del Sistema para la
+Carrera de las Maestras y los Maestros, prevaleciendo siempre la
+rectoría del Estado.
+
+**Décimo Séptimo.** La ley secundaria definirá que, dentro de los
+consejos técnicos escolares, se integrará un Comité de Planeación y
+Evaluación para formular un programa de mejora continua que contemple,
+de manera integral, la infraestructura, el equipamiento, el avance de
+los planes y programas educativos, la formación y prácticas docentes, la
+carga administrativa, la asistencia de los educandos, el aprovechamiento
+académico, el desempeño de las autoridades educativas y los contextos
+socioculturales. Dichos programas tendrán un carácter multianual,
+definirán objetivos y metas, los cuales serán evaluados por el referido
+Comité.
+
+**Décimo Octavo.** Con la finalidad de dar cumplimiento a lo dispuesto
+en el artículo 3o., fracción II, inciso f), el Ejecutivo Federal, en un
+plazo no mayor a 180 días contados a partir de la entrada en vigor de
+las presentes disposiciones, definirá una Estrategia Nacional de
+Inclusión Educativa, la cual establecerá acciones y etapas para su
+cumplimiento progresivo. La educación especial en sus diferentes
+modalidades se impartirá en situaciones excepcionales.
+
+Ciudad de México, a 15 de mayo de 2019.- Sen. **Martí Batres
+Guadarrama**, Presidente.- Sen.  **Mónica Fernández Balboa**,
+Secretaria.- Rúbricas."
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia
+del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de mayo de
 2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
 Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
 Rúbrica.
