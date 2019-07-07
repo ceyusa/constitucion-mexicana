@@ -1230,3 +1230,11 @@ DECRETO mediante el cual se declaran reformados los artículos 21, 55,
 de los Estados Unidos Mexicanos.
 
 .. include:: T133.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se declara reformado el cuarto párrafo del artículo
+28 de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T134.rst
