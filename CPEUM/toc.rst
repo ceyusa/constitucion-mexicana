@@ -1255,3 +1255,11 @@ DECRETO mediante el cual se declaran reformados diversos artículos de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T136.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se declaran reformados los artículos 30, 32 y 37 de
+la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T137.rst
