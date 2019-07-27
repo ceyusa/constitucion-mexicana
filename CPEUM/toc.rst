@@ -1289,3 +1289,12 @@ DECRETO por el que se reforman los artículos 94, 97, 100 y 107 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T140.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se declara la adición de un párrafo quinto al
+artículo 4o. Constitucional y se reforma el párrafo primero del artículo
+25 de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T141.rst
