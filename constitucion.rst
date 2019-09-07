@@ -298,6 +298,15 @@ indígenas, sus comunidades y pueblos, toda comunidad equiparable a
 aquéllos tendrá en lo conducente los mismos derechos tal y como lo
 establezca la ley.
 
+**C.** Esta Constitución reconoce a los pueblos y comunidades
+afromexicanas, cualquiera que sea su autodenominación, como parte de la
+composición pluricultural de la Nación. Tendrán en lo conducente los
+derechos señalados en los apartados anteriores del presente artículo en
+los términos que establezcan las leyes, a fin de garantizar su libre
+determinación, autonomía, desarrollo e inclusión social.
+
+*Apartado adicionado DOF 09-08-2019*
+
 *Artículo reformado DOF 14-08-2001*
 
 **Artículo 3o.** Toda persona tiene derecho a la educación. El Estado
@@ -18237,3 +18246,28 @@ del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de
 2019.- **Andrés Manuel López Obrador**.- Rúbrica.- La Secretaria de
 Gobernación, Dra. **Olga María del Carmen Sánchez Cordero Dávila**.-
 Rúbrica.
+
+**DECRETO por el que se adiciona un apartado C al artículo 2o. de la
+Constitución Política de los Estados Unidos Mexicanos.**
+
+Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019
+
+**Artículo Único.-** Se adiciona un apartado C al artículo 2° de la Constitución
+Política de los Estados Unidos Mexicanos, para quedar como sigue:
+
+……….
+
+**Transitorio**
+
+**Único.-** El presente Decreto entrará en vigor el día siguiente al de su
+publicación en el Diario Oficial de la Federación.
+
+Ciudad de México, a 31 de julio de 2019.- Sen. **Martí Batres Guadarrama**,
+Presidente.- Sen. **Mónica Fernández Balboa**, Secretaria.- Rúbricas.
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la
+Constitución Política de los Estados Unidos Mexicanos, y para su debida
+publicación y observancia, expido el presente Decreto en la Residencia del Poder
+Ejecutivo Federal, en la Ciudad de México, a 9 de agosto de 2019.- **Andrés
+Manuel López Obrador**.- Rúbrica.- La Secretaria de Gobernación, Dra. **Olga
+María del Carmen Sánchez Cordero Dávila**.- Rúbrica.
