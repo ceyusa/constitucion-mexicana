@@ -1350,3 +1350,11 @@ DECRETO por el que se declara reformado y adicionado el artículo 115 de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T147.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se declara reformado y adicionado el artículo 4o. de
+la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T148.rst
