@@ -1358,3 +1358,12 @@ DECRETO por el que se declara reformado y adicionado el artículo 4o. de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T148.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se declaran reformadas, adicionadas y derogadas
+diversas disposiciones del artículo 20 de la Constitución Política de
+los Estados Unidos Mexicanos.
+
+.. include:: T149.rst
