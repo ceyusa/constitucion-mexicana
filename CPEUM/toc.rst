@@ -1407,3 +1407,12 @@ artículo 31 en su fracción I, de la Constitución Política de los Estados
 Unidos Mexicanos.
 
 .. include:: T153.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se aprueba el diverso por el que se adiciona una
+fracción XXIX-K al artículo 73 de la Constitución Política de los
+Estados Unidos Mexicanos.
+
+.. include:: T154.rst
