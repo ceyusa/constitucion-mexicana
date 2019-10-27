@@ -1515,3 +1515,11 @@ párrafos del Artículo 18 de la Constitución Política de los Estados
 Unidos Mexicanos.
 
 .. include:: T165.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se declaran reformados los artículos 26 y 73 fracción
+XXIX-D de la Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T166.rst
