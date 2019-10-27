@@ -1523,3 +1523,12 @@ DECRETO por el que se declaran reformados los artículos 26 y 73 fracción
 XXIX-D de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T166.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se adiciona el inciso g) a la fracción II del
+artículo 105 de la Constitución Política de los Estados Unidos
+Mexicanos.
+
+.. include:: T167.rst
