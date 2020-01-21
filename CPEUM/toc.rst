@@ -1557,3 +1557,11 @@ DECRETO por el que se reforma el artículo 76 fracción I, y el artículo
 Mexicanos.
 
 .. include:: T170.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforma la fracción VI, del artículo 82 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T171.rst
