@@ -1606,3 +1606,11 @@ DECRETO por el que se adiciona una fracción XXIX-N al artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T176.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforma la fracción IV del artículo 99, de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T177.rst
