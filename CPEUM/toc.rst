@@ -1623,3 +1623,11 @@ adiciona el artículo 134 y deroga un párrafo al artículo 97 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T178.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO que reforma, adiciona y deroga diversas disposiciones de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T179.rst
