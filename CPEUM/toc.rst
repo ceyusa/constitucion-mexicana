@@ -1631,3 +1631,11 @@ DECRETO que reforma, adiciona y deroga diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T179.rst
+
+Artículos Transitorios de Decretos de Reforma
+---------------------------------------------
+
+DECRETO por el que se reforman y adicionan diversas disposiciones de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T180.rst
