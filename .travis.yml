@@ -1,0 +1,17 @@
+language: python
+install:
+  - pip install -v docutils
+
+script:
+  - cd CPEUM
+  - rst2html.py -v --strict toc.rst index.html
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: V2
+  local-dir: CPEUM
+  verbose: true
