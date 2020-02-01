@@ -29,17 +29,17 @@ disposiciones:
 
 A. Corresponde al Congreso de la Unión:
 
-  I. Legislar en lo relativo al Distrito Federal, con excepción de las
-     materias expresamente conferidas a la Asamblea Legislativa;
+   I. Legislar en lo relativo al Distrito Federal, con excepción de las
+      materias expresamente conferidas a la Asamblea Legislativa;
 
-  II. Expedir el Estatuto de Gobierno del Distrito Federal;
+   II. Expedir el Estatuto de Gobierno del Distrito Federal;
 
-  III. Legislar en materia de deuda pública del Distrito Federal;
+   III. Legislar en materia de deuda pública del Distrito Federal;
 
-  IV. Dictar las disposiciones generales que aseguren el debido,
-      oportuno y eficaz funcionamiento de los Poderes de la Unión; y
+   IV. Dictar las disposiciones generales que aseguren el debido,
+       oportuno y eficaz funcionamiento de los Poderes de la Unión; y
 
-  V. Las demás atribuciones que le señala esta Constitución.
+   V. Las demás atribuciones que le señala esta Constitución.
 
 B. Corresponde al Presidente de los Estados Unidos Mexicanos:
 
@@ -214,11 +214,12 @@ C. El Estatuto de Gobierno del Distrito Federal se sujetará a las
       n. Expedir la Ley Orgánica del Tribunal de lo Contencioso
          Administrativo para el Distrito Federal;
 
-      ñ. Presentar iniciativas de leyes o decretos en materias relativas
-         al Distrito Federal, ante el Congreso de la Unión; y
+      o. **ñ**\. Presentar iniciativas de leyes o decretos en materias
+         relativas al Distrito Federal, ante el Congreso de la Unión; y
 
-      o. Las demás que se le confieran expresamente en esta
+      p. **o**\. Las demás que se le confieran expresamente en esta
          Constitución.
+
 
    **BASE SEGUNDA**
 
@@ -250,127 +251,129 @@ C. El Estatuto de Gobierno del Distrito Federal se sujetará a las
       Gobierno del Distrito Federal sólo podrá aceptarse por causas
       graves. Las licencias al cargo se regularán en el propio Estatuto.
 
-  II. El Jefe de Gobierno del Distrito Federal tendrá las facultades y
-      obligaciones siguientes:
+   II. El Jefe de Gobierno del Distrito Federal tendrá las facultades y
+       obligaciones siguientes:
 
-      a. Cumplir y ejecutar las leyes relativas al Distrito Federal que
-         expida el Congreso de la Unión, en la esfera de competencia del
-         órgano ejecutivo a su cargo o de sus dependencias;
+       a. Cumplir y ejecutar las leyes relativas al Distrito Federal que
+          expida el Congreso de la Unión, en la esfera de competencia
+          del órgano ejecutivo a su cargo o de sus dependencias;
 
-      b. Promulgar, publicar y ejecutar las leyes que expida la Asamblea
-         Legislativa, proveyendo en la esfera administrativa a su exacta
-         observancia, mediante la expedición de reglamentos, decretos y
-         acuerdos.  Asimismo, podrá hacer observaciones a las leyes que
-         la Asamblea Legislativa le envíe para su promulgación, en un
-         plazo no mayor de diez días hábiles. Si el proyecto observado
-         fuese confirmado por mayoría calificada de dos tercios de los
-         diputados presentes, deberá ser promulgado por el Jefe de
-         Gobierno del Distrito Federal;
+       b. Promulgar, publicar y ejecutar las leyes que expida la
+          Asamblea Legislativa, proveyendo en la esfera administrativa a
+          su exacta observancia, mediante la expedición de reglamentos,
+          decretos y acuerdos.  Asimismo, podrá hacer observaciones a
+          las leyes que la Asamblea Legislativa le envíe para su
+          promulgación, en un plazo no mayor de diez días hábiles. Si el
+          proyecto observado fuese confirmado por mayoría calificada de
+          dos tercios de los diputados presentes, deberá ser promulgado
+          por el Jefe de Gobierno del Distrito Federal;
 
-      c. Presentar iniciativas de leyes o decretos ante la Asamblea
-         Legislativa;
+       c. Presentar iniciativas de leyes o decretos ante la Asamblea
+          Legislativa;
 
-      d. Nombrar y remover libremente a los servidores públicos
-         dependientes del órgano ejecutivo local, cuya designación o
-         destitución no estén previstas de manera distinta por esta
-         Constitución o las leyes correspondientes;
+       d. Nombrar y remover libremente a los servidores públicos
+          dependientes del órgano ejecutivo local, cuya designación o
+          destitución no estén previstas de manera distinta por esta
+          Constitución o las leyes correspondientes;
 
-      e. Ejercer las funciones de dirección de los servicios de
-         seguridad pública de conformidad con el Estatuto de Gobierno; y
+       e. Ejercer las funciones de dirección de los servicios de
+          seguridad pública de conformidad con el Estatuto de Gobierno;
+          y
 
-      f. Las demás que le confiera esta Constitución, el Estatuto de
-         Gobierno y las leyes.
+       f. Las demás que le confiera esta Constitución, el Estatuto de
+          Gobierno y las leyes.
 
-  **BASE TERCERA**
 
-  Respecto a la organización de la Administración Pública local en el
-  Distrito Federal:
+   **BASE TERCERA**
 
-  I. Determinará los lineamientos generales para la distribución de
-     atribuciones entre los órganos centrales, desconcentrados y
-     descentralizados;
+   Respecto a la organización de la Administración Pública local en el
+   Distrito Federal:
 
-  II. Establecerá los órganos político-administrativos en cada una de
-      las demarcaciones territoriales en que se divida el Distrito
-      Federal.
+   I. Determinará los lineamientos generales para la distribución de
+      atribuciones entre los órganos centrales, desconcentrados y
+      descentralizados;
 
-      Asimismo fijará los criterios para efectuar la división
-      territorial del Distrito Federal, la competencia de los órganos
-      político-administrativos correspondientes, la forma de
-      integrarlos, su funcionamiento, así como las relaciones de dichos
-      órganos con el Jefe de Gobierno del Distrito Federal.
+   II. Establecerá los órganos político-administrativos en cada una de
+       las demarcaciones territoriales en que se divida el Distrito
+       Federal.
 
-      Los titulares de los órganos político-administrativos de las
-      demarcaciones territoriales serán elegidos en forma universal,
-      libre, secreta y directa, según lo determine la ley.
+       Asimismo fijará los criterios para efectuar la división
+       territorial del Distrito Federal, la competencia de los órganos
+       político-administrativos correspondientes, la forma de
+       integrarlos, su funcionamiento, así como las relaciones de dichos
+       órganos con el Jefe de Gobierno del Distrito Federal.
 
-  **BASE CUARTA**
+       Los titulares de los órganos político-administrativos de las
+       demarcaciones territoriales serán elegidos en forma universal,
+       libre, secreta y directa, según lo determine la ley.
 
-  Respecto al Tribunal Superior de Justicia y los demás órganos
-  judiciales del fuero común:
+   **BASE CUARTA**
 
-  I. Para ser magistrado del Tribunal Superior se deberán reunir los
-     mismos requisitos que esta Constitución exige para los ministros de
-     la Suprema Corte de Justicia; se requerirá, además, haberse
-     distinguido en el ejercicio profesional o en el ramo judicial,
-     preferentemente en el Distrito Federal. El Tribunal Superior de
-     Justicia se integrará con el número de magistrados que señale la
-     ley orgánica respectiva.
+   Respecto al Tribunal Superior de Justicia y los demás órganos
+   judiciales del fuero común:
 
-     Para cubrir las vacantes de magistrados del Tribunal Superior de
-     Justicia, el Jefe de Gobierno del Distrito Federal someterá la
-     propuesta respectiva a la decisión de la Asamblea Legislativa. Los
-     Magistrados ejercerán el cargo durante seis años y podrán ser
-     ratificados por la Asamblea; y si lo fuesen, sólo podrán ser
-     privados de sus puestos en los términos del Título Cuarto de esta
-     Constitución.
+   I. Para ser magistrado del Tribunal Superior se deberán reunir los
+      mismos requisitos que esta Constitución exige para los ministros
+      de la Suprema Corte de Justicia; se requerirá, además, haberse
+      distinguido en el ejercicio profesional o en el ramo judicial,
+      preferentemente en el Distrito Federal. El Tribunal Superior de
+      Justicia se integrará con el número de magistrados que señale la
+      ley orgánica respectiva.
 
-  II. La administración, vigilancia y disciplina del Tribunal Superior
-      de Justicia, de los juzgados y demás órganos judiciales, estará a
-      cargo del Consejo de la Judicatura del Distrito Federal. El
-      Consejo de la Judicatura tendrá siete miembros, uno de los cuales
-      será el presidente del Tribunal Superior de Justicia, quien
-      también presidirá el Consejo.  Los miembros restantes serán: un
-      Magistrado, un Juez de Primera Instancia y un Juez de Paz,
-      elegidos mediante insaculación; uno designado por el Jefe de
-      Gobierno del Distrito Federal y otros dos nombrados por la
-      Asamblea Legislativa. Todos los Consejeros deberán reunir los
-      requisitos exigidos para ser magistrado y durarán cinco años en su
-      cargo; serán sustituidos de manera escalonada y no podrán ser
-      nombrados para un nuevo periodo.
+      Para cubrir las vacantes de magistrados del Tribunal Superior de
+      Justicia, el Jefe de Gobierno del Distrito Federal someterá la
+      propuesta respectiva a la decisión de la Asamblea Legislativa. Los
+      Magistrados ejercerán el cargo durante seis años y podrán ser
+      ratificados por la Asamblea; y si lo fuesen, sólo podrán ser
+      privados de sus puestos en los términos del Título Cuarto de esta
+      Constitución.
 
-      El Consejo designará a los Jueces de Primera Instancia y a los que
-      con otra denominación se creen en el Distrito Federal, en los
-      términos que las disposiciones prevean en materia de carrera
-      judicial;
+   II. La administración, vigilancia y disciplina del Tribunal Superior
+       de Justicia, de los juzgados y demás órganos judiciales, estará a
+       cargo del Consejo de la Judicatura del Distrito Federal. El
+       Consejo de la Judicatura tendrá siete miembros, uno de los cuales
+       será el presidente del Tribunal Superior de Justicia, quien
+       también presidirá el Consejo.  Los miembros restantes serán: un
+       Magistrado, un Juez de Primera Instancia y un Juez de Paz,
+       elegidos mediante insaculación; uno designado por el Jefe de
+       Gobierno del Distrito Federal y otros dos nombrados por la
+       Asamblea Legislativa. Todos los Consejeros deberán reunir los
+       requisitos exigidos para ser magistrado y durarán cinco años en
+       su cargo; serán sustituidos de manera escalonada y no podrán ser
+       nombrados para un nuevo periodo.
 
-  III. Se determinarán las atribuciones y las normas de funcionamiento
-       del Consejo de la Judicatura, tomando en cuenta lo dispuesto por
-       el artículo 100 de esta Constitución;
+       El Consejo designará a los Jueces de Primera Instancia y a los
+       que con otra denominación se creen en el Distrito Federal, en los
+       términos que las disposiciones prevean en materia de carrera
+       judicial;
 
-  IV. Se fijarán los criterios conforme a los cuales la ley orgánica
-      establecerá las normas para la formación y actualización de
-      funcionarios, así como del desarrollo de la carrera judicial;
+   III. Se determinarán las atribuciones y las normas de funcionamiento
+        del Consejo de la Judicatura, tomando en cuenta lo dispuesto por
+        el artículo 100 de esta Constitución;
 
-  V. Serán aplicables a los miembros del Consejo de la Judicatura, así
-     como a los magistrados y jueces, los impedimentos y sanciones
-     previstos en el artículo 101 de esta Constitución;
+   IV. Se fijarán los criterios conforme a los cuales la ley orgánica
+       establecerá las normas para la formación y actualización de
+       funcionarios, así como del desarrollo de la carrera judicial;
 
-  VI. El Consejo de la Judicatura elaborará el presupuesto de los
-      tribunales de justicia en la entidad y lo remitirá al Jefe de
-      Gobierno del Distrito Federal para su inclusión en el proyecto de
-      presupuesto de egresos que se presente a la aprobación de la
-      Asamblea Legislativa.
+   V. Serán aplicables a los miembros del Consejo de la Judicatura, así
+      como a los magistrados y jueces, los impedimentos y sanciones
+      previstos en el artículo 101 de esta Constitución;
 
-  **BASE QUINTA**
+   VI. El Consejo de la Judicatura elaborará el presupuesto de los
+       tribunales de justicia en la entidad y lo remitirá al Jefe de
+       Gobierno del Distrito Federal para su inclusión en el proyecto de
+       presupuesto de egresos que se presente a la aprobación de la
+       Asamblea Legislativa.
 
-  Existirá un Tribunal de lo Contencioso Administrativo, que tendrá
-  plena autonomía para dirimir las controversias entre los particulares
-  y las autoridades de la Administración Pública local del Distrito
-  Federal.
+   **BASE QUINTA**
 
-  Se determinarán las normas para su integración y atribuciones, mismas
-  que serán desarrolladas por su ley orgánica.
+   Existirá un Tribunal de lo Contencioso Administrativo, que tendrá
+   plena autonomía para dirimir las controversias entre los particulares
+   y las autoridades de la Administración Pública local del Distrito
+   Federal.
+
+   Se determinarán las normas para su integración y atribuciones, mismas
+   que serán desarrolladas por su ley orgánica.
 
 D. El Ministerio Público en el Distrito Federal será presidido por un
    Procurador General de Justicia, que será nombrado en los términos que
