@@ -392,8 +392,8 @@ Artículos Transitorios
 .. include:: T001.rst
 
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (5)
+-------------------------------------------------
 
 LEY que reforma los artículo 73, 74, 76, 79, 89, 94, 96, 97, 98, 99,
 100, y 111 de la Constitución Política de la República.
@@ -402,8 +402,8 @@ Publicado en el Diario Oficial de la Federación el 20 de Agosto de 1928
 
 .. include:: T005.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (6)
+-------------------------------------------------
 
 LEY que reforma el artículo 52 y el párrafo cuarto de la fracción III
 del artículo 115 de la Constitución Federal.
@@ -412,8 +412,8 @@ Publicado en el Diario Oficial de la Federación el 20 de Agosto de 1928
 
 .. include:: T006.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (12)
+--------------------------------------------------
 
 DECRETO que reforma varios artículos de la Constitución General de la
 República (Elección de Poderes Federales).
@@ -422,8 +422,8 @@ Publicado en el Diario Oficial de la Federación el 29 de abril de 1933
 
 .. include:: T012.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (19)
+--------------------------------------------------
 
 DECRETO que adiciona el artículo 45 constitucional.
 
@@ -431,8 +431,8 @@ Publicado en el Diario Oficial de la Federación el 22 de marzo 1934
 
 .. include:: T019.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (21)
+--------------------------------------------------
 
 DECRETO que reforma el último párrafo de la base 4ª de la fracción VI
 del artículo 73, el artículo 94 y las fracciones II y III del 95 de la
@@ -443,8 +443,8 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de
 
 .. include:: T021.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (22)
+--------------------------------------------------
 
 DECRETO que reforma el artículo 32 de la Constitución Política de los
 Estados Unidos Mexicanos.
@@ -454,8 +454,8 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de
 
 .. include:: T022.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (23)
+--------------------------------------------------
 
 DECRETO que reforma los artículos 43 y 45 constitucionales.
 
@@ -463,8 +463,8 @@ Publicado en el Diario Oficial de la Federación el 16 de enero de 1935
 
 .. include:: T023.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (32)
+--------------------------------------------------
 
 DECRETO que modifica los artículos 73 y 117 de la Constitución Política
 de los Estados Unidos Mexicanos.
@@ -474,8 +474,8 @@ Publicado en el Diario Oficial de la Federación el 24 de octubre de
 
 .. include:: T032.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (35)
+--------------------------------------------------
 
 DECRETO por el cual se reforma el artículo 52 de la Constitución
 Política de los Estados Unidos Mexicanos.
@@ -485,8 +485,8 @@ Publicado en el Diario Oficial de la Federación el 30 de diciembre de
 
 .. include:: T035.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (38)
+--------------------------------------------------
 
 DECRETO que reforma los artículos 73, fracción VI, base 4a; 94 y 111 de
 la Constitución Política de los Estados Unidos Mexicanos.
@@ -496,16 +496,16 @@ Publicado en el Diario Oficial de la Federación el 21 de septiembre de
 
 .. include:: T038.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (40)
+--------------------------------------------------
 
 DECRETO que se reforma la fracción I del artículo 104 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T040.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (42)
+--------------------------------------------------
 
 DECRETO por el cual se reforma la fracción VIII del artículo 73 y
 adiciona la fracción VIII del artículo 117 de la Constitución Política
@@ -513,16 +513,16 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T042.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (47)
+--------------------------------------------------
 
 DECRETO que declara adicionada la fracción I del artículo 27 de la
 Constitución de la República.
 
 .. include:: T047.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (49)
+--------------------------------------------------
 
 DECRETO que reforma los artículos 73, fracción VI, base cuarta, párrafo
 último; 94, 97, párrafo primero, 98 y 107 de la Constitución General de
@@ -530,32 +530,32 @@ la República.
 
 .. include:: T049.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (50)
+--------------------------------------------------
 
 DECRETO que adiciona el artículo 131 y reforma el artículo 49 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T050.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (51)
+--------------------------------------------------
 
 DECRETO que reforma el artículo 52 de la Constitución Política de los
 Estados Unidos Mexicanos.
 
 .. include:: T051.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (52)
+--------------------------------------------------
 
 DECRETO que reforma los artículos 43 y 45 de la Constitución Política de
 los Estados Unidos Mexicanos.
 
 .. include:: T052.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (54)
+--------------------------------------------------
 
 DECRETO que reforma los párrafos cuarto, quinto, sexto y séptimo
 fracción I del artículo 27 y los artículos 42 y 48 de la Constitución
@@ -563,32 +563,32 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T054.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (55)
+--------------------------------------------------
 
 DECRETO que reforma y adiciona el artículo 123 de la Constitución
 General de la República.
 
 .. include:: T055.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (56)
+--------------------------------------------------
 
 DECRETO que reforma reforma el artículo 52 de la Constitución General de
 la República.
 
 .. include:: T056.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (57)
+--------------------------------------------------
 
 DECRETO que declara adicionado el párrafo sexto del Artículo 27 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T057.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (58)
+--------------------------------------------------
 
 DECRETO que reforma el párrafo segundo de la fracción IV del inciso B
 del artículo 123 de la Constitución Política de los Estados Unidos
@@ -596,71 +596,71 @@ Mexicanos.
 
 .. include:: T058.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (59)
+--------------------------------------------------
 
 DECRETO por el que se adiciona con un párrafo final la fracción II del
 artículo 107 de la Constitucional.
 
 .. include:: T059.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (60)
+--------------------------------------------------
 
 DECRETO que reforma el artículo 123 de la Constitución Política de los
 Estados Unidos Mexicanos.
 
 .. include:: T060.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (61)
+--------------------------------------------------
 
 DECRETO de Reformas y Adiciones a los artículos 54 y 63 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T061.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (62)
+--------------------------------------------------
 
 DECRETO que reforma y adiciona el artículo 18 Constitucional.
 
 .. include:: T062.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (63)
+--------------------------------------------------
 
 DECRETO que declara adicionada la fracción XXV del artículo 73 de la
 Constitución General de la República.
 
 .. include:: T063.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (64)
+--------------------------------------------------
 
 DECRETO que reforma los artículos 73, 89 y 117 de la Constitución
 General de la República.
 
 .. include:: T064.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (65)
+--------------------------------------------------
 
 DECRETO que reforma los artículos 79, 88, 89 y 135 de la Constitución
 General de la República.
 
 .. include:: T065.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (66)
+--------------------------------------------------
 
 DECRETO que declara adicionado el Artículo 73 de la Constitución General
 de la República.
 
 .. include:: T066.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (67)
+--------------------------------------------------
 
 DECRETO que reforma y adiciona los artículos 94, 98, 100, 102, 104
 fracción I, 105 y 107 fracción II párrafo final, III, IV, V, VI, VIII,
@@ -669,8 +669,8 @@ de la República.
 
 .. include:: T067.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (68)
+--------------------------------------------------
 
 DECRETO que reforma el artículo 34 de la Constitución Política de los
 Estados Unidos Mexicanos.
@@ -678,8 +678,8 @@ Estados Unidos Mexicanos.
 .. include:: T068.rst
 
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (69)
+--------------------------------------------------
 
 DECRETO que reforma la fracción II del inciso A) del artículo 30 de la
 Constitución Política de los Estados Unidos Mexicanos.
@@ -687,24 +687,24 @@ Constitución Política de los Estados Unidos Mexicanos.
 .. include:: T069.rst
 
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (71)
+--------------------------------------------------
 
 DECRETO por el que se adiciona la base 4a. de la fracción XVI del
 artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T071.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (72)
+--------------------------------------------------
 
 DECRETO por el que se reforma el artículo 10 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T072.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (73)
+--------------------------------------------------
 
 REFORMAS y Adiciones a los artículos 52, 54 fracciones I, II y III; 55,
 fracción II; y 58 de la Constitución Política de los Estados Unidos
@@ -713,8 +713,8 @@ declara que han sido aprobadas.
 
 .. include:: T073.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (74)
+--------------------------------------------------
 
 REFORMA a la fracción XII del Apartado A del Artículo 123 Constitución
 Política de los Estados Unidos Mexicanos, que la Comisión Permanente
@@ -722,8 +722,8 @@ del H. Congreso de la Unión declara que ha sido aprobada.
 
 .. include:: T074.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (75)
+---------------------------------------------------
 
 DECRETO por el que se reforma el inciso f) de la fracción XI y se
 adiciona con el párrafo segundo la fracción XIII, del Apartado B) del
@@ -732,32 +732,32 @@ Mexicanos.
 
 .. include:: T075.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (76)
+--------------------------------------------------
 
 DECRETO que reforma y adiciona el Artículo 93 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T076.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (77)
+--------------------------------------------------
 
 DECRETO por el que se adiciona el Artículo 107 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T077.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (78)
+--------------------------------------------------
 
 DECRETO por el que se reforman el Artículo 43 y demás relativos de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T078.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (79)
+--------------------------------------------------
 
 DECRETO que Reforma y Adiciona los Artículos 4o., 5o., 30 y 123 de la
 Constitución Política de los Estados Unidos Mexicanos, en relación con
@@ -765,8 +765,8 @@ la Igualdad Jurídica de la Mujer.
 
 .. include:: T079.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (80)
+--------------------------------------------------
 
 DECLARATORIA por la que se adiciona el párrafo sexto y un séptimo
 párrafo al artículo 27 y se adiciona la fracción X del artículo 73 de la
@@ -774,24 +774,24 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T080.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (81)
+--------------------------------------------------
 
 DECLARATORIA por la que se adiciona la fracción XXXI del Artículo 123,
 Apartado A, de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T081.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (82)
+--------------------------------------------------
 
 DECRETO por el que se reforma la fracción XIV del Artículo 107 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T082.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (83)
+--------------------------------------------------
 
 DECRETO por el que se adiciona el artículo 27 de la Constitución
 Política de los Estados Unidos Mexicanos, para establecer una zona
@@ -799,8 +799,8 @@ económica exclusiva situada fuera del mar territorial.
 
 .. include:: T083.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (84)
+--------------------------------------------------
 
 DECRETO por el que se reforma el párrafo tercero del artículo 27; se
 adicionan el artículo 73 con la fracción XXIX-C y el artículo 115 con
@@ -809,16 +809,16 @@ Mexicanos.
 
 .. include:: T084.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (85)
+--------------------------------------------------
 
 DECRETO por el que se adiciona un quinto párrafo al Artículo 18 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T085.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (86)
+--------------------------------------------------
 
 DECRETO que reforma y adiciona los artículos 6o., 41, 51, 52, 53, 54,
 55, 60, 61, 65, 70, 73, 74, 76, 93, 97 y 115 de la Constitución Política
@@ -826,8 +826,8 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T086.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (87)
+--------------------------------------------------
 
 DECRETO por el que se adiciona la fracción XII y se reforma la fracción
 XIII, ambas del Apartado "A", del Artículo 123 de la Constitución
@@ -835,8 +835,8 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T087.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (88)
+--------------------------------------------------
 
 DECRETO por el que se reforma a la fracción XXXI, del Apartado "A" del
 Artículo 123 de la Constitución Política de los Estados Unidos
@@ -844,32 +844,32 @@ Mexicanos.
 
 .. include:: T088.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (89)
+--------------------------------------------------
 
 DECRETO por el que se adiciona un párrafo inicial al Artículo 123 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T089.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (90)
+--------------------------------------------------
 
 DECRETO por el que se modifican las fracciones V y VI del artículo 107
 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T090.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (91)
+--------------------------------------------------
 
 DECRETO por el que se adiciona un tercer párrafo al Artículo 4o. de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T091.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (92)
+--------------------------------------------------
 
 DECRETO por el que se adiciona con una fracción VIII el artículo 3o. de
 la Constitución Política de los Estados Unidos Mexicanos y cambia el
@@ -877,40 +877,40 @@ número de la última fracción del mismo artículo.
 
 .. include:: T092.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (93)
+--------------------------------------------------
 
 DECRETO por el que se reforma el Artículo 78 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T093.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (94)
+--------------------------------------------------
 
 DECRETO por el que se reforman los Artículos 29, 90 y 92 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T094.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (95)
+--------------------------------------------------
 
 DECRETO por el que se reforma la Fracción VIII del Artículo 117 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T095.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (96)
+--------------------------------------------------
 
 DECRETO por el que se reforma el Primer Párrafo del Artículo 60 de la
 Constitución Política de los Estado Unidos Mexicanos.
 
 .. include:: T096.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (97)
+--------------------------------------------------
 
 DECRETO que modifica el artículo 73 en sus fracciones X y XVIII, y
 adiciona los artículos 28 y 123, apartado B, de la Constitución Política
@@ -918,16 +918,16 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T097.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (98)
+--------------------------------------------------
 
 DECRETO por el que se reforma el párrafo segundo de la fracción IV del
 artículo 74 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T098.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (99)
+--------------------------------------------------
 
 DECRETO de reformas y adiciones al Título Cuarto que comprende los
 artículos del 108 al 114; así como los artículos 22, 73 fracción VI base
@@ -936,24 +936,24 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T099.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (100)
+---------------------------------------------------
 
 DECRETO por el que se adiciona con un párrafo penúltimo el artículo
 4o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T100.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (101)
+---------------------------------------------------
 
 DECRETO por el que se reforma el Artículo 21 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T101.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (102)
+---------------------------------------------------
 
 DECRETO que reforma y adiciona los artículos 16, 25, 26, 27, fracciones
 XIX y XX; 28, 73, fracciones XXIX-D; XXIX-E; y XXIX-F de la Constitución
@@ -961,56 +961,56 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T102.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (103)
+---------------------------------------------------
 
 DECRETO por el que se reforma y adiciona el artículo 115 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T103.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (104)
+---------------------------------------------------
 
 DECRETO por el que se reforma el artículo 4o. de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T104.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (105)
+---------------------------------------------------
 
 DECRETO por el que se reforma la fracción I del Artículo 20 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T105.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (106)
+---------------------------------------------------
 
 DECRETO por el que se adiciona el Artículo 79 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T106.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (107)
+---------------------------------------------------
 
 DECRETO por el que se reforman los Artículos 65, 66 y 69 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T107.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (108)
+---------------------------------------------------
 
 DECRETO por el que se reforman los Artículos 106 y 107, Fracción II de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T108.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (109)
+---------------------------------------------------
 
 DECRETO por el que se reforman los Artículos 52; 53, Segundo Párrafo;
 54, Primer Párrafo y Fracciones II, III y IV; 56; 60; 77, Fracción IV y
@@ -1019,32 +1019,32 @@ Unidos Mexicanos.
 
 .. include:: T109.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (110)
+---------------------------------------------------
 
 DECRETO por el que se reforma la fracción VI del inciso A) del Artículo
 123 de la Constitución General de la República.
 
 .. include:: T110.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (111)
+---------------------------------------------------
 
 DECRETO por el que se reforman los Artículo 17, 46, 115, y 116 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T111.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (112)
+---------------------------------------------------
 
 DECRETO por el que se reforma el párrafo sexto de la fracción IV del
 Artículo 74 de la Constitución General de la República.
 
 .. include:: T112.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (113)
+---------------------------------------------------
 
 DECRETO por el que ese adicionan la fracción XXIX-H al artículo 73, la
 fracción I-B al artículo 104 y un párrafo final a la fracción V del
@@ -1058,8 +1058,8 @@ Unidos Mexicanos.
 
 .. include:: T113.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (114)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 73 fracción VI, 79 fracción
 V, 89 fracciones II y XVII, 110 primer párrafo, 111 primer párrafo y
@@ -1068,8 +1068,8 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T114.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (115)
+---------------------------------------------------
 
 DECRETO por el que se reforma el artículo 78; y se adiciona el artículo
 Décimo Noveno Transitorio a la Constitución Política de los Estados
@@ -1077,8 +1077,8 @@ Unidos Mexicanos.
 
 .. include:: T115.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (116)
+---------------------------------------------------
 
 DECRETO por el que se reforma el párrafo tercero del artículo 27; y se
 adiciona una fracción XXIX-G al artículo 73 de la Constitución Política
@@ -1086,16 +1086,16 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T116.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (117)
+---------------------------------------------------
 
 DECRETO por el que se reforma la Fracción X del Artículo 89 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T117.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (118)
+---------------------------------------------------
 
 DECRETO por el que se reforman y adicionan los artículos 5, 35 fracción
 III, 36 fracción I, 41, 54, 60 y 73 fracción VI, base 3a. y se derogan
@@ -1104,8 +1104,8 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T118.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (119)
+---------------------------------------------------
 
 DECRETO que deroga el párrafo quinto del Artículo 28, modifica y
 adiciona el inciso a) de la fracción XXXI del apartado A del Artículo
@@ -1114,16 +1114,16 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T119.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (120)
+---------------------------------------------------
 
 DECRETO por el que se reforma el artículo 27 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T120.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (121)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 3o., 5o., 24, 27, 130 y se
 adiciona el Artículo Decimoséptimo Transitorio de la Constitución
@@ -1131,64 +1131,64 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T121.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (122)
+---------------------------------------------------
 
 DECRETO por el que se reforma el Artículo 4o. de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T122.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (123)
+---------------------------------------------------
 
 DECRETO por el que se reforma el Artículo 102 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T123.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (124)
+---------------------------------------------------
 
 DECRETO que declara reformados los artículos 3o. y 31 fracción I, de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T124.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (125)
+---------------------------------------------------
 
 DECRETO por el que se adiciona la fracción III del artículo 82 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T125.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (126)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 28, 73 y 123 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T126.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (127)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 65 y 66 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T127.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (128)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 41, 54, 56, 60, 63, 74 y
 100 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T128.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (129)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 16, 19, 20 y 119 y se
 deroga la fracción XVIII del artículo 107 de la Constitución Política de
@@ -1196,8 +1196,8 @@ los Estados Unidos Mexicanos.
 
 .. include:: T129.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (130)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 31, 44, 73, 74, 79, 89,
 104, 105, 107, 122, así como la denominación del título quinto, adición
@@ -1207,8 +1207,8 @@ Estados Unidos Mexicanos.
 
 .. include:: T130.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (131)
+---------------------------------------------------
 
 DECRETO por el que se reforman los párrafos octavo, noveno,
 decimoséptimo y decimoctavo del artículo 41 de la Constitución Política
@@ -1216,16 +1216,16 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T131.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (132)
+---------------------------------------------------
 
 DECRETO por el que se reforma la fracción I del Artículo 82 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T132.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (133)
+---------------------------------------------------
 
 DECRETO mediante el cual se declaran reformados los artículos 21, 55,
 73, 76, 79, 89, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104,
@@ -1234,16 +1234,16 @@ de los Estados Unidos Mexicanos.
 
 .. include:: T133.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (134)
+---------------------------------------------------
 
 DECRETO por el que se declara reformado el cuarto párrafo del artículo
 28 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T134.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (135)
+---------------------------------------------------
 
 DECRETO mediante el cual se declaran reformados los artículos 16, 20
 fracción I y penúltimo párrafo, 21, 22 y 73 fracción XXI de la
@@ -1251,24 +1251,24 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T135.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (136)
+---------------------------------------------------
 
 DECRETO mediante el cual se declaran reformados diversos artículos de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T136.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (137)
+---------------------------------------------------
 
 DECRETO por el que se declaran reformados los artículos 30, 32 y 37 de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T137.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (138)
+---------------------------------------------------
 
 DECRETO por el que se declara reformado el artículo 3o. transitorio, del
 Decreto por el que se reformaron los artículos 30, 32 y 37 de la
@@ -1277,24 +1277,24 @@ de marzo de 1997.
 
 .. include:: T138.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (139)
+---------------------------------------------------
 
 DECRETO por el que se declaran reformados los artículos 16, 19, 22 y 123
 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T139.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (140)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 94, 97, 100 y 107 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T140.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (141)
+---------------------------------------------------
 
 DECRETO por el que se declara la adición de un párrafo quinto al
 artículo 4o. Constitucional y se reforma el párrafo primero del artículo
@@ -1302,8 +1302,8 @@ artículo 4o. Constitucional y se reforma el párrafo primero del artículo
 
 .. include:: T141.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (142)
+---------------------------------------------------
 
 DECRETO por el que se declara reformada la fracción XXIX-H y se adiciona
 una fracción XXIX-I al artículo 73 de la Constitución Política de los
@@ -1311,56 +1311,56 @@ Estados Unidos Mexicanos.
 
 .. include:: T142.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (143)
+---------------------------------------------------
 
 DECRETO por el que se declara la adición de una fracción XXIX-J al
 artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T143.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (144)
+---------------------------------------------------
 
 DECRETO por el que se declara reformado el artículo 58 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T144.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (145)
+---------------------------------------------------
 
 DECRETO por el que se declaran reformados los artículos 73, 74, 78 y 79
 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T145.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (146)
+---------------------------------------------------
 
 DECRETO por el que se reforma y adiciona el artículo 102 apartado B de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T146.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (147)
+---------------------------------------------------
 
 DECRETO por el que se declara reformado y adicionado el artículo 115 de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T147.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (148)
+---------------------------------------------------
 
 DECRETO por el que se declara reformado y adicionado el artículo 4o. de
 la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T148.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (149)
+---------------------------------------------------
 
 DECRETO por el que se declaran reformadas, adicionadas y derogadas
 diversas disposiciones del artículo 20 de la Constitución Política de
@@ -1368,16 +1368,16 @@ los Estados Unidos Mexicanos.
 
 .. include:: T149.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (150)
+---------------------------------------------------
 
 DECRETO por el que se declara reformada la fracción XXV del artículo 73
 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T150.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (151)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso por el que se adicionan un
 segundo y tercer párrafos al artículo 1o., se reforma el artículo 2o.,
@@ -1388,8 +1388,8 @@ Mexicanos.
 
 .. include:: T151.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (152)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso por el que se modifica la
 denominación del Título Cuarto y se adiciona un segundo párrafo al
@@ -1398,8 +1398,8 @@ Mexicanos.
 
 .. include:: T152.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (153)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso por el que se adiciona el
 artículo 3o., en su párrafo primero, fracciones III, V y VI, y el
@@ -1408,8 +1408,8 @@ Unidos Mexicanos.
 
 .. include:: T153.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (154)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso por el que se adiciona una
 fracción XXIX-K al artículo 73 de la Constitución Política de los
@@ -1417,8 +1417,8 @@ Estados Unidos Mexicanos.
 
 .. include:: T154.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (155)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso que reforma el párrafo primero
 del artículo 63 y la fracción IV del artículo 77 de la Constitución
@@ -1426,8 +1426,8 @@ Política de los Estados Unidos Mexicanos.
 
 .. include:: T155.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (156)
+---------------------------------------------------
 
 DECRETO por el que se adiciona la fracción XXIX-M al artículo 73 y se
 reforma la fracción VI del artículo 89 de la Constitución Política de
@@ -1435,8 +1435,8 @@ los Estados Unidos Mexicanos.
 
 .. include:: T156.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (157)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso que reforma el artículo segundo
 transitorio a los artículos 30, 32 y 37 de la Constitución Política de
@@ -1444,8 +1444,8 @@ los Estados Unidos Mexicanos, publicado el veinte de marzo de 1997.
 
 .. include:: T157.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (158)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso mediante el cual se reforma la
 fracción IV del artículo 74 de la Constitución Política de los Estados
@@ -1453,8 +1453,8 @@ Unidos Mexicanos.
 
 .. include:: T158.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (159)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el Decreto que reforma el primer párrafo
 del artículo 65 de la Constitución Política de los Estados Unidos
@@ -1462,8 +1462,8 @@ Mexicanos.
 
 .. include:: T159.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (160)
+---------------------------------------------------
 
 DECRETO por el que se aprueba el diverso que adiciona una fracción
 XXIX-L al artículo 73 de la Constitución Política de los Estados Unidos
@@ -1471,16 +1471,16 @@ Mexicanos.
 
 .. include:: T160.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (161)
+---------------------------------------------------
 
 DECRETO por el que se adiciona el artículo 21 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T161.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (162)
+---------------------------------------------------
 
 DECRETO por el que se declara adicionado un párrafo tercero a la
 fracción XXI, del Artículo 73 de la Constitución Política de los Estados
@@ -1488,8 +1488,8 @@ Unidos Mexicanos.
 
 .. include:: T162.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (163)
+---------------------------------------------------
 
 DECRETO por el que se declara adicionado un párrafo tercero a la
 fracción XXI, del Artículo 73 de la Constitución Política de los Estados
@@ -1497,8 +1497,8 @@ Unidos Mexicanos.
 
 .. include:: T163.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (164)
+---------------------------------------------------
 
 DECRETO por el que se declara reformados los artículos 14, segundo
 párrafo y 22 primer párrafo, y derogado el cuarto párrafo del artículo
@@ -1506,8 +1506,8 @@ párrafo y 22 primer párrafo, y derogado el cuarto párrafo del artículo
 
 .. include:: T164.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (165)
+---------------------------------------------------
 
 DECRETO por el que se declara reformado el párrafo cuarto y adicionados
 los párrafos quinto y sexto, y se recorre en su orden los últimos dos
@@ -1516,16 +1516,16 @@ Unidos Mexicanos.
 
 .. include:: T165.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (166)
+---------------------------------------------------
 
 DECRETO por el que se declaran reformados los artículos 26 y 73 fracción
 XXIX-D de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T166.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (167)
+---------------------------------------------------
 
 DECRETO por el que se adiciona el inciso g) a la fracción II del
 artículo 105 de la Constitución Política de los Estados Unidos
@@ -1533,24 +1533,24 @@ Mexicanos.
 
 .. include:: T167.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (168)
+---------------------------------------------------
 
 DECRETO por el que se reforma el artículo 73, fracción XXIX-H de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T168.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (169)
+---------------------------------------------------
 
 DECRETO por el que se reforma el Artículo 1o., Párrafo Tercero de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T169.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (170)
+---------------------------------------------------
 
 DECRETO por el que se reforma el artículo 76 fracción I, y el artículo
 89 fracción X, de la Constitución Política de los Estados Unidos
@@ -1558,32 +1558,32 @@ Mexicanos.
 
 .. include:: T170.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (171)
+---------------------------------------------------
 
 DECRETO por el que se reforma la fracción VI, del artículo 82 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T171.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (172)
+---------------------------------------------------
 
 DECRETO por el que se reforma la fracción V del artículo 55 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T172.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (173)
+---------------------------------------------------
 
 DECRETO por el que se reforma la fracción X del artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T173.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (174)
+---------------------------------------------------
 
 DECRETO por el que se adiciona un segundo párrafo con siete fracciones
 al Artículo 6o. de la Constitución Política de los Estados Unidos
@@ -1591,32 +1591,32 @@ Mexicanos.
 
 .. include:: T174.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (175)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 29, 73, 90, 92, 93, 95, 110
 y 111 de la Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T175.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (176)
+---------------------------------------------------
 
 DECRETO por el que se adiciona una fracción XXIX-N al artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T176.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (177)
+---------------------------------------------------
 
 DECRETO por el que se reforma la fracción IV del artículo 99, de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T177.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (178)
+---------------------------------------------------
 
 DECRETO que reforma los artículos 6o., 41, 85, 99, 108, 116 y 122;
 adiciona el artículo 134 y deroga un párrafo al artículo 97 de la
@@ -1624,32 +1624,32 @@ Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T178.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (179)
+---------------------------------------------------
 
 DECRETO que reforma, adiciona y deroga diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T179.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (180)
+---------------------------------------------------
 
 DECRETO por el que se reforman y adicionan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T180.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (181)
+---------------------------------------------------
 
 DECRETO por el que se reforman los artículos 69 y 93 de la Constitución
 Política de los Estados Unidos Mexicanos.
 
 .. include:: T181.rst
 
-Artículos Transitorios de Decretos de Reforma
----------------------------------------------
+Artículos Transitorios de Decretos de Reforma (182)
+---------------------------------------------------
 
 DECRETO por el que se reforma el artículo 88 de la Constitución Política
 de los Estados Unidos Mexicanos.
