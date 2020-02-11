@@ -1771,3 +1771,11 @@ DECRETO por el que se reforman los artículos 19, 20 y 73 de la
 Constitución Política de los Estados Unidos Mexicanos.
 
 .. include:: T195.rst
+
+Artículos Transitorios de Decretos de Reforma (196)
+---------------------------------------------------
+
+DECRETO por el que se reforman los artículos 71, 72 y 78 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T196.rst
