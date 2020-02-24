@@ -1903,3 +1903,11 @@ DECRETO por el que se reforma el artículo 37 de la Constitución Política
 de los Estados Unidos Mexicanos.
 
 .. include:: T210.rst
+
+Artículos Transitorios de Decretos de Reforma (211)
+---------------------------------------------------
+
+DECRETO por el que se reforma la fracción XXI del artículo 73 de la
+Constitución Política de los Estados Unidos Mexicanos.
+
+.. include:: T211.rst
