@@ -1947,3 +1947,12 @@ Constitución Política de los Estados Unidos Mexicanos, en materia de
 transparencia.
 
 .. include:: T215.rst
+
+Artículos Transitorios de Decretos de Reforma (216)
+---------------------------------------------------
+
+DECRETO por el que se reforman, adicionan y derogan diversas
+disposiciones de la Constitución Política de los Estados Unidos
+Mexicanos, en materia política-electoral.
+
+.. include:: T216.rst
