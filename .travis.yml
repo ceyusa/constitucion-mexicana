@@ -12,6 +12,6 @@ deploy:
   github_token: $GITHUB_TOKEN
   keep_history: true
   on:
-    branch: V2
+    branch: V2-1
   local-dir: CPEUM
   verbose: true
