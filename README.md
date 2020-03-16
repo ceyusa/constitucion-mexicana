@@ -47,7 +47,7 @@ haga puede compararse línea a linea, entre la versión anterior y la
 actual, facilitando la comprensión del cambio.
 
 Además, el formato reST tiene el soporte de una serie de herramientas de
-software que permiten convertir documento, en ese formato, a HTML, MSWord,
+software que permiten convertir documentos, en ese formato, a HTML, MSWord,
 LateX, etc.
 
 Ejemplo de lo anterior es que, cada vez que un nuevo decreto es empujado como un
@@ -57,7 +57,7 @@ a una página HTML y se almacena en
 http://ceyusa.github.io/constitucion-mexicana/
 
 No obstante el formato reST tiene limitaciones que este trabajo ha solventado
-con ciertos *hacks*, como por ejemplo llevando enumeraciones paralelas en
+con algunos *hacks*, como por ejemplo llevando enumeraciones paralelas en
 ciertas fracciones que utiliza la letra ñ como ordinal. Además, si se quiere
 hacer trabajo legislativo, reST claramente es insuficiente. El propósito de este
 proyecto no es facilitar el trabajo de los legisladores, sino divulgar los
