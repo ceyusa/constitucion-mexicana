@@ -126,8 +126,9 @@ A. El gobierno de la Ciudad de México está a cargo de sus poderes
        sus puestos en los términos que establecen esta Constitución, así
        como la Constitución y las leyes de la Ciudad de México. Los
        magistrados y los jueces percibirán una remuneración adecuada e
-       irrenunciable, la cual no podrá ser disminuida durante su
-       encargo.
+       irrenunciable, la cual no podrá ser mayor a la establecida para
+       el Presidente de la República en el presupuesto correspondiente y
+       no será disminuida durante su encargo.
 
    V. La Administración Pública de la Ciudad de México será centralizada
       y paraestatal. La hacienda pública de la Ciudad y su
