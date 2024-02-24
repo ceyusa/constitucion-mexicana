@@ -21,7 +21,9 @@ I. El juicio de amparo se seguirá siempre a instancia de parte
 II. Las sentencias que se pronuncien en los juicios de amparo sólo se
     ocuparán de los quejosos que lo hubieren solicitado, limitándose a
     ampararlos y protegerlos, si procediere, en el caso especial sobre
-    el que verse la demanda.
+    el que verse la demanda. Tratándose de juicios de amparo que
+    resuelvan la inconstitucionalidad de normas generales, en ningún
+    caso las sentencias que se dicten fijarán efectos generales.
 
     Cuando en los juicios de amparo indirecto en revisión se resuelva la
     inconstitucionalidad de una norma general, la Suprema Corte de
@@ -36,8 +38,9 @@ II. Las sentencias que se pronuncien en los juicios de amparo sólo se
     naturales sin que se supere el problema de inconstitucionalidad, la
     Suprema Corte de Justicia de la Nación emitirá, siempre que fuere
     aprobada por una mayoría de cuando menos ocho votos, la declaratoria
-    general de inconstitucionalidad, en la cual se fijarán sus alcances
-    y condiciones en los términos de la ley reglamentaria.
+    general de inconstitucionalidad, con efectos generales, en la cual
+    se fijarán sus alcances y condiciones en los términos de la ley
+    reglamentaria.
 
     Lo dispuesto en los dos párrafos anteriores no será aplicable a
     normas generales en materia tributaria.
@@ -225,7 +228,10 @@ X. Los actos reclamados podrán ser objeto de suspensión en los casos y
    mediante las condiciones que determine la ley reglamentaria, para lo
    cual el órgano jurisdiccional de amparo, cuando la naturaleza del
    acto lo permita, deberá realizar un análisis ponderado de la
-   apariencia del buen derecho y del interés social.
+   apariencia del buen derecho y del interés social. Tratándose de
+   juicios de amparo en los que se reclame la inconstitucionalidad de
+   normas generales, en ningún caso la suspensión podrá concederse con
+   efectos generales.
 
    Dicha suspensión deberá otorgarse respecto de las sentencias
    definitivas en materia penal al comunicarse la promoción del amparo,
