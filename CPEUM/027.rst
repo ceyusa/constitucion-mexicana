@@ -83,24 +83,31 @@ el aprovechamiento de los recursos de que se trata, por los particulares
 o por sociedades constituidas conforme a las leyes mexicanas, no podrá
 realizarse sino mediante concesiones, otorgadas por el Ejecutivo
 Federal, de acuerdo con las reglas y condiciones que establezcan las
-leyes, salvo en radiodifusión y telecomunicaciones, que serán otorgadas
-por el Instituto Federal de Telecomunicaciones. Las normas legales
-relativas a obras o trabajos de explotación de los minerales y
-substancias a que se refiere el párrafo cuarto, regularán la ejecución y
-comprobación de los que se efectúen o deban efectuarse a partir de su
-vigencia, independientemente de la fecha de otorgamiento de las
-concesiones, y su inobservancia dará lugar a la cancelación de éstas. El
-Gobierno Federal tiene la facultad de establecer reservas nacionales y
-suprimirlas. Las declaratorias correspondientes se harán por el
-Ejecutivo en los casos y condiciones que las leyes prevean. Tratándose
-de minerales radiactivos no se otorgarán concesiones. Corresponde
-exclusivamente a la Nación la planeación y el control del sistema
-eléctrico nacional, así como el servicio público de transmisión y
-distribución de energía eléctrica; en estas actividades no se otorgarán
-concesiones, sin perjuicio de que el Estado pueda celebrar contratos con
-particulares en los términos que establezcan las leyes, mismas que
-determinarán la forma en que los particulares podrán participar en las
-demás actividades de la industria eléctrica.
+leyes, salvo que se trate de zonas con baja disponibilidad de agua en
+cantidad y calidad, en cuyo caso no se otorgarán concesiones, y solo se
+autorizarán asignaciones destinadas a centros de población para
+garantizar el consumo personal y uso doméstico. Para la radiodifusión y
+telecomunicaciones, las concesiones serán otorgadas por el Instituto
+Federal de Telecomunicaciones. Las normas legales relativas a obras o
+trabajos de explotación de los minerales y substancias a que se refiere
+el párrafo cuarto, regularán la ejecución y comprobación de los que se
+efectúen o deban efectuarse a partir de su vigencia, independientemente
+de la fecha de otorgamiento de las concesiones, y su inobservancia dará
+lugar a la cancelación de éstas. El Gobierno Federal tiene la facultad
+de establecer reservas nacionales y suprimirlas. Las declaratorias
+correspondientes se harán por el Ejecutivo en los casos y condiciones
+que las leyes prevean. Tratándose de minerales radiactivos no se
+otorgarán concesiones. Corresponde exclusivamente a la Nación la
+planeación y el control del sistema eléctrico nacional, así como el
+servicio público de transmisión y distribución de energía eléctrica; en
+estas actividades no se otorgarán concesiones, sin perjuicio de que el
+Estado pueda celebrar contratos con particulares en los términos que
+establezcan las leyes, mismas que determinarán la forma en que los
+particulares podrán participar en las demás actividades de la industria
+eléctrica. Tampoco se otorgarán concesiones, ni ningún otro instrumento
+jurídico, para la exploración, explotación, beneficio, uso o
+aprovechamiento de minerales, metales o metaloides en minería a cielo
+abierto.
 
 Tratándose del petróleo y de los hidrocarburos sólidos, líquidos o
 gaseosos, en el subsuelo, la propiedad de la Nación es inalienable e
@@ -111,9 +118,20 @@ extracción del petróleo y demás hidrocarburos mediante asignaciones a
 empresas productivas del Estado o a través de contratos con éstas o con
 particulares, en los términos de la Ley Reglamentaria. Para cumplir con
 el objeto de dichas asignaciones o contratos las empresas productivas
-del Estado podrán contratar con particulares. En cualquier caso, los
-hidrocarburos en el subsuelo son propiedad de la Nación y así deberá
-afirmarse en las asignaciones o contratos.
+del Estado podrán contratar con particulares. No se otorgarán contratos
+ni se realizará ningún otro acto administrativo que permita la
+extracción de hidrocarburos líquidos y gaseosos en yacimientos
+petroleros no convencionales mediante fracking o fracturamiento
+hidráulico. En cualquier caso, los hidrocarburos en el subsuelo son
+propiedad de la Nación y así deberá afirmarse en las asignaciones o
+contratos.
+
+En razón de lo expuesto en los dos párrafos anteriores, las leyes
+sancionarán a aquellas personas que realicen la exploración,
+explotación, beneficio, uso o aprovechamiento de minerales, metales o
+metaloides en minería a cielo abierto y la extracción de hidrocarburos
+líquidos y gaseosos en yacimientos petroleros no convencionales mediante
+fracking o fracturamiento hidráulico.
 
 Corresponde también a la Nación el aprovechamiento de los combustibles
 nucleares para la generación de energía nuclear y la regulación de sus
@@ -429,11 +447,12 @@ XX. El Estado promoverá las condiciones para el desarrollo rural
     integral, con el propósito de generar empleo y garantizar a la
     población campesina el bienestar y su participación e incorporación
     en el desarrollo nacional, y fomentará la actividad agropecuaria y
-    forestal para el óptimo uso de la tierra, con obras de
-    infraestructura, insumos, créditos, servicios de capacitación y
-    asistencia técnica. Asimismo expedirá la legislación reglamentaria
-    para planear y organizar la producción agropecuaria, su
-    industrialización y comercialización, considerándolas de interés
+    forestal para el óptimo uso de la tierra libre de cultivos y
+    semillas de maíz genéticamente modificado, incluido el transgénico,
+    y con obras de infraestructura, insumos, créditos, servicios de
+    capacitación y asistencia técnica. Asimismo expedirá la legislación
+    reglamentaria para planear y organizar la producción agropecuaria,
+    su industrialización y comercialización, considerándolas de interés
     público.
 
     El desarrollo rural integral y sustentable a que se refiere el
