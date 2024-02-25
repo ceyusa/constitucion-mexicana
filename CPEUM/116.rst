@@ -137,8 +137,10 @@ III. El Poder Judicial de los Estados se ejercerá por los tribunales que
      que determinen las Constituciones y las Leyes de Responsabilidades
      de los Servidores Públicos de los Estados.
 
-     los magistrados y los jueces percibirán una remuneración adecuada e
-     irrenunciable, la cual no podrá ser disminuida durante su encargo.
+     Los magistrados y los jueces percibirán una remuneración adecuada e
+     irrenunciable, la cual no podrá ser mayor a la establecida para el
+     Presidente de la República en el presupuesto correspondiente y no
+     será disminuida durante su encargo.
 
 IV. De conformidad con las bases establecidas en esta Constitución y las
     leyes generales en la materia, las Constituciones y leyes de los
