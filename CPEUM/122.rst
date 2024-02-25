@@ -23,23 +23,16 @@ A. El gobierno de la Ciudad de México está a cargo de sus poderes
 
    II. El ejercicio del Poder Legislativo se deposita en la Legislatura
        de la Ciudad de México, la cual se integrará en los términos que
-       establezca la Constitución Política de la entidad. Sus
-       integrantes deberán cumplir los requisitos que la misma
-       establezca y serán electos mediante sufragio universal, libre,
-       secreto y directo, según los principios de mayoría relativa y de
-       representación proporcional, por un periodo de tres años.
+       establezca la Constitución Política de la entidad, observando lo
+       dispuesto en la fracción II del artículo 116 de esta
+       Constitución. Sus integrantes deberán cumplir los requisitos que
+       ésta establezca, y serán elegidos mediante sufragio universal,
+       libre, secreto y directo por un periodo de tres años según el
+       principio de votación de mayoría relativa.
 
-       En ningún caso, un partido político podrá contar con un número de
-       diputados por ambos principios que representen un porcentaje del
-       total de la Legislatura que exceda en ocho puntos su porcentaje
-       de votación emitida. Esta base no se aplicará al partido político
-       que por sus triunfos en distritos uninominales obtenga un
-       porcentaje de curules del total de la Legislatura, superior a la
-       suma del porcentaje de su votación emitida más el ocho por
-       ciento. Asimismo, en la integración de la Legislatura, el
-       porcentaje de representación de un partido político no podrá ser
-       menor al porcentaje de votación que hubiere recibido menos ocho
-       puntos porcentuales.
+       Las reglas de paridad de género en la selección de las
+       candidaturas señaladas en el párrafo anterior se sujetarán a lo
+       dispuesto en el artículo 53 de esta Constitución;
 
        En la Constitución Política de la Ciudad de México se establecerá
        que los diputados a la Legislatura podrán ser electos hasta por
@@ -191,22 +184,13 @@ A. El gobierno de la Ciudad de México está a cargo de sus poderes
        Alcaldías se establecerán en la Constitución Política y leyes
        locales, las que se sujetarán a los principios siguientes:
 
-       a. Las Alcaldías son órganos político administrativos que se
-          integran por un Alcalde y por un Concejo electos por votación
-          universal, libre, secreta y directa, para un periodo de tres
-          años. Los integrantes de la Alcaldía se elegirán por planillas
-          de entre siete y diez candidatos, según corresponda, ordenadas
-          en forma progresiva, iniciando con el candidato a Alcalde y
-          después los Concejales con sus respectivos suplentes, en el
-          número que para cada demarcación territorial determine la
-          Constitución Política de la Ciudad de México. En ningún caso
-          el número de Concejales podrá ser menor de diez ni mayor de
-          quince. Los integrantes de los Concejos serán electos según
-          los principios de mayoría relativa y de representación
-          proporcional, en la proporción de sesenta por ciento por el
-          primer principio y cuarenta por ciento por el segundo. Ningún
-          partido político o coalición electoral podrá contar con más
-          del sesenta por ciento de los concejales.
+       a. Las Alcaldías son órganos político-administrativos que se
+          integran por un Alcalde o Alcaldesa y por un Concejo electos
+          por votación universal, libre, secreta y directa, para un
+          periodo de tres años. Las personas concejales se elegirán
+          atendiendo al método de cociente natural y resto mayor y
+          observando lo dispuesto en el párrafo segundo de la fracción I
+          del artículo 115 de esta Constitución.
 
        b. La Constitución Política de la Ciudad de México deberá
           establecer la elección consecutiva para el mismo cargo de

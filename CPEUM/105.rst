@@ -81,13 +81,9 @@ II. De las acciones de inconstitucionalidad que tengan por objeto
 
     e. Derogada.
 
-    f. Los partidos políticos con registro ante el Instituto Nacional
-       Electoral, por conducto de sus dirigencias nacionales, en contra
-       de leyes electorales federales o locales; y los partidos
-       políticos con registro en una entidad federativa, a través de sus
-       dirigencias, exclusivamente en contra de leyes electorales
-       expedidas por la Legislatura de la entidad federativa que les
-       otorgó el registro;
+    f. Los partidos políticos con registro ante el Instituto Nacional de
+       Elecciones y Consultas, por conducto de sus dirigencias
+       nacionales, en contra de la legislación única electoral;
 
     g. La Comisión Nacional de los Derechos Humanos, en contra de leyes
        de carácter federal o de las entidades federativas, así como de
@@ -115,10 +111,10 @@ II. De las acciones de inconstitucionalidad que tengan por objeto
     La única vía para plantear la no conformidad de las leyes
     electorales a la Constitución es la prevista en este artículo.
 
-    Las leyes electorales federal y locales deberán promulgarse y
+    La legislación única en materia electoral deberá promulgarse y
     publicarse por lo menos noventa días antes de que inicie el proceso
-    electoral en que vayan a aplicarse, y durante el mismo no podrá
-    haber modificaciones legales fundamentales.
+    electoral en que vayan a aplicarse, y durante este no podrá haber
+    modificaciones legales fundamentales.
 
     Las resoluciones de la Suprema Corte de Justicia sólo podrán
     declarar la invalidez de las normas impugnadas, siempre que fueren

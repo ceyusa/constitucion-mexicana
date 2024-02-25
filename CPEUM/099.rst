@@ -19,8 +19,7 @@ Al Tribunal Electoral le corresponde resolver en forma definitiva e
 inatacable, en los términos de esta Constitución y según lo disponga la
 ley, sobre:
 
-I. Las impugnaciones en las elecciones federales de diputados y
-   senadores;
+I. Las impugnaciones en las elecciones federales y locales;
 
 II. Las impugnaciones que se presenten sobre la elección de Presidente
     de los Estados Unidos Mexicanos que serán resueltas en única
@@ -42,44 +41,38 @@ III. Las impugnaciones de actos y resoluciones de la autoridad electoral
      anteriores, que violen normas constitucionales o legales, así como
      en materia de revocación de mandato;
 
-IV. Las impugnaciones de actos o resoluciones definitivos y firmes de
-    las autoridades competentes de las entidades federativas para
-    organizar y calificar los comicios o resolver las controversias que
-    surjan durante los mismos, que puedan resultar determinantes para el
-    desarrollo del proceso respectivo o el resultado final de las
-    elecciones. Esta vía procederá solamente cuando la reparación
-    solicitada sea material y jurídicamente posible dentro de los plazos
-    electorales y sea factible antes de la fecha constitucional o
-    legalmente fijada para la instalación de los órganos o la toma de
-    posesión de los funcionarios elegidos;
+IV. Las impugnaciones de actos y resoluciones que violen los derechos
+    político-electorales de la ciudadanía para votar, ser votada y de
+    afiliación libre y pacífica para tomar parte en los asuntos
+    políticos del país, en los términos que señalen esta Constitución y
+    las leyes. Para que un ciudadano o ciudadana pueda acudir a la
+    jurisdicción del Tribunal Electoral por violaciones a sus derechos
+    por el partido político al que se encuentre afiliada, deberá haber
+    agotado previamente las instancias de solución de conflictos
+    previstas en sus normas internas. La ley establecerá las reglas y
+    plazos aplicables, de acuerdo con lo dispuesto en el artículo 41,
+    párrafo tercero, base I, tercer párrafo, de esta Constitución;
 
-V. Las impugnaciones de actos y resoluciones que violen los derechos
-   político electorales de los ciudadanos de votar, ser votado y de
-   afiliación libre y pacífica para tomar parte en los asuntos políticos
-   del país, en los términos que señalen esta Constitución y las leyes.
-   Para que un ciudadano pueda acudir a la jurisdicción del Tribunal por
-   violaciones a sus derechos por el partido político al que se
-   encuentre afiliado, deberá haber agotado previamente las instancias
-   de solución de conflictos previstas en sus normas internas, la ley
-   establecerá las reglas y plazos aplicables;
+V. Se deroga.
 
 VI. Los conflictos o diferencias laborales entre el Tribunal y sus
     servidores;
 
-VII. Los conflictos o diferencias laborales entre el Instituto
-     Nacional Electoral y sus servidores;
+VII. Los conflictos o diferencias laborales entre el Instituto Nacional
+     de Elecciones y Consultas y sus servidores públicos;
 
 VIII. La determinación e imposición de sanciones por parte del Instituto
-      Nacional Electoral a partidos o agrupaciones políticas o personas
-      físicas o morales, nacionales o extranjeras, que infrinjan las
-      disposiciones de esta Constitución y las leyes;
+      Nacional de Elecciones y Consultas a partidos o agrupaciones
+      políticas o personas físicas o morales, nacionales o extranjeras,
+      que infrinjan las disposiciones de esta Constitución y las leyes;
 
-IX. Los asuntos que el Instituto Nacional Electoral someta a su
-    conocimiento por violaciones a lo previsto en la Base III del
-    artículo 41 y párrafo octavo del artículo 134 de esta Constitución;
-    a las normas sobre propaganda política y electoral, así como por la
-    realización de actos anticipados de precampaña o de campaña, e
-    imponer las sanciones que correspondan, y
+IX. Los asuntos que el Instituto Nacional de Elecciones y Consultas
+    someta a su conocimiento por violaciones a lo previsto en la base
+    III del párrafo tercero del artículo 41 y párrafo octavo del
+    artículo 134 de esta Constitución; a las normas sobre propaganda
+    política y electoral, así como por la realización de actos
+    anticipados de precampaña o de campaña, e imponer las sanciones que
+    correspondan, y
 
 X. Las demás que señale la ley.
 
@@ -127,29 +120,90 @@ inclusión en el proyecto de Presupuesto del Poder Judicial de la
 Federación. Asimismo, el Tribunal expedirá su Reglamento Interno y los
 acuerdos generales para su adecuado funcionamiento.
 
-Los Magistrados Electorales que integren las salas Superior y regionales
-serán elegidos por el voto de las dos terceras partes de los miembros
-presentes de la Cámara de Senadores a propuesta de la Suprema Corte de
-Justicia de la Nación. La elección de quienes las integren será
-escalonada, conforme a las reglas y al procedimiento que señale la ley.
+Las personas magistradas electorales que integren la Sala Superior serán
+elegidas el primer domingo de junio del año que corresponda mediante
+voto directo y secreto de la ciudadanía a nivel nacional conforme al
+siguiente procedimiento:
 
-Los Magistrados Electorales que integren la Sala Superior deberán
-satisfacer los requisitos que establezca la ley, que no podrán ser
-menores a los que se exigen para ser Ministro de la Suprema Corte de
-Justicia de la Nación, y durarán en su encargo nueve años
-improrrogables. Las renuncias, ausencias y licencias de los Magistrados
-Electorales de la Sala Superior serán tramitadas, cubiertas y otorgadas
-por dicha Sala, según corresponda, en los términos del artículo 98 de
-esta Constitución.
+I. El Senado de la República emitirá la convocatoria para la integración
+   del listado de candidaturas a magistraturas electorales el día que se
+   instale el primer periodo de sesiones ordinarias del año anterior al
+   de la elección que corresponda, el cual contendrá las etapas
+   completas del procedimiento, sus fechas y plazos improrrogables;
 
-Los Magistrados Electorales que integren las salas regionales deberán
-satisfacer los requisitos que señale la ley, que no podrán ser menores a
-los que se exige para ser Magistrado de Tribunal Colegiado de Circuito.
-Durarán en su encargo nueve años improrrogables, salvo si son promovidos
-a cargos superiores.
+II. El Poder Ejecutivo postulará de manera paritaria por conducto de la
+    persona titular de la Presidencia de la República hasta diez
+    personas aspirantes; el Poder Legislativo postulará hasta cinco
+    personas por cada Cámara mediante votación calificada de dos tercios
+    de sus integrantes presentes, y el Poder Judicial de la Federación,
+    por conducto del Pleno de la Suprema Corte de Justicia de la Nación,
+    postulará hasta diez personas por mayoría de seis votos;
 
-En caso de vacante definitiva se nombrará a un nuevo Magistrado por el
-tiempo restante al del nombramiento original.
+III. El Senado de la República recibirá las postulaciones, verificará
+     que las candidaturas propuestas cumplan los requisitos de
+     elegibilidad establecidos en esta Constitución y en las leyes, y
+     remitirá el listado al Instituto Nacional de Elecciones y Consultas
+     antes de que concluya el año anterior al de la elección que
+     corresponda, a efectos de que organice el proceso electivo. Los
+     Poderes de la Unión que no remitan sus postulaciones al término del
+     plazo previsto en la convocatoria respectiva no podrán hacerlo
+     posteriormente;
+
+IV. El Instituto Nacional de Elecciones y Consultas efectuará los
+    cómputos de la elección y los comunicará al Senado de la República,
+    que de inmediato realizará y publicará la suma, y enviará los
+    resultados a la Suprema Corte de Justicia de la Nación, la cual
+    resolverá las impugnaciones, calificará el proceso y declarará sus
+    resultados antes de que el Senado de la República instale el primer
+    periodo ordinario de sesiones del año de la elección que
+    corresponda, fecha en que las personas aspirantes electas tomarán
+    protesta de su encargo antedicho órgano legislativo;
+
+V. Durante el lapso legal de campaña, las candidatas y candidatos a
+   ocupar las magistraturas de Sala Superior tendrán derecho de acceso a
+   radio y televisión en los tiempos que establezca esta Constitución.
+   La distribución del tiempo será igualitaria entre candidatas y
+   candidatos. Podrán, además, participar en foros de debate organizados
+   por el propio Instituto dentro de los tiempos oficiales o en aquéllos
+   brindados gratuitamente por algún medio de comunicación bajo el
+   principio de equidad. Está prohibida la contratación por sí o por
+   interpósita persona de espacios en radio y televisión para
+   promocionar candidatas y candidatos. Los partidos políticos no podrán
+   realizar actos de proselitismo a favor o en contra de candidatura
+   alguna. La ley determinará el periodo de campaña respectivo, y
+
+VI. La ley establecerá las formas de las campañas de magistraturas
+    electorales, las cuales no incluirán etapa de precampaña.
+
+Las personas magistradas electorales que integren la Sala Superior
+deberán satisfacer los requisitos que establezcan esta Constitución, los
+cuales no podrán ser menores a los que se exigen para ser Ministra o
+Ministro de la Suprema Corte de Justicia de la Nación y, además,
+distinguirse por su probidad; durarán en su encargo seis años
+improrrogables. Las renuncias, ausencias y licencias de personas
+magistradas electorales de la Sala Superior serán tramitadas, cubiertas
+y otorgadas por dicha Sala, según corresponda, en los términos del
+artículo 98 de esta Constitución.
+
+Las personas magistradas electorales que integren las salas regionales
+deberán satisfacer los requisitos que señale la ley, que no podrán ser
+menores a los indicados en el párrafo anterior. Serán elegidas
+popularmente mediante voto directo y secreto por regiones en los
+términos y modalidades que determine la legislación única en materia
+electoral, conforme al procedimiento aplicable para las magistraturas de
+Sala Superior, y durarán en su encargo seis años improrrogables.
+
+En caso de defunción, renuncia o ausencia definitiva de alguna persona
+magistrada de Sala Superior o sala regional, el Pleno de la Suprema
+Corte de Justicia de la Nación, por mayoría de seis de sus integrantes,
+someterá una terna a consideración del Senado de la República, la cual
+elegirá por el voto de la mayoría calificada de sus integrantes
+presentes a una persona interina para cubrir la vacante hasta el día que
+tome protesta la persona servidora pública electa en la próxima elección
+ordinaria del año que corresponda. Las personas propuestas en la terna
+deberán cumplir los requisitos de elegibilidad aplicables para
+Magistrada o Magistrado de Sala Superior o sala regional, según
+corresponda.
 
 El personal del Tribunal regirá sus relaciones de trabajo conforme a las
 disposiciones aplicables al Poder Judicial de la Federación y a las
