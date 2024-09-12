@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="generator" content="Docutils 0.20.1: https://docutils.sourceforge.io/" />
+<meta name="generator" content="Docutils 0.21.2: https://docutils.sourceforge.io/" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS</title>
 <style type="text/css">
@@ -10,7 +10,7 @@
 /* Minimal style sheet for the HTML output of Docutils.                    */
 /*                                                                         */
 /* :Author: Günter Milde, based on html4css1.css by David Goodger          */
-/* :Id: $Id: minimal.css 9079 2022-06-19 14:00:56Z milde $                                                               */
+/* :Id: $Id: minimal.css 9545 2024-02-17 10:37:56Z milde $                                                               */
 /* :Copyright: © 2015, 2021 Günter Milde.                                  */
 /* :License: Released under the terms of the `2-Clause BSD license`_,      */
 /*    in short:                                                            */
@@ -59,6 +59,7 @@ a.toc-backref {
 /* Warnings, Errors */
 .system-messages h2,
 .system-message-title,
+pre.problematic,
 span.problematic {
   color: red;
 }
@@ -70,6 +71,9 @@ span.problematic {
 }
 /* do not wrap at hyphens and similar: */
 .literal > span.pre { white-space: nowrap; }
+
+/* keep line-breaks (\n) visible */
+.pre-wrap { white-space: pre-wrap; }
 
 /* Lists */
 
@@ -120,7 +124,7 @@ dl.docinfo > dt {
   float: left;
   margin: 0;
   padding: 0;
-  padding-right: 0.2em;
+  padding-right: 0.25em;
 }
 /* Offset for field content (corresponds to the --field-name-limit option) */
 dl.field-list > dd,
@@ -261,7 +265,7 @@ td, th {
   padding-right: 0.5em /* separate table cells */
 }
 
-table > caption {
+table > caption, figcaption {
   text-align: left;
   margin-top: 0.2em;
   margin-bottom: 0.2em;
@@ -270,19 +274,32 @@ table.captionbelow {
   caption-side: bottom;
 }
 
+/* MathML (see "math.css" for --math-output=HTML) */
+math .boldsymbol { font-weight: bold; }
+math.boxed, math .boxed {padding: 0.25em; border: thin solid; }
+/* style table similar to AMS "align" or "aligned" environment: */
+mtable.cases > mtr > mtd { text-align: left; }
+mtable.ams-align > mtr > mtd { padding-left: 0; padding-right: 0; }
+mtable.ams-align > mtr > mtd:nth-child(2n) { text-align: left; }
+mtable.ams-align > mtr > mtd:nth-child(2n+1) { text-align: right; }
+mtable.ams-align > mtr > mtd:nth-child(2n+3) { padding-left: 2em; }
+.mathscr mi, mi.mathscr {
+  font-family: STIX, XITSMathJax_Script, rsfs10,
+               "Asana Math", Garamond, cursive;
+}
+
 /* Document Header and Footer */
 header { border-bottom: 1px solid black; }
 footer { border-top: 1px solid black; }
 
 /* Images are block-level by default in Docutils */
 /* New HTML5 block elements: set display for older browsers */
-img, header, footer, main, aside, nav, section, figure, video, details {
+img, svg, header, footer, main, aside, nav, section, figure, video, details {
   display: block;
 }
+svg { width: auto; height: auto; }  /* enable scaling of SVG images */
 /* inline images */
-p img, p video, figure img, figure video {
-  display: inline;
-}
+p img, p svg, p video { display: inline; }
 
 </style>
 <style type="text/css">
@@ -291,7 +308,7 @@ p img, p video, figure img, figure video {
 /* Rules for easy reading and pre-defined style variants.                  */
 /*                                                                         */
 /* :Author: Günter Milde, based on html4css1.css by David Goodger          */
-/* :Id: $Id: plain.css 9338 2023-04-08 21:08:47Z milde $                                                               */
+/* :Id: $Id: plain.css 9615 2024-04-06 13:28:15Z milde $                                                               */
 /* :Copyright: © 2015 Günter Milde.                                        */
 /* :License: Released under the terms of the `2-Clause BSD license`_,      */
 /*    in short:                                                            */
@@ -361,7 +378,6 @@ hr.docutils {
 
 /* vertical space (parskip) */
 p, ol, ul, dl, li,
-div.line-block,
 .footnote, .citation,
 div > math,
 table {
@@ -504,7 +520,9 @@ table.numbered > caption:before {
 /* let content flow to the side of aligned images and figures */
 figure.align-left,
 img.align-left,
+svg.align-left,
 video.align-left,
+div.align-left,
 object.align-left {
   clear: left;
   float: left;
@@ -512,7 +530,9 @@ object.align-left {
 }
 figure.align-right,
 img.align-right,
+svg.align-right,
 video.align-right,
+div.align-right,
 object.align-right {
   clear: right;
   float: right;
@@ -564,15 +584,6 @@ pre.code .name.builtin, code .name.builtin { color: #352B84 }
 pre.code .deleted, code .deleted { background-color: #DEB0A1}
 pre.code .inserted, code .inserted { background-color: #A3D289}
 
-/* Math */
-/* for math-output=MathML (for math-output=HTML, see math.css) */
-math .boldsymbol {
-  font-weight: bold;
-}
-mstyle.mathscr, mi.mathscr {
-  font-family: STIX, XITSMathJax_Script, rsfs10,
-               "Asana Math", Garamond, cursive;
-}
 
 /* Epigraph           */
 /* Highlights         */
@@ -625,7 +636,7 @@ la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de
 <section id="constitucion-politica-de-los-estados-unidos-mexicanos-que-reforma-la-de-5-de-febrero-de-1857">
 <h2><a class="toc-backref" href="#toc-entry-1" role="doc-backlink">CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS QUE REFORMA LA DE 5 DE FEBRERO DE 1857</a></h2>
 <nav class="contents" id="contents">
-<p class="topic-title">Contents</p>
+<p class="topic-title"><a class="reference internal" href="#top">Contents</a></p>
 <ul class="simple">
 <li><p><a class="reference internal" href="#constitucion-politica-de-los-estados-unidos-mexicanos-que-reforma-la-de-5-de-febrero-de-1857" id="toc-entry-1">CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS QUE REFORMA LA DE 5 DE FEBRERO DE 1857</a></p>
 <ul>
@@ -908,6 +919,7 @@ la H. Veracruz, adicionando el Plan de Guadalupe, de 26 de marzo de
 <li><p><a class="reference internal" href="#articulos-transitorios-de-decretos-de-reforma-253" id="toc-entry-248">Artículos Transitorios de Decretos de Reforma (253)</a></p></li>
 <li><p><a class="reference internal" href="#articulos-transitorios-de-decretos-de-reforma-254" id="toc-entry-249">Artículos Transitorios de Decretos de Reforma (254)</a></p></li>
 <li><p><a class="reference internal" href="#articulos-transitorios-de-decretos-de-reforma-255" id="toc-entry-250">Artículos Transitorios de Decretos de Reforma (255)</a></p></li>
+<li><p><a class="reference internal" href="#articulos-transitorios-de-decretos-de-reforma-256" id="toc-entry-251">Artículos Transitorios de Decretos de Reforma (256)</a></p></li>
 </ul>
 </li>
 </ul>
@@ -4512,11 +4524,8 @@ justificada o sin permiso de la Cámara respectiva, no tendrán derecho a
 la dieta correspondiente al día en que falten.</p>
 <p><strong>Artículo 65</strong></p>
 <p>El Congreso se reunirá a partir del 1o. de septiembre de cada año para
-celebrar un primer periodo de sesiones ordinarias, excepto cuando el
-Presidente de la República inicie su encargo en la fecha prevista en el
-artículo 83 de esta Constitución, en cuyo caso se reunirá a partir del
-1o. de agosto; y a partir del 1o. de febrero para celebrar un segundo
-periodo de sesiones ordinarias.</p>
+celebrar un primer periodo de sesiones ordinarias, y a partir del 1o. de
+febrero para celebrar un segundo periodo de sesiones ordinarias.</p>
 <p>En ambos Períodos de Sesiones el Congreso se ocupará del estudio,
 discusión y votación de las Iniciativas de Ley que se le presenten y de
 la resolución de los demás asuntos que le correspondan conforme a esta
@@ -16336,6 +16345,31 @@ Diario Oficial de la Federación.</p>
 de la Unión y las Legislaturas de las Entidades Federativas, deberán ajustar sus
 Constituciones y demás legislación que sea necesaria, a fin de dar cumplimiento
 al presente Decreto.</p>
+</section>
+<section id="articulos-transitorios-de-decretos-de-reforma-256">
+<h3><a class="toc-backref" href="#toc-entry-251" role="doc-backlink">Artículos Transitorios de Decretos de Reforma (256)</a></h3>
+<p>DECRETO por el que se declara reformado el primer párrafo del artículo
+65 de la Constitución Política de los Estados Unidos Mexicanos, en
+materia de periodos de sesiones ordinarias del Congreso de la Unión.</p>
+<p><strong>Primero</strong></p>
+<p>El presente Decreto entrará en vigor el día de su publicación en el
+Diario Oficial de la Federación.</p>
+<p><strong>Segundo</strong></p>
+<p>La duración en el cargo de las y los diputados federales electos para la
+LXV Legislatura del Congreso de la Unión se computará a partir del 1o.
+de septiembre de 2021 y hasta el 31 de agosto de 2024.</p>
+<p><strong>Tercero</strong></p>
+<p>La duración en el cargo de las y los senadores electos para las LXIV y
+LXV Legislaturas del Congreso de la Unión se computará a partir del 1o.
+de septiembre de 2018 y hasta el 31 de agosto de 2024.</p>
+<p><strong>Cuarto</strong></p>
+<p>Las y los diputados federales electos para la LXVI Legislatura, durarán
+en el ejercicio de su cargo 36 meses, computados a partir del 1o. de
+septiembre de 2024 y hasta el 31 de agosto de 2027.</p>
+<p><strong>Quinto</strong></p>
+<p>Las y los senadores electos para las LXVI y LXVII Legislaturas, durarán
+en el ejercicio de su cargo 72 meses, computados a partir del 1o. de
+septiembre de 2024 y hasta el 31 de agosto de 2030</p>
 </section>
 </section>
 </main>
